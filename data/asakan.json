@@ -2,6 +2,19 @@
   "edition": "朝刊",
   "date": "2026-08-30",
   "items": [
-    {"time": "06:03", "category": "知っておくこと", "title": "テスト記事タイトル", "source": "example.com", "url": "https://example.com/test-article"}
+    {
+      "time": "06:00",
+      "category": "1面",
+      "title": "与党内で税制改正議論が本格化",
+      "source": "本紙",
+      "url": "https://example.com/asakan/2026-08-30/01"
+    },
+    {
+      "time": "06:00",
+      "category": "経済面",
+      "title": "地方銀行の再編、来年度に山場",
+      "source": "本紙",
+      "url": "https://example.com/asakan/2026-08-30/02"
+    }
   ]
 }
