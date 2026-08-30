@@ -7,14 +7,18 @@
       "category": "社会面",
       "title": "都内の再開発計画、住民説明会が続く",
       "source": "本紙",
-      "url": "https://example.com/yukan/2026-08-30/01"
+      "url": "https://example.com/yukan/2026-08-30/01",
+      "teaser": "反対意見の主な争点は日照と交通量",
+      "thumb": null
     },
     {
       "time": "16:30",
       "category": "スポーツ面",
       "title": "プロ野球、クライマックス進出決定",
       "source": "本紙",
-      "url": "https://example.com/yukan/2026-08-30/02"
+      "url": "https://example.com/yukan/2026-08-30/02",
+      "teaser": "残り3試合を1勝で突破という綱渡り展開だった",
+      "thumb": null
     }
   ]
 }

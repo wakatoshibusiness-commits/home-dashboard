@@ -163,6 +163,20 @@
   .item .t a{color:inherit;text-decoration:none;}
   .item .t a:hover{text-decoration:underline;}
   .item .s{font-size:10.5px;color:var(--text-dim);margin-top:3px;display:block;}
+  .item .thumb{
+    width:64px;height:64px;
+    border-radius:10px;
+    flex-shrink:0;
+    background-size:cover;
+    background-position:center;
+  }
+  .cat-economy{background:linear-gradient(135deg,#8B85FF,#43E8D8);}
+  .cat-tech{background:linear-gradient(135deg,#43E8D8,#5B7FFF);}
+  .cat-politics{background:linear-gradient(135deg,#B98BFF,#43E8D8);}
+  .cat-society{background:linear-gradient(135deg,#7AD8FF,#8B85FF);}
+  .cat-sports{background:linear-gradient(135deg,#FF9F7A,#FFD37A);}
+  .cat-weather{background:linear-gradient(135deg,#8FFFC1,#43E8D8);}
+  .cat-default{background:linear-gradient(135deg,#B98BFF,#8B85FF);}
 
   footer{
     position:relative;z-index:1;
@@ -227,13 +241,36 @@
     return res.json();
   }
 
-  function newsItemHtml(idx, title, url, meta) {
+  // カテゴリ文字列 → サムネイル未取得時のグラデーションクラス
+  const CATEGORY_CLASS_RULES = [
+    [/経済|市況/, 'cat-economy'],
+    [/IT|テック/i, 'cat-tech'],
+    [/政治/, 'cat-politics'],
+    [/社会/, 'cat-society'],
+    [/スポーツ/, 'cat-sports'],
+    [/天気/, 'cat-weather'],
+  ];
+
+  function categoryClass(category) {
+    if (category) {
+      for (const [pattern, cls] of CATEGORY_CLASS_RULES) {
+        if (pattern.test(category)) return cls;
+      }
+    }
+    return 'cat-default';
+  }
+
+  function newsItemHtml(idx, title, url, meta, thumb, category) {
     const titleHtml = url
       ? `<a href="${escapeHtml(url)}" target="_blank" rel="noopener">${escapeHtml(title)}</a>`
       : escapeHtml(title);
+    const thumbHtml = thumb
+      ? `<div class="thumb" style="background-image:url('${escapeHtml(thumb)}')"></div>`
+      : `<div class="thumb ${categoryClass(category)}"></div>`;
     return `
       <div class="item">
         <div class="idx">${escapeHtml(idx)}</div>
+        ${thumbHtml}
         <div>
           <div class="t">${titleHtml}</div>
           <span class="s">${escapeHtml(meta)}</span>
@@ -246,7 +283,7 @@
     el.innerHTML = items.map((item, i) => {
       const idx = String(i + 1).padStart(2, '0');
       const meta = [item.source, item.time].filter(Boolean).join('・');
-      return newsItemHtml(idx, item.title, item.url, meta);
+      return newsItemHtml(idx, item.title, item.url, meta, item.thumb, item.category);
     }).join('');
   }
 
@@ -256,7 +293,9 @@
     const merged = [...asakanItems, ...yukanItems];
 
     const el = document.getElementById('edition-items');
-    el.innerHTML = merged.map(item => newsItemHtml(item.idx, item.title, item.url, item.category)).join('');
+    el.innerHTML = merged.map(item =>
+      newsItemHtml(item.idx, item.title, item.url, item.category, item.thumb, item.category)
+    ).join('');
   }
 
   async function loadNewsData() {

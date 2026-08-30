@@ -7,14 +7,18 @@
       "category": "1面",
       "title": "与党内で税制改正議論が本格化",
       "source": "本紙",
-      "url": "https://example.com/asakan/2026-08-30/01"
+      "url": "https://example.com/asakan/2026-08-30/01",
+      "teaser": "年末の税制大綱に向けて与党内の温度差が表面化",
+      "thumb": null
     },
     {
       "time": "06:00",
       "category": "経済面",
       "title": "地方銀行の再編、来年度に山場",
       "source": "本紙",
-      "url": "https://example.com/asakan/2026-08-30/02"
+      "url": "https://example.com/asakan/2026-08-30/02",
+      "teaser": "統合協議が水面下で複数進んでいる模様",
+      "thumb": null
     }
   ]
 }
