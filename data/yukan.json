@@ -1,0 +1,20 @@
+{
+  "edition": "夕刊",
+  "date": "2026-08-30",
+  "items": [
+    {
+      "time": "16:30",
+      "category": "社会面",
+      "title": "都内の再開発計画、住民説明会が続く",
+      "source": "本紙",
+      "url": "https://example.com/yukan/2026-08-30/01"
+    },
+    {
+      "time": "16:30",
+      "category": "スポーツ面",
+      "title": "プロ野球、クライマックス進出決定",
+      "source": "本紙",
+      "url": "https://example.com/yukan/2026-08-30/02"
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>案C｜ガラスの司令室</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Noto+Sans+JP:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg1:#1A1B2E;
+    --bg2:#2D2A55;
+    --violet:#8B85FF;
+    --mint:#43E8D8;
+    --glass:rgba(255,255,255,0.055);
+    --glass-line:rgba(255,255,255,0.12);
+    --text:#F1F1FA;
+    --text-dim:#A6A3C9;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{
+    min-width:1320px;
+    min-height:100vh;
+    font-family:'Noto Sans JP',sans-serif;
+    color:var(--text);
+    background:
+      radial-gradient(circle at 15% 10%, rgba(139,133,255,0.35), transparent 45%),
+      radial-gradient(circle at 85% 0%, rgba(67,232,216,0.22), transparent 40%),
+      radial-gradient(circle at 50% 100%, rgba(139,133,255,0.18), transparent 50%),
+      linear-gradient(160deg, var(--bg1), var(--bg2));
+    padding:40px 56px 70px;
+    position:relative;
+    overflow-x:hidden;
+  }
+  /* floating orbs for ambience */
+  .orb{
+    position:fixed;
+    border-radius:50%;
+    filter:blur(50px);
+    opacity:0.35;
+    animation:float 12s ease-in-out infinite;
+    z-index:0;
+  }
+  .orb1{width:280px;height:280px;background:var(--violet);top:-80px;right:120px;}
+  .orb2{width:220px;height:220px;background:var(--mint);bottom:-60px;left:80px;animation-delay:-6s;}
+  @keyframes float{
+    0%,100%{transform:translateY(0) translateX(0);}
+    50%{transform:translateY(24px) translateX(-14px);}
+  }
+
+  header{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    margin-bottom:34px;
+    position:relative;
+    z-index:1;
+  }
+  .brand{
+    font-family:'Space Grotesk',sans-serif;
+    font-weight:700;
+    font-size:28px;
+    letter-spacing:-0.01em;
+  }
+  .brand .dot{color:var(--mint);}
+  .status{
+    display:flex;
+    gap:10px;
+    align-items:center;
+    font-size:12px;
+    color:var(--text-dim);
+  }
+  .status .pulse{
+    width:8px;height:8px;border-radius:50%;
+    background:var(--mint);
+    box-shadow:0 0 8px var(--mint);
+    animation:pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse{
+    0%,100%{opacity:1;}
+    50%{opacity:0.3;}
+  }
+
+  /* headline marquee like airport board */
+  .board{
+    position:relative;
+    z-index:1;
+    background:var(--glass);
+    border:1px solid var(--glass-line);
+    backdrop-filter:blur(18px);
+    border-radius:16px;
+    padding:14px 0;
+    overflow:hidden;
+    white-space:nowrap;
+    margin-bottom:28px;
+  }
+  .board-track{
+    display:inline-block;
+    animation:flow 34s linear infinite;
+    font-family:'Space Grotesk',sans-serif;
+    font-size:14px;
+    letter-spacing:0.02em;
+  }
+  .board-track b{color:var(--mint);font-weight:500;margin-right:8px;}
+  .board-track span{margin-right:56px;}
+  @keyframes flow{
+    0%{transform:translateX(0);}
+    100%{transform:translateX(-50%);}
+  }
+
+  .bento{
+    position:relative;
+    z-index:1;
+    display:grid;
+    grid-template-columns:1.4fr 1fr 1fr;
+    grid-template-rows:auto auto;
+    gap:20px;
+  }
+  .panel{
+    background:var(--glass);
+    border:1px solid var(--glass-line);
+    backdrop-filter:blur(18px);
+    border-radius:18px;
+    padding:26px 28px;
+    box-shadow:0 8px 30px rgba(0,0,0,0.25);
+  }
+  .panel.news{grid-row:1 / 3;}
+  .panel.sns{grid-row:1 / 3;}
+
+  .panel-head{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:18px;
+  }
+  .panel-title{
+    font-family:'Space Grotesk',sans-serif;
+    font-size:16px;
+    font-weight:500;
+  }
+  .panel-badge{
+    font-size:10px;
+    padding:4px 10px;
+    border-radius:20px;
+    background:rgba(139,133,255,0.18);
+    color:var(--violet);
+    letter-spacing:0.05em;
+  }
+
+  .item{
+    padding:13px 0;
+    border-bottom:1px solid rgba(255,255,255,0.07);
+    display:flex;
+    gap:12px;
+    align-items:flex-start;
+  }
+  .item:last-child{border-bottom:none;}
+  .item .idx{
+    font-family:'Space Grotesk',sans-serif;
+    font-size:11px;
+    color:var(--mint);
+    padding-top:2px;
+    flex-shrink:0;
+    width:20px;
+  }
+  .item .t{font-size:14px;line-height:1.6;}
+  .item .t a{color:inherit;text-decoration:none;}
+  .item .t a:hover{text-decoration:underline;}
+  .item .s{font-size:10.5px;color:var(--text-dim);margin-top:3px;display:block;}
+
+  /* SNS floating cards */
+  .sns-col{
+    display:flex;flex-direction:column;gap:14px;
+    max-height:480px;overflow:hidden;position:relative;
+  }
+  .sns-col::after{
+    content:'';position:absolute;bottom:0;left:0;right:0;height:60px;
+    background:linear-gradient(transparent, rgba(45,42,85,0.9));
+  }
+  .sns-track{
+    display:flex;flex-direction:column;gap:14px;
+    animation:scrollup 22s linear infinite;
+  }
+  @keyframes scrollup{
+    0%{transform:translateY(0);}
+    100%{transform:translateY(-50%);}
+  }
+  .sns-card{
+    background:rgba(255,255,255,0.05);
+    border:1px solid var(--glass-line);
+    border-radius:12px;
+    padding:14px 16px;
+  }
+  .sns-meta{display:flex;align-items:center;gap:8px;margin-bottom:8px;}
+  .avatar{width:22px;height:22px;border-radius:50%;background:linear-gradient(135deg,var(--violet),var(--mint));}
+  .handle{font-size:11.5px;color:var(--text-dim);}
+  .plat{margin-left:auto;font-size:9px;color:var(--mint);letter-spacing:0.08em;}
+  .body-txt{font-size:13px;line-height:1.6;}
+
+  footer{
+    position:relative;z-index:1;
+    text-align:center;margin-top:34px;
+    font-size:10.5px;color:var(--text-dim);letter-spacing:0.12em;
+  }
+</style>
+</head>
+<body>
+
+<div class="orb orb1"></div>
+<div class="orb orb2"></div>
+
+<header>
+  <div class="brand">HOME<span class="dot">.</span>ROOM</div>
+  <div class="status"><span class="pulse"></span> LIVE — 06:42 JST</div>
+</header>
+
+<div class="board">
+  <div class="board-track">
+    <span><b>朝刊</b>与党内で税制改正議論が本格化</span>
+    <span><b>速報</b>日銀、追加利上げを示唆</span>
+    <span><b>夕刊</b>都内の再開発計画、住民説明会が続く</span>
+    <span><b>天気</b>週末に台風接近の予想</span>
+    <span><b>朝刊</b>与党内で税制改正議論が本格化</span>
+    <span><b>速報</b>日銀、追加利上げを示唆</span>
+  </div>
+</div>
+
+<div class="bento">
+  <div class="panel news">
+    <div class="panel-head">
+      <div class="panel-title">総合ニュース</div>
+      <div class="panel-badge">GENERAL</div>
+    </div>
+    <div id="general-items"></div>
+  </div>
+
+  <div class="panel">
+    <div class="panel-head">
+      <div class="panel-title">朝刊・夕刊</div>
+      <div class="panel-badge">EDITION</div>
+    </div>
+    <div id="edition-items"></div>
+  </div>
+
+  <div class="panel sns">
+    <div class="panel-head">
+      <div class="panel-title">SNS</div>
+      <div class="panel-badge">LIVE</div>
+    </div>
+    <div class="sns-col">
+      <div class="sns-track" id="sns-track"></div>
+    </div>
+  </div>
+</div>
+
+<footer>DASHBOARD MOCKUP — CONCEPT C / GLASS ROOM — DUMMY DATA</footer>
+
+<script>
+  // ---- ニュース一覧 / 朝刊夕刊パネル：JSONをfetchして動的に描画 ----
+
+  function escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str == null ? '' : String(str);
+    return div.innerHTML;
+  }
+
+  async function fetchJSON(path) {
+    const res = await fetch(path, { cache: 'no-store' });
+    if (!res.ok) throw new Error(`fetch failed: ${path} (${res.status})`);
+    return res.json();
+  }
+
+  function newsItemHtml(idx, title, url, meta) {
+    const titleHtml = url
+      ? `<a href="${escapeHtml(url)}" target="_blank" rel="noopener">${escapeHtml(title)}</a>`
+      : escapeHtml(title);
+    return `
+      <div class="item">
+        <div class="idx">${escapeHtml(idx)}</div>
+        <div>
+          <div class="t">${titleHtml}</div>
+          <span class="s">${escapeHtml(meta)}</span>
+        </div>
+      </div>`;
+  }
+
+  function renderGeneralPanel(items) {
+    const el = document.getElementById('general-items');
+    el.innerHTML = items.map((item, i) => {
+      const idx = String(i + 1).padStart(2, '0');
+      const meta = [item.source, item.time].filter(Boolean).join('・');
+      return newsItemHtml(idx, item.title, item.url, meta);
+    }).join('');
+  }
+
+  function renderEditionPanel(asakanDoc, yukanDoc) {
+    const asakanItems = (asakanDoc.items || []).map(item => ({ ...item, idx: '朝' }));
+    const yukanItems = (yukanDoc.items || []).map(item => ({ ...item, idx: '夕' }));
+    const merged = [...asakanItems, ...yukanItems];
+
+    const el = document.getElementById('edition-items');
+    el.innerHTML = merged.map(item => newsItemHtml(item.idx, item.title, item.url, item.category)).join('');
+  }
+
+  async function loadNewsData() {
+    try {
+      const [general, asakan, yukan] = await Promise.all([
+        fetchJSON('data/general.json'),
+        fetchJSON('data/asakan.json'),
+        fetchJSON('data/yukan.json'),
+      ]);
+      renderGeneralPanel(general.items || []);
+      renderEditionPanel(asakan, yukan);
+    } catch (err) {
+      console.error(err);
+    }
+  }
+
+  // ---- SNSパネル：ダミーデータのままだが配列をmapして描画する構造 ----
+  // 実データに差し替えるときはこの配列を置き換えるだけでよい。
+
+  const SNS_DUMMY = [
+    { handle: '@sample_x1', plat: 'X', text: '今日の朝焼け、めちゃくちゃ綺麗やった。' },
+    { handle: '@sample_ig1', plat: 'IG', text: '新しいコーヒー豆、酸味強めで◎' },
+    { handle: '@sample_x2', plat: 'X', text: '週末は150kmくらい走りたい気分。' },
+  ];
+
+  function snsCardHtml(post) {
+    return `
+      <div class="sns-card">
+        <div class="sns-meta">
+          <div class="avatar"></div>
+          <span class="handle">${escapeHtml(post.handle)}</span>
+          <span class="plat">${escapeHtml(post.plat)}</span>
+        </div>
+        <div class="body-txt">${escapeHtml(post.text)}</div>
+      </div>`;
+  }
+
+  function renderSnsPanel(posts) {
+    // アニメーション（translateY(-50%)でループ）のため2セット分並べる
+    const doubled = [...posts, ...posts];
+    document.getElementById('sns-track').innerHTML = doubled.map(snsCardHtml).join('');
+  }
+
+  renderSnsPanel(SNS_DUMMY);
+  loadNewsData();
+</script>
+
+</body>
+</html>

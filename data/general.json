@@ -1,0 +1,41 @@
+{
+  "edition": "総合",
+  "date": "2026-08-30",
+  "items": [
+    {
+      "time": "06:12",
+      "category": "経済",
+      "title": "生成AI導入企業、経理業務の自動化率が前年比2倍に",
+      "source": "NIKKEI",
+      "url": "https://www.nikkei.com/"
+    },
+    {
+      "time": "05:48",
+      "category": "マーケット",
+      "title": "円相場、147円台で小幅な値動き続く",
+      "source": "REUTERS",
+      "url": "https://jp.reuters.com/"
+    },
+    {
+      "time": "05:20",
+      "category": "IT",
+      "title": "クラウド会計市場、中小企業への浸透が加速",
+      "source": "ITMEDIA",
+      "url": "https://www.itmedia.co.jp/"
+    },
+    {
+      "time": "04:58",
+      "category": "マーケット",
+      "title": "半導体関連株、決算発表控え軟調推移",
+      "source": "BLOOMBERG",
+      "url": "https://www.bloomberg.co.jp/"
+    },
+    {
+      "time": "04:55",
+      "category": "天気",
+      "title": "東京都心、来週から段階的に気温低下の見込み",
+      "source": "TENKI.JP",
+      "url": "https://tenki.jp/"
+    }
+  ]
+}
