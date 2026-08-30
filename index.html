@@ -162,6 +162,7 @@
   .item .t{font-size:14px;line-height:1.6;}
   .item .t a{color:inherit;text-decoration:none;}
   .item .t a:hover{text-decoration:underline;}
+  .item .teaser{font-size:12px;line-height:1.5;color:var(--text-dim);margin-top:2px;display:block;}
   .item .s{font-size:10.5px;color:var(--text-dim);margin-top:3px;display:block;}
   .item .thumb{
     width:64px;height:64px;
@@ -284,19 +285,23 @@
     return `<svg class="thumb-icon" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.92)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${path}</svg>`;
   }
 
-  function newsItemHtml(idx, title, url, meta, thumb, category) {
+  function newsItemHtml(idx, title, url, meta, thumb, category, teaser) {
     const titleHtml = url
       ? `<a href="${escapeHtml(url)}" target="_blank" rel="noopener">${escapeHtml(title)}</a>`
       : escapeHtml(title);
     const thumbHtml = thumb
       ? `<div class="thumb" style="background-image:url('${escapeHtml(thumb)}')"></div>`
       : `<div class="thumb ${categoryClass(category)}">${iconSvg(iconNameForTitle(title))}</div>`;
+    const teaserHtml = teaser
+      ? `<span class="teaser">${escapeHtml(teaser)}</span>`
+      : '';
     return `
       <div class="item">
         <div class="idx">${escapeHtml(idx)}</div>
         ${thumbHtml}
         <div>
           <div class="t">${titleHtml}</div>
+          ${teaserHtml}
           <span class="s">${escapeHtml(meta)}</span>
         </div>
       </div>`;
@@ -307,7 +312,7 @@
     el.innerHTML = items.map((item, i) => {
       const idx = String(i + 1).padStart(2, '0');
       const meta = [item.source, item.time].filter(Boolean).join('・');
-      return newsItemHtml(idx, item.title, item.url, meta, item.thumb, item.category);
+      return newsItemHtml(idx, item.title, item.url, meta, item.thumb, item.category, item.teaser);
     }).join('');
   }
 
@@ -318,7 +323,7 @@
 
     const el = document.getElementById('edition-items');
     el.innerHTML = merged.map(item =>
-      newsItemHtml(item.idx, item.title, item.url, item.category, item.thumb, item.category)
+      newsItemHtml(item.idx, item.title, item.url, item.category, item.thumb, item.category, item.teaser)
     ).join('');
   }
 
