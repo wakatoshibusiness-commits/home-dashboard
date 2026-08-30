@@ -264,42 +264,23 @@
     return 'cat-default';
   }
 
-  // キーワード → サムネイル未取得時に中央表示するSVGアイコン（白線・stroke方式）
-  const THUMB_ICONS = {
-    CALC: '<rect x="5" y="3" width="14" height="18" rx="2"/><line x1="8" y1="7" x2="16" y2="7"/><line x1="8" y1="12" x2="8" y2="12"/><line x1="12" y1="12" x2="12" y2="12"/><line x1="16" y1="12" x2="16" y2="12"/><line x1="8" y1="16" x2="8" y2="16"/><line x1="12" y1="16" x2="12" y2="16"/><line x1="16" y1="16" x2="16" y2="16"/>',
-    TREND: '<polyline points="3,17 9,11 13,15 21,5"/><polyline points="15,5 21,5 21,11"/>',
-    CLOUD: '<path d="M7 18a4 4 0 1 1 1-7.9A5 5 0 0 1 18 12a3.5 3.5 0 0 1-1 6.9H7z"/>',
-    CPU: '<rect x="6" y="6" width="12" height="12" rx="1"/><line x1="9" y1="2" x2="9" y2="6"/><line x1="15" y1="2" x2="15" y2="6"/><line x1="9" y1="18" x2="9" y2="22"/><line x1="15" y1="18" x2="15" y2="22"/><line x1="2" y1="9" x2="6" y2="9"/><line x1="2" y1="15" x2="6" y2="15"/><line x1="18" y1="9" x2="22" y2="9"/><line x1="18" y1="15" x2="22" y2="15"/>',
-    LANDMARK: '<polygon points="12,3 21,9 3,9"/><line x1="5" y1="9" x2="5" y2="19"/><line x1="9" y1="9" x2="9" y2="19"/><line x1="15" y1="9" x2="15" y2="19"/><line x1="19" y1="9" x2="19" y2="19"/><line x1="3" y1="21" x2="21" y2="21"/>',
-    COINS: '<ellipse cx="9" cy="8" rx="6" ry="3"/><path d="M3 8v5c0 1.7 2.7 3 6 3s6-1.3 6-3V8"/><ellipse cx="16" cy="14" rx="5" ry="2.5"/><path d="M11 14v4c0 1.4 2.2 2.5 5 2.5s5-1.1 5-2.5v-4"/>',
-    BUILDING: '<rect x="4" y="4" width="16" height="17" rx="1"/><line x1="8" y1="8" x2="8" y2="8"/><line x1="12" y1="8" x2="12" y2="8"/><line x1="16" y1="8" x2="16" y2="8"/><line x1="8" y1="12" x2="8" y2="12"/><line x1="12" y1="12" x2="12" y2="12"/><line x1="16" y1="12" x2="16" y2="12"/><line x1="8" y1="16" x2="8" y2="16"/><line x1="12" y1="16" x2="12" y2="16"/><line x1="16" y1="16" x2="16" y2="16"/>',
-    TROPHY: '<path d="M8 4h8v5a4 4 0 0 1-8 0V4z"/><path d="M8 5H5a3 3 0 0 0 3 5"/><path d="M16 5h3a3 3 0 0 1-3 5"/><line x1="12" y1="13" x2="12" y2="17"/><line x1="9" y1="20" x2="15" y2="20"/><line x1="9" y1="20" x2="9" y2="17"/><line x1="15" y1="20" x2="15" y2="17"/>',
-    DEFAULT: '<rect x="4" y="3" width="16" height="18" rx="1"/><line x1="7" y1="7" x2="17" y2="7"/><line x1="7" y1="10" x2="17" y2="10"/><line x1="7" y1="13" x2="13" y2="13"/><line x1="7" y1="16" x2="13" y2="16"/><line x1="15" y1="13" x2="17" y2="13"/><line x1="15" y1="16" x2="17" y2="16"/>',
-  };
+  // キーワード辞書とアイコンSVGは data/icons/*.json から取得する（自己拡張型）。
+  // ここでは取得結果を保持するだけで、内容そのものはハードコードしない。
+  let ICON_REGISTRY = {};
+  let ICON_KEYWORD_RULES = [];
 
   // title文字列に対する部分一致。上から順にチェックし最初に一致したものを採用
-  const ICON_KEYWORD_RULES = [
-    ['CALC', ['経理', '会計', '簿記', '仕訳']],
-    ['TREND', ['相場', '株価', '金利', '為替', '円', '市況']],
-    ['CLOUD', ['天気', '気温', 'クラウド', '台風']],
-    ['CPU', ['半導体', 'IT', 'テック', 'AI', 'システム']],
-    ['LANDMARK', ['政治', '税制', '国会', '与党', '衆院', '参院']],
-    ['COINS', ['銀行', '金融', '投資', '融資']],
-    ['BUILDING', ['再開発', '不動産', '都市', '建設']],
-    ['TROPHY', ['野球', 'サッカー', 'スポーツ', '大会', '優勝', 'リーグ']],
-  ];
-
   function iconNameForTitle(title) {
     if (title) {
-      for (const [icon, keywords] of ICON_KEYWORD_RULES) {
-        if (keywords.some(k => title.includes(k))) return icon;
+      for (const rule of ICON_KEYWORD_RULES) {
+        if (rule.keywords.some(k => title.includes(k))) return rule.icon;
       }
     }
     return 'DEFAULT';
   }
 
   function iconSvg(name) {
-    const path = THUMB_ICONS[name] || THUMB_ICONS.DEFAULT;
+    const path = ICON_REGISTRY[name] || ICON_REGISTRY.DEFAULT || '';
     return `<svg class="thumb-icon" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,0.92)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${path}</svg>`;
   }
 
@@ -343,11 +324,15 @@
 
   async function loadNewsData() {
     try {
-      const [general, asakan, yukan] = await Promise.all([
+      const [general, asakan, yukan, registry, keywordRules] = await Promise.all([
         fetchJSON('data/general.json'),
         fetchJSON('data/asakan.json'),
         fetchJSON('data/yukan.json'),
+        fetchJSON('data/icons/registry.json'),
+        fetchJSON('data/icons/keywords.json'),
       ]);
+      ICON_REGISTRY = registry;
+      ICON_KEYWORD_RULES = keywordRules;
       renderGeneralPanel(general.items || []);
       renderEditionPanel(asakan, yukan);
     } catch (err) {
