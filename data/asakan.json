@@ -1,15 +1,5 @@
 {
   "edition": "朝刊",
-  "date": "2026-08-31",
-  "items": [
-    {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Anthropic「Claude in Chrome」を全有料プランで一般提供開始",
-      "source": "releasebot.io",
-      "url": "https://releasebot.io/updates/anthropic/claude",
-      "teaser": "安全分類器とプロンプトインジェクション対策を実装した上で、社内ダッシュボードやレガシー画面をClaudeが自律操作できるとしている。UIしか窓口がない移行元会計ソフトの塩漬け画面を、人手の画面ポチポチからエージェント操作へ寄せられる余地が出てきた枠。",
-      "thumb": null
-    }
-  ]
+  "date": "2026-09-01",
+  "items": []
 }
