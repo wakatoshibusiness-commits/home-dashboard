@@ -1,5 +1,33 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-01",
-  "items": []
+  "date": "2026-09-02",
+  "items": [
+    {
+      "time": "06:05",
+      "category": "AI企業ウォッチ",
+      "title": "Anthropic、Claude Fable 5.1とMythos 5.1を発表（キャッシュ読み込み価格75%削減）",
+      "source": "9to5mac.com",
+      "url": "https://9to5mac.com/2026/09/01/anthropic-upgrades-claude-with-new-fable-5-1-model-details-here/",
+      "teaser": "キャッシュ読み込み価格を前世代比75%削減（典型利用で約25%、複雑なエージェント作業で最大45%減）。自作ツールの運用コスト試算をやり直す価値がある一報。",
+      "thumb": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?resize=1200,628"
+    },
+    {
+      "time": "06:05",
+      "category": "AI企業ウォッチ",
+      "title": "OpenAI、DevDay 2026を9月29日にSan Franciscoで開催と告知",
+      "source": "openai.com",
+      "url": "https://openai.com/index/devday-2026/",
+      "teaser": "新モデル・新機能・API更新の発表枠。9月末に大きめの動きが来ると見て、選考期間の業界動向ネタとして押さえておく。",
+      "thumb": "https://images.ctfassets.net/kftzwdyauwt9/6E6hS38rOnhhKPPmfUflDh/710cc08ecff66835d93a9989c8ece826/SEO_16_9.png?w=1600&amp;h=900&amp;fit=fill"
+    },
+    {
+      "time": "06:05",
+      "category": "引っかかり",
+      "title": "伊藤忠テクノソリューションズ、ショウワノートの基幹システムをSAP Cloud ERPへ全面刷新（2027年6月稼働）",
+      "source": "prtimes.jp",
+      "url": "https://prtimes.jp/main/html/rd/p/000000230.000108377.html",
+      "teaser": "老朽化基幹システムを全面刷新すべきか塩漬けで延命すべきか、専門家の見方が割れている。ショウワノートは5領域一括のSAP移行を選択。",
+      "thumb": "https://prcdn.freetls.fastly.net/release_image/108377/230/108377-230-1a544e79b980181c4e5126622880214d-2783x1686.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+    }
+  ]
 }
