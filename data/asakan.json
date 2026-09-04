@@ -1,42 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "items": [
     {
       "time": "06:06",
       "category": "知っておくこと",
-      "title": "国内AIエージェント動向（2026年9月3日号）",
-      "source": "note.com",
-      "url": "https://note.com/yasuhitoo/n/n3665e146410d",
-      "teaser": "競争軸が「モデルの賢さ」から「業務システム連携と権限管理」へ移ったという整理で、「客が握れるか」を左右する設計論点が並ぶ。",
-      "thumb": "https://assets.st-note.com/production/uploads/images/309593879/rectangle_large_type_2_3c5702898006fd87f503c4d69959559f.png?fit=bounds&quality=85&width=1280"
+      "title": "エッカ石油・ファンくるの移行案件、同じ罠にハマる可能性がある",
+      "source": "xtech.nikkei.com",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/061001541/",
+      "teaser": "江崎グリコ・ユニチャームのS/4HANA導入トラブルはパッケージ不適合部分をアドオン対応する姿勢が根本原因、移行設計のレビュー材料になる",
+      "thumb": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/061001541/topm.jpg?20220512"
     },
     {
       "time": "06:06",
       "category": "AI企業ウォッチ",
-      "title": "Anthropic「Claude Commerce Agent Blueprint」公開／Salesforce双方向統合",
-      "source": "releasebot.io",
-      "url": "https://releasebot.io/updates/anthropic/claude",
-      "teaser": "自動化を「作例ごと配布」する方向へAnthropicが舵。参照実装の有無はFDEの初速を左右する。",
-      "thumb": null
-    },
-    {
-      "time": "06:06",
-      "category": "AI企業ウォッチ",
-      "title": "Google Gemini 3.8 Flash／Flash Cyber発表",
-      "source": "ai.google.dev",
-      "url": "https://ai.google.dev/gemini-api/docs/changelog",
-      "teaser": "低単価モデルの世代交代が続く。バッチ処理系の自動化はコスト前提を毎月見直す前提で組むべき。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/release-notes.png"
-    },
-    {
-      "time": "06:06",
-      "category": "AI企業ウォッチ",
-      "title": "OpenAI ChatGPT HealthcareにEpic EHR統合＋Astra推論プレビュー",
-      "source": "help.openai.com",
-      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-      "teaser": "ドメイン特化のデータコネクタをベンダー側が用意し始めた。会計側で同種の「一次資料コネクタ」が来た時の比較軸になる。",
-      "thumb": "/og-image.png"
+      "title": "OpenAIが「GPT-6 Astra」を提供開始",
+      "source": "xtech.nikkei.com",
+      "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03373/",
+      "teaser": "サイバー攻撃能力懸念で一時停止していたが、保護対策を大幅強化のうえ段階的に顧客展開へ",
+      "thumb": "https://xtech.nikkei.com/atcl/nxt/news/24/03373/topm.jpg?20220512"
     }
   ]
 }
