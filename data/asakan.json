@@ -1,24 +1,5 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-05",
-  "items": [
-    {
-      "time": "06:06",
-      "category": "知っておくこと",
-      "title": "エッカ石油・ファンくるの移行案件、同じ罠にハマる可能性がある",
-      "source": "xtech.nikkei.com",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/061001541/",
-      "teaser": "江崎グリコ・ユニチャームのS/4HANA導入トラブルはパッケージ不適合部分をアドオン対応する姿勢が根本原因、移行設計のレビュー材料になる",
-      "thumb": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/061001541/topm.jpg?20220512"
-    },
-    {
-      "time": "06:06",
-      "category": "AI企業ウォッチ",
-      "title": "OpenAIが「GPT-6 Astra」を提供開始",
-      "source": "xtech.nikkei.com",
-      "url": "https://xtech.nikkei.com/atcl/nxt/news/24/03373/",
-      "teaser": "サイバー攻撃能力懸念で一時停止していたが、保護対策を大幅強化のうえ段階的に顧客展開へ",
-      "thumb": "https://xtech.nikkei.com/atcl/nxt/news/24/03373/topm.jpg?20220512"
-    }
-  ]
+  "date": "2026-09-06",
+  "items": []
 }
