@@ -1,5 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-06",
-  "items": []
+  "date": "2026-09-07",
+  "items": [
+    {
+      "time": "06:07",
+      "category": "知っておくこと",
+      "title": "freeeが会計事務所向け「A-SaaS」を段階廃止し統合ERPへ移行",
+      "source": "corp.freee.co.jp",
+      "url": "https://corp.freee.co.jp/news/1007a-saas.html",
+      "teaser": "freeeは機能追加ではなく「製品を減らして1つのERPに寄せる」方向に賭けており、MFの拡張路線と戦略が対照的。",
+      "thumb": "https://corp.freee.co.jp/img/ogp-freee.png"
+    },
+    {
+      "time": "06:07",
+      "category": "知っておくこと",
+      "title": "Claude×MF MCP仕訳自動化の実装ガイド（未仕訳読取→科目提案→承認後自動登録）",
+      "source": "aquallc.jp",
+      "url": "https://www.aquallc.jp/claude-code-accounting-firm-guide/",
+      "teaser": "仕訳の自動化は「AIが全部やる」ではなく承認を人間に残す形で実装が固まりつつあり、Toshiの移行自動化の次の展開図になる。",
+      "thumb": "https://www.aquallc.jp/wp-content/uploads/2026/03/Gemini_Generated_Image_7pxwlp7pxwlp7pxw-1024x559.jpeg"
+    }
+  ]
 }
