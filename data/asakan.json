@@ -1,24 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "items": [
     {
-      "time": "06:07",
+      "time": "06:05",
       "category": "知っておくこと",
-      "title": "freeeが会計事務所向け「A-SaaS」を段階廃止し統合ERPへ移行",
+      "title": "freeeのMCP戦略が「対話UI」から「自律エージェント」へ広がっている",
       "source": "corp.freee.co.jp",
-      "url": "https://corp.freee.co.jp/news/1007a-saas.html",
-      "teaser": "freeeは機能追加ではなく「製品を減らして1つのERPに寄せる」方向に賭けており、MFの拡張路線と戦略が対照的。",
+      "url": "https://corp.freee.co.jp/news/20260902freee_survey.html",
+      "teaser": "MFのMCPはCopilot（人が対話する）前提、freeeはエージェントが自走する前提で、設計思想が分かれ始めている。",
       "thumb": "https://corp.freee.co.jp/img/ogp-freee.png"
     },
     {
-      "time": "06:07",
-      "category": "知っておくこと",
-      "title": "Claude×MF MCP仕訳自動化の実装ガイド（未仕訳読取→科目提案→承認後自動登録）",
-      "source": "aquallc.jp",
-      "url": "https://www.aquallc.jp/claude-code-accounting-firm-guide/",
-      "teaser": "仕訳の自動化は「AIが全部やる」ではなく承認を人間に残す形で実装が固まりつつあり、Toshiの移行自動化の次の展開図になる。",
-      "thumb": "https://www.aquallc.jp/wp-content/uploads/2026/03/Gemini_Generated_Image_7pxwlp7pxwlp7pxw-1024x559.jpeg"
+      "time": "06:05",
+      "category": "AI企業ウォッチ",
+      "title": "Anthropicが、Claudeにフェルマーの最終定理の形式化証明を自律生成させたと公表（11日間・Lean 4で1,300万行・中間定理29,500個）",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "teaser": "数式の話ではなく「AIがどれだけ長く・大規模に自走してコードを書き切れるか」の実証。エージェント設計で見込めるタスクの長さが変わる。",
+      "thumb": "https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg"
     }
   ]
 }
