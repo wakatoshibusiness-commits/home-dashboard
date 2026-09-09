@@ -17,6 +17,7 @@
     --text-dim:#A6A3C9;
   }
   *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{height:100%;}
   body{
     min-width:1320px;
     min-height:100vh;
@@ -27,7 +28,8 @@
       radial-gradient(circle at 85% 0%, rgba(67,232,216,0.22), transparent 40%),
       radial-gradient(circle at 50% 100%, rgba(139,133,255,0.18), transparent 50%),
       linear-gradient(160deg, var(--bg1), var(--bg2));
-    padding:40px 56px 70px;
+    background-attachment:fixed;
+    padding:34px 56px 44px;
     position:relative;
     overflow-x:hidden;
   }
@@ -51,7 +53,7 @@
     display:flex;
     justify-content:space-between;
     align-items:flex-end;
-    margin-bottom:34px;
+    margin-bottom:22px;
     position:relative;
     z-index:1;
   }
@@ -91,11 +93,11 @@
     padding:14px 0;
     overflow:hidden;
     white-space:nowrap;
-    margin-bottom:28px;
+    margin-bottom:22px;
   }
   .board-track{
     display:inline-block;
-    animation:flow 34s linear infinite;
+    animation:flow 42s linear infinite;
     font-family:'Space Grotesk',sans-serif;
     font-size:14px;
     letter-spacing:0.02em;
@@ -111,23 +113,30 @@
     position:relative;
     z-index:1;
     display:grid;
-    grid-template-columns:1.4fr 1fr;
+    grid-template-columns:1.5fr 1fr;
     gap:20px;
+    align-items:stretch;
+    height:76vh;
+    min-height:600px;
   }
   .panel{
     background:var(--glass);
     border:1px solid var(--glass-line);
     backdrop-filter:blur(18px);
     border-radius:18px;
-    padding:26px 28px;
+    padding:24px 26px;
     box-shadow:0 8px 30px rgba(0,0,0,0.25);
+    display:flex;
+    flex-direction:column;
+    min-height:0;
   }
 
   .panel-head{
     display:flex;
     justify-content:space-between;
     align-items:center;
-    margin-bottom:18px;
+    margin-bottom:14px;
+    flex:0 0 auto;
   }
   .panel-title{
     font-family:'Space Grotesk',sans-serif;
@@ -141,6 +150,24 @@
     background:rgba(139,133,255,0.18);
     color:var(--violet);
     letter-spacing:0.05em;
+  }
+
+  .panel-body{
+    flex:1 1 auto;
+    min-height:0;
+    overflow-y:auto;
+    padding-right:8px;
+    margin-right:-8px;
+  }
+  .panel-body::-webkit-scrollbar{width:6px;}
+  .panel-body::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.14);border-radius:3px;}
+  .panel-body{scrollbar-width:thin;scrollbar-color:rgba(255,255,255,0.14) transparent;}
+
+  .empty-note{
+    font-size:12px;
+    color:var(--text-dim);
+    padding:18px 2px;
+    line-height:1.7;
   }
 
   .item{
@@ -181,12 +208,14 @@
   .cat-society{background:linear-gradient(135deg,#7AD8FF,#8B85FF);}
   .cat-sports{background:linear-gradient(135deg,#FF9F7A,#FFD37A);}
   .cat-weather{background:linear-gradient(135deg,#8FFFC1,#43E8D8);}
+  .cat-world{background:linear-gradient(135deg,#5B7FFF,#B98BFF);}
+  .cat-science{background:linear-gradient(135deg,#43E8D8,#8FFFC1);}
   .cat-default{background:linear-gradient(135deg,#B98BFF,#8B85FF);}
 
   footer{
     position:relative;z-index:1;
-    text-align:center;margin-top:34px;
-    font-size:10.5px;color:var(--text-dim);letter-spacing:0.12em;
+    text-align:center;margin-top:22px;
+    font-size:10.5px;color:var(--text-dim);letter-spacing:0.1em;
   }
 </style>
 </head>
@@ -197,18 +226,11 @@
 
 <header>
   <div class="brand">HOME<span class="dot">.</span>ROOM</div>
-  <div class="status"><span class="pulse"></span> LIVE — 06:42 JST</div>
+  <div class="status"><span class="pulse"></span> <span id="clock">LIVE</span></div>
 </header>
 
 <div class="board">
-  <div class="board-track">
-    <span><b>朝刊</b>与党内で税制改正議論が本格化</span>
-    <span><b>速報</b>日銀、追加利上げを示唆</span>
-    <span><b>夕刊</b>都内の再開発計画、住民説明会が続く</span>
-    <span><b>天気</b>週末に台風接近の予想</span>
-    <span><b>朝刊</b>与党内で税制改正議論が本格化</span>
-    <span><b>速報</b>日銀、追加利上げを示唆</span>
-  </div>
+  <div class="board-track" id="ticker"></div>
 </div>
 
 <div class="bento">
@@ -217,7 +239,7 @@
       <div class="panel-title">総合ニュース</div>
       <div class="panel-badge">GENERAL</div>
     </div>
-    <div id="general-items"></div>
+    <div class="panel-body" id="general-items"></div>
   </div>
 
   <div class="panel">
@@ -225,11 +247,11 @@
       <div class="panel-title">朝刊・夕刊</div>
       <div class="panel-badge">EDITION</div>
     </div>
-    <div id="edition-items"></div>
+    <div class="panel-body" id="edition-items"></div>
   </div>
 </div>
 
-<footer>DASHBOARD MOCKUP — CONCEPT C / GLASS ROOM — DUMMY DATA</footer>
+<footer id="footer">HOME.ROOM — 総合ニュース / 朝刊ダッシュボード</footer>
 
 <script>
   // ---- ニュース一覧 / 朝刊夕刊パネル：JSONをfetchして動的に描画 ----
@@ -248,12 +270,14 @@
 
   // カテゴリ文字列 → サムネイル未取得時のグラデーションクラス
   const CATEGORY_CLASS_RULES = [
-    [/経済|市況/, 'cat-economy'],
-    [/IT|テック/i, 'cat-tech'],
+    [/経済|市況|ビジネス/, 'cat-economy'],
+    [/IT|テック|テクノロジー/i, 'cat-tech'],
     [/政治/, 'cat-politics'],
-    [/社会/, 'cat-society'],
+    [/社会|国内/, 'cat-society'],
     [/スポーツ/, 'cat-sports'],
-    [/天気/, 'cat-weather'],
+    [/天気|気象/, 'cat-weather'],
+    [/国際|世界/, 'cat-world'],
+    [/科学|サイエンス/, 'cat-science'],
   ];
 
   function categoryClass(category) {
@@ -309,6 +333,10 @@
 
   function renderGeneralPanel(items) {
     const el = document.getElementById('general-items');
+    if (!items.length) {
+      el.innerHTML = '<div class="empty-note">総合ニュースを取得できませんでした。<br>次回の更新（毎朝6時台）で復帰します。</div>';
+      return;
+    }
     el.innerHTML = items.map((item, i) => {
       const idx = String(i + 1).padStart(2, '0');
       const meta = [item.source, item.time].filter(Boolean).join('・');
@@ -322,27 +350,68 @@
     const merged = [...asakanItems, ...yukanItems];
 
     const el = document.getElementById('edition-items');
+    if (!merged.length) {
+      el.innerHTML = '<div class="empty-note">今日は朝刊・夕刊とも該当記事なしでした。</div>';
+      return;
+    }
     el.innerHTML = merged.map(item =>
       newsItemHtml(item.idx, item.title, item.url, item.category, item.thumb, item.category, item.teaser)
     ).join('');
   }
 
+  // ---- 上部ティッカー：総合＋朝刊の見出しを流す ----
+  function renderTicker(generalItems, asakanItems) {
+    const entries = [];
+    generalItems.slice(0, 5).forEach(it => entries.push(['総合', it.title]));
+    asakanItems.slice(0, 3).forEach(it => entries.push(['朝刊', it.title]));
+    const el = document.getElementById('ticker');
+    if (!entries.length) { el.textContent = ''; return; }
+    // -50% でループさせるため同じ並びを2回描画する
+    const once = entries.map(([tag, t]) =>
+      `<span><b>${escapeHtml(tag)}</b>${escapeHtml(t)}</span>`
+    ).join('');
+    el.innerHTML = once + once;
+  }
+
+  function updateClock() {
+    const now = new Date();
+    const fmt = new Intl.DateTimeFormat('ja-JP', {
+      timeZone: 'Asia/Tokyo', hour: '2-digit', minute: '2-digit', hour12: false,
+    });
+    document.getElementById('clock').textContent = `LIVE — ${fmt.format(now)} JST`;
+  }
+
+  function updateFooter(generalDoc) {
+    const stamp = generalDoc.generated_at || generalDoc.date || '';
+    document.getElementById('footer').textContent =
+      `HOME.ROOM — 総合:Googleニュース / 朝刊・夕刊:自動生成${stamp ? ' — 総合ニュース最終更新 ' + stamp : ''}`;
+  }
+
   async function loadNewsData() {
+    updateClock();
+    setInterval(updateClock, 30000);
+
+    let general = { items: [] }, asakan = { items: [] }, yukan = { items: [] };
     try {
-      const [general, asakan, yukan, registry, keywordRules] = await Promise.all([
-        fetchJSON('data/general.json'),
-        fetchJSON('data/asakan.json'),
-        fetchJSON('data/yukan.json'),
-        fetchJSON('data/icons/registry.json'),
-        fetchJSON('data/icons/keywords.json'),
+      [general, asakan, yukan] = await Promise.all([
+        fetchJSON('data/general.json').catch(() => ({ items: [] })),
+        fetchJSON('data/asakan.json').catch(() => ({ items: [] })),
+        fetchJSON('data/yukan.json').catch(() => ({ items: [] })),
+      ]);
+      const [registry, keywordRules] = await Promise.all([
+        fetchJSON('data/icons/registry.json').catch(() => ({})),
+        fetchJSON('data/icons/keywords.json').catch(() => ([])),
       ]);
       ICON_REGISTRY = registry;
       ICON_KEYWORD_RULES = keywordRules;
-      renderGeneralPanel(general.items || []);
-      renderEditionPanel(asakan, yukan);
     } catch (err) {
       console.error(err);
     }
+
+    renderGeneralPanel(general.items || []);
+    renderEditionPanel(asakan, yukan);
+    renderTicker(general.items || [], asakan.items || []);
+    updateFooter(general);
   }
 
   loadNewsData();
