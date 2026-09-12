@@ -1,33 +1,15 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-09",
+  "date": "2026-09-13",
   "items": [
     {
-      "time": "06:06",
-      "category": "AI企業ウォッチ",
-      "title": "Google、Google AssistantをGeminiへ完全置き換え開始（Android/Wear OS/スマートホーム）",
-      "source": "the-decoder.com",
-      "url": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os/",
-      "teaser": "確率的なLLMが施錠やスマート家電操作など「失敗が許されない」操作まで担うことになり、決定論的アシスタントからの置き換えの信頼性が焦点になっている。",
-      "thumb": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png"
-    },
-    {
-      "time": "06:06",
-      "category": "AI企業ウォッチ",
-      "title": "Anthropic、Enterprise Frontier Safeguards（EFS）を発表——データは顧客管理のAWS/Azure/GCSに保持",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "teaser": "ゼロデータ保持要件と悪用検知の両立を狙った設計で、顧客に「データはAnthropicに渡らない」と説明する際の具体的材料になる。",
-      "thumb": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20City&amp;backgroundColor=sky"
-    },
-    {
-      "time": "06:06",
-      "category": "AI企業ウォッチ",
-      "title": "OpenAI、ChatGPT Workに個人の文体模写機能を追加（Gmail/Slack/Drive/SharePointの文面から学習）",
-      "source": "businesstoday.in",
-      "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/openai-says-chatgpt-can-now-mimic-your-writing-style-from-emails-and-messages-heres-how-553866-2026-09-08",
-      "teaser": "複数サービス横断で個人データを学習しテキスト生成に反映する設計は、顧客先でAI導入時の説明責任・情報漏洩懸念にそのまま関わる論点。",
-      "thumb": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6a9fa803b8cd4-chatgpt-work-081523988-16x9.png"
+      "time": "06:04",
+      "category": "知っておくこと",
+      "title": "国内AIエージェント動向(2026/9/8号)",
+      "source": "note.com",
+      "url": "https://note.com/yasuhitoo/n/n1eb545f67291",
+      "teaser": "国内9事例すべてで人による承認・修正が組み込まれており、残高移行ツールの承認ゲート設計にそのまま使える型。",
+      "thumb": "https://assets.st-note.com/production/uploads/images/311295726/rectangle_large_type_2_cec7ff1c86ba62a187eb3855ba2f74a5.png?fit=bounds&quality=85&width=1280"
     }
   ]
 }
