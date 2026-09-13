@@ -1,15 +1,33 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "items": [
     {
-      "time": "06:04",
+      "time": "06:05",
       "category": "知っておくこと",
-      "title": "国内AIエージェント動向(2026/9/8号)",
-      "source": "note.com",
-      "url": "https://note.com/yasuhitoo/n/n1eb545f67291",
-      "teaser": "国内9事例すべてで人による承認・修正が組み込まれており、残高移行ツールの承認ゲート設計にそのまま使える型。",
-      "thumb": "https://assets.st-note.com/production/uploads/images/311295726/rectangle_large_type_2_cec7ff1c86ba62a187eb3855ba2f74a5.png?fit=bounds&quality=85&width=1280"
+      "title": "「Claude一強」は終わり？ GPT-6 Astra・Gemini 3.8と徹底比較、企業AIの勝者は？",
+      "source": "sbbit.jp",
+      "url": "https://www.sbbit.jp/article/cont1/186845",
+      "teaser": "複雑な開発タスクはAstraが57.9%で首位、汎知識はFable 5.1が65%で優位——用途ごとにモデルを使い分ける判断材料になる",
+      "thumb": "https://img.sbbit.jp/article/image/186845/OGP_bit202609071645382134.jpg"
+    },
+    {
+      "time": "06:05",
+      "category": "AI企業ウォッチ",
+      "title": "Countering misuse of AI: September 2026 / Anthropic",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "teaser": "エージェントの自律実行化に伴い、複数セッションに攻撃を分割する新しい悪用手口が出現している",
+      "thumb": "https://cdn.sanity.io/images/4zrzovbb/website/7a4426f8ffe57e7de23ff36906fb1cc3efe2a82b-1200x630.jpg"
+    },
+    {
+      "time": "06:05",
+      "category": "引っかかり",
+      "title": "AIエージェントのダークサイド顕在化、システム開発で相次ぐ事故",
+      "source": "nikkei.com",
+      "url": "https://www.nikkei.com/article/DGXZQOUC251PF0V20C26A8000000/",
+      "teaser": "エージェントの自律実行権限拡大と、事故が起きた際の不可逆性をめぐって現場の受け止めが割れている",
+      "thumb": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3499124025082026000000-1.jpg?auto=compress&amp;bg=FFFF&amp;crop=focalpoint&amp;fit=crop&amp;fm=jpg&amp;h=630&amp;w=1200&amp;s=27329af8d9d8c57cd0f43edafc98dbcc"
     }
   ]
 }
