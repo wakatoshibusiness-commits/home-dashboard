@@ -1,5 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-09-09",
-  "items": []
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14 08:50",
+  "source": "Google ニュース RSS",
+  "items": [
+    {
+      "time": "07:58",
+      "category": "国際",
+      "title": "７年ぶりにインドを訪れた習近平氏、「ＢＲＩＣＳは歴史の主導権を」…首脳会議が閉幕",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FQkx6TlNxMklrVU1VTkItbG5iUno1cHgwbXV4amVZUzBvS2tkYXpRM3V6SGYxUTFTR3ZVdzZqSEtERHkyVEVqSTBiY0hrNmh5eXpuWS1fLUlDZVBYcF9NTFVR?oc=5"
+    },
+    {
+      "time": "07:41",
+      "category": "社会",
+      "title": "【独自】維新・中司幹事長の入閣調整 ポストは首相が最終判断",
+      "source": "47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKVXdERm9uVEpvU0NhY2VkUS15WFJQcE1LWTJVYmpYc09mYXdjenNwV3RrNDZfaFk3M0VXT3FhR2dLZ2tYZEluMDJXVQ?oc=5"
+    },
+    {
+      "time": "07:07",
+      "category": "経済",
+      "title": "トランプ氏、ＦＯＭＣ控え「米国は世界最低金利であるべき」",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHU5VWY5QUxWRlRNV0dwUmVaX0ExU3BBN2xMQXRYMnJKenpuSTFNR1drTEVOZWp1NWNyWVlRZm1objZaU2w0aWNBY0dId0ktOGFDXzVHQmJEZGktQmZLMVRxN3BGenJ3X0NpLVZZYkZTVkNTNFNUYVV0M1FRbHM0VFJXWW4?oc=5"
+    },
+    {
+      "time": "06:01",
+      "category": "国際",
+      "title": "オマーン外相、ホルムズ海峡巡る14日会合「延期」 バーレーンが反発",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91UGVzdEE2WUIzRGVqZG9MNDFTblU0WktDNmpDSDlkTlIxMFlQWTdXalhuck9xc1FMd2RDTjJRVlQ0WFE4TmM3Q1lLR2xiZGxteFRRT09JeWRLVG5QM2ItV0ZyTTJ5LXB6YW1JVw?oc=5"
+    },
+    {
+      "time": "04:31",
+      "category": "社会",
+      "title": "沖縄知事に初当選した古謝玄太さん、どんな人？ 「リーダー」を志した原点は20年前、東京で目の当たりにした現実",
+      "source": "沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tTGtwZzBBTWI5YW81NWdHUzZHbHB3enVSVG1vMEhaU0hjeXQzWXVQNDdZRGkwellPXzMxUVJsaW9Lc29HZEVhVG01MGpQTFVrZGNScTJxQ3I5ZUszcnc?oc=5"
+    },
+    {
+      "time": "04:22",
+      "category": "総合",
+      "title": "新知事に古謝氏 オール沖縄破る最多42万票余獲得 玉城氏に14万7000票差 最年少42歳、復帰後生まれ",
+      "source": "琉球新報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1VF9NVG9FM1BQVVFIY01RelZRVzhJaEwyaGVheUJlaG9JZUxhNUdXZUswcWFWcE1tY1VOMVp4WDBETjlKZk9nWEREUk1wOWh6ejkweXlMLTZIQjlZSzR5Ng?oc=5"
+    },
+    {
+      "time": "03:48",
+      "category": "総合",
+      "title": "＜速報＞沖縄市議選、当選者30人決まる【2026統一地方選・沖縄】",
+      "source": "琉球新報デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoMUEzLWU1Tm0zZ3FiWDMzSmFUUHc2aFd1dm53eFJhV3J3UU1XUE1ON2F1QzczM1BhTkY5dzBRUTF0Q3YtVkZ6X0NaSnlRZFNuczVWTEw5cU1XRzFlWTlCNA?oc=5"
+    },
+    {
+      "time": "02:07",
+      "category": "総合",
+      "title": "軽油高騰は「ゼレンスキー氏のせい」…トランプ大統領、ロシアのディーゼル燃料施設への攻撃停止するよう要求",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4YmtVZDFwN2p6c08tWFlFU0JSVEdIR2UyUU45TDJIQUQzdDgwZE9nTmJoenlGZkptM2pfTk83UEYxNzAyNnNZUWw4MFByOTlGQWxySVh1eVdRT2N6bVg4OTd3?oc=5"
+    },
+    {
+      "time": "01:31",
+      "category": "経済",
+      "title": "浜岡原発データ不正問題で中部電力・林社長 辞任意向示す、後任は安井稔取締役を軸に検討",
+      "source": "newsdig.tbs.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sNDZZOUlaYnlwclJQOXhkdE9kMUdOSXQtS1VGa1dLWmxaTTFWSm9OMEhEa05UX1ZfTVdaUno5OHJqVTBKLVpnRzk3dWtrTXZHdTZXZmxmaw?oc=5"
+    },
+    {
+      "time": "9/13 23:11",
+      "category": "経済",
+      "title": "【速報】米大統領、AI開発規制の議論けん制",
+      "source": "47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3RzBucTJNU09zWWc0T0Vrc3hGZm9HcE5hclZqWDN6alNkWUh2YmFDb3dJbW9OZmJRYXpNaDlBWmdIRkJTZmFYLU9OWQ?oc=5"
+    },
+    {
+      "time": "9/13 18:38",
+      "category": "総合",
+      "title": "岐阜のケーキ店放火殺人事件、店主の死因は熱傷性ショック",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14cTcxaEtFRWhBcE81dnBMQV9QcVhqOXF5a0o0WHBqSWlBMDl1Ti13d0NPTVhGa1djakJwNEdTdXNjWWlNQThydFVyZldWVkp1bUtmdU1oSnBiekk3X082bmlnVDQ4Zw?oc=5"
+    },
+    {
+      "time": "9/13 15:10",
+      "category": "テック",
+      "title": "AI生成の料理写真は「不気味の谷」、これほどの反発に遭う理由は？（CNN.co.jp）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PR2I0OFBCbnNiSnl5MUZfRnRlMjdTb0lMbVJBMHlveVJlUDFXZkVLZ3owYWtKV3ZBX192RkltSkxiTE5vajJvUUc5OExpb3hmWHF2X2FWdWJxNENPOFY2NXd4a3VFOG1nTkpQTm9iUTJ1aHdOMTBOSWdHMWJNUlk?oc=5"
+    }
+  ]
 }
