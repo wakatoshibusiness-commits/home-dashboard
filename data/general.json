@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-09-14",
-  "generated_at": "2026-09-14 08:50",
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15 06:07",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "07:58",
-      "category": "国際",
-      "title": "７年ぶりにインドを訪れた習近平氏、「ＢＲＩＣＳは歴史の主導権を」…首脳会議が閉幕",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FQkx6TlNxMklrVU1VTkItbG5iUno1cHgwbXV4amVZUzBvS2tkYXpRM3V6SGYxUTFTR3ZVdzZqSEtERHkyVEVqSTBiY0hrNmh5eXpuWS1fLUlDZVBYcF9NTFVR?oc=5"
-    },
-    {
-      "time": "07:41",
-      "category": "社会",
-      "title": "【独自】維新・中司幹事長の入閣調整 ポストは首相が最終判断",
-      "source": "47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKVXdERm9uVEpvU0NhY2VkUS15WFJQcE1LWTJVYmpYc09mYXdjenNwV3RrNDZfaFk3M0VXT3FhR2dLZ2tYZEluMDJXVQ?oc=5"
-    },
-    {
-      "time": "07:07",
+      "time": "05:00",
       "category": "経済",
-      "title": "トランプ氏、ＦＯＭＣ控え「米国は世界最低金利であるべき」",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHU5VWY5QUxWRlRNV0dwUmVaX0ExU3BBN2xMQXRYMnJKenpuSTFNR1drTEVOZWp1NWNyWVlRZm1objZaU2w0aWNBY0dId0ktOGFDXzVHQmJEZGktQmZLMVRxN3BGenJ3X0NpLVZZYkZTVkNTNFNUYVV0M1FRbHM0VFJXWW4?oc=5"
-    },
-    {
-      "time": "06:01",
-      "category": "国際",
-      "title": "オマーン外相、ホルムズ海峡巡る14日会合「延期」 バーレーンが反発",
+      "title": "「10電力体制」再編論、再燃も 中部電力に浜岡原発白紙で減損リスク",
       "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91UGVzdEE2WUIzRGVqZG9MNDFTblU0WktDNmpDSDlkTlIxMFlQWTdXalhuck9xc1FMd2RDTjJRVlQ0WFE4TmM3Q1lLR2xiZGxteFRRT09JeWRLVG5QM2ItV0ZyTTJ5LXB6YW1JVw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oODZrdm5mQjJHekpZeXV6VUVlMlVDMEZkdTZLaFY0dHJ5MTZod1p3ams3NnJ3emMwM21sdHVKdTVTUUp3QVBXQWlOdDNSNE9xQWFpZXZ2c0xSQm9XRmlSaW1ra1lNRUlnUFdNdQ?oc=5"
     },
     {
-      "time": "04:31",
+      "time": "01:47",
+      "category": "国際",
+      "title": "トランプ氏、イランは合意望むと主張 米の関与は自身が決定へ",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX19HaDYwZ2MtaS1OMTRxcEdXOUcyQXFGSG9kbW14c1lsQnZCdWJUUl9GWEZremVscU9lcllnY2RnX2tZbm5aVXlXbXI0dE9OVVBXUGtzeVhtbGJpZnlOYUREdG02SnFqVW91OEwtX1lINWVIMEJkX3JsTGNzMzZRYVZ0TnQ0dw?oc=5"
+    },
+    {
+      "time": "01:32",
+      "category": "国際",
+      "title": "トランプ氏「ウクライナがロシアのエネルギー関連施設への攻撃停止に同意」…ロシアも同様と投稿",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51aXZIbDE2Tjl0eFFVUEFtcm5kbEdqZjFmM0RhalRVWDA0ZHdpYmNKSTRya2V2WGVBdFVGTDF2MmpOSEpCRHFkZFZiZnRYY2NDdGV1Qlg3b0k5M2dTVlJMOXdR?oc=5"
+    },
+    {
+      "time": "00:00",
+      "category": "経済",
+      "title": "光通信、レオパレス２１買収へＴＯＢ実施発表…取得総額２７００億円の見通し",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZVWF4WTU4U3Vkc2Y2Wmh0RUZZZWVPcWlIVkRqcm54LVhkSmJSbE1vMFBCRWlOWXdjMThTM29vV2pwNnRnMnVRLUZjalFHaDg4cmNUS1hheWtVaF9rcVJrTG50V1g?oc=5"
+    },
+    {
+      "time": "9/14 23:06",
+      "category": "経済",
+      "title": "米長期金利、2年11カ月ぶり5%台 インフレ・財政懸念で債券売り",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wUG9zTDlYZm1RNF9VN0ZoNEJLaDFYZkZsa3JZalI3TkJtQi1KR082QzB0S2MtZ3ZGS01aakFsT2Fjc3VGcnNOM21pWkdFbXQzRkpHMktUY1pkVTNZY2RRVDZrRTJiWkM4SmtEUg?oc=5"
+    },
+    {
+      "time": "9/14 22:42",
+      "category": "総合",
+      "title": "台風発生予想 シルバーウィークに影響懸念 次に発生すると「台風25号」",
+      "source": "ウェザーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sRTU4S1RleVBESEwzZUdUMS1Zdlg4U0NicU9tRktxZnZBZGxSWEVTa3FrSFZMQmFtZ2VRWTFmUG1JUWxoblAtYk9XTDZodmdrNGRjdg?oc=5"
+    },
+    {
+      "time": "9/14 22:30",
       "category": "社会",
-      "title": "沖縄知事に初当選した古謝玄太さん、どんな人？ 「リーダー」を志した原点は20年前、東京で目の当たりにした現実",
-      "source": "沖縄タイムス社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tTGtwZzBBTWI5YW81NWdHUzZHbHB3enVSVG1vMEhaU0hjeXQzWXVQNDdZRGkwellPXzMxUVJsaW9Lc29HZEVhVG01MGpQTFVrZGNScTJxQ3I5ZUszcnc?oc=5"
+      "title": "【台風情報】台風のたまごの進路予想 24時間以内に台風へ シルバーウィークに本州直撃の可能性も 休日の予定に影響か 今後の情報に注意 16日かけても東海など大雨注意",
+      "source": "FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oN0hZMFRSUjBDTmlTZVI2VzJHaXJuTkpuZTJSNVBqNlNsUEllNDF3NVRfVnJoSFJiZGNNYzRFZGNGYzVJdERjS19uTk5hUQ?oc=5"
     },
     {
-      "time": "04:22",
-      "category": "総合",
-      "title": "新知事に古謝氏 オール沖縄破る最多42万票余獲得 玉城氏に14万7000票差 最年少42歳、復帰後生まれ",
-      "source": "琉球新報デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1VF9NVG9FM1BQVVFIY01RelZRVzhJaEwyaGVheUJlaG9JZUxhNUdXZUswcWFWcE1tY1VOMVp4WDBETjlKZk9nWEREUk1wOWh6ejkweXlMLTZIQjlZSzR5Ng?oc=5"
-    },
-    {
-      "time": "03:48",
-      "category": "総合",
-      "title": "＜速報＞沖縄市議選、当選者30人決まる【2026統一地方選・沖縄】",
-      "source": "琉球新報デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoMUEzLWU1Tm0zZ3FiWDMzSmFUUHc2aFd1dm53eFJhV3J3UU1XUE1ON2F1QzczM1BhTkY5dzBRUTF0Q3YtVkZ6X0NaSnlRZFNuczVWTEw5cU1XRzFlWTlCNA?oc=5"
-    },
-    {
-      "time": "02:07",
-      "category": "総合",
-      "title": "軽油高騰は「ゼレンスキー氏のせい」…トランプ大統領、ロシアのディーゼル燃料施設への攻撃停止するよう要求",
+      "time": "9/14 21:07",
+      "category": "社会",
+      "title": "若い世代で古謝玄太氏への支持３倍超、７０代以上を除き玉城デニー氏を上回る…沖縄知事選・出口調査",
       "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4YmtVZDFwN2p6c08tWFlFU0JSVEdIR2UyUU45TDJIQUQzdDgwZE9nTmJoenlGZkptM2pfTk83UEYxNzAyNnNZUWw4MFByOTlGQWxySVh1eVdRT2N6bVg4OTd3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04aFVuREw2NGxjamtJTnYxR1B4TlZaazN4RWp0aVI0eFpYSXdneGtSQUlzWnc2LXl4OFAxNnhDVElicFIwNThDamIyek03WENiQllsT3B3cjZYam54Rk85MTNmS1Nfdw?oc=5"
     },
     {
-      "time": "01:31",
-      "category": "経済",
-      "title": "浜岡原発データ不正問題で中部電力・林社長 辞任意向示す、後任は安井稔取締役を軸に検討",
-      "source": "newsdig.tbs.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sNDZZOUlaYnlwclJQOXhkdE9kMUdOSXQtS1VGa1dLWmxaTTFWSm9OMEhEa05UX1ZfTVdaUno5OHJqVTBKLVpnRzk3dWtrTXZHdTZXZmxmaw?oc=5"
-    },
-    {
-      "time": "9/13 23:11",
-      "category": "経済",
-      "title": "【速報】米大統領、AI開発規制の議論けん制",
-      "source": "47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3RzBucTJNU09zWWc0T0Vrc3hGZm9HcE5hclZqWDN6alNkWUh2YmFDb3dJbW9OZmJRYXpNaDlBWmdIRkJTZmFYLU9OWQ?oc=5"
-    },
-    {
-      "time": "9/13 18:38",
+      "time": "9/14 20:52",
       "category": "総合",
-      "title": "岐阜のケーキ店放火殺人事件、店主の死因は熱傷性ショック",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14cTcxaEtFRWhBcE81dnBMQV9QcVhqOXF5a0o0WHBqSWlBMDl1Ti13d0NPTVhGa1djakJwNEdTdXNjWWlNQThydFVyZldWVkp1bUtmdU1oSnBiekk3X082bmlnVDQ4Zw?oc=5"
+      "title": "葬祭業男性に「腹を殴られた」 ケーキ店救助の男性、県警へ証言",
+      "source": "NEWSjp",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16cUZpZzhqWEs4ODFhUjBzeGw5bXlYbzZyNHRJWk93V3F0YVBIaXZTYmJVeHpjUWEwLVR5X1E1aWdNWVJseFNCRmVnUEZEdw?oc=5"
     },
     {
-      "time": "9/13 15:10",
+      "time": "9/14 20:30",
       "category": "テック",
-      "title": "AI生成の料理写真は「不気味の谷」、これほどの反発に遭う理由は？（CNN.co.jp）",
+      "title": "AIで“金髪の私”を生成→「リアルに近づけて」と指示したら……「立ち直られへん」 まさかの結果に「えぐいわ」「お腹痛い」投稿者に話を聞いた（ねとらぼ）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PR2I0OFBCbnNiSnl5MUZfRnRlMjdTb0lMbVJBMHlveVJlUDFXZkVLZ3owYWtKV3ZBX192RkltSkxiTE5vajJvUUc5OExpb3hmWHF2X2FWdWJxNENPOFY2NXd4a3VFOG1nTkpQTm9iUTJ1aHdOMTBOSWdHMWJNUlk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kb1dpeXFvWl9EbjVCTnFUamd6LUZNcDY3Q2E1d0hFSFlfUTFxOW52bEw0RlJmcnNPTVprZDJSMGM2c1U0ekFBWkQxODk0UHlPUmk0WXZpLUZ4dlNDS3I0Q1p3Q3U5U252d0xrYVduYVNkbnhHa0o3anNDLVJIV0E?oc=5"
+    },
+    {
+      "time": "9/14 20:17",
+      "category": "総合",
+      "title": "辺野古米軍キャンプ・シュワブ前で市民が怒りの声 古謝氏当選で",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93Y1dOZmNLbFd4eFJyNzk5TktCNVI1M1lqWVd1T2RPLXNQMjMwOWpOd3ZmWWY3SkRTbjREMnJsR28yU2Z2RDVNSXJfbnUwc3JIbkZLTGZZbk9ESzZHal83NzdaTGxmOGhL?oc=5"
+    },
+    {
+      "time": "9/14 19:41",
+      "category": "総合",
+      "title": "立憲系新党名称「民主改革の会」「民主改革フォーラム」軸に検討",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxRUZITE9neEdCTVVvMDEtcG8tLWJZMmdrZE5kQ0ZVLXpsMmNaZGhHOW5WdmxMNTc3OWZ1bllsanEtcWVaajh0UFR1WXpuMEdqdUZla3RjM1A2RGEyRjJsaUpsN1lwTnYy?oc=5"
     }
   ]
 }
