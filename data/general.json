@@ -1,92 +1,85 @@
 {
   "edition": "総合",
-  "date": "2026-09-15",
-  "generated_at": "2026-09-15 06:07",
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16 06:07",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "05:00",
-      "category": "経済",
-      "title": "「10電力体制」再編論、再燃も 中部電力に浜岡原発白紙で減損リスク",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oODZrdm5mQjJHekpZeXV6VUVlMlVDMEZkdTZLaFY0dHJ5MTZod1p3ams3NnJ3emMwM21sdHVKdTVTUUp3QVBXQWlOdDNSNE9xQWFpZXZ2c0xSQm9XRmlSaW1ra1lNRUlnUFdNdQ?oc=5"
-    },
-    {
-      "time": "01:47",
+      "time": "02:55",
       "category": "国際",
-      "title": "トランプ氏、イランは合意望むと主張 米の関与は自身が決定へ",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX19HaDYwZ2MtaS1OMTRxcEdXOUcyQXFGSG9kbW14c1lsQnZCdWJUUl9GWEZremVscU9lcllnY2RnX2tZbm5aVXlXbXI0dE9OVVBXUGtzeVhtbGJpZnlOYUREdG02SnFqVW91OEwtX1lINWVIMEJkX3JsTGNzMzZRYVZ0TnQ0dw?oc=5"
+      "title": "ベッセント米財務長官、中国・何立峰副首相と今週末に会談意向…米中首脳会談を前に「対イラン」など協議",
+      "source": "yomiuri.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EX3hpV1FTR1RRTDllc3dZc1hTQ1ozbEU1MmtiR1VpX2trR3gxdlBWUUhXN1l1Sk02NzJVQkhhdHhCV252cGlacTRfX3IwMHVWWDZEOTNtQURwUElIYmhJZW5nUU4?oc=5"
     },
     {
-      "time": "01:32",
-      "category": "国際",
-      "title": "トランプ氏「ウクライナがロシアのエネルギー関連施設への攻撃停止に同意」…ロシアも同様と投稿",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51aXZIbDE2Tjl0eFFVUEFtcm5kbEdqZjFmM0RhalRVWDA0ZHdpYmNKSTRya2V2WGVBdFVGTDF2MmpOSEpCRHFkZFZiZnRYY2NDdGV1Qlg3b0k5M2dTVlJMOXdR?oc=5"
-    },
-    {
-      "time": "00:00",
-      "category": "経済",
-      "title": "光通信、レオパレス２１買収へＴＯＢ実施発表…取得総額２７００億円の見通し",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZVWF4WTU4U3Vkc2Y2Wmh0RUZZZWVPcWlIVkRqcm54LVhkSmJSbE1vMFBCRWlOWXdjMThTM29vV2pwNnRnMnVRLUZjalFHaDg4cmNUS1hheWtVaF9rcVJrTG50V1g?oc=5"
-    },
-    {
-      "time": "9/14 23:06",
-      "category": "経済",
-      "title": "米長期金利、2年11カ月ぶり5%台 インフレ・財政懸念で債券売り",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wUG9zTDlYZm1RNF9VN0ZoNEJLaDFYZkZsa3JZalI3TkJtQi1KR082QzB0S2MtZ3ZGS01aakFsT2Fjc3VGcnNOM21pWkdFbXQzRkpHMktUY1pkVTNZY2RRVDZrRTJiWkM4SmtEUg?oc=5"
-    },
-    {
-      "time": "9/14 22:42",
+      "time": "9/15 23:08",
       "category": "総合",
-      "title": "台風発生予想 シルバーウィークに影響懸念 次に発生すると「台風25号」",
+      "title": "反政府勢力フーシとの対立激化でサウジアラビア苦境…産油の紅海輸出に打撃・価格高騰長期化の懸念",
+      "source": "yomiuri.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDczF6Wm1IRFhKTllkU1FvRnYzajZFSDdMRWJBaXZUSjhpa2xlaFU3ZzVJOUZzazBWbmFqdHhMOEEyU1V0b0pIRm5ETEh2azd2NzdIZThIMVBnem9rMFdyeFpR?oc=5"
+    },
+    {
+      "time": "9/15 22:15",
+      "category": "総合",
+      "title": "台風発生予想 シルバーウィークに接近か 次に発生すると「台風25号」",
       "source": "ウェザーニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sRTU4S1RleVBESEwzZUdUMS1Zdlg4U0NicU9tRktxZnZBZGxSWEVTa3FrSFZMQmFtZ2VRWTFmUG1JUWxoblAtYk9XTDZodmdrNGRjdg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoc1FiQTU0UHFqcTJfcUVDUUVhZXFLMkc4N3RuT0tWTTk0Vy1JX2RmOUpuckthRUNLQ3lXVnE4dkozMk9MV0VDRkRYM2lxVmJyMUo1Rg?oc=5"
     },
     {
-      "time": "9/14 22:30",
-      "category": "社会",
-      "title": "【台風情報】台風のたまごの進路予想 24時間以内に台風へ シルバーウィークに本州直撃の可能性も 休日の予定に影響か 今後の情報に注意 16日かけても東海など大雨注意",
-      "source": "FNNプライムオンライン",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oN0hZMFRSUjBDTmlTZVI2VzJHaXJuTkpuZTJSNVBqNlNsUEllNDF3NVRfVnJoSFJiZGNNYzRFZGNGYzVJdERjS19uTk5hUQ?oc=5"
-    },
-    {
-      "time": "9/14 21:07",
-      "category": "社会",
-      "title": "若い世代で古謝玄太氏への支持３倍超、７０代以上を除き玉城デニー氏を上回る…沖縄知事選・出口調査",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04aFVuREw2NGxjamtJTnYxR1B4TlZaazN4RWp0aVI0eFpYSXdneGtSQUlzWnc2LXl4OFAxNnhDVElicFIwNThDamIyek03WENiQllsT3B3cjZYam54Rk85MTNmS1Nfdw?oc=5"
-    },
-    {
-      "time": "9/14 20:52",
+      "time": "9/15 22:14",
       "category": "総合",
-      "title": "葬祭業男性に「腹を殴られた」 ケーキ店救助の男性、県警へ証言",
-      "source": "NEWSjp",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16cUZpZzhqWEs4ODFhUjBzeGw5bXlYbzZyNHRJWk93V3F0YVBIaXZTYmJVeHpjUWEwLVR5X1E1aWdNWVJseFNCRmVnUEZEdw?oc=5"
+      "title": "通信が途絶える直前、通信装置との接続不良が発生 「墜落」のグローバルホーク",
+      "source": "産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5WVpJVUpuSlFOb1NQR0JlVDVqSXVjOTFMalpkUlphN0JTbklRa19YSGVQdXNfVWoweThiUmtLZkUyNmxRanBqVEhqMmtHTE04bEtRUkI0RHZ6WW9CeVQ2WGdyZXgtR0dEaS1tdE5RNW9RV0dYUmc?oc=5"
     },
     {
-      "time": "9/14 20:30",
+      "time": "9/15 20:22",
+      "category": "総合",
+      "title": "与野党に太いパイプ、石井参院幹事長交代へ 国会審議に影響か",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0LXQxMm1BMXItSXpfMWg3ckxnTGlRcEdyYkJ2eXBLaXpNNzUyNWZQd0cxOFNTUUNHOHR4Vkl3cDEtNkZ5TUVXLWFtYk96UVM0eE1VeHpWb1k5OC0yTW1PQVNueEZfclUy?oc=5"
+    },
+    {
+      "time": "9/15 20:10",
+      "category": "経済",
+      "title": "地価調査 全国で5年連続上昇 住宅地商業地とも需要堅調の中で",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CRzdGYXRwRXRVd1NZb3dsSkZlRjlBOXJldl96Q0pEay0xVnlNTUZGZlJLRnZWYVFhR1FlZE42MWE3TDJXMzQ1c3NqOXFlNFBYOW4zZVpqZVByOHpBOF9R?oc=5"
+    },
+    {
+      "time": "9/15 19:05",
+      "category": "経済",
+      "title": "［社説］税制大綱は消費税減税の財源をまず示せ",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XcUFfQ1BpSUVTZVAxTkVnd0tkM0ZFU1JtM3Z6dU1pNUFRYUlhUkZseTRMR1Z5T0FqOF9mYnNheG5YT21hMS1kV3UzaWFxeGtGcEF0TXB5b2lmOGVpYjBRVFNSVXVGcDVFZ25kcA?oc=5"
+    },
+    {
+      "time": "9/15 15:41",
       "category": "テック",
-      "title": "AIで“金髪の私”を生成→「リアルに近づけて」と指示したら……「立ち直られへん」 まさかの結果に「えぐいわ」「お腹痛い」投稿者に話を聞いた（ねとらぼ）",
+      "title": "空自グローバルホークが鳥取県沖で通信途絶 3機保有、機体不明は初めて（高橋浩祐） - エキスパート",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kb1dpeXFvWl9EbjVCTnFUamd6LUZNcDY3Q2E1d0hFSFlfUTFxOW52bEw0RlJmcnNPTVprZDJSMGM2c1U0ekFBWkQxODk0UHlPUmk0WXZpLUZ4dlNDS3I0Q1p3Q3U5U252d0xrYVduYVNkbnhHa0o3anNDLVJIV0E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZDVzdlBETklKVHd1LTR1aWw4OHNQRWxJNWd4b1dIVjJDb29KRGlqWmQxR283LUpwUEVpQk42SWROMFJxblZta2dnMjBsRElEWWxveFhKT296UTFGSGhPSUZuSGxQbjZyZV9HVm1raXRWbGhCWkRocmhXR08zamo5by1OMWJzLTQ3?oc=5"
     },
     {
-      "time": "9/14 20:17",
-      "category": "総合",
-      "title": "辺野古米軍キャンプ・シュワブ前で市民が怒りの声 古謝氏当選で",
-      "source": "毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93Y1dOZmNLbFd4eFJyNzk5TktCNVI1M1lqWVd1T2RPLXNQMjMwOWpOd3ZmWWY3SkRTbjREMnJsR28yU2Z2RDVNSXJfbnUwc3JIbkZLTGZZbk9ESzZHal83NzdaTGxmOGhL?oc=5"
+      "time": "9/15 11:30",
+      "category": "テック",
+      "title": "Nintendo Switch 2 / Nintendo Switchの本体機能をバージョンアップ。新しい機能をご紹介します。",
+      "source": "nintendo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmRCQWZLOXoyT2lNRzBRMlBaT1dCNXZ5cTBGa2dtRHoteGJCMmpsRTYyRENCSnVEWnNRR1dUY21QcWIxY2xzbWh5bm1sOTZpY1RDeDlqQk9zdVBQTFB0QWdKcFFLZzBnMjZpM185WWM4cGxIV0VXcmJOTm9KOE5qWFhobnJodw?oc=5"
     },
     {
-      "time": "9/14 19:41",
-      "category": "総合",
-      "title": "立憲系新党名称「民主改革の会」「民主改革フォーラム」軸に検討",
-      "source": "毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxRUZITE9neEdCTVVvMDEtcG8tLWJZMmdrZE5kQ0ZVLXpsMmNaZGhHOW5WdmxMNTc3OWZ1bllsanEtcWVaajh0UFR1WXpuMEdqdUZla3RjM1A2RGEyRjJsaUpsN1lwTnYy?oc=5"
+      "time": "9/15 08:59",
+      "category": "経済",
+      "title": "世界のＡＩ関連株が急落、業界トップらが開発減速を呼びかけ",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1V5ZEdScTRQX3NoY3dDck1tWEZhSFFSVlhLVmFQenEwWDMwN1lxSzlmX3dxYkVkX0d2TTRlcEN6bTVUdnRDTGUweXpNcFRweUQ2dzhkNXdFQWxRUlNtQmYxcjV0dnNzUHBIUnRsSDVlRjZWX0E2cXdLRUhNZno1cUJEZjNvQQ?oc=5"
+    },
+    {
+      "time": "9/15 08:05",
+      "category": "科学",
+      "title": "「一瞬の退屈も我慢できない」SNS中毒“ドパガキ”ってなんだ？ その心理と、日本以外の状況（ITmedia Mobile）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fcmFiR1NsUVBkbGVfUVhrUG9KQmdMTmNqd1hUMGpIN1pycEdJd1hfLVFYMU02LVVHRjdNdXdub1IyRmVFemhVMVN0RE92RG1CWGJwS281RTkyMVhfdDNEdmp3elJQODU0TjBLVzIyeDAxTUtkcUZLWjBBS2pXVmM?oc=5"
     }
   ]
 }
