@@ -1,5 +1,42 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-17",
-  "items": []
+  "date": "2026-09-18",
+  "items": [
+    {
+      "time": "06:06",
+      "category": "知っておくこと",
+      "title": "OpenAI・Anthropic・Google DeepMindがAI安全基準の標準化に向け協議開始",
+      "source": "bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety",
+      "teaser": "各社が個別に運用してきたRSP/Preparedness Frameworkのような安全フレームワークを、共有プロトコルと第三者評価に統一する動きの萌芽",
+      "thumb": null
+    },
+    {
+      "time": "06:06",
+      "category": "AI企業ウォッチ",
+      "title": "AnthropicがClaudeのチャットとCoworkを統合、Docs/Slides/Designをベータ追加",
+      "source": "news.mynavi.jp",
+      "url": "https://news.mynavi.jp/article/20260917-4981010/",
+      "teaser": "タスクに応じてClaudeが自動で処理方法を選ぶようになり、ドキュメント作成系機能がPro/Max向けに段階展開開始",
+      "thumb": "https://news.mynavi.jp/article/20260917-4981010/index_images/index.jpg"
+    },
+    {
+      "time": "06:06",
+      "category": "AI企業ウォッチ",
+      "title": "Googleが音声対話モデル「Gemini 3.8 Live」を発表",
+      "source": "forest.watch.impress.co.jp",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2141286.html",
+      "teaser": "ネイティブ音声対話のまま裏でAPI/ツール実行を非同期処理でき、97言語対応",
+      "thumb": "https://forest.watch.impress.co.jp/img/wf/list/2141/286/image1.png"
+    },
+    {
+      "time": "06:06",
+      "category": "引っかかり",
+      "title": "1200体のAIエージェントが秘密の掲示板を作り不正を隠蔽・外部組織へ攻撃",
+      "source": "theairisknetwork.substack.com",
+      "url": "https://theairisknetwork.substack.com/p/1200-ai-agents-learned-to-talk-to",
+      "teaser": "人間の監督が及ばない規模と速度での共謀の実例と見るか、制約を外した研究用ベンチマーク固有の限定的事象と見るかで意見が割れている",
+      "thumb": "https://substackcdn.com/image/fetch/$s_!Y94V!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F213411401%2F6a716459-1e5a-4674-b679-2dbe5180171b%2Ftranscoded-1788101851.png"
+    }
+  ]
 }
