@@ -1,15 +1,33 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "items": [
     {
-      "time": "06:03",
+      "time": "06:04",
+      "category": "知っておくこと",
+      "title": "【2026年10月改正・税理士監修】仕入税額控除の経過措置が2年延長",
+      "source": "sogyotecho.jp",
+      "url": "https://sogyotecho.jp/inputtaxcredit-extension/",
+      "teaser": "控除率の段階縮小と2割特例終了を分けて押さえる",
+      "thumb": "https://sogyotecho.jp/wp-content/uploads/2026/02/22c4e49e65883696c7b1840eae60f7b2.png"
+    },
+    {
+      "time": "06:04",
       "category": "AI企業ウォッチ",
-      "title": "Anthropic says its model Claude is helping to build the next version of itself",
-      "source": "nbcnews.com",
-      "url": "https://www.nbcnews.com/tech/tech-news/anthropic-says-model-claude-helping-build-next-version-rcna598494",
-      "teaser": "2月ゼロだったClaudeの次世代開発への関与が、8月には四半期R&Dの26%に達したとAnthropicが公表。",
-      "thumb": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/26060-anthropic-claude-mn-1230-9ae15b.jpg"
+      "title": "Anthropic、Claude Platformにオンデマンド会話圧縮を追加",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "teaser": "圧縮タイミングをユーザーが制御でき、直近ターンは単語単位で保持できる",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=2"
+    },
+    {
+      "time": "06:04",
+      "category": "引っかかり",
+      "title": "老朽化した基幹システムを放置せよ、刷新プロジェクトはもはや無理だ",
+      "source": "xtech.nikkei.com",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00148/122500415/",
+      "teaser": "大型刷新の失敗が続く中、全面刷新か既存維持かで意見が割れている",
+      "thumb": "https://xtech.nikkei.com/atcl/nxt/column/18/00148/122500415/topm.jpg?20220512"
     }
   ]
 }
