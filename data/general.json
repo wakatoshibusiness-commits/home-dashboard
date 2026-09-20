@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-09-20",
-  "generated_at": "2026-09-20 06:06",
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21 06:06",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "02:00",
-      "category": "経済",
-      "title": "日本生命、データセンターに2兆円融資 日本マネーが米AI開発の軸に",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LRGRmUkhlR21hcXNVWm52U3A1RklheG9tMEVYbmxDZUtNTUVOT0hSTFRhTWwzYkF2YlN5R3czcTZHczR0SEZzSWhKYWxYQzVSQVk2WTRlMk9OVm9IbE9RUXBxMEp0UEFrVEZZYw?oc=5"
-    },
-    {
-      "time": "00:00",
+      "time": "02:53",
       "category": "総合",
-      "title": "米、対露制裁法案が成立…ロシアからエネルギー輸入多い国に最大１００％関税可能",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43cDVmeXN3a2hQOXBnZHhvQW9CTW9KU016SGlrVEg5ZThXc3hCdmswR0FTY09GTkY1RnZzV3dPR1laS0NRYVI4cEN1WEdRMzRTanFHMnR6Nnl6U1NwdTJMa3dB?oc=5"
+      "title": "千葉 佐倉市の土砂災害警戒区域・特別警戒区域に緊急安全確保",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GS3otRHUwZjRiSGVORWxhOWxFaDRNbWdTaGc4THl5b3RxS0l5WWpTNmRwMUxRYUxZTDlTY1Fyam1kU0pVajVvRUQ1UFhZZmtDbFFzdVJxdjRIdVpIQ2lF?oc=5"
     },
     {
-      "time": "9/19 23:30",
-      "category": "総合",
-      "title": "爆破、殺害予告のほか「事業所に危害」脅迫も 沖縄知事選で初当選の古謝氏に辞任要求",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zSE5RTzdnWGdFSkZVNEZEOU5zSUZuZzJISFNHQ1ZaSkZXVGptUERPUlNRb2FhdmRGdm1xM1l2bjZDYVNvbURLcWZRdTI4UnhfRTVTaGpMYjRSTmswNDdzRG95LW5TYjU2NFEtT2tQelhPcUtwWlE?oc=5"
-    },
-    {
-      "time": "9/19 22:36",
+      "time": "01:55",
       "category": "社会",
-      "title": "【台風情報】大型で強い台風25号の進路予想 19日午後9時現在、日本の南にあって毎時25キロで北北西へ 中心気圧970ヘクトパスカル、中心付近の最大風速35メートル、最大瞬間風速50メートル",
+      "title": "千葉県内にレベル4大雨・土砂災害危険警報 台風接近でさらなる雨量増加に警戒",
+      "source": "ウェザーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nbTZyYmlBZ2Q2a013Q3V2MFhVN3ZGbEhtNC1xcVp6ZnZrbmZHSk1xODAzeWVKZVZLNDZfbnFBWGhiOTNoaHB6VFR1bWFza3BNbHFBZg?oc=5"
+    },
+    {
+      "time": "00:29",
+      "category": "社会",
+      "title": "関東甲信、東海に「線状降水帯半日前予測」 東京、神奈川、千葉、埼玉、茨城、山梨、静岡、伊豆諸島 気象庁が発表",
       "source": "FNNプライムオンライン",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0ycUMza0ViQzFsQTg4Mnp0ZjhHVkhTdDQ5cEJiZ2wtWWtwOFpPZ2U0RGRwZl9rX3VOcDMtd3VsZVBzS0FDd0dydW1ZM0t6UQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzdmNHWnJCVEJxMm5HLXcwU29VRzJrZEVCeFM4bGxvYnlkajJwMXlRbGpOcUR6dkp1RDdibjVyNk9NRk5zZFBESUlmQjY3Zw?oc=5"
     },
     {
-      "time": "9/19 22:05",
+      "time": "9/20 23:59",
       "category": "総合",
-      "title": "【 今後の雨と台風情報 】最大瞬間風速50m/s 台風25号（ドゥージェン）は「強い」勢力に 東日本や東北は22日ごろまで大雨警戒【今後の進路予想と雨風シミュレーション・19日午後10時更新】",
-      "source": "TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOWWUxOTM5RS1LUHAzbGVJXzNQNXYydTZ3b1ladWh2TllVWjhFMzRSOGRnbW01VHBucVdES0ZldDNfSnhZWWd1LUdMTUdhQlBURFlWUWNsbw?oc=5"
-    },
-    {
-      "time": "9/19 19:57",
-      "category": "国際",
-      "title": "【速報】サウジ首都の空港近くで炎と煙と報道",
-      "source": "47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00Q2xfMFAwTFVjeWJsQnh4NHlrenVBLWpLRS00N2dJdnBieGZYSjk0RW9JUDJtMjVoUTEzUWQ1VkFqa0RqdGhOWUtINA?oc=5"
-    },
-    {
-      "time": "9/19 19:32",
-      "category": "経済",
-      "title": "グーグルのＡＩ「ジェミニ」も暴走、企業のシステムに不正侵入…サイバー攻撃能力調べる試験中",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FZFpGcnBJRmlPZ0hiZVZBQzlwa1JwZldtRURSSWdfTy14R0FHZVNFeWQ0TWdvSEVNenJ5MC1RbUlFT1J6NkMyc2RtdURKQjc0dWFreG9mdVR6b0E0c3JfTmlSMGU?oc=5"
-    },
-    {
-      "time": "9/19 18:47",
-      "category": "科学",
-      "title": "人工視細胞を開発 ブタで効果確認、視力回復に期待 遺伝研など（毎日新聞）",
+      "title": "露下院選の最終日、首都周辺をウクライナが無人機で大規模攻撃し死傷者…厭戦気分高める狙いか（読売新聞オンライン）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJbFZheW1DQnRBSmtVb0h2U1BNdjF2OUx3UXgtdkNIR3R4RjFsdlFVTHQ1aktzMF9VbUtCQjF5QklyQ0x2NXZMUEdneHF4NWt0THU4cVY5dFFLamYzZGZheEprOVlIcUVrYUFaVG92QVdUdldYM3VlSXFkd1gyaTg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lb3lOaWdya2g3R1BFOGhHSTBxN0w2bmpPX3RsYnl3M3pFOUNSQVV6R3NaNkIyOU9DSlJmTUdNMjhtamRBSUFtOHRUUU93U3pteldlT1hxUjZ2S0txUzhyMXpmN2Nkck05a1JDREN4ckZoWFZBSjVTQ2dWeWozLVU?oc=5"
     },
     {
-      "time": "9/19 18:18",
+      "time": "9/20 23:58",
+      "category": "国際",
+      "title": "露下院選の最終日、首都周辺をウクライナが無人機で大規模攻撃し死傷者…厭戦気分高める狙いか",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zQk9sa2xDT0ZRVE5nd2hGWTQwTVhHRWNja0RqZ3JQX0RRUFhqZ3BlX2lLNThBeGs1bngzVXVadGlZcFNIOXRoNmpEZmtmQ1pweE95QXVKa1FMa09tTHJ6ZTV3?oc=5"
+    },
+    {
+      "time": "9/20 22:14",
+      "category": "総合",
+      "title": "東京・善福寺川が氾濫の恐れ、中野区と杉並区にレベル４氾濫危険警報…２階への避難など浸水警戒呼びかけ",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fak5XYWtUSC1tNDVMZE9qb3BRY1hPLTRubXZkNjVGeUp2dTdsWEpPWkxnazZXQXRjWnh6ZWlNVVZJUGVkRUEycWlLcDlZZS1lMVdKcjI1eEotQlZWTW5Wek9RVGxCUQ?oc=5"
+    },
+    {
+      "time": "9/20 21:20",
+      "category": "総合",
+      "title": "高市首相が「大変残念」にとどめたワケ 世論の反発予想も米国最優先 [高市早苗首相 自民党総裁]",
+      "source": "朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13c2lBTkRpb3FuVUFZWFVNb0w4Y3pJOWh5Zi1kTmgzN0tnRmZUcVcySllvclFKR3dWOVREYkNZY1pIZldzTTBjR3NfQmhINHF4YXFXVlNCWEYyS01KZjhzTkI4aXE0V28?oc=5"
+    },
+    {
+      "time": "9/20 20:00",
       "category": "テック",
-      "title": "Geminiが他社システムに侵入",
+      "title": "ウクライナがロシアに対しこの戦争で最大規模の空襲を実施、FP-7ペリカン弾道ミサイルを初投入（JSF） - エキスパート",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pWlo4LXlkVkZfSDBqeFQtd3pmV2xiNFhITEVFNG9MX3pSZjI0T0tkYUNxWVEtaXpYQTVfUlNCQ3NYTE8zWmFjQjlpWWh2eE5N?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUUszSlAwVHktVW5taXFkakdSZnU4WXNlM1c0SlBKZXl2TmdQTzRCbVpkM2NUMFZIZWgwWUNpZnkxcGw0dllVenhHUnRqSUdMSDJHa2xtNkJTeUFPTmVXWjhDUG1POGVkMDkzU29kaExIbHRzWEtqM2Q4alpjSmhMaGd4UUFrY1hz?oc=5"
     },
     {
-      "time": "9/19 16:03",
-      "category": "総合",
-      "title": "サウジアラビア、首都リヤドで異例の空襲警報を発令",
-      "source": "bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UN3UtREVwZHdIZEVGM3FsaVNfb3Y4V3NMMGY2NUdVWHRSeWtaRk1oZlRFT1hxQU5ZX2xBeXdjOFoyQVc3aGVCcTExUnlPRlJURERMZlFNUkpvcEUwQnJhTk5WSkVhUkh4Y29YaUZDSkw3WVp0MjdR?oc=5"
+      "time": "9/20 17:42",
+      "category": "テック",
+      "title": "墜落の空自無人偵察機 一部回収",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MOUh6N0VTNng4R1NJQ0tMaDlVOTdEYWtiTmFlaU5aandZZkZKcm5xNDROR2wwcHJKZmVnS2Q4VFhjVC00cWI0OVU1UGg3T0pJ?oc=5"
     },
     {
-      "time": "9/19 11:45",
-      "category": "国際",
-      "title": "２４日に米中首脳会談、ＡＩ・関税・レアアース議題…晩さん会はマスク氏やアルトマン氏ら企業幹部も出席",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CS3REZ2NmX0JKNnNxQ19scmx3TFJiXzJzaXNoMDFDZG45WWhpWkxRaWdhZ295dUdPbkE5QXROZnN1bld0dnpzaUlxSFl4SmNZOG9yT3c1N19LYS1UYU1IdWZn?oc=5"
-    },
-    {
-      "time": "9/19 10:00",
+      "time": "9/20 17:00",
       "category": "経済",
-      "title": "日銀利上げ「セオリー無視の愚策」金融機関優遇で労働者軽視、賛成委員は不勉強 高橋洋一 日本の解き方",
+      "title": "高齢者人口2年ぶり増の3624万人、働く人は最多943万人 総務省推計",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DbGJ0NHJ6RU1qYklDM1FCV3ZCTWhiZGhWSmJremN3U01qQnRPZi1JMnNFeTdvMUpuR1FUQVJsbmVWck9pS1FfajBncmdvcFg0dy1lLUg0UXNMV1Vlek1idmFCN1dOQTBMNmxPQw?oc=5"
+    },
+    {
+      "time": "9/20 15:37",
+      "category": "国際",
+      "title": "トランプ大統領、急きょホワイトハウスへ 米メディアはフーシ派攻撃の可能性を指摘 国務省は中東滞在の米国民に「強い警戒」呼びかけ（FNNプライムオンライン（フジテレビ系））",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxOUE0TlluS0c1QVlGT1h4MFZxZ014alFuamxxSDVzRkxJdEJYVm5TZ1IyazliWGswc2xXOHlPODRER2ZaZUE4S3VOZGVjWHRjVnIxbUo5Sjd4czFQYjVkRzdtcTBfNWswTnJQNU9aajRKRjh6czFlT0tMZWN5LUk?oc=5"
+    },
+    {
+      "time": "9/20 15:27",
+      "category": "経済",
+      "title": "政府備蓄米を早期に追加買い戻し 簗農水相「需給調整ではない」食糧安保が目的と説明",
       "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMkJxR2dfWHhvR25MMkdMSjZtN0dFTzRJME9iYjZJZ3RnUHNwUklycno1bUgyU0M1ZVZQTTJLa0FIWW1XNzlsaC15UDA2V2dOUXJ0MVQyOHRBc0lHYjhRR2ltZTZ5T2QzQ3JISHBNM3hpT3pPX2lwZXFVMllfQ3JqZnhQa3gxcFVQT1pnU3RNbjZmeU9mWWk2azM3WE8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DTEdXWkNqQUNuMlZqd0VQU0NQZEw2S1Q2aXUwUE9qMzFlRVM1MzRFX3BBZ0N4T0psZy1UY0ZFMnR1NG9Id3NvUEc2d1dZdTNzamhvRmFGTHJERkxwMlVydDlSc2ZQcnkwQTdFdG1yRnZWSWMwLWc?oc=5"
     }
   ]
 }

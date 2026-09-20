@@ -1,33 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "items": [
     {
       "time": "06:04",
-      "category": "知っておくこと",
-      "title": "【2026年10月改正・税理士監修】仕入税額控除の経過措置が2年延長",
-      "source": "sogyotecho.jp",
-      "url": "https://sogyotecho.jp/inputtaxcredit-extension/",
-      "teaser": "控除率の段階縮小と2割特例終了を分けて押さえる",
-      "thumb": "https://sogyotecho.jp/wp-content/uploads/2026/02/22c4e49e65883696c7b1840eae60f7b2.png"
+      "category": "AI企業ウォッチ",
+      "title": "Google、「Gemini 3.8 Flash」と「Gemini 3.8 Flash Cyber」を発表",
+      "source": "helentech.jp",
+      "url": "https://helentech.jp/news-gemini-3-8-flash-internal-test-90620/",
+      "teaser": "コーディング系ベンチでOpus 5相当をうたう一方、価格は12/31まで入力$0.75/出力$3.75、2027年1月から倍額に改定される。",
+      "thumb": "https://helentech.jp/wp-content/uploads/2026/09/news-gemini-3-8-flash-release.webp"
     },
     {
       "time": "06:04",
       "category": "AI企業ウォッチ",
-      "title": "Anthropic、Claude Platformにオンデマンド会話圧縮を追加",
-      "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "teaser": "圧縮タイミングをユーザーが制御でき、直近ターンは単語単位で保持できる",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=2"
-    },
-    {
-      "time": "06:04",
-      "category": "引っかかり",
-      "title": "老朽化した基幹システムを放置せよ、刷新プロジェクトはもはや無理だ",
-      "source": "xtech.nikkei.com",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00148/122500415/",
-      "teaser": "大型刷新の失敗が続く中、全面刷新か既存維持かで意見が割れている",
-      "thumb": "https://xtech.nikkei.com/atcl/nxt/column/18/00148/122500415/topm.jpg?20220512"
+      "title": "Anthropicが2026年9〜10月のIPOを計画",
+      "source": "businessinsider.jp",
+      "url": "https://www.businessinsider.jp/article/2608-news-anthropic-sets-fall-ipo-eyeing-trillions/",
+      "teaser": "Series Hの評価額$965Bに対しIPO時は$2T規模が見込まれ、NVIDIAが$10B投資を検討中。",
+      "thumb": "https://media.loom-app.com/loom/2026/08/11/5ae87324-cfc1-4478-adb1-ce2fe7cc67eb/original.jpg?w=1200&amp;h=630"
     }
   ]
 }
