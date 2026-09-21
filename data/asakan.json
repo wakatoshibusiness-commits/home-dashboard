@@ -1,24 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "items": [
     {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Google、「Gemini 3.8 Flash」と「Gemini 3.8 Flash Cyber」を発表",
-      "source": "helentech.jp",
-      "url": "https://helentech.jp/news-gemini-3-8-flash-internal-test-90620/",
-      "teaser": "コーディング系ベンチでOpus 5相当をうたう一方、価格は12/31まで入力$0.75/出力$3.75、2027年1月から倍額に改定される。",
-      "thumb": "https://helentech.jp/wp-content/uploads/2026/09/news-gemini-3-8-flash-release.webp"
+      "time": "06:05",
+      "category": "知っておくこと",
+      "title": "Claude DesktopからMFクラウド会計に仕訳を切る——MCPで「会計AIオペレーター」を作った話",
+      "source": "note.com",
+      "url": "https://note.com/kentaro_ajisaka/n/n7938030e28b1",
+      "teaser": "MFクラウド会計の仕訳登録をMCP経由でAIに任せる実装例。「人が承認する層」の作り方がそのまま自作ツールの参考になる",
+      "thumb": "https://assets.st-note.com/production/uploads/images/250213308/rectangle_large_type_2_77d3b46ad276822fde7066e0e5ff543c.jpg?fit=bounds&quality=85&width=1280"
     },
     {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Anthropicが2026年9〜10月のIPOを計画",
-      "source": "businessinsider.jp",
-      "url": "https://www.businessinsider.jp/article/2608-news-anthropic-sets-fall-ipo-eyeing-trillions/",
-      "teaser": "Series Hの評価額$965Bに対しIPO時は$2T規模が見込まれ、NVIDIAが$10B投資を検討中。",
-      "thumb": "https://media.loom-app.com/loom/2026/08/11/5ae87324-cfc1-4478-adb1-ce2fe7cc67eb/original.jpg?w=1200&amp;h=630"
+      "time": "06:05",
+      "category": "引っかかり",
+      "title": "AI各社のトップが「減速」を叫んだ日、それでも誰も止まれない開発競争を縛る「囚人のジレンマ」",
+      "source": "jbpress.ismedia.jp",
+      "url": "https://jbpress.ismedia.jp/articles/-/96989",
+      "teaser": "AI各社トップが減速を訴えても競争は止まらない。安全性と速度をめぐり、業界内で意見が割れている",
+      "thumb": "https://jbpress.ismcdn.jp/mwimgs/5/a/1200mw/img_5a47ed7c5b6aa34b69932152d6226bec1231521.jpg"
     }
   ]
 }
