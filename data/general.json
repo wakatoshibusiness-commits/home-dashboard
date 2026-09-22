@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-09-22",
-  "generated_at": "2026-09-22 06:06",
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23 06:06",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "03:38",
-      "category": "経済",
-      "title": "中国AIのKimi、米クロードに｢代理回答｣させる アンソロピックが指摘",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YeGNUVldWcHhIc2tvQVEyT291Y3I5dUN0eDc3VDdXMjYxSUUzd1gzLVNEY2pqVkt3cDJfcmp0TVk3OTFfRUxkUFpDZVdGU0h4YnNOb1hCQS0tUjkxUHdSN1NUUnZ6OEl3OW85Vg?oc=5"
+      "time": "04:44",
+      "category": "総合",
+      "title": "高市首相とトランプ米大統領、約３５分間会談「日米同盟の強固さを世界に示せた」…ＩＣＣ巡る率直なやりとりも",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ESzNBckJlNjRhZE5vYTlKS2N0THg3SThzdWhJMFRxeVpXWFlzM3RmSV9IWm9CeHdIUDd5UVdiNlZCTjZVLXdGU0RqTmhuWDFFMHNoNFE2d3hKOUhJV2JubmlsblZLQQ?oc=5"
     },
     {
       "time": "02:00",
-      "category": "総合",
-      "title": "【台風25号】関東各地で被害 神奈川 横須賀では60代女性死亡",
-      "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82WVNEamFCbW9oZGxVaTZSUVpmbTRxaUtpQzFLa1Q3M2gyTVNjTmZZZWQ1NmhoT3JFTVktcDIwc0tHOEJrb0w1bDd4NkJkelVnbXA4cWpUbHFSS3lCN0Nr?oc=5"
+      "category": "経済",
+      "title": "大手行が国内融資に回帰 バブル後初のシェア拡大、地銀･信金は逆風",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82by1IQTdaZE9aWkk4Qy0ybEcyRXkxSnVIc3Z2b2kxWFdSb2FuLUE3VDNYekpxZnpuWV9DZm92a2cyZzN1cHk1RHRNcDVuS0pVa0hNMTZmZ3lETEFKbnZaT3JEaHZvMHpPUThFSQ?oc=5"
     },
     {
-      "time": "01:43",
+      "time": "01:12",
       "category": "国際",
-      "title": "ドイツ州議選、メルツ首相の与党が歴史的大敗・極右は躍進 識者に聞く",
+      "title": "トランプ氏、グリーンランドに「2つの軍事基地」 協定に署名",
       "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZQ2NkS01LMkpwVkdDOFdyVzJzME9BZlVWaDI1bUk3ZndzLW1BMjBBWHlXeHBWSVVDeDFwU3JwSlhra1QzMThydTNpcktSeEt4VkpiQ3lwZmxSUnhoMkVqNFpHM29FaVI2SVQxSg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ldWpGWVdXUEdKUGUwUkFEeWY2dlAzT3FfTkNPSkhHaFAtREtJUmN1RS1DRGZITFN3VGRxRG41WlVFMkNvZUNfRDVEY25QN0JqTEVzbHFCeWRRQ0NWUGJuSW92enRjd1pzS0VLRg?oc=5"
     },
     {
-      "time": "9/21 23:44",
-      "category": "社会",
-      "title": "神奈川県 自衛隊に災害派遣要請",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xV21odnU5d1pPMlJGZEFsNF9yOG92SjhHcGZxczRwNU1ZQnFlSDFsSy0yRUNIQlp5T3R2VFJOQjVOSmxqaEtIdzNMVXItREdN?oc=5"
-    },
-    {
-      "time": "9/21 22:28",
-      "category": "社会",
-      "title": "台風２５号シルバーウィーク直撃、「観光どころではない」「ホテルに籠もる」…避難所で不安な夜も",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0Y1dRY1VwbFBTLWlaWmZPMEIyT3l5Qjl0eWp6cjNZaXh2QXBtcVQyY2FnY2hsZjZwajNfalZlTmdqcEIyVTdualowSDZqeVQ3aElscW5xZkxhejFmdmdBUk05Nk9zQQ?oc=5"
-    },
-    {
-      "time": "9/21 21:48",
-      "category": "総合",
-      "title": "プーチン政権与党が下院選圧勝、７割超の議席獲得見通し…ウクライナ侵略「信任」アピールへ",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyX2NTRUUyaUFuU21jd0Nxclg1M0U5WnBQMGxGX1RoWFNFbU1UT3pLYXJPS3poX0lKYWs4OUx1RWU0SGY1RmdLU2ZKNHF4RzVpYWNBR09OYk9Sbl94UzQ2TFhR?oc=5"
-    },
-    {
-      "time": "9/21 21:40",
-      "category": "総合",
-      "title": "琵琶湖で3人一時不明 2人意識あり",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5uTHFfMk1DZnlmQWt4c2kyNkFMX0dMMmFzRnA4SllGQXhqTUw5OENHaHhIZnR2QTBVdm5zVVczaXR0ZHVTWDZ2YnZWMEIyS240?oc=5"
-    },
-    {
-      "time": "9/21 18:00",
-      "category": "総合",
-      "title": "首相、エネ・資源「恣意的な輸出規制懸念」 中国念頭に国連で言及へ",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OVUxRZVZjcl80U25vVUJlRlhsNmp0UmkwUGpUSHBBNEVlYWhUdndSMnliaXZMT3RaYjkyUlZmQ1JRWHRPRnlqTlAzV3VBZlNfbHlzLVhLRklmZDU1Qmp4Z3ZQSTFQNTlKVGcxZA?oc=5"
-    },
-    {
-      "time": "9/21 17:11",
-      "category": "経済",
-      "title": "習主席の訪米発表、重要問題でトランプ氏と意見交換と中国外務省",
-      "source": "reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHVPWnlSUGpaUlpWQzZFeF9pR3RUM01USWZNb3ZPOG8tS1hEN2NwaHVWUkR1NG00SzZQSmYtVldYRFc5MDh3VjZoOEtXNFlwRzdMSkt0THMzb2xnS042UFFQYUdhakhGTW5OMXVPdlF0RE1wT3kxOF8yWTJVdmRCTlpQd21QQ1U?oc=5"
-    },
-    {
-      "time": "9/21 13:04",
+      "time": "9/22 21:38",
       "category": "テック",
-      "title": "石原良純と玉川徹氏がピリピリ討論 エネルギー政策めぐりコメンテーター３人が持論展開（日刊スポーツ）",
+      "title": "AI搭載の人型ロボ 防衛活用研究へ",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIRnVubTZTNHRIVW01TTJUVmFkQ2NkTW10Rll0VTlZeElDWEFUQ2NNVE9fYnJSQlFLMHlRU0pOQkR6TDRLSGxzU1Q1enhNVWlsell2djA4MFB3VHdzX3JDdVE4T1NYQ2xQNER3NXp2TXVWOThxeXZXczhzeEdlQWc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kMnU4WnFYSW1rRVloWnBGMHVDeDN5Nm02ZFRGS1lOREl0Sk5yMVhDUVI3eHRZY080T2dLeExSaXEzX2Zxbk0zSXljX2FFLTll?oc=5"
     },
     {
-      "time": "9/21 10:00",
-      "category": "科学",
-      "title": "長寿は「遺伝」する 最新研究が従来の見解を一新",
-      "source": "Forbes JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44VFJOeHVydjJMWElNY1hOd0NMZXVYbVZYd1VjLWFfRk9Oa0NuYkhEUTRIRlgwYUxQc3d1dHFMZjZrOGNwSmk0QndkRXJoSWt2MzBRcVlILW0zQQ?oc=5"
+      "time": "9/22 21:15",
+      "category": "社会",
+      "title": "台風２５号の大雨から一夜明け…千葉・神奈川両県で７人死亡・５人安否不明、佐倉では市街地が大規模浸水",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52RTVqbV9mSS14TzdUSW1PaFBCdjZOcTFmOFNKRzZKSmtKa0ZveGF5bWVhOUlCVmhRTm1RR1FKRHZ0bjhDNkIzN0JWb2RYZEJzNENGalhrMWVodTBoY19jTWZBeFNfZw?oc=5"
     },
     {
-      "time": "9/21 07:30",
+      "time": "9/22 21:09",
       "category": "経済",
-      "title": "ウォーシュFRBに対する市場の｢信頼｣､株高は月末まで続く",
-      "source": "四季報オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXVXVWNXlMbF96T01PUHcyNnNYU0VOYjhxUzlaaWZzcWRUR0hsX2tMVzBrQTFZdEJjWlJpN3U4RG55YWhydmpiMHUwOXVFbjVTbEVHWm5Iaw?oc=5"
+      "title": "家路へ長～い車列 「シルバーウイーク」Uターンラッシュがピーク 県内高速道路、各地で渋滞|社会",
+      "source": "神戸新聞",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42RGlCQkN1RTdHV2cwcUt5bU1JZU1SUHRLTG5kV2VRbkRfQ1ZsNGN5a09HeEpTUW40VnQ0cklaU1dySHFiSmJ1YWZFYk9qNWhraE1fT3ItUTgtVlhwT0NIY1NqNS1XVEp0cXhRZi02aw?oc=5"
+    },
+    {
+      "time": "9/22 21:03",
+      "category": "経済",
+      "title": "サウジ東西パイプライン稼働再開、紅海側で石油輸出22日にも開始",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3bDhRWjF6c2pMMEVsVU4tTTlvd3FwTlNDa1NZTXVka3Y1TVlBbjlLQ3RBVnBxQ1Z1Nzc5SzQyX2ZaNFkyMWdUeElZUXM3blMwbVczQjhwWnZQVHZfbXNfcFFhUDlnM0FHMnZOUk11Q21DaWFDaXFQZnF2SGs2Z1k?oc=5"
+    },
+    {
+      "time": "9/22 21:00",
+      "category": "総合",
+      "title": "【独自】薬過剰摂取、10代搬送4倍 10年前と比べ、深刻浮き彫り（共同通信）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vLVhlelZjRUdmVFVJT0l6dkN6X01pYVVYeVIzSnlSSE5JR1pYOFRvaEJuNTZCbENOOG1sbEY4MmZrU2ZGVVZPX3E2c1hyWW1LUkpXNzAzNm1pY20yRzJmYTNJNnZVUnVaSVR1ekhWbElLUUp3WGFNaU1VM2M1WjQ?oc=5"
+    },
+    {
+      "time": "9/22 20:40",
+      "category": "社会",
+      "title": "「ソフトクリームください」が最後の言葉に 飲酒事故で3歳死亡",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZSGwyYzBEZlZ3U05tei1OMkFmNEphN0pMT0ZBSWMwS1lvQXN1NU1JUERKWng0d3NSajlkcWRpZEk3c0N3SFhaVGZGTUJPc0hBMk10SnlMOUhzSXZYTkU4b2NMNnlEUXlj?oc=5"
+    },
+    {
+      "time": "9/22 17:05",
+      "category": "国際",
+      "title": "トランプ氏、イラン攻撃の「成果」正当化か 国連総会で一般討論演説へ",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxOGU1N2J3SmQ4Zi1JdlgzUHZuUkw4eXVUY3RfVnpDTXlVc3dfb3V1R2RST0VMbTFRcUtkdkI3UXhZYS13bGR6Q0xfeWtVb2NnRS1HdFVhckxxdFQ3RjFtLTRzajQ1Zk5ScS02Vw?oc=5"
+    },
+    {
+      "time": "9/22 15:28",
+      "category": "総合",
+      "title": "【速報】イラン、早期の海峡開放提案",
+      "source": "47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DTHBIMm0xWXZsUUNzSGp5YTQyMVpNWVhIQlRfTG9rRDZDYi1XSVI4c2lyZUM4LU92UlJtakZuT0o4cEhrTDBLSmM4bw?oc=5"
+    },
+    {
+      "time": "9/22 12:10",
+      "category": "総合",
+      "title": "3歳男児死亡“飲酒運転”事故 逮捕の男「自宅でワインや焼酎飲んでいた」（2026年9月21日掲載）｜日テレNEWS NNN",
+      "source": "news.ntv.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51emdoX1dySmp2aElpeEJrcnEyWmVOa3M2bmtmdzNqNVkyNHRJUEJjQlNvVFB1TzY2SnZuSmVRQUFyX3JoeGFTcTZNLVMxMDdFbnlkRlRoNlB2U21SOHV0d0o2TTU1RTFWb09jNnNuZ1VzTTZFT0dDaDl2R3I?oc=5"
     }
   ]
 }

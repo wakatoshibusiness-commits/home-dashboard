@@ -1,24 +1,42 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "items": [
     {
       "time": "06:05",
       "category": "知っておくこと",
-      "title": "Claude DesktopからMFクラウド会計に仕訳を切る——MCPで「会計AIオペレーター」を作った話",
-      "source": "note.com",
-      "url": "https://note.com/kentaro_ajisaka/n/n7938030e28b1",
-      "teaser": "MFクラウド会計の仕訳登録をMCP経由でAIに任せる実装例。「人が承認する層」の作り方がそのまま自作ツールの参考になる",
-      "thumb": "https://assets.st-note.com/production/uploads/images/250213308/rectangle_large_type_2_77d3b46ad276822fde7066e0e5ff543c.jpg?fit=bounds&quality=85&width=1280"
+      "title": "Salesforce、外部AIの中からSalesforceデータを扱う接続レイヤー「AIforce」を発表",
+      "source": "finance.yahoo.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-unveils-aiforce-benioff-takes-160300047.html",
+      "teaser": "SaaSの主戦場が「自社画面」から「AIの中に出向くデータ層」へ移る——MF×Claude MCPで仕訳を切る流れと同じ構図。",
+      "thumb": "https://s.yimg.com/lo/mysterio/api/1d1602861bb2ae31ec24247312836bb7407123ec604d3df85c5e41b4da78f980/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F378fb70aec1977ef4c3888624175d5b4.jpg"
+    },
+    {
+      "time": "06:05",
+      "category": "AI企業ウォッチ",
+      "title": "AnthropicがClaude Code Projectsに並列エージェント機能を追加",
+      "source": "aiagentsdirectory.com",
+      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-september-20-2026/",
+      "teaser": "単発のコーディング補助から「複数エージェントをチームとして回す」段階へ——並列時の権限・レビュー設計が次の論点になる。",
+      "thumb": "https://aiagentsdirectory.com/twitter-image.png"
+    },
+    {
+      "time": "06:05",
+      "category": "AI企業ウォッチ",
+      "title": "GoogleがKotlin向けAgent Development Kit 1.0をリリース",
+      "source": "aiagentsdirectory.com",
+      "url": "https://aiagentsdirectory.com/news/ai-agents-news-brief-september-20-2026/",
+      "teaser": "Python/Java/Kotlinで同等機能が揃い、Googleのエージェント基盤は言語を選ばない方向に固まりつつある。",
+      "thumb": "https://aiagentsdirectory.com/twitter-image.png"
     },
     {
       "time": "06:05",
       "category": "引っかかり",
-      "title": "AI各社のトップが「減速」を叫んだ日、それでも誰も止まれない開発競争を縛る「囚人のジレンマ」",
-      "source": "jbpress.ismedia.jp",
-      "url": "https://jbpress.ismedia.jp/articles/-/96989",
-      "teaser": "AI各社トップが減速を訴えても競争は止まらない。安全性と速度をめぐり、業界内で意見が割れている",
-      "thumb": "https://jbpress.ismcdn.jp/mwimgs/5/a/1200mw/img_5a47ed7c5b6aa34b69932152d6226bec1231521.jpg"
+      "title": "AIバブル崩壊の引き金は『金利上昇』——著名エコノミストの警告と『良いバブル』論争",
+      "source": "businessinsider.jp",
+      "url": "https://www.businessinsider.jp/article/496b9dcc-5dc7-4c55-8096-92fe1cfb1b5d/",
+      "teaser": "AIは「悪いバブル」か「インフラを残す良いバブル」か——金利上昇が崩壊の引き金になるかで専門家の見方が割れている。",
+      "thumb": "https://media.loom-app.com/loom/2025/12/03/68eebf94-6acc-4621-92d1-45f98728cb88/original.jpg?w=1200&amp;h=630"
     }
   ]
 }
