@@ -1,22 +1,46 @@
 {
   "edition": "夕刊",
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "items": [
     {
-      "time": "17:44",
-      "category": "管理会計論（マネジメント・コントロール）",
-      "title": "公共インフラ・公共財における会計の死角",
+      "time": "17:02",
+      "category": "経営戦略論（探索と活用）",
+      "title": "エコイノベーションにはどの政府補助金が効くのか：企業パネルデータによる実証",
       "source": "RePEc",
-      "url": "https://d.repec.org/n?u=RePEc:evk:wpaper:ppp-abs&r=&r=acc",
-      "teaser": "「支援がなくなった後に顧客が自走できるか」という設計思想は、会計の分類ルールという見えない制度が意思決定を規定するという本論文の主張と表裏一体。"
+      "url": "https://d.repec.org/n?u=RePEc:zbw:zewdip:343046&r=&r=cse",
+      "teaser": "支援を種類別・段階別にどう出すかの設計材料になる。"
     },
     {
-      "time": "17:44",
-      "category": "管理会計論（マネジメント・コントロール）",
-      "title": "排出量調整済み全要素生産性（TFPE）",
+      "time": "17:02",
+      "category": "経営戦略論（探索と活用）",
+      "title": "大学と地域の起業エコシステムによる知識ベース地域開発",
       "source": "RePEc",
-      "url": "https://d.repec.org/n?u=RePEc:ehl:lserod:140962&r=&r=bec",
-      "teaser": "予実管理やKPI設計で必ず直面する『測定漏れが実態と数字を乖離させる』問題を、国家レベルの生産性指標という壮大なスケールで扱っている。"
+      "url": "https://d.repec.org/n?u=RePEc:zbw:iatdps:343531&r=&r=cse",
+      "teaser": "知識が境界をどちら向きに流れるかの実証で、引き継ぎ論の事例になる。"
+    },
+    {
+      "time": "17:02",
+      "category": "経営戦略論（探索と活用）",
+      "title": "医療機器産業におけるAIイノベーションと企業業績",
+      "source": "RePEc",
+      "url": "https://d.repec.org/n?u=RePEc:arx:papers:2609.08485&r=&r=cse",
+      "teaser": "外部知の取り込みが成果に結びつく条件を見る、探索の核心に近い研究。"
+    },
+    {
+      "time": "17:02",
+      "category": "経営戦略論（探索と活用）",
+      "title": "政府は品種拡大イノベーションと資源代替型イノベーションのどちらを補助すべきか",
+      "source": "RePEc",
+      "url": "https://d.repec.org/n?u=RePEc:kgu:wpaper:314&r=&r=cse",
+      "teaser": "賭け先の資源配分という戦略論の骨格を経済モデルで見られる。"
+    },
+    {
+      "time": "17:02",
+      "category": "経営戦略論（探索と活用）",
+      "title": "KMUと大学のイノベーション協力が成功する要因",
+      "source": "RePEc",
+      "url": "https://d.repec.org/n?u=RePEc:zbw:ifmmat:343588&r=&r=cse",
+      "teaser": "外部専門家から知を受け取れる条件は、顧客に価値を渡し切る条件と同型。"
     }
   ]
 }
