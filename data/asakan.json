@@ -1,24 +1,33 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "items": [
     {
       "time": "06:03",
-      "category": "AI企業ウォッチ",
-      "title": "Anthropicが「Claude Opus 5.5」を発表",
-      "source": "9to5mac.com",
-      "url": "https://9to5mac.com/2026/09/22/anthropic-upgrades-claude-with-new-opus-5-5-model-details-here/",
-      "teaser": "Fable 5.1並みの性能でAPI価格は前モデル比約20%減、キャッシュ読み込みは60%減。自動化ツールのランニングコストを見直す材料。",
-      "thumb": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?resize=1200,628"
+      "category": "知っておくこと",
+      "title": "マネーフォワード AI機能ガイド（2026年9月版）：3層構造の理解と利用上の注意点",
+      "source": "uravation.com",
+      "url": "https://uravation.com/media/moneyforward-ai-features-pricing-guide-2026/",
+      "teaser": "MFのAIは既存プラン内・追加課金AI-OCR（月100件超は1件20円）・価格未定の新製品の3層。客先で使う前に公式料金ページで確認を。",
+      "thumb": "https://uravation.com/wp-content/uploads/2026/08/thumb-moneyforward-ai.png"
+    },
+    {
+      "time": "06:03",
+      "category": "知っておくこと",
+      "title": "弥生会計Next 2026年の新機能：帳簿絞り込み・Excel出力・前年度元帳表示など",
+      "source": "yayoi-kk.co.jp",
+      "url": "https://www.yayoi-kk.co.jp/kaikei/kaikei-next/goriyoguide/release-note/kaikei-next/",
+      "teaser": "元帳のExcel出力が入り、移行元データの取り出し口が増えた。移行ツールの入力形式に弥生Next向けを足せる可能性。",
+      "thumb": "https://www.yayoi-kk.co.jp/content/dam/yayoi-corp/users/beginner/kaikei-next/common/img/acq/og.png"
     },
     {
       "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "OpenAIが「GPT-6 Sol / GPT-6 Luna」を発表",
-      "source": "siliconangle.com",
-      "url": "https://siliconangle.com/2026/09/22/anthropic-releases-claude-opus-5-5-and-openai-counters-with-two-cheaper-gpt-6-models/",
-      "teaser": "Opus 5.5の発表に合わせて投入された低価格ティアの2モデル。価格競争が一段と進んだ形。",
-      "thumb": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/anthropicopenai.png"
+      "title": "Google・OpenAI・Anthropic、AI安全基準の自己規制機構『Frontier AI Standards Agency』を立ち上げへ",
+      "source": "pymnts.com",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-google-and-anthropic-join-forces-to-set-ai-safety-standards/",
+      "teaser": "政府規制ではなく業界主導の自己規制へ。第三者テスト・インシデント報告・監査人基準が柱で、9/18の協議開始報道の続報。",
+      "thumb": "https://www.pymnts.com/wp-content/uploads/2024/01/fraud-defense.jpg"
     }
   ]
 }
