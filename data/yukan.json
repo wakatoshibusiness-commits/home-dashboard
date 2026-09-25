@@ -1,46 +1,5 @@
 {
   "edition": "夕刊",
-  "date": "2026-09-24",
-  "items": [
-    {
-      "time": "17:02",
-      "category": "経営戦略論（探索と活用）",
-      "title": "エコイノベーションにはどの政府補助金が効くのか：企業パネルデータによる実証",
-      "source": "RePEc",
-      "url": "https://d.repec.org/n?u=RePEc:zbw:zewdip:343046&r=&r=cse",
-      "teaser": "支援を種類別・段階別にどう出すかの設計材料になる。"
-    },
-    {
-      "time": "17:02",
-      "category": "経営戦略論（探索と活用）",
-      "title": "大学と地域の起業エコシステムによる知識ベース地域開発",
-      "source": "RePEc",
-      "url": "https://d.repec.org/n?u=RePEc:zbw:iatdps:343531&r=&r=cse",
-      "teaser": "知識が境界をどちら向きに流れるかの実証で、引き継ぎ論の事例になる。"
-    },
-    {
-      "time": "17:02",
-      "category": "経営戦略論（探索と活用）",
-      "title": "医療機器産業におけるAIイノベーションと企業業績",
-      "source": "RePEc",
-      "url": "https://d.repec.org/n?u=RePEc:arx:papers:2609.08485&r=&r=cse",
-      "teaser": "外部知の取り込みが成果に結びつく条件を見る、探索の核心に近い研究。"
-    },
-    {
-      "time": "17:02",
-      "category": "経営戦略論（探索と活用）",
-      "title": "政府は品種拡大イノベーションと資源代替型イノベーションのどちらを補助すべきか",
-      "source": "RePEc",
-      "url": "https://d.repec.org/n?u=RePEc:kgu:wpaper:314&r=&r=cse",
-      "teaser": "賭け先の資源配分という戦略論の骨格を経済モデルで見られる。"
-    },
-    {
-      "time": "17:02",
-      "category": "経営戦略論（探索と活用）",
-      "title": "KMUと大学のイノベーション協力が成功する要因",
-      "source": "RePEc",
-      "url": "https://d.repec.org/n?u=RePEc:zbw:ifmmat:343588&r=&r=cse",
-      "teaser": "外部専門家から知を受け取れる条件は、顧客に価値を渡し切る条件と同型。"
-    }
-  ]
+  "date": "2026-09-25",
+  "items": []
 }
