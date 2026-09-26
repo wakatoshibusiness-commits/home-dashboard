@@ -1,5 +1,46 @@
 {
   "edition": "夕刊",
-  "date": "2026-09-25",
-  "items": []
+  "date": "2026-09-26",
+  "items": [
+    {
+      "time": "17:01",
+      "category": "組織学習論（吸収能力）",
+      "title": "業務移管のための業務プロセス文書の標準化：Telkom Indonesiaの事例",
+      "source": "RePEc",
+      "url": "https://d.repec.org/n?u=RePEc:osf:socarx:p7mh3_v1&r=&r=knm",
+      "teaser": "移管先が自走できる文書一式とは何かの実例。BPRの「客が握れるか」と同じ構造。"
+    },
+    {
+      "time": "17:01",
+      "category": "組織学習論（吸収能力）",
+      "title": "会議（Meetings）",
+      "source": "RePEc",
+      "url": "https://d.repec.org/n?u=RePEc:nbr:nberwo:35706&r=&r=hrm",
+      "teaser": "会議を知識が渡る経路として見直す視点をくれる。"
+    },
+    {
+      "time": "17:01",
+      "category": "組織学習論（吸収能力）",
+      "title": "生成AI活用の洗練度：大企業のフィールド証拠",
+      "source": "RePEc",
+      "url": "https://d.repec.org/n?u=RePEc:arx:papers:2608.27364&r=&r=hrm",
+      "teaser": "AI研修後も洗練度が上がらないという実データ。客の自走を考える材料。"
+    },
+    {
+      "time": "17:01",
+      "category": "組織学習論（吸収能力）",
+      "title": "マレーシア養殖農家のIMTAに対する知識・態度・認識",
+      "source": "RePEc",
+      "url": "https://d.repec.org/n?u=RePEc:ags:nccc26:409063&r=&r=knm",
+      "teaser": "導入意向を左右したのは知識ではなく態度と認識。受け手の素地の実例。"
+    },
+    {
+      "time": "17:01",
+      "category": "組織学習論（吸収能力）",
+      "title": "アイデアの輸出：財の貿易拡大がもたらす知識フロー",
+      "source": "RePEc",
+      "url": "https://d.repec.org/n?u=RePEc:cpr:ceprdp:19260&r=&r=knm",
+      "teaser": "渡し手と受け手の技術的な近さが知識移転の強さを決める実証。"
+    }
+  ]
 }
