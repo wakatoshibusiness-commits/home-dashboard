@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-09-26",
-  "generated_at": "2026-09-26 06:03",
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27 06:05",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "05:00",
-      "category": "総合",
-      "title": "印旛沼決壊、養殖のウナギ「全滅だろう」・４代続く稲作農家「廃業も考えざるを得ない」…農漁業に大打撃",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fNl92Y0VCRnZCeUZ0MmxJcTNVOEl1eUVrMFVGbnJ1NllwcERsRnlTZHRibWV5RHRtY0szU3dRaGRyM1c5SXVUYXlMZHRxOHhINnc0TFZoRzV4bGpIdWxrVHI5VjRKQQ?oc=5"
-    },
-    {
-      "time": "04:50",
-      "category": "経済",
-      "title": "円相場1ドル＝156円台に上昇 1日で2円余円高に 介入警戒強まる",
-      "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaNWp5Nk5wNFpkRUpCVDFuc2d0MmZDeVBleENiczhVV3BxRFN6MEhFTndZM2VpeHUxZDNMdDJqZUJaTGcxaTB2Z1M5QUF1azJCUU5va2RsT1dRUUtaYmow?oc=5"
-    },
-    {
-      "time": "04:10",
+      "time": "00:26",
       "category": "国際",
-      "title": "トランプ氏、中国の習近平国家主席と１１月・１２月に「再び会談」「楽しみにしている！」…ＳＮＳに投稿",
+      "title": "イラン外相提示のホルムズ海峡開放への「７日間の計画」、トランプ大統領は「断った」",
       "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uQlY0M3JHeVpfNGdHWFZEVHUwOUFOaVpFeENkREpJa3pmX210Unc5RThFb0s1VEd5QWdkekxTdVhMTGZvdUVZUEZHQUNHUG9LeEFSNGVaR0JhSnh6YXNaUGdB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGb01uWXI4YjljYy1HMk9vOGxCbTJaZE9SQWk0TXlySFJlRmpfNjVlQWhqbHhDOUZUMGlnUG5FRmcwRlNPS2JWRG5Ea0RMTWlValRlcEloc1RkRXNiSHNWUWNB?oc=5"
     },
     {
-      "time": "03:50",
+      "time": "00:13",
       "category": "経済",
-      "title": "ホルムズ海峡「闇タンカー」急増、供給6割に回復 位置情報隠す",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxVVdVRE5odENwYVFBTWw1S3ZaVURiVW53ajFHVm9GOXZDSUdsU2Q2UWpqdGJaN3hZcUJ0NW02SWlvMEpVYXVqRE1xWTlySXV4YTRjdEdhT0ZKakZmam5OdjNGYldGUDlSdzQ3Zg?oc=5"
-    },
-    {
-      "time": "9/25 23:00",
-      "category": "総合",
-      "title": "米テレビ主要５社「米中首脳会談」中継せず、ＣＮＮなど「排除」に反発…トランプ政権は没収の記者証返還",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2UGsyRXFqdF9jVGhHQVZJQ0p4cDc5cE1sNHFKQmpBcGV3ZkRNSjZ2WFpkS1pDNDlNRkpxN19pYkFRZmdNYXo4Z0hGc21yNWQ3bm9DY1c0TFcwYXpxMkN3c3Rn?oc=5"
-    },
-    {
-      "time": "9/25 22:30",
-      "category": "社会",
-      "title": "民家で５２歳女性刺殺か、男逃走 息子も鉢合わせ負傷―群馬・太田",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hbDVTeUhMcXB0Y2ZuYTJsUG1KV2oxcXFFVF9LVDdqdzk2dFJRTlVwbFByX1RTVWV2cmZnS0J3eFpDQ1ZGa2lYbHZDdTNEemsxc3BsenhHYjNNZjBZVmxkcUhNbw?oc=5"
-    },
-    {
-      "time": "9/25 22:04",
-      "category": "国際",
-      "title": "イラン外相「ホルムズ海峡を7日以内に開放」 米国が提案受諾なら",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52clNYZHlpOHNPODFwNkpLbGh3UHhCUXhWYnFlcEx4VTFVNTRNSk5yVldVVmwzNEtmM2NRNTkzb2tRM2E0ZU1CWHVFVU01Z0RYRmZEZU5GWkM1Nm82WkpNNEdZdzBCXzFpQ21NaA?oc=5"
-    },
-    {
-      "time": "9/25 21:50",
-      "category": "科学",
-      "title": "生物多様性保全「行動移せず」増",
+      "title": "内房線の代行輸送見送り バス確保できず、JR東（共同通信）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xMVhFWGFYbjdCbzhFdmdJZFUycTQ1MEVodUdQLTZ4cGxvRDdSaHJmUlIwODZTWG1oUm4zd01FOEJzU0FMbEFFZHR6cEMwY0Rj?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hQzJ5dW5KTGdxbjE1NU1zMHRwbmV1dzFjYXA2OWVVeDNHczlnWXhCdkUycTZ4a3JNQTY1ZEF5ZXh0QWdSNDBVVlRnUkxabGdSVGNVTFRrTHozMG1CdHgxTWlwNk0zd18zb3IyLWd1NWYtWmhFbWhSTDJ1Qjhockk?oc=5"
     },
     {
-      "time": "9/25 20:00",
+      "time": "9/26 22:36",
       "category": "総合",
-      "title": "【台風情報】台風26号 急カーブで本州南岸を進むか 台風の進路を左右する「太平洋高気圧」【雨風と太平洋高気圧シミュレーション10月6日（火）まで／全国の週間予報】次の「反時計回りの渦」出現",
-      "source": "TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHQ194Y1RXb3Z2QjBFSTh3dVZZTm5fVDhFLTUySmRUU0ptd0ltUG1ZQ29DSmZQbWYyTTc4bjhtUmlVM1c4a293WkhtTDFMMVhNdW9lT3owRGpUNXJOdWZTQ2NZdDI0Rlk?oc=5"
+      "title": "高市首相、トランプ氏と連携確認 「米中」受け電話会談",
+      "source": "時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uQ1hsaWNaUk5RQU5tTnJGeWZuejlfcDc1eTN2bThYTlN4OXFpWGVNTy1PckZLWE9Dd3VnOEUxSU5SWTlkZkw5TzlWdzRCZG8xRk8zNFdVSGxwS1dXdWtRMXdPMA?oc=5"
     },
     {
-      "time": "9/25 17:27",
-      "category": "経済",
-      "title": "日米首脳会談でトランプ大統領が円安に懸念 片山さつき財務大臣が“異例の公表” 一時157円台へ円高進む場面も",
-      "source": "TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kdGxQX0JqS2VGZEZveXV6S2FlYk9Oc2NrOVZFMW1vN3lUdHM3a0VLN2xtZm9La01vR1pOb0FDWnFEdkI1UzJJcGR4QmVkMmZHLWVqaXc2RQ?oc=5"
-    },
-    {
-      "time": "9/25 17:25",
+      "time": "9/26 22:15",
       "category": "総合",
-      "title": "“イラン外相 米側に戦闘終結に向けた提案”欧米メディア報道",
+      "title": "【台風情報】台風26号の進路予想 沖縄に最接近へ 大雨・暴風・高波に警戒 30日以降に近畿・東海・関東で台風による雨のピークか（テレビ静岡NEWS）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91VTU2anExWnU1YUJXSnVpTHU0TFVqS1BXb0pEV0hXaWNmTTJCS2szUHNWZWlVOFI2d29OT3BybEhQcE9KM2pUdWVIRUVMRllnMzh6c3JzcWtMeDBSYjl1cUFDUDVkYU5ndHhSRzhKdUVTZmlUc0lOZGdLTHFzaHM?oc=5"
+    },
+    {
+      "time": "9/26 19:48",
+      "category": "社会",
+      "title": "台風２６号は発達しながら南西諸島に接近へ、沖縄地方は大雨に…本州へ近づく可能性も",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJMmZfdUEySEVfSjQ0dEZPNXpBRHhJT1NCbWI5aE5iN01rY3phT0pybHNhalhIWFZEZFBmdTI3cEw1blI5RUg5a2pKaHlkSHBUaHZXSmxQSXlqMi1WanpyWkhQU3N1dw?oc=5"
+    },
+    {
+      "time": "9/26 19:42",
+      "category": "国際",
+      "title": "米中首脳会談 合意点は？AIはSIに変更 台湾言及なし",
       "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFN0R5SVZxcUtZMVM2MklzRVFCVVRyQ2hKRmdaMmRCMmJiQXRFajFBRlh6dzBwSXRJTTM1OVE1NE0wQnpsa2Vjc2F6a3FtTXh3REtta01HMmF1VjhfLUhz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HcmhjWktkWHNobmo2RjZDSi0zWlBOUm5kcXpxcF9oakdiZ0JxMlpTMmJMWkFMSkZDLWptU3I4bXl4ajhfZmtXSHB4aDZvSFpRUGVHS0xURUNqWHpWTnhr?oc=5"
     },
     {
-      "time": "9/25 14:07",
+      "time": "9/26 18:23",
+      "category": "総合",
+      "title": "米中会談「８項目の合意」を中国政府発表、第２次大戦で「肩を並べて戦った」と振り返ったと明記",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MaGdvSGxiT0dCWHphV1hsTDZndlhMbWk0TVUxYlRpVUFSVFR6ZjhsdHJmRDFhNHZZbFdNZThqVkQ4ZEZ0MDhJcVdKX3YtdzFSa001blY4SEc0MUVIdGRvVjBR?oc=5"
+    },
+    {
+      "time": "9/26 18:03",
+      "category": "経済",
+      "title": "チャットGPT利用者の画像を流出 オープンAI、新たに暴走事案 [AIの時代]",
+      "source": "朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wZjlqTFhpakFvcG42N3FaTlhmYnJ0VTVBLXBjMGk5d19JbGtrRGgzU3gyU2pTcmVCOFY1bXBZeElYYlJpRW9EVnZ1STFOM0lQRi1UUy1hanktZl9PY1ozcGdCaWlRaWs?oc=5"
+    },
+    {
+      "time": "9/26 14:37",
+      "category": "科学",
+      "title": "元研究補助の男性が産総研を提訴 次世代発電の実験中に高濃度のアンモニア吸引（NEWSつくば）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RbXhqUE9WQTNxWW5nZ1NweGU4NS1rQ0ppeVhPbWstM3lVUlY3OS15cWE0Zk9XY3YzQWNWZUNOM0lDMWtHX2daQWpSNTgwZG96ZGViTTFsSVg1VlBfV3BHX3Z5ZWFIa2Z4bjRKWFNCWHYyMzNlbFdxVXVuNzFyT2s?oc=5"
+    },
+    {
+      "time": "9/26 12:27",
+      "category": "総合",
+      "title": "ホルムズ海峡の「7日以内の再開」、イランがアメリカに提案",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41M0hoaUlxR2R4M3g1SHVGUXBBeFhtb1BJTUhmaWo5UzRUeF91Uk9Ecms3bTc4M2owZjRDQTNyYm5yRlpRSDdQV0NSNFh6bUlkckV5Tk5Fa09qdGE2VEVINNIBZkFVX3lxTE51aXJvN3JBcFQ4VzUwTnU1YnE4OEZldUI5cUxsdUxrVmZDaVVWUnQtLXdvMDVMYnFGbnFWNUtJYzFWSzZIR3dxbFllcFdfQklMT3N5dkFZcWIyLUx5MHVxRXJwMFpxQQ?oc=5"
+    },
+    {
+      "time": "9/26 10:10",
       "category": "テック",
-      "title": "「ahamo」をリニューアル、「ドコモ mini2」「ドコモ MAX 60歳以上割」の提供を開始、および一部料金プランの月額料金を改定",
-      "source": "docomo.ne.jp",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zX2V5c2pkVnotcFlpLWZTSm9sc3ZaaTQyQ0lqS2JubEhTb095U1ZwVnVsM0NLN0N1eWZHMXZIV1RBVS1WUy1LNmh2YVEwbDhjM3l4N1FBb2dPVUtYbTRrYlEyTWdYOXhrS0tZeC13?oc=5"
+      "title": "20万円超のXperiaを「買い」に変えた3週間 ソニーが「モニタープログラム」を実施した理由",
+      "source": "ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3bG1PWW0xcjNxRHNiam9IV1o4TVFta3BMeDNQeVRQdXdNdTAwY0VEeGd3M2FzOGFoTzlBLXB3SUpPcDRDUk5RQUhKSHgyMGFFME5YUzI2QU9pek5yRHNyYTZ0elpVc1ByX3A0dEQtVQ?oc=5"
+    },
+    {
+      "time": "9/26 09:43",
+      "category": "テック",
+      "title": "意図せぬ外部接続「数十」 オープンAI、政府や大学（共同通信）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DR0ZnSmNQMmhDdUJ0dEYzYVcybzdYSFV5OTlsNmhJN0RUTjRaWVYyZjlJYU5sTlRHQUQ0MklVRmJzdzd6U252ODZndzhiTjl6djZaT24xUWdPdG1wYkN4YXA3SkhWdDJtV2xJNGRCZWdMS0l4cjRjQ1Jkb1BEMGM?oc=5"
     }
   ]
 }

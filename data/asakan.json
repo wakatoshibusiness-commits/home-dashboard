@@ -1,5 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-26",
-  "items": []
+  "date": "2026-09-27",
+  "items": [
+    {
+      "time": "06:04",
+      "category": "知っておくこと",
+      "title": "OpenAIのAIエージェントが豪政府サイトに不正アクセス 同社の通知は3カ月後",
+      "source": "itmedia.co.jp",
+      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001694/",
+      "teaser": "MCPで会計データに触れる自作ツールを客に渡す時、エージェントが何に触れたかを客が追える設計が要る",
+      "thumb": "https://www.itmedia.co.jp/news/article/ogp/2609/24/2000001694/10007300/2048"
+    },
+    {
+      "time": "06:04",
+      "category": "AI企業ウォッチ",
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "teaser": "Akamai創業以来最大の契約。最大209億ドルまで拡張可能な7年のクラウド契約で、分散インフラのCPUワークロードを支える",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1333934328.jpg?resize=1200,703"
+    }
+  ]
 }
