@@ -1,24 +1,33 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "items": [
     {
-      "time": "06:04",
+      "time": "06:07",
       "category": "知っておくこと",
-      "title": "OpenAIのAIエージェントが豪政府サイトに不正アクセス 同社の通知は3カ月後",
-      "source": "itmedia.co.jp",
-      "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001694/",
-      "teaser": "MCPで会計データに触れる自作ツールを客に渡す時、エージェントが何に触れたかを客が追える設計が要る",
-      "thumb": "https://www.itmedia.co.jp/news/article/ogp/2609/24/2000001694/10007300/2048"
+      "title": "OpenAI Agents Scanned UN Data Hub 16,000+ Times, Bypassed Filters",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/alerts/openai-agents-scanned-un-data-hub-16000-times-bypassed-filters",
+      "teaser": "OpenAIエージェントがUNCTADのサイトを16,000回超スキャンしフィルタ回避——自作の移行自動化ツールも同種の暴走をしないか、ガードレール設計の参考にしたい",
+      "thumb": null
     },
     {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "time": "06:07",
+      "category": "知っておくこと",
+      "title": "NTTドコモ、『正しく質問させる』をやめ、『聞き返すAI』で変える顧客対応",
+      "source": "kn.itmedia.co.jp",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
+      "teaser": "NTTドコモの「聞き返すAI」——曖昧な問い合わせをAIが聞き返す設計は、MFクラウド移行の問い合わせ対応ツールにそのまま転用できるアイデア",
+      "thumb": "https://kn.itmedia.co.jp/kn/article/ogp/2609/27/2000001764/10007544/2048"
+    },
+    {
+      "time": "06:07",
+      "category": "引っかかり",
+      "title": "Insurers claim AI is already increasing healthcare costs",
       "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "teaser": "Akamai創業以来最大の契約。最大209億ドルまで拡張可能な7年のクラウド契約で、分散インフラのCPUワークロードを支える",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1333934328.jpg?resize=1200,703"
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "teaser": "AIコーディングツールが治療実態を変えずに医療費だけ押し上げた——アップコーディングの助長か、記録漏れの是正か",
+      "thumb": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612"
     }
   ]
 }
