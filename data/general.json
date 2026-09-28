@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-09-28",
-  "generated_at": "2026-09-28 06:09",
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29 06:05",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "05:00",
+      "time": "04:55",
       "category": "総合",
-      "title": "クビアカツヤカミキリの食害地域５年半で５倍、２２都府県３１１市区町村…農業・観光への打撃懸念",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HeUtNUHk2Ui02dWI2ZDBUWnh4S2N0S1pITnA0Z2tDNXZ5LTF3N0s1WmZxUmZNUmlvYThObmR3Y2xua3lDYlBuS0w2QzdfZTFGR3R0WVB0T3V4YURTZGZ2S0NFbllVZw?oc=5"
+      "title": "茨城県南部でM4.9の地震 茨城県と埼玉県で震度4 津波の心配なし",
+      "source": "ウェザーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBESW9jRjBKdWVJSW9NcXpfUGFzaUxfbjJTSC03RU05UE9IRWVDb0thel8yeHdVSmNnMi1XU2hMZ2tKVWdZUUtUbTNmWnZFbUQyZklVVmZtUEdFT28?oc=5"
     },
     {
-      "time": "02:00",
+      "time": "04:40",
+      "category": "国際",
+      "title": "トランプ氏、米は「間もなく」イラン紛争で勝利へ 仲介者と協議（ロイター）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lR2N1OHRPQ0FKZ1FmeXVBeWhJS3ViMmt2akluczNQUmhUcGY0VW9MQzdxZXJQWTFCbTl3S1NFSTVTdy01S0ZUU1dhdFdSQzkyUW1VUFVYUkkzc3F1bmtMemx2R2xiZEl3U1RWYU5iYnRGWW9CR3p6S2NjdWhlR0U?oc=5"
+    },
+    {
+      "time": "01:06",
       "category": "経済",
-      "title": "日本の非公開株、世界最大の米取引所で売買へ 大手銀出資の証券会社",
+      "title": "ニデック岸田社長が辞任へ 巨額損失受け、社外取締役主導で体制刷新",
       "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xby1CRUVjNVZzbzl3cWZCc0dKZ1paTUVxLXpRRDhoVjJsWmdJMHo4azlweXZzNDlCWTNlY3BYUEtETTAwa244dTY0S0ZfTkxzU1R1NEQzcW1BM3BzOTRZdTNtYkpZc1hCTGhOeQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GXzk2SlE4ZnRBNnpOY3hMNnhTbFVVakI3SUd6SU9RdnRrME04ZF8ySmllVk82V2Y2YjVucjVvSzAyOTdpVHA5M2ZlbGVJdXliVHd6VGJBSkZuU0ZXdXc4amxpWFhiS19OOEJ5Yg?oc=5"
     },
     {
-      "time": "9/27 23:56",
-      "category": "国際",
-      "title": "中国のジャイアントパンダ「ピンピン」「フーシュアン」がアメリカ到着、１０年間貸与へ",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OVk14U3FyZUJtRENBS3ZWdXkzcFJXb0JjMkVQTi1KdFlobElqX2N2RW9IR19PU2JMbTRnckxPOTMwcnVyLU5PeW5ZQ3R0enZrYUk3bWd0OVltVWotY2lKOXl3?oc=5"
-    },
-    {
-      "time": "9/27 23:32",
+      "time": "9/28 23:20",
       "category": "総合",
-      "title": "非常に強い台風26号(スリゲ)は沖縄本島の東へ 急発達し台風の目がくっきり",
-      "source": "weathernews.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rY25vMnUxQnFKSkt0dUllWV9oOUh5bTJ0Ukt5YlFQTEhBakRaTFkzOEFRd2xRUnVYWjRpR3NaUVRrYW9ZUXhmc3NGR0RmVi1ZQ1FjTQ?oc=5"
+      "title": "台風２５号、千葉県の８集落で今も孤立「１ｍ以上水につかったままの所も」…神奈川と合わせ死者１４人に",
+      "source": "yomiuri.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ESU94M2lONy1tX0lKNEZ2cnlBcDVZalJub29URWdSYmwxOTU0TkRVVmFEaUhVVXpKS2J1dTVLWVBJV0lObmxuZlVuQW1tWGl1VlZmVUNVdVNkVlZma29KSEgxcGlSZw?oc=5"
     },
     {
-      "time": "9/27 20:55",
-      "category": "総合",
-      "title": "群馬女性殺害、長男への殺人未遂容疑で逮捕の容疑者「間違いない」…事件当時とは違う服装",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tczluRG4tVjB0MlV2Z0tiRzJuYkJPSEpCSURKNGU3ZC16YjVkWjFNdUNwYjZ1c3NlblZYc2Ftcm8xbFhwYU1DOE1EeHlULU1NY2pSX1lRdHJGbE4tbUwyMHRaWm51UQ?oc=5"
-    },
-    {
-      "time": "9/27 20:52",
-      "category": "総合",
-      "title": "【速報】外国人とみられる男性死亡 刺されたか 神奈川・横浜市（2026年9月27日掲載）｜日テレNEWS NNN",
-      "source": "日テレNEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnYkJkMVVjeUotSjFEbmhJYW1ZRFdTbU1BbVNhNl9kUGpKWEY5Sm16cUMtN01RR2MyQ2VRVzZLS3JuQnJ2M3EyUjd5cXFONlEtUzJINjVRZHdKcnFqZ3VCM1RKR0dtSkhsLTRRVUlVOWIxMGpsdHJzaGZDc2g?oc=5"
-    },
-    {
-      "time": "9/27 18:51",
+      "time": "9/28 22:57",
       "category": "経済",
-      "title": "「卒業即失業」、中国版「就職氷河期世代」誕生？若年層の失業率が高止まり…専門家「日本経済と同じ道かも」",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Kb2FKVkJzNlA0VVB3aW12Y3ZOeE9GRFVuTnBIaHVkWGFPSXF5eFV1QmZMSGhlVlJCaEZfWVdrQ1FMbXY0RkF6ZFNFUjFQWDkxMWhDTEVpdjRJU01nNWNOR2pQU2E?oc=5"
+      "title": "エヌビディア、自社株買い計画を1500億ドル増額－持続的な成長を確信",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWd0JLZGN1NnRUZEZKWnhvR01DZkMzNlRTa1NtV2RBRTRXYzdxNGwyaS0ycEdHRE9kVFFFWTU0TW1kM0FyVDN2UUpyR3NwM2VuZG9IUmI5Z0JIOGF0WkRHSUZHY1lNMnJ5YW5LSDZQcFMzXzNfRlFn?oc=5"
     },
     {
-      "time": "9/27 13:00",
-      "category": "経済",
-      "title": "台風被害のJR内房線、代行バス足りず取りやめ 他路線は28日開始 [千葉県]",
-      "source": "朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81Xzl3UmFVbXNkc1pnR1dzME5TUHVBSjFOcGxSUDNBMDRBdUVVN3psTE80NTdxTmFoVC1JcVVyM0ZnbTJvZmY1aFgxQUdhSTRXWFo0d1NBMUVDd090OW5COTNxM2ZhY2M?oc=5"
+      "time": "9/28 22:57",
+      "category": "総合",
+      "title": "東大次期学長に藤垣裕子教授 女性初、来年４月から任期６年",
+      "source": "jiji.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxLVAwaHFIQU5sRjJSeGFocGl3RXFxVnd4M0o1UkR4Y0RoWlN4clVQLXRSM0hlcHFRRDRXSHFNNEducWRaUVI2Z1ZVNE40N2x4emxSa1RRUkhCZUc5eTVhX1E5Zw?oc=5"
     },
     {
-      "time": "9/27 10:15",
+      "time": "9/28 20:15",
+      "category": "社会",
+      "title": "非常に強い台風２６号、１０月１日にも伊豆諸島近海に進む見通し…東海・関東地方に接近する可能性も",
+      "source": "yomiuri.co.jp",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13M2hoSEFqejRfQzRaTjh1cFRHOTEyNlF6UFRnMTR0UDZDNGxQZXBaQXhkVzgtRmlIdWEwbi0tSjM2LVY4WkVObWpWaFAtR2NKRXpNa2NjWWtiTldXOS1WSk5lRnl1Zw?oc=5"
+    },
+    {
+      "time": "9/28 18:44",
       "category": "テック",
-      "title": "市役所の固定電話を廃止、市民から問い合わせがあると同じ部署の職員の「公用スマホ」が一斉に鳴る仕組みに",
+      "title": "特許権侵害でアップルに約1兆円という未曾有の賠償責任を認定する陪審評決（栗原潔） - エキスパート",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ydmFrcDVqMzJIakktQ1R1bmtmbEQxQTZWRy1POEdaNGdSaFYtVUJZenBEckZIRC1FWTBOM2NWTktkci1wOFVyYVA0N3FVakgyeERWZDVyaGd6SDVPaUxRQi0xVU5iODhyeldaT2E2RVEwUFdRN0Y2Y0RUZ3JLNEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQkR2di1KRXRPYVRyY0k4azJOMnJmeHpjOHBXaWViVDNXRzNuQk1pRzNrWnM4ZTduVG5nNmF3N0tKV25nckpEY0JiYzdCNGRoSE9BWjJmS1JhVUZvYUwwS0FOWWI1cGk0QUhTRmY5VWpJTW9YTE8xVzJ6NWE5RHF4NzVTWl9LV0NL?oc=5"
     },
     {
-      "time": "9/27 07:15",
-      "category": "テック",
-      "title": "4歳娘がスマホでポチポチ→17万円のギターを落札 「発送をお待ちください」の画面に30代父「一瞬で全てを悟りました」",
+      "time": "9/28 18:19",
+      "category": "総合",
+      "title": "【台風情報】台風26号の進路予想 10月1日は千葉県など関東の沿岸部に接近する恐れ “コンパクト台風”近づくと雨や風が急に強まる特徴 新たな土砂災害などに注意・警戒（NBS長野放送）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tbWVLTDFQYkU1NEJ2ZmVRY3FhRWVMSVF3dllhdnZLMUhWM0VhTTRaLWhucWFCd1liWkpYakx1bnlSS1VGQm5jZ2xVSGhLVkVIaUEtZ3hRbUYxdW16TEZYQVB1YnAyb3ptWF9wTFZaT21VZ3F0dEFTaXdQWVhDc0U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VckV1UjdabmM1RUkwaFRPUVZkVnpEdmROMDdPNzJBSXVHYXc4Sk5BeHY4c2VDeFRsNEpldVZIRmM2WmJOZUx0bnFTUWxSLXZQc0VvSDVkWmhxSU1LWS1rV0ctSzJaaDZJYktRbHJQdDZoaW9GUTlBSm1hdzNiVjg?oc=5"
     },
     {
-      "time": "9/27 05:00",
-      "category": "科学",
-      "title": "数百基の光通信衛星で大容量通信を実現へ、ＮＥＣが整備計画…日本独自の衛星網で経済安保強化",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDaUNWZEFYMXM2LXduUVpESXFwZy1NNTFYMkdqS1h1TjIxeFFlQmdDNGNkUnhjenA4dmVWR3g4YnJkZGhxZDhvMDRxOS1EV0RrM29TUno3OW9kNU5IQ1I2R2FwSW8?oc=5"
-    },
-    {
-      "time": "9/27 01:51",
+      "time": "9/28 18:17",
       "category": "国際",
-      "title": "トランプ氏 イランの新提案を拒否 「米がホルムズ海峡を完全に掌握」と主張",
-      "source": "テレ朝NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJR0VtU2w1Sk1nSnl6Z0NMRXEyeHJkcUFQenRTamhIYjFUM0Q4YkJXenZ3cHYtbXRKczZFQ0RGYXQ0N1A2a2h0djJaY29rZWdfQ19NSkwtOHpXMGVIVlZQVnZIOW9QYWJHMmZVeHhIY25ERjZxTFpxMFh3?oc=5"
+      "title": "北朝鮮捕虜の移送公表で韓国、ウクライナに謝罪と説明要求 「虚偽の発表した」",
+      "source": "産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84Y2t4LUlFaXFEaHE3azBTc2hIWEE0T3dCZDMtTUVpZkozZUhZNE52OVVyZTAyRVpOeW1xejgyYUY3QVJaclhiS1hXTVZCVEI5UEg1UmJqT2UyM2E2MnRZeEhVcGpjQ0Nsb0htanlUZ0RfdWpRY3c?oc=5"
+    },
+    {
+      "time": "9/28 17:45",
+      "category": "テック",
+      "title": "両陛下がネコバスに 天皇陛下のスマホで撮った写真公開 宮内庁（毎日新聞）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aVjZpOGFpRHlVb3BUeFZXcVBIcUhCXzFqVzRjc0ZiVk5rUU5KUFFJX1hZTnZ4Ym1MTnJ4R3FCQ1EyMngyd0dVbHlfam4xY3p6a3U4ZWkweGF4QXF5V25CNGprSjZVeU1mdnNiTlUtTVJ0eFNISldqRElJME1wVFE?oc=5"
+    },
+    {
+      "time": "9/28 15:22",
+      "category": "経済",
+      "title": "債券15時 長期金利、一時3.095%に上昇 5年債利回りは過去最高",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85aUJMM0VMMVpSVW5OZWVlSm1PeC1MMWlVY0kwNC1TX2pyVDRvS3dJX0NTZkFCWnlOT0RZZUE4TThCTm1SR005eGFOVjNDdFVreGxhV2c0WmREU1FyeklBNG1lM1dWc0ctQTZ4VQ?oc=5"
     }
   ]
 }

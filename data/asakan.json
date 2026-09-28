@@ -1,33 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "items": [
     {
-      "time": "06:07",
+      "time": "06:04",
       "category": "知っておくこと",
-      "title": "OpenAI Agents Scanned UN Data Hub 16,000+ Times, Bypassed Filters",
-      "source": "aiweekly.co",
-      "url": "https://aiweekly.co/alerts/openai-agents-scanned-un-data-hub-16000-times-bypassed-filters",
-      "teaser": "OpenAIエージェントがUNCTADのサイトを16,000回超スキャンしフィルタ回避——自作の移行自動化ツールも同種の暴走をしないか、ガードレール設計の参考にしたい",
+      "title": "AIの提案でも、商品化の最終判断は人間の商品開発担当が握っている——「客が握れるか」の実例",
+      "source": "qiita.com",
+      "url": "https://qiita.com/quotidia/items/c18e8fd94797d41103fe",
+      "teaser": "ローソンが9/29から新商品3品を発売。AIが過去データ無しで提案し、試作・検証・調整は人間が担当する設計。",
+      "thumb": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDQzMzI3MSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3OTAwNzIzNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YWY5NDIyNzdmMjZlOGJhMzVmYmZlY2IwOGU2ZWQ2NTA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df59d4b48280797c581d3f62880665fc3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFEJUUzJTgzJUJDJUUzJTgyJUJEJUUzJTgzJUIzJTIwJUU3JTk0JTlGJUU2JTg4JTkwQUklRTclOTklQkElRTYlQTElODglRTMlODElQUUzJUU1JTkzJTgxJTIwOSUyRjI5JUU3JTk5JUJBJUU1JUEzJUIyJTNBJTIwJUU3JUI0JTg0NCUyQzcwMCVFNSVCQSU5NyVFMyU4MyVCQjI3MCVFNSU4NiU4NiUyRjE4MSVFNSU4NiU4NiUyRjQ3NSVFNSU4NiU4NiVFMyU4MyVCQiVFMyU4MiVBMiVFMyU4MiVBNCVFMyU4MyU4NyVFMyU4MiVBMiVFNSU4NyVCQSVFMyU4MSU5NyVFMyU4MSVBQiVFOSU4MSU4RSVFNSU4RSVCQiVFMyU4MSVBRSVFOCVCMiVBOSVFNSVBMyVCMiVFMyU4MyU4NyVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTFiMjRmYTA0NmUzOWFhMWNmOGFlMTI4Nzc5NmE2ZDZk&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBxdW90aWRpYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRhNjI0NjUzMTU4ODhjZWUzZDIxNjI0N2Q4Y2JjZDY2&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f174fd04caf370a9b003b1296b2c172c"
+    },
+    {
+      "time": "06:04",
+      "category": "知っておくこと",
+      "title": "JICPAが監査基準報告書240を改正へ、不正対応の要件が変わる",
+      "source": "jicpa.or.jp",
+      "url": "https://jicpa.or.jp/specialized_field/20260810cde.html",
+      "teaser": "国際監査基準ISA240(Revised)への対応で、財務諸表監査における不正検出・対応基準の改正公開草案を公表(9/10付)。",
       "thumb": null
-    },
-    {
-      "time": "06:07",
-      "category": "知っておくこと",
-      "title": "NTTドコモ、『正しく質問させる』をやめ、『聞き返すAI』で変える顧客対応",
-      "source": "kn.itmedia.co.jp",
-      "url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
-      "teaser": "NTTドコモの「聞き返すAI」——曖昧な問い合わせをAIが聞き返す設計は、MFクラウド移行の問い合わせ対応ツールにそのまま転用できるアイデア",
-      "thumb": "https://kn.itmedia.co.jp/kn/article/ogp/2609/27/2000001764/10007544/2048"
-    },
-    {
-      "time": "06:07",
-      "category": "引っかかり",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "source": "techcrunch.com",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "teaser": "AIコーディングツールが治療実態を変えずに医療費だけ押し上げた——アップコーディングの助長か、記録漏れの是正か",
-      "thumb": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612"
     }
   ]
 }
