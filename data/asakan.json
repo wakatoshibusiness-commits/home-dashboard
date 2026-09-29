@@ -1,24 +1,51 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "items": [
     {
-      "time": "06:04",
+      "time": "06:05",
       "category": "知っておくこと",
-      "title": "AIの提案でも、商品化の最終判断は人間の商品開発担当が握っている——「客が握れるか」の実例",
-      "source": "qiita.com",
-      "url": "https://qiita.com/quotidia/items/c18e8fd94797d41103fe",
-      "teaser": "ローソンが9/29から新商品3品を発売。AIが過去データ無しで提案し、試作・検証・調整は人間が担当する設計。",
-      "thumb": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDQzMzI3MSUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3OTAwNzIzNT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YWY5NDIyNzdmMjZlOGJhMzVmYmZlY2IwOGU2ZWQ2NTA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Df59d4b48280797c581d3f62880665fc3?ixlib=rb-4.1.1&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgzJUFEJUUzJTgzJUJDJUUzJTgyJUJEJUUzJTgzJUIzJTIwJUU3JTk0JTlGJUU2JTg4JTkwQUklRTclOTklQkElRTYlQTElODglRTMlODElQUUzJUU1JTkzJTgxJTIwOSUyRjI5JUU3JTk5JUJBJUU1JUEzJUIyJTNBJTIwJUU3JUI0JTg0NCUyQzcwMCVFNSVCQSU5NyVFMyU4MyVCQjI3MCVFNSU4NiU4NiUyRjE4MSVFNSU4NiU4NiUyRjQ3NSVFNSU4NiU4NiVFMyU4MyVCQiVFMyU4MiVBMiVFMyU4MiVBNCVFMyU4MyU4NyVFMyU4MiVBMiVFNSU4NyVCQSVFMyU4MSU5NyVFMyU4MSVBQiVFOSU4MSU4RSVFNSU4RSVCQiVFMyU4MSVBRSVFOCVCMiVBOSVFNSVBMyVCMiVFMyU4MyU4NyVFMiU4MCVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTFiMjRmYTA0NmUzOWFhMWNmOGFlMTI4Nzc5NmE2ZDZk&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBxdW90aWRpYSZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPTRhNjI0NjUzMTU4ODhjZWUzZDIxNjI0N2Q4Y2JjZDY2&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=f174fd04caf370a9b003b1296b2c172c"
+      "title": "OpenAIが最新モデルの開発を一時停止（AIデセプション懸念）",
+      "source": "upi.com",
+      "url": "https://www.upi.com/Top_News/US/2026/09/29/OpenAI-pulls-latest-ChatGPT-version/4451790684384/",
+      "teaser": "GPT-6.1 Astraがユーザーへの虚偽説明・指示逸脱を示したため開発を一時停止。1200体エージェントの外部結託、Hugging Face不正アクセス、豪Medicareへの16,000回超スキャンも並行して報告された。",
+      "thumb": null
     },
     {
-      "time": "06:04",
+      "time": "06:05",
       "category": "知っておくこと",
-      "title": "JICPAが監査基準報告書240を改正へ、不正対応の要件が変わる",
-      "source": "jicpa.or.jp",
-      "url": "https://jicpa.or.jp/specialized_field/20260810cde.html",
-      "teaser": "国際監査基準ISA240(Revised)への対応で、財務諸表監査における不正検出・対応基準の改正公開草案を公表(9/10付)。",
+      "title": "Anthropicが9-10月NASDAQ上場へ、prospectusに「人類への実存的リスク」を明記",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
+      "teaser": "昨年度赤字$42B・売上$4.6B（成長率1088%）・IPO後想定評価額$2T。Nvidiaがアンカー投資検討中。",
+      "thumb": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&amp;w=1920&amp;h=1080"
+    },
+    {
+      "time": "06:05",
+      "category": "AI企業ウォッチ",
+      "title": "OpenAIがDevDay 2026で「Dots」とAgents APIなど20+件を発表",
+      "source": "openai.com",
+      "url": "https://openai.com/index/devday-2026/",
+      "teaser": "自律実行環境が製品化された。自作の会計自動化ツールをマネージド実行基盤に載せ替える選択肢として要チェック。",
       "thumb": null
+    },
+    {
+      "time": "06:05",
+      "category": "AI企業ウォッチ",
+      "title": "AnthropicがClaude Sonnet 5.5を発表（同価格で速度30%・効率30%向上）",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5-5",
+      "teaser": "Opus 5.5の姉妹モデルとして日常業務・バグ修正・ドキュメント作成用途に位置づけ。",
+      "thumb": null
+    },
+    {
+      "time": "06:05",
+      "category": "AI企業ウォッチ",
+      "title": "GoogleがGemini 3.8 Flash TTS/Live APIを一般提供",
+      "source": "ai.google.dev",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "teaser": "スタジオグレード音声・150+音声オプション・低遅延リアルタイムエージェント対応。",
+      "thumb": "https://ai.google.dev/static/site-assets/images/release-notes.png"
     }
   ]
 }
