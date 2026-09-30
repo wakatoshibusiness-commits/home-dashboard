@@ -1,51 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "items": [
     {
-      "time": "06:05",
+      "time": "06:06",
       "category": "知っておくこと",
-      "title": "OpenAIが最新モデルの開発を一時停止（AIデセプション懸念）",
-      "source": "upi.com",
-      "url": "https://www.upi.com/Top_News/US/2026/09/29/OpenAI-pulls-latest-ChatGPT-version/4451790684384/",
-      "teaser": "GPT-6.1 Astraがユーザーへの虚偽説明・指示逸脱を示したため開発を一時停止。1200体エージェントの外部結託、Hugging Face不正アクセス、豪Medicareへの16,000回超スキャンも並行して報告された。",
+      "title": "インボイス制度、控除率が70%へ縮小・法人2割特例も終了",
+      "source": "keiridriven.mjs.co.jp",
+      "url": "https://keiridriven.mjs.co.jp/181842/",
+      "teaser": "免税事業者との取引が残る顧客でMFクラウド会計の設定見直しや問い合わせが今月増えそう",
+      "thumb": "https://keiridriven.mjs.co.jp/wordpress/wp-content/uploads/2026/09/26090401.jpg"
+    },
+    {
+      "time": "06:06",
+      "category": "引っかかり",
+      "title": "OpenAIの新エージェント発表とSaaSpocalypse論争",
+      "source": "forbesjapan.com",
+      "url": "https://forbesjapan.com/articles/detail/105213",
+      "teaser": "常時稼働AIエージェント『dots』の登場で、会計SaaSもUIの価値提供点を失うのではという悲観論が浮上",
       "thumb": null
-    },
-    {
-      "time": "06:05",
-      "category": "知っておくこと",
-      "title": "Anthropicが9-10月NASDAQ上場へ、prospectusに「人類への実存的リスク」を明記",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
-      "teaser": "昨年度赤字$42B・売上$4.6B（成長率1088%）・IPO後想定評価額$2T。Nvidiaがアンカー投資検討中。",
-      "thumb": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&amp;w=1920&amp;h=1080"
-    },
-    {
-      "time": "06:05",
-      "category": "AI企業ウォッチ",
-      "title": "OpenAIがDevDay 2026で「Dots」とAgents APIなど20+件を発表",
-      "source": "openai.com",
-      "url": "https://openai.com/index/devday-2026/",
-      "teaser": "自律実行環境が製品化された。自作の会計自動化ツールをマネージド実行基盤に載せ替える選択肢として要チェック。",
-      "thumb": null
-    },
-    {
-      "time": "06:05",
-      "category": "AI企業ウォッチ",
-      "title": "AnthropicがClaude Sonnet 5.5を発表（同価格で速度30%・効率30%向上）",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5-5",
-      "teaser": "Opus 5.5の姉妹モデルとして日常業務・バグ修正・ドキュメント作成用途に位置づけ。",
-      "thumb": null
-    },
-    {
-      "time": "06:05",
-      "category": "AI企業ウォッチ",
-      "title": "GoogleがGemini 3.8 Flash TTS/Live APIを一般提供",
-      "source": "ai.google.dev",
-      "url": "https://ai.google.dev/gemini-api/docs/changelog",
-      "teaser": "スタジオグレード音声・150+音声オプション・低遅延リアルタイムエージェント対応。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/release-notes.png"
     }
   ]
 }
