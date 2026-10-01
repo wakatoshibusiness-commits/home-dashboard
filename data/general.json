@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01 06:08",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02 06:05",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "05:07",
-      "category": "総合",
-      "title": "台風27号(チョーイワン)発生 発達して次第に北上 今後の進路に注意",
-      "source": "ウェザーニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QNzRyN0RfaklnWE5qVEFiT1pTblR4MDZ4STBzN2hVQkJwLXhpNmtJXzRtLXBERFFkTlJaRjcxbUttSjRNWVlKY01IYjB2WjdCZUpIZg?oc=5"
-    },
-    {
-      "time": "00:52",
-      "category": "国際",
-      "title": "イスラエル行き旅客機、操縦士が同僚操縦士を刺し墜落図る…３０秒で４３００ｍ急降下",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZWlneU1Tc014LTB4d25xb1FaX3ZkTHFnX1dYUm5vY3ZVcHFiZHhxU29JQmRzWjQ4NDJfSGlxVk9sc3NzVXBZRnh1eURNakw0eEZ4S0lNNnZySFRvMk1fUFFR?oc=5"
-    },
-    {
-      "time": "00:40",
+      "time": "02:00",
       "category": "経済",
-      "title": "米国株が上昇、PCE価格指数の落ち着きで10月利上げ観測が後退",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwVDQ5bVBnY3JPSkdna19DOUNZaDdwTElPRmJIc0Vib045YVNCYzRwTHFzUllUaWV0Mlg1UGptalg5aDJaNmJ2Q2JGRXdqX0JPLXVFNEhOQVJnNzFfRHVQcHVic0h1NHVxakdaMlZ6X0xsWGdkeUI0?oc=5"
-    },
-    {
-      "time": "00:15",
-      "category": "総合",
-      "title": "外国人の永住許可、きょうから厳格化…「日本人世帯の平均収入を上回る水準の額」要件に",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1md3REd1F1eFRYRHlhbW9BN2loS1pFY0R1aFNqNk4xVlBtc24zNUVubDNKUi13WDJmTUlCNDF2M1RRREdKM2REemo2T0d5bVZ2UkdqZHpLZmpocUVsRzg3NTBTVUhnUQ?oc=5"
-    },
-    {
-      "time": "9/30 23:11",
-      "category": "総合",
-      "title": "イスラエル行き旅客機がサウジアラビアに緊急着陸 副操縦士が機長を刃物で刺したか 客室乗務員らが機体を制御し無事着陸",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GeG5UUzNhLWZ2OUhHbFhTRTA3RnZnbmc2VW9hSlNLbTFMQmd6TXFuMUR5RlBacTVTUzFmeGJxRnJGRzB3UnVsTGJLaVd4c19MeVVjRWxicEpSWUppYktRU29TTXRYMkdtMXlsRTFRMW5oNTdwWGRScmJCVFYxOGM?oc=5"
-    },
-    {
-      "time": "9/30 22:03",
-      "category": "社会",
-      "title": "神戸連続発砲事件 わずか10分、白昼の住宅街で2度の凶行 住民ら「なぜこんなところで」|社会",
-      "source": "神戸新聞",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwREZFbFJHQm1FMzk1azBaS2VsSFJlMDFZckYxLVZNMGNvdUJrTlNjb1ZRQ3RwbzFiZnpCVnllcTI2ci1FR1JYR0tfZmYzWHNtOXh3OGZ3c0VJOXF5eXJoSTVLY296UzBPUEsyODdtWQ?oc=5"
-    },
-    {
-      "time": "9/30 22:01",
-      "category": "総合",
-      "title": "神戸で連続発砲事件 2人死傷、元組員の男を逮捕 県警「暴力団同士の抗争の情報なし」|社会",
-      "source": "神戸新聞",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wYzQ4MEEwRE54OFJrbTYtNENsSlBTcDNQUWdUY3BwVWVzYjlvYXBnWFpWSHZYMThxcWYtV05sbUpkeTJXaHR4TjNfNHhrRWUxODhyZE5aRXFXUXQwRWE1QV9CSWxBSGJJaWhUcmRfcw?oc=5"
-    },
-    {
-      "time": "9/30 19:58",
-      "category": "国際",
-      "title": "電気料金、バス運賃、北の首相官邸…バーナム効果で英労働党に風",
-      "source": "毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyUng0MTRhaS1QUGw5VTFPb0VDYzMxdXdDU3dXeXFNR2RMSHQ1ck40TnVGSENsWURJUGNEazZKMjI1N2tNdjMtbnE4QmVJUVE0ZG4xbWlaNHBacE1vcUVSQUtOdThHM212?oc=5"
-    },
-    {
-      "time": "9/30 18:01",
-      "category": "科学",
-      "title": "【1883年に人類が滅亡しかけた出来事】数千個もの彗星の破片が地球のそばを通り抜けていた可能性",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb09MQVl2dW0tdTM0WFhjVG5ERUhJUXExQU1pSXZvdG5MSHZWX2luLUh2eTFGY25wZEhrZXhRckVuZFVWZFV0UEU2andzNVF2aGszUWpRRGl3RW1XVGdWVkowMEFTVVYyb09QTDA3N0N0THYzR3I4YzFfdE1SZDhxaDJRRWpIQnha?oc=5"
-    },
-    {
-      "time": "9/30 17:37",
-      "category": "経済",
-      "title": "タイムズカー免許証画像流出、勝手にクレカ発行の恐れ とるべき対策は",
+      "title": "ニデックとPwC、信頼修復しきれず 意見不表明「責任放棄」の声も",
       "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BenNyLTRPeVVnckl0d1Rvd1pBOHZfa0pMQUtBYzJESmtTVmkxb2hfUnowbDVJZ21EeHFLVWxKNlpldi04amVUSDVwRnlfejJNZ2NtZWNwRU9wR2Y1LVlCRnRXQi12WFZCZHBGNw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZTEpycmFXN1o2VXRWREhGczJWREJmME9ZT05qam5kZ0ZqNl9QZVQ5a0MxdmJiTVNIaXQyTW0wRDlHOHhma1VFVklLZ19OeHFaNC1FekFNOFJQdTFjOS1PTjY0T0daNmFWSEVhSA?oc=5"
     },
     {
-      "time": "9/30 17:17",
-      "category": "テック",
-      "title": "声は「人格の象徴」初の司法判断",
+      "time": "10/1 23:56",
+      "category": "総合",
+      "title": "日本列島 各地で真夏日 台風27号 非常に強い勢力へ（FNNプライムオンライン（フジテレビ系））",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OSEpKaEZQM2RqSzI1ZEdoYzBIMlU1Z0dBNlJuQ2hPY0ZDRXEyRzdGeE8zQ0NfX01wbDZBTV9UcmNERDNINm0xbDJsS24yQ3c5?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LTjlMczBKRDJ2cmp0R1ZtLXVhM1poaFhyOEVpeVVYZXpfTXVrZTdfM192eXBMamticm5jWHRtYW9BRmpvcUVSSkZlZ3Jrak93S0tiZ2dBOFFMVU0xSGdVRUdvc2ltY0NsZ2RqVXpURXp5N0EyY19kYUx1ZEo0eVU?oc=5"
     },
     {
-      "time": "9/30 17:03",
+      "time": "10/1 23:42",
+      "category": "総合",
+      "title": "三ノ宮駅周辺が騒然…神戸中心部で暴走事故 女性（21）死亡",
+      "source": "テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpWnpxS29YMGlXazN2VEdzLW0yRXFQb1lFNTIxNk0wNk1JeEo1clkyTW1adEhwVnZPNE4zeEJRME5GYzcwaGJpcktsUGxiM2hjOXpYZXRmUllOUVI1b0c4ZnVudzQ4SThocnlMc3lxbzMzZw?oc=5"
+    },
+    {
+      "time": "10/1 22:37",
+      "category": "社会",
+      "title": "突然発進、繁華街を車が暴走し4人をはね21歳女性が死亡した神戸三宮事故 何があったか",
+      "source": "産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50S0hTY1pBV2ZkX0VvdmZTajF5LWpVVFhZU1pQMjF2RWFHVi1NX3A0NnVCaTdaaFlaSk9WR3FJTVVRVWNHWGM4ekVxaTlXQzM3Zi04cjd0VFVrZ2J5dU9panoxZlJqTGhBcTBJVS1uazVHMXNEMXc?oc=5"
+    },
+    {
+      "time": "10/1 22:21",
       "category": "経済",
-      "title": "ニデック決算開示 2026年3月期の当期純利益は5,646億円の赤字",
-      "source": "東京商工リサーチ",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBdGVlcG9GOG5YckVnMC1qRjJLcWlzVmJlRjJQZHhkdkJlVER4WEM4eHI1cGZOZzBIellreDFIdktaSXR1T3hobDhJUGMxcUdaTUVoMWpPUWVWOGE3bUNMOGktQVlXZw?oc=5"
+      "title": "青森みちのく・岩手・秋田の３銀行、経営統合へ協議開始…実現すれば東北最大級の地銀グループに",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41OFpJc0RFU3EyTUkzckpybjdDY3Q0VVBiN2FRS3RCb2p3QU4wdVVaMTU2c0dxN3NaX1JqLWJTWk5jNWNrQ0dzUk56U2pOLUtSbkNndXgtYjJqbVNUekFVLVR2dFk?oc=5"
+    },
+    {
+      "time": "10/1 20:38",
+      "category": "総合",
+      "title": "急降下のイスラエル行き旅客機、副操縦士を取り押さえたと語る乗客「航空番組で見たように操縦かんを引いた」",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GdkQ2VVdrbldCMTZhZ2JxR0lEdjVuY3Q4YVlGODBCeGxiY0dkN0ttdE4welVDOFhHUHF2ZmJrVW5mSEwyMlpsVTJseFlaTkU5VFJNRG1lZEM1UzVyQUZUWjBn?oc=5"
+    },
+    {
+      "time": "10/1 17:01",
+      "category": "総合",
+      "title": "「作ってはいけなかった」北大化学部門の内部基準 撤廃後も残る懸念",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyWkhIeUd5VWp1U3NzNGk0bGZqekNPRHFvMGNuS1BLWURwU1J3WXczaUZLWmVoQUd3eURBQVpqNUVzbjJBaDRfajJuUHhDRjl5aE5FanUySnliSllZTF9UT09aZ09hcFhw?oc=5"
+    },
+    {
+      "time": "10/1 16:08",
+      "category": "経済",
+      "title": "相場展望　１０月１日号　米国株：米国株は軟調・・長期金利が上昇・景気の悲観強まる・新規材料なし　日本株：日経平均はNYダウに比べて独歩高、日本株全体から見ても突出",
+      "source": "財経新聞",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9peHpJVjlMcTFTd0Z4VWxzckZUckJmZTJiVGN3REpWWXczb2JlUTAwUW5TaEEyczVQMmdobGU4YUVSZ0RaNVZKV05objdpdVNLbnlyRTYzZnFZczZieHFneEYwONIBaEFVX3lxTE1LVjNGd2pnOWlXMnFrd3IzbTdNZGhmcEx2UHF6cWJGdXBYbi1ycDAzQTI4QWNrWFdTZXVFZlA1LXRzRGZDRkE2clMxYXdKMWZmRzRCbnhFaWw0MFIzLTMzQXNtR1lqMVli?oc=5"
+    },
+    {
+      "time": "10/1 14:37",
+      "category": "科学",
+      "title": "怪異をすべて“物理”でぶっ飛ばすホラー映像作品『現地確認記録』が話題に。異常な主人公・佐藤が異変を調査",
+      "source": "電ファミニコゲーマー",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1acnJPNEdhTzg3b3JsaDdRQy1BT25GSHpTMWRoOFFhUUVsS3JXY05FSDQ4MWdoeGhnaGtuS2hGQ2xmdkpwVHVJZDF1dU9SWUt6MHpoQjlkc08?oc=5"
+    },
+    {
+      "time": "10/1 10:00",
+      "category": "テック",
+      "title": "メタのAI「Muse」、500万ダウンロードを突破──ChatGPTやClaudeを圧倒",
+      "source": "Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1keW9JSS1vWUg3cEd4bGhrbmx6ektYUmQ2SEdsSGs5N0lMLUZObmFieFNaZk9QNVB0N0t0NzFzM1NSVzVoYU1lcmVUNFA2aEZxQWVVSGhXSmF6dw?oc=5"
+    },
+    {
+      "time": "10/1 07:33",
+      "category": "テック",
+      "title": "高性能AI普及へ 年内に行動計画",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ya3dhX2hJdnBoVGVsLW45aS02MS1rQ3lpVDBkMHBQSVdITHZLSEdyZXhEaV8tNk9XODBDaDJDWGZhN1FsSnFJclE0dlIxVWx5?oc=5"
+    },
+    {
+      "time": "10/1 02:38",
+      "category": "国際",
+      "title": "米イラン協議また進展せず 戦闘終結交渉は仕切り直し（FNNプライムオンライン（フジテレビ系））",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKaDJ3ODFBa01rMFNOV2JDOXRSbW9kQmNxY0VkMzVTMjhfWHpaZWhDajJXbW4yWjExSHZtUDB6b2ttTm9McXNkVWxmQ2ZyUElSUWtyb1F6bGNxdzlyZTYtR0psbzRDRllWSXZ4VTg5YjNJdzd5RVp0Qmx4WGFZWk0?oc=5"
     }
   ]
 }
