@@ -1,33 +1,5 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-02",
-  "items": [
-    {
-      "time": "06:03",
-      "category": "知っておくこと",
-      "title": "AWSが選択肢判断特化の小型AI「Strands Decider 2B」を無償公開",
-      "source": "sbbit.jp",
-      "url": "https://www.sbbit.jp/article/cont1/187226",
-      "teaser": "20億パラメータ・約0.1秒応答でローカルCPU/GPU動作、重み・学習データもOSS公開——移行マッピングや仕訳科目選定など、今の自動化ツールで人手判断に頼っている工程を小型モデルに任せられるか試す価値がある。",
-      "thumb": "https://img.sbbit.jp/article/image/187226/OGP_bit202610020424473382.jpg"
-    },
-    {
-      "time": "06:03",
-      "category": "知っておくこと",
-      "title": "日本企業のDX失敗率64%、最大要因は業務プロセス整理不足",
-      "source": "syusodo.co.jp",
-      "url": "https://syusodo.co.jp/blog/articles/dx-failure-cases-2026",
-      "teaser": "製造業は20年物システム刷新が現場の工夫に対応できず工数増、食品メーカーは一斉切替で出荷停止に。本来のビジネスモデル変革まで届いた企業は2割未満で、BPR現場の実感と一致する数字。",
-      "thumb": "https://api.syusodo.co.jp/images/blog_dx_failure_cases_2026_og_63a95a5cb1.png"
-    },
-    {
-      "time": "06:03",
-      "category": "AI企業ウォッチ",
-      "title": "Googleが新フロンティアモデル「Gemini 4 Argon」を発表",
-      "source": "thedailystar.net",
-      "url": "https://www.thedailystar.net/news/technology/news/google-announces-gemini-4-argon-its-new-frontier-model-4287686",
-      "teaser": "出力トークン上限を64,000から100万に拡大し長時間推論に対応、初回提供はサイバーセキュリティ防御チーム限定（入力2ドル/出力10ドル・百万トークンあたり）。",
-      "thumb": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-10/Gemini%204%20Argon.png"
-    }
-  ]
+  "date": "2026-10-03",
+  "items": []
 }
