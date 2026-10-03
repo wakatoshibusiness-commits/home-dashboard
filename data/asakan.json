@@ -1,5 +1,15 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-03",
-  "items": []
+  "date": "2026-10-04",
+  "items": [
+    {
+      "time": "06:03",
+      "category": "知っておくこと",
+      "title": "PwC: 基幹システム刷新の失敗要因は「ベンダー任せ」と「現行踏襲バイアス」",
+      "source": "pwc.com",
+      "url": "https://www.pwc.com/jp/ja/knowledge/column/risk-consulting/core-system-modernization.html",
+      "teaser": "移行案件で「客が要件を握れているか」を点検する観点に使える。",
+      "thumb": "https://www.pwc.com/glob/dpe/en/inline-images/pwc-gx-supporting-800x450-gettyimages-1358416956.jpg"
+    }
+  ]
 }
