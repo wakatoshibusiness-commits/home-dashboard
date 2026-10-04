@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-10-04",
-  "generated_at": "2026-10-04 06:05",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05 06:06",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "10/3 22:35",
-      "category": "テック",
-      "title": "米政府のAI 都合の悪い質問を拒否",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9keWtNaHU4dE9OSlhoNXh5YTJSQTh0QmdKRV80aHhBblkzVWh0Xzd2dVVxTkxxV2U0SXg3YnZENjRCQmU4VXJWQ0pKWmw4d2ho?oc=5"
+      "time": "02:24",
+      "category": "総合",
+      "title": "簗農相「予算大幅カット」発言の背景は？ 衆院栃木3区、保守分裂や確執の経緯を振り返る《無料公開》",
+      "source": "下野新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HWGE3ZmlsVGJNcVhXUVlRV1ViellvSXpGYU02NFBpcGttWVBqUUx4R1ZiRWxETlE4RTJ5TUZtYjBkZlc1ZXBPQ1FNN0ZfdDBaYW9QeWtLeEpwbE0?oc=5"
     },
     {
-      "time": "10/3 21:28",
+      "time": "10/4 23:23",
       "category": "国際",
-      "title": "米中間選挙、民主党が上下両院とも多数派視野 物価高で逆風、トランプ氏「票が必要だ」",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzaUlrNHUwMEF4NU93a1dPem1CLWN6NXA0eEF6ZGpac3ptb1ZPN2tyMWloTmlTdkdndWNFSUIzZW5YX01FdmdldHV6cWtKU09UeG94OW43WVhoekMyMVdJYjh0WjFjVEdYRktZRDA0Vjg2QW5fbFE?oc=5"
+      "title": "フーシ、サウジアラムコの施設を連日攻撃 弾道ミサイル・無人機使う",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLUzlvWEppQ2k5bFY4TGxrVlE0Y3RQNWMtSlN5ejUtSkZzaWw3d3BUZkZ6SjFRWUVfaVl5dWE5ZTlGVGxUMlZjSEMxSlBvTm5hdEZEdnQtTEZhTU1Ec0g2dDMwZHFjWEszdTVlSw?oc=5"
     },
     {
-      "time": "10/3 21:26",
-      "category": "総合",
-      "title": "北朝鮮キム・ヨジョン氏“中距離戦略ミサイルを発射”",
+      "time": "10/4 22:15",
+      "category": "社会",
+      "title": "新たな台風発生予想 北西進しながら発達する予想 今後の進路に注意",
+      "source": "ウェザーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HVm1rYjRtWjE3WEpiN2pkMDRQeXdOWThUYkhhMWpEWnh1Y1kyMlNUTDdkTlctMDV1aGlnOUQ4VWZ6MUFNUFdRLS1saFduYjRrMWFtSA?oc=5"
+    },
+    {
+      "time": "10/4 21:30",
+      "category": "経済",
+      "title": "日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信",
       "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfTnYxNlFpQmtuV3Q2TGluQkNNQnVwY2hzSW9kV21SSkZUejZLLXpFUHhpOHNlOHJ1QzdNMkJoYUpPSU84MXZCbjVzVmxhYWhEQjllQXk5VW81bjk1T2s4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1SnV5ay1RdWRIRXlaRGhlYWtUZXdsZGFtYUJBRTNBa2ZVUWlFNS1TU043eEpzcHdOWkdacjhsNEdrVURGNjFLQWQtc1VqX256R1hGYU1TRVBBcWEwRXRj?oc=5"
     },
     {
-      "time": "10/3 21:00",
-      "category": "社会",
-      "title": "米国産ジャガイモ解禁前倒し浮上 トランプ政権の圧力が背景",
-      "source": "NEWSjp",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xRU8xTm1lVS1OV0N0Z0FxRy1BemNidFBnWG5aNWU4Uy1JRlZ4azl2RFZZM2l1QXBXV0oxSFdaZ1hRVjU2cklFdEtZTHZRQQ?oc=5"
-    },
-    {
-      "time": "10/3 20:29",
-      "category": "経済",
-      "title": "米政府の対話型ＡＩが公開後に仕様変更、トランプ氏に都合が悪い質問への回答拒否",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nbVdPeDA4Y2c5RkZ0cEFxS0IweEVSNGZDNGVIblNYQmpGMW1zbkYzRWNnOHRuZzVrWWNUSE1jV3dPTmt0alJTcWY1cmxXS2I0Rm9yNFZKTEtVcG9mS2J3d3pB?oc=5"
-    },
-    {
-      "time": "10/3 19:03",
+      "time": "10/4 20:08",
       "category": "総合",
-      "title": "機長襲撃の副操縦士、以前の勤務先・オマーン航空で過激主義思想疑われ職務外される…米報道",
+      "title": "副操縦士、「お祈りをしたい」と申告直後に機長へ一撃…イスラエル当局がチェックなら乗務できない国籍",
       "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lWUE3VjR2a0FsTENkQVg0VUZkY3FxbEVoT3FOY1BFb0wyLTVEOHlhcXh1RVlORTdTeGVjNTFXS3JzcjhMX2hKTXpVZmtBY1FzSDRTNVMtVjVRajU4UWxEMXNB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83SzMwSC1jNHhaa1FYZXJaRkJ5S1NaWXl2TGd2Sm9fSXVoZjR6a25TSGpvM1VpMW4xUjJnTUVseThETlBPMk5CWmo3SWVWcFVaUG4wakRRU3dMZjc0N1dUWUpR?oc=5"
     },
     {
-      "time": "10/3 18:58",
-      "category": "総合",
-      "title": "簗和生農水相が再び説明回避 予算削減発言は「個人の政治活動」 事務方が質問遮る場面も",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1POEs3TGZPNGp3SGpwT3dPU3lVZzE1emdiZE51VlVfaDdTY0VaSEcwQmdtU3pBakl4SWJYX3lkaTQwOGg3UmdSbkJMQ1AzTGRkVU5POGlwZzkxdUVBMU1rNjY2Y1VKR2lrcGdudk44bjB4clZ5U1E?oc=5"
-    },
-    {
-      "time": "10/3 18:30",
+      "time": "10/4 19:21",
       "category": "社会",
-      "title": "タワマン23階から転落の9歳死亡 ベランダつたい移動試みたか",
-      "source": "mainichi.jp",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQcVBOTDJUVGZoaXVzLWo1NktZenVxcV9nLU5ZZTlPSmxCME12VWxwSXhjc2NJX29ETVVRSDVGajA1X29CUnByZFlXVHU1QU1DSlV5SWNuUV9TT1VOamY5QzhCTGI5SlZT?oc=5"
+      "title": "「極めて深刻」小泉防衛相、在日米軍司令官を呼び出し直接抗議 那覇市の強盗殺人事件",
+      "source": "沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YV2FiUzZwTndoWk4xNFVULWV4NUtEckFWSjQtRkkyd1VWY3VJNTJjTVdkNXFZMk5UU1pBeDMxU0FacGJKQ1hPTTF3ZDlzTXp1ZmdkMjVQTENiQ0dnamc?oc=5"
     },
     {
-      "time": "10/3 18:07",
+      "time": "10/4 17:48",
       "category": "経済",
-      "title": "中国人訪日客激減も…個人や「リピーター」健在 「国慶節」連休、観光業の大打撃は回避か",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zTV82bjJxTi1LaGFhZVRQbGV5OU1xN3dOazFLcXF5d0hIYzZOZjZyb1JVUlJ4U3FkTy0yVTNDTWw1R05DLURXemhXTFdneGhsYXZTMmZEcDBBR0stV05PcWpZaHB6MUlKYTl0czA0VElfREJWT2c?oc=5"
+      "title": "FX・為替相場の注目指標や予想を解説 - 【10月5日～の週】為替相場の注目材料スケジュールと焦点",
+      "source": "ザイFX！",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xcXA3Q1FOMUZVVGpXZDZsMXg4WVBwakVOUl9hY3ZMdVY4a2NqV1JJRkI5eFF2eGtfcHJoUGw5RTVreWMyS0JJNVhMVTk1M3FJdnc?oc=5"
     },
     {
-      "time": "10/3 17:30",
-      "category": "科学",
-      "title": "地球上の生命が生存できる期間は残り約10億年 東邦大などが試算 カギは酸素",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oODlxS1JJNEw1dTk0Mzg1dENXSzctSXdHNW1HeFEyQjEyWWNTWHZ0RGE4WHdPX1Z2czg5M1lnOHZka2J1SzlUeDdFNnprT1RjVzVGOW9lTmdUN1B2NDZUQnFuZ0JGX1lFRVVza0VFUXdELXo1XzhKM19BU0dsdkk?oc=5"
+      "time": "10/4 17:45",
+      "category": "総合",
+      "title": "那覇市 女性への強盗殺人容疑 逮捕の米海兵隊員の男「私は知りません」",
+      "source": "テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wS2NnbVVoZTBfTlZzOFFCb0c2aHNUcnAxXzdTSXl1dXRpZ3IwakJ0S3RLMkYtby1abTRETWFldTdJMVdTaERLUnZvNzRpU1hTQTR3TTMzS1p6azlLSHhrN2dLTDY0dF8zSW9HT01iWkx1UQ?oc=5"
     },
     {
-      "time": "10/3 13:00",
+      "time": "10/4 11:37",
       "category": "テック",
-      "title": "ドコモがほぼ全ての料金プランを値上げ　それよりも端末の値上げが気になるこの頃：Mobile Weekly Top10 - ITmedia Mobile",
-      "source": "itmedia.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwUUVRbzM2T2NnbjVTVFpoYXlndm1TOGhuQkNYaXJ1X1hFQkt5SWxvdGlmV2hieE1BbzJSLWp4LWZ0OTlBUm03Vml2b0xJUWxmbEF2NkZYdzlSQW96RlY4cF9WcVBXWWk1U1ZXTkV3RdIBaEFVX3lxTE9PSU1McFE5X2MwZ1pnV285MzJZVzlPWVpCQ0o0R28ybkxkTUJVdDVaMk9PUWtWWmFTaXdHSElmQTE3dWJveF9kLWJEekdHTWlHTzV6MEp3bXotQmYxS0lXVjVnMkd0cXBn?oc=5"
+      "title": "ビル・ゲイツ氏「AI悪用なら10億人が死ぬ恐れ」…研究者ら「人類の未来を賭けたギャンブル」と警告し相次ぎ退職",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JT3JtclFDXzlTRmpmOFpsdGVlNWVyNU9Edk00NEYyQzF1Z1U5bGxJR2ZLZ0h2elpQNGFaSG5mam9BdzJZRDNhSUhLSEh2UWd3YVQ3alRGcFhNNXJLMW5XY1J3TExaVVdXSGM5SjhOR2c4c1J5OVZOTDVtLUhHYk0?oc=5"
     },
     {
-      "time": "10/3 11:54",
+      "time": "10/4 10:44",
+      "category": "テック",
+      "title": "ドコモがRCSで同意未取得の不備 約1万6000件に影響、対象ユーザーは利用停止に（ITmedia Mobile）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aNU9VdzVhRmFnNV9fbmcwV050Wmp5MXhGcHBEZDFQUlFUVFZyUmRYSjVFT00xbm5GQ2lERzZSVGhQQlMtb3lOUHEtT3o2RGMtM0dWQjZGdTYxOVlZVVNEbFN5cEwxc0EtU0x3QnVMendpc2V5b0duUnV1MVluM2c?oc=5"
+    },
+    {
+      "time": "10/4 08:45",
       "category": "総合",
-      "title": "【速報】富山県警が市役所に家宅捜索 富山市国勢調査 人口水増しの疑い",
-      "source": "TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvd2hFckptY3V0ZTRhbjMxTks1Sk9VcWNJb0lBbmwwSFdweEVSakhQV2FDMm1uNm1aSGtSTVNBUEFYRWJLaTBDZWFVT0FTYUdKdEtBMFNibw?oc=5"
+      "title": "横浜市長選に建築家の山本理顕氏が立候補表明 プリツカー賞受賞",
+      "source": "朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ORmY3WHd4NkE2Q25XTVZxODEyWUVXc2VpSVJaYXZQR25nZXJtQUlIMU1PRjlvamhEeXlVYVlaR0MwbzM2Vk9xTlNtOGNTaldoNUQ4bWRJMlZ0LTRiOEZwbTdIMXJETGc?oc=5"
+    },
+    {
+      "time": "10/4 08:14",
+      "category": "経済",
+      "title": "アングル：金価格、米国債利回り上昇でも4000ドル台維持 中銀の準備資産分散が下支え",
+      "source": "reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObUlxazA4Y0dBTWlpS3JWY19LdFdfUkF3QTZ5azJmVHBWUnAtMlNJNlZSMHlRaGtJZ24zb1QxUEV2TGZwdWIwM3hvODZvc3dHeV9ESHZzWmY4Z3J0N20weEwzeThpZ1lacmtQbnowWW1uNzIxR2djYy1zc0VBQ0FYTVVTZzNtUQ?oc=5"
     }
   ]
 }
