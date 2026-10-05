@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-10-05",
-  "generated_at": "2026-10-05 06:06",
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06 06:04",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "02:24",
-      "category": "総合",
-      "title": "簗農相「予算大幅カット」発言の背景は？ 衆院栃木3区、保守分裂や確執の経緯を振り返る《無料公開》",
-      "source": "下野新聞社",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HWGE3ZmlsVGJNcVhXUVlRV1ViellvSXpGYU02NFBpcGttWVBqUUx4R1ZiRWxETlE4RTJ5TUZtYjBkZlc1ZXBPQ1FNN0ZfdDBaYW9QeWtLeEpwbE0?oc=5"
-    },
-    {
-      "time": "10/4 23:23",
-      "category": "国際",
-      "title": "フーシ、サウジアラムコの施設を連日攻撃 弾道ミサイル・無人機使う",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLUzlvWEppQ2k5bFY4TGxrVlE0Y3RQNWMtSlN5ejUtSkZzaWw3d3BUZkZ6SjFRWUVfaVl5dWE5ZTlGVGxUMlZjSEMxSlBvTm5hdEZEdnQtTEZhTU1Ec0g2dDMwZHFjWEszdTVlSw?oc=5"
-    },
-    {
-      "time": "10/4 22:15",
+      "time": "10/5 23:21",
       "category": "社会",
-      "title": "新たな台風発生予想 北西進しながら発達する予想 今後の進路に注意",
-      "source": "ウェザーニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HVm1rYjRtWjE3WEpiN2pkMDRQeXdOWThUYkhhMWpEWnh1Y1kyMlNUTDdkTlctMDV1aGlnOUQ4VWZ6MUFNUFdRLS1saFduYjRrMWFtSA?oc=5"
-    },
-    {
-      "time": "10/4 21:30",
-      "category": "経済",
-      "title": "日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信",
-      "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1SnV5ay1RdWRIRXlaRGhlYWtUZXdsZGFtYUJBRTNBa2ZVUWlFNS1TU043eEpzcHdOWkdacjhsNEdrVURGNjFLQWQtc1VqX256R1hGYU1TRVBBcWEwRXRj?oc=5"
-    },
-    {
-      "time": "10/4 20:08",
-      "category": "総合",
-      "title": "副操縦士、「お祈りをしたい」と申告直後に機長へ一撃…イスラエル当局がチェックなら乗務できない国籍",
+      "title": "日本近海に三つの台風、非常に強い２７号は小笠原付近を北上・ハリケーンから２８号・２９号も発生",
       "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83SzMwSC1jNHhaa1FYZXJaRkJ5S1NaWXl2TGd2Sm9fSXVoZjR6a25TSGpvM1VpMW4xUjJnTUVseThETlBPMk5CWmo3SWVWcFVaUG4wakRRU3dMZjc0N1dUWUpR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5maFVqeTdFd2JmS2FTNmdobkdoRDJORzJTcjlkUU14bEZNSFBibjhCWjJDemVLNzM0cE1DYldaUlNMcG1JWWdUVXlpZEs2Yl9KV1JpejNfaTgtZjJTeS1VUUkySHJGQQ?oc=5"
     },
     {
-      "time": "10/4 19:21",
+      "time": "10/5 22:19",
+      "category": "総合",
+      "title": "ネパール、土石流災害の捜索打ち切り 6000人超が行方不明",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nRHlseUtPaVBwX3dXUDRIb2VfaFZuc3Vtb1hIWDZLMXVjNVhnTVVXY1pnazRNemVSckF5NlV5QmQ3X2M0RnFoUlJ3RUtxcGhZNmlMdy1sSUVHUTRVQ2RiUXFfMHJUOXV1aFkyNQ?oc=5"
+    },
+    {
+      "time": "10/5 21:29",
       "category": "社会",
-      "title": "「極めて深刻」小泉防衛相、在日米軍司令官を呼び出し直接抗議 那覇市の強盗殺人事件",
-      "source": "沖縄タイムス社",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YV2FiUzZwTndoWk4xNFVULWV4NUtEckFWSjQtRkkyd1VWY3VJNTJjTVdkNXFZMk5UU1pBeDMxU0FacGJKQ1hPTTF3ZDlzTXp1ZmdkMjVQTENiQ0dnamc?oc=5"
-    },
-    {
-      "time": "10/4 17:48",
-      "category": "経済",
-      "title": "FX・為替相場の注目指標や予想を解説 - 【10月5日～の週】為替相場の注目材料スケジュールと焦点",
-      "source": "ザイFX！",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xcXA3Q1FOMUZVVGpXZDZsMXg4WVBwakVOUl9hY3ZMdVY4a2NqV1JJRkI5eFF2eGtfcHJoUGw5RTVreWMyS0JJNVhMVTk1M3FJdnc?oc=5"
-    },
-    {
-      "time": "10/4 17:45",
-      "category": "総合",
-      "title": "那覇市 女性への強盗殺人容疑 逮捕の米海兵隊員の男「私は知りません」",
-      "source": "テレ朝NEWS",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wS2NnbVVoZTBfTlZzOFFCb0c2aHNUcnAxXzdTSXl1dXRpZ3IwakJ0S3RLMkYtby1abTRETWFldTdJMVdTaERLUnZvNzRpU1hTQTR3TTMzS1p6azlLSHhrN2dLTDY0dF8zSW9HT01iWkx1UQ?oc=5"
-    },
-    {
-      "time": "10/4 11:37",
-      "category": "テック",
-      "title": "ビル・ゲイツ氏「AI悪用なら10億人が死ぬ恐れ」…研究者ら「人類の未来を賭けたギャンブル」と警告し相次ぎ退職",
+      "title": "那覇の女性強盗殺人、容疑の米海兵隊員を送検…スキンヘッドに黒い長袖・白っぽい短パン姿（読売新聞オンライン）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JT3JtclFDXzlTRmpmOFpsdGVlNWVyNU9Edk00NEYyQzF1Z1U5bGxJR2ZLZ0h2elpQNGFaSG5mam9BdzJZRDNhSUhLSEh2UWd3YVQ3alRGcFhNNXJLMW5XY1J3TExaVVdXSGM5SjhOR2c4c1J5OVZOTDVtLUhHYk0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IMmhDejRwWXFlQWVjYVd6bmJjZmhicjhlOXhmckF5QTZod0VKV1ZQTFpoenZleFFCRlNMMl9xbzdWLWtVOURSWmhsa2J4Yi1UZnVYZW9wOS1sUnU3YnA5OG02MHVDTTNWSUE5NmNzbFNCZkZfNy1rMDl2cVJFODA?oc=5"
     },
     {
-      "time": "10/4 10:44",
-      "category": "テック",
-      "title": "ドコモがRCSで同意未取得の不備 約1万6000件に影響、対象ユーザーは利用停止に（ITmedia Mobile）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aNU9VdzVhRmFnNV9fbmcwV050Wmp5MXhGcHBEZDFQUlFUVFZyUmRYSjVFT00xbm5GQ2lERzZSVGhQQlMtb3lOUHEtT3o2RGMtM0dWQjZGdTYxOVlZVVNEbFN5cEwxc0EtU0x3QnVMendpc2V5b0duUnV1MVluM2c?oc=5"
-    },
-    {
-      "time": "10/4 08:45",
+      "time": "10/5 21:23",
       "category": "総合",
-      "title": "横浜市長選に建築家の山本理顕氏が立候補表明 プリツカー賞受賞",
-      "source": "朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ORmY3WHd4NkE2Q25XTVZxODEyWUVXc2VpSVJaYXZQR25nZXJtQUlIMU1PRjlvamhEeXlVYVlaR0MwbzM2Vk9xTlNtOGNTaldoNUQ4bWRJMlZ0LTRiOEZwbTdIMXJETGc?oc=5"
+      "title": "那覇の女性強盗殺人、容疑の米海兵隊員を送検…スキンヘッドに黒い長袖・白っぽい短パン姿",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wam5TOWw5a0JGcG1kOHI1QzFBYlREWXFrXzNjZmNBd3laZmptOWUxV1lJaUVzalpMWEo4V2ZTWTEzNW5HeThqLVktelZDUVBNZjRrVFlPVWp6V2xJdW8ybFJFeFdJQQ?oc=5"
     },
     {
-      "time": "10/4 08:14",
+      "time": "10/5 20:22",
+      "category": "総合",
+      "title": "光遺伝学研究の米独３氏に 照射した神経細胞操作―ノーベル生理学・医学賞",
+      "source": "時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rMXd6b0M1Nm11QmxaQWNHZFNKUzRSckVIdGYydTNlVVRTTjRKd21vRDNJUVZnMVc3cm1TSjJJRUMydUVpajNjX2NlbW9lRUpHTUdEU1gwOTNLbDNWNGdpelkxOA?oc=5"
+    },
+    {
+      "time": "10/5 19:41",
       "category": "経済",
-      "title": "アングル：金価格、米国債利回り上昇でも4000ドル台維持 中銀の準備資産分散が下支え",
-      "source": "reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObUlxazA4Y0dBTWlpS3JWY19LdFdfUkF3QTZ5azJmVHBWUnAtMlNJNlZSMHlRaGtJZ24zb1QxUEV2TGZwdWIwM3hvODZvc3dHeV9ESHZzWmY4Z3J0N20weEwzeThpZ1lacmtQbnowWW1uNzIxR2djYy1zc0VBQ0FYTVVTZzNtUQ?oc=5"
+      "title": "原油価格、下限は70ドルに上昇へ＝コノコフィリップス会長",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkJlQ2JmVVV0SFBkdGh6cWNhRzJuYWkwY3E3dE1VamtSV1N1Wkxyc1NsV2U2VzFLMFpTemlZZ3dRcXo2c1dnd2toUFpLbUlhcDJqZUY3Ti1PRjlvajljenVQNVlQSi1xVUl2U1lTYUd0SFBJdzRqUmkxRUlpUEYwZ0tLQmR6Zw?oc=5"
+    },
+    {
+      "time": "10/5 19:24",
+      "category": "科学",
+      "title": "ノーベル生理医学賞 米・独の3人",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4UDFHWEpPWWtDNnVMWFo1dlY4RWp5d2d5Q045MXpxNFdmZm50dDhjNnM3TTVqTFB3WVVaRl8xVnNvcEVIQ3ByVGtfSGJlTjcz?oc=5"
+    },
+    {
+      "time": "10/5 18:30",
+      "category": "経済",
+      "title": "大塚竜太氏【日経平均一時7万円回復、10月は最高値圏突入か】 ＜相場観特集＞",
+      "source": "株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRc3kzVnBQeDhPcjRZbDVrV2c3c1Z5eC10YVUyZkdWcl9hUll3U0hjdDRGeXpOVWVxMjNESDllazJxR29lTWhoTEo2ZDg3cTJSTUtvUG5aOEQ2b0lTcE9vWg?oc=5"
+    },
+    {
+      "time": "10/5 18:24",
+      "category": "経済",
+      "title": "船舶使用停止命令の東海汽船 社長の山崎氏 辞任し顧問に就任へ",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjSGFGQ1Jhd0NNbkVlUURDMTJWSnVHSC0xWTVWS2J1bUlPXzFBZ21RZTc0RFNYNXdIM3RuV2UxNkxfUEZlWDNpM3VsWDY4ZEpvbWNIWWY0M3pnZTV5RldR?oc=5"
+    },
+    {
+      "time": "10/5 17:46",
+      "category": "国際",
+      "title": "機長襲撃したフライドバイ副操縦士、テルアビブの空港に墜落させるつもりだったと供述…６月に空港下見",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RWGFVOTN5aldkX0ZFemxXajFmVVFtejdOaFRqRUQyZElvZGVCaHNIbHRpeTdCa1VjN2RQYk8yWGZqNjAtUThRdGpfYUN2SFZnNVNqTDR0dk9haTI2a1BjeVV3?oc=5"
+    },
+    {
+      "time": "10/5 16:16",
+      "category": "総合",
+      "title": "簗和生農相「道路予算カット」発言を撤回して謝罪 辞任は否定",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGUDN3c1RGbWZYbnhOM1ZRb3U2MGRkekljVmlRX0ZYdnFQcGlYNWwwM2I4b09rMGpjSUx1QXJ1VmREQkl3ZGNPQV9kV3lJQUZ1ZTN2eVFOVHlmRDQzRjA3TzZUN3NNY2V5?oc=5"
+    },
+    {
+      "time": "10/5 12:40",
+      "category": "テック",
+      "title": "大和証券、約11万人の顧客情報漏えいか 委託先に不正アクセス（アスキー）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91a0dwcDBrS0VCR0hMam9lV1BXT2xWVUJ0Z2JZcG55a3NFMlRueWdZZ3pKQ0dDdk51eEZkY2ViMHk0dGFMRFcyTEFicEVCQWhudnZVZXhILTFhcFNCTDRCTy1aeW9scnBwWDlIS2lXdGZoRURWeUhxUjlWb1RkYm8?oc=5"
     }
   ]
 }

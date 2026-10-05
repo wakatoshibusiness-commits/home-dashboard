@@ -1,5 +1,42 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-05",
-  "items": []
+  "date": "2026-10-06",
+  "items": [
+    {
+      "time": "06:03",
+      "category": "知っておくこと",
+      "title": "Big4、バックオフィスのAI業務を複数年の売り物にし始めた",
+      "source": "news.bloomberglaw.com",
+      "url": "https://news.bloomberglaw.com/financial-accounting/big-four-firms-embrace-ai-to-revamp-corporate-service-offerings",
+      "teaser": "AI活用を内部効率化から複数年契約のマネージドサービスへ移し、コンサル収入の約20%を占める見込み。",
+      "thumb": "https://news-api.bloomberglaw.com/v1/resize-image?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F4e%2F3a%2F666cd2094d3f8c14a871eaf7c141%2Fbli-2023-the-big-four-3d.png&amp;width=1200&amp;height=630&amp;fit=cover&amp;removeAnimation=true"
+    },
+    {
+      "time": "06:03",
+      "category": "知っておくこと",
+      "title": "国内のIT現代化市場、2030年に約2,123億円へ（IDC予測）",
+      "source": "idc.com",
+      "url": "https://www.idc.com/resource-center/blog/japan-it-modernization-market-2030/",
+      "teaser": "大中企業の約8割がレガシーシステムを稼働中。市場は年率10.2%で伸びる見込み。",
+      "thumb": "https://www.idc.com/wp-content/uploads/2025/03/Asian-Tech-Markets-March-2025.png?w=640"
+    },
+    {
+      "time": "06:03",
+      "category": "知っておくこと",
+      "title": "基幹刷新の判断軸が「2025年」から「サポート終了日・人材の残存年数・規制」へ移った",
+      "source": "hnavi.co.jp",
+      "url": "https://hnavi.co.jp/knowledge/blog/core-system/",
+      "teaser": "IPA『DX動向2026』を引いた解説。「2025年クリフ」の二項対立を抜け、個別判断に移る企業が増えている。",
+      "thumb": "https://wordpress.hnavi.co.jp/wp-content/uploads/2022/07/206_core-system.jpg"
+    },
+    {
+      "time": "06:03",
+      "category": "引っかかり",
+      "title": "完全自律型AIエージェントは開発すべきか",
+      "source": "arxiv.org",
+      "url": "https://arxiv.org/html/2502.02649v3",
+      "teaser": "完全自律型AIエージェントは、自律性に比例してリスクが増すとして開発への警告が出ている。",
+      "thumb": null
+    }
+  ]
 }
