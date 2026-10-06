@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06 06:04",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07 06:04",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "10/5 23:21",
-      "category": "社会",
-      "title": "日本近海に三つの台風、非常に強い２７号は小笠原付近を北上・ハリケーンから２８号・２９号も発生",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5maFVqeTdFd2JmS2FTNmdobkdoRDJORzJTcjlkUU14bEZNSFBibjhCWjJDemVLNzM0cE1DYldaUlNMcG1JWWdUVXlpZEs2Yl9KV1JpejNfaTgtZjJTeS1VUUkySHJGQQ?oc=5"
-    },
-    {
-      "time": "10/5 22:19",
-      "category": "総合",
-      "title": "ネパール、土石流災害の捜索打ち切り 6000人超が行方不明",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nRHlseUtPaVBwX3dXUDRIb2VfaFZuc3Vtb1hIWDZLMXVjNVhnTVVXY1pnazRNemVSckF5NlV5QmQ3X2M0RnFoUlJ3RUtxcGhZNmlMdy1sSUVHUTRVQ2RiUXFfMHJUOXV1aFkyNQ?oc=5"
-    },
-    {
-      "time": "10/5 21:29",
-      "category": "社会",
-      "title": "那覇の女性強盗殺人、容疑の米海兵隊員を送検…スキンヘッドに黒い長袖・白っぽい短パン姿（読売新聞オンライン）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IMmhDejRwWXFlQWVjYVd6bmJjZmhicjhlOXhmckF5QTZod0VKV1ZQTFpoenZleFFCRlNMMl9xbzdWLWtVOURSWmhsa2J4Yi1UZnVYZW9wOS1sUnU3YnA5OG02MHVDTTNWSUE5NmNzbFNCZkZfNy1rMDl2cVJFODA?oc=5"
-    },
-    {
-      "time": "10/5 21:23",
-      "category": "総合",
-      "title": "那覇の女性強盗殺人、容疑の米海兵隊員を送検…スキンヘッドに黒い長袖・白っぽい短パン姿",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wam5TOWw5a0JGcG1kOHI1QzFBYlREWXFrXzNjZmNBd3laZmptOWUxV1lJaUVzalpMWEo4V2ZTWTEzNW5HeThqLVktelZDUVBNZjRrVFlPVWp6V2xJdW8ybFJFeFdJQQ?oc=5"
-    },
-    {
-      "time": "10/5 20:22",
-      "category": "総合",
-      "title": "光遺伝学研究の米独３氏に 照射した神経細胞操作―ノーベル生理学・医学賞",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rMXd6b0M1Nm11QmxaQWNHZFNKUzRSckVIdGYydTNlVVRTTjRKd21vRDNJUVZnMVc3cm1TSjJJRUMydUVpajNjX2NlbW9lRUpHTUdEU1gwOTNLbDNWNGdpelkxOA?oc=5"
-    },
-    {
-      "time": "10/5 19:41",
-      "category": "経済",
-      "title": "原油価格、下限は70ドルに上昇へ＝コノコフィリップス会長",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkJlQ2JmVVV0SFBkdGh6cWNhRzJuYWkwY3E3dE1VamtSV1N1Wkxyc1NsV2U2VzFLMFpTemlZZ3dRcXo2c1dnd2toUFpLbUlhcDJqZUY3Ti1PRjlvajljenVQNVlQSi1xVUl2U1lTYUd0SFBJdzRqUmkxRUlpUEYwZ0tLQmR6Zw?oc=5"
-    },
-    {
-      "time": "10/5 19:24",
-      "category": "科学",
-      "title": "ノーベル生理医学賞 米・独の3人",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4UDFHWEpPWWtDNnVMWFo1dlY4RWp5d2d5Q045MXpxNFdmZm50dDhjNnM3TTVqTFB3WVVaRl8xVnNvcEVIQ3ByVGtfSGJlTjcz?oc=5"
-    },
-    {
-      "time": "10/5 18:30",
-      "category": "経済",
-      "title": "大塚竜太氏【日経平均一時7万円回復、10月は最高値圏突入か】 ＜相場観特集＞",
-      "source": "株探",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRc3kzVnBQeDhPcjRZbDVrV2c3c1Z5eC10YVUyZkdWcl9hUll3U0hjdDRGeXpOVWVxMjNESDllazJxR29lTWhoTEo2ZDg3cTJSTUtvUG5aOEQ2b0lTcE9vWg?oc=5"
-    },
-    {
-      "time": "10/5 18:24",
-      "category": "経済",
-      "title": "船舶使用停止命令の東海汽船 社長の山崎氏 辞任し顧問に就任へ",
-      "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjSGFGQ1Jhd0NNbkVlUURDMTJWSnVHSC0xWTVWS2J1bUlPXzFBZ21RZTc0RFNYNXdIM3RuV2UxNkxfUEZlWDNpM3VsWDY4ZEpvbWNIWWY0M3pnZTV5RldR?oc=5"
-    },
-    {
-      "time": "10/5 17:46",
+      "time": "05:00",
       "category": "国際",
-      "title": "機長襲撃したフライドバイ副操縦士、テルアビブの空港に墜落させるつもりだったと供述…６月に空港下見",
+      "title": "イスラエル兵、祖国守る任務は誇りだったが…「無差別攻撃で軍服が恥に」「国民はガザで何が起きたか知らない」",
       "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RWGFVOTN5aldkX0ZFemxXajFmVVFtejdOaFRqRUQyZElvZGVCaHNIbHRpeTdCa1VjN2RQYk8yWGZqNjAtUThRdGpfYUN2SFZnNVNqTDR0dk9haTI2a1BjeVV3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xNGdMenhJTnRYbnhwQVh2bW9nOFFib0ZPelhibzRlT0RlWFFGQ3NWdGstU3RYTVNuT1dDaU02dEpQS3RubmhLX0JGOWZQYU94d2Z2dGJBTzljV09JaGNFOHl3?oc=5"
     },
     {
-      "time": "10/5 16:16",
+      "time": "02:40",
+      "category": "経済",
+      "title": "パラマウントがワーナー買収完了を発表、新社名は「スカイダンス」…動画配信の加入者は計２億人超に",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wakRSMU5TMGhvaHdfZlVCbmJlMENyMUczUzRhd3EzbTRUcFZMVUlCTEZCbjA5bEdiZGhnVUcwYXJYNUdkYTZucXFKTW5DUWVCWVZGUFpmTmNaSXRQOG1WU0RwYzE?oc=5"
+    },
+    {
+      "time": "00:53",
+      "category": "経済",
+      "title": "旭化成子会社 個人情報55万人余 漏えいの可能性と発表",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lSkJ4SGFkMTdUN1U4dk9LMFJ0Z3RKdVBXZmhVSmFxZmpwME85WHVxUkVPWUVNX0g4ZENTQWdnWUc4QnFGTjJYYVhEWHIxdHZzeDFZQ0gtQTF4RnRJMHA0?oc=5"
+    },
+    {
+      "time": "00:15",
       "category": "総合",
-      "title": "簗和生農相「道路予算カット」発言を撤回して謝罪 辞任は否定",
-      "source": "毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGUDN3c1RGbWZYbnhOM1ZRb3U2MGRkekljVmlRX0ZYdnFQcGlYNWwwM2I4b09rMGpjSUx1QXJ1VmREQkl3ZGNPQV9kV3lJQUZ1ZTN2eVFOVHlmRDQzRjA3TzZUN3NNY2V5?oc=5"
+      "title": "アンソロピックに書籍大量販売、日販が認める回答 出版社団体に",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UQnNweHJ6WGxOZWNsUFpyZWFGN0hYcmxiZFVzb290bk55SVRucHdNZWxmUGhObjhFVmo3VnRNODZfdi1DLUIxaHc1VU5CTTRyQXQwV01jSDczN09KS2ZFbzlIWnhxVW9XOERxYQ?oc=5"
     },
     {
-      "time": "10/5 12:40",
+      "time": "10/6 23:28",
+      "category": "総合",
+      "title": "在沖縄米軍「全ての活動停止」きょう正午から２日間、外出・飲酒も禁止…強盗殺人容疑で海兵隊員逮捕受け",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPaFlmbkF3NktDMzdlWF80SHE0TkpDSGJXM3lKSGxPcW5uTE1PeUh2ZGZhdktzRU5DaHIwdHl4TEE4Qm1GdnRZbkhXUW02a0t6THg2YnFSSm9sdTYtWWlPXzE5TGswQQ?oc=5"
+    },
+    {
+      "time": "10/6 22:58",
+      "category": "経済",
+      "title": "米国株式市場・序盤＝Ｓ＆Ｐ５００一時最高値、エヌビディアも高値更新",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNazlQRmdVTW5mT2tVdXRpZXVmQTl2NXZUdFZfZkhDN1MyZ1BaRU5ubkFRaEdyUFRrQ3p5dGtoQlpjNUxMbGZ1aU5Qb05vWG5GY2IwSlBSMjVFMVlid28yVFhFRFR6anh2S2IxanZPeDQyQVNyY0FPVExxVldrZUdVSTlYaGt1UQ?oc=5"
+    },
+    {
+      "time": "10/6 22:57",
+      "category": "総合",
+      "title": "アイスキューブにノーベル賞 南極でニュートリノ観測―物理学賞、千葉大も参加",
+      "source": "時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16dEVOeEVtN0NkUk9xSFB3LThpN2U5NG13dWdibGZNUHl4TTlvZi1lYXVhS1ZqUWwyWHM1STZXUXdaYUlTZDVMQkZhRFFuMlhRckVab2JfdVpKY1Fua3NZSkxNcw?oc=5"
+    },
+    {
+      "time": "10/6 22:27",
+      "category": "国際",
+      "title": "墜落危機のイスラエル便、副操縦士「ガザの復讐」と供述 現地報道",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ycENOcV9MT0FLTjhnNE13NndzZC1WYldWNWZXZ1FrM0hBOUN2WTFoaFRJTWxYdVY0Q3ZRRWJJMGIxSHEyRXMtUE1Ta2RYV0NrQ0xDam54MW5iSThEekpRREI3T3JkajZKUjNaaw?oc=5"
+    },
+    {
+      "time": "10/6 22:00",
       "category": "テック",
-      "title": "大和証券、約11万人の顧客情報漏えいか 委託先に不正アクセス（アスキー）",
+      "title": "出版取次の日販、米AI企業への書籍販売を認める 業界団体に回答（朝日新聞）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91a0dwcDBrS0VCR0hMam9lV1BXT2xWVUJ0Z2JZcG55a3NFMlRueWdZZ3pKQ0dDdk51eEZkY2ViMHk0dGFMRFcyTEFicEVCQWhudnZVZXhILTFhcFNCTDRCTy1aeW9scnBwWDlIS2lXdGZoRURWeUhxUjlWb1RkYm8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKWkdHVVlOYlFnY1d5bHRjcGJCeEl1OFYtM0NMS1Z3RmVZQUFDWllfY2VfX09tZjY5QkNycjh3SU5ta3N5UkxlelhVZ2hkX29iOGFxWlhxX1RUbTVfaUdzV0tJMEtpU2ZiUE50d1l2SGxGTERTRDhPd0hXX1ZRbTg?oc=5"
+    },
+    {
+      "time": "10/6 19:45",
+      "category": "総合",
+      "title": "「さもし過ぎ」簗和生農相 会見前の“カンペ修正”疑惑にも批判続出…続投指示の高市首相にも「感覚が狂っている」と厳しい声",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UQUx0UExvQUp2a0V0YVFsb1dCakh3bXhBY0U5ZlhKWmY3UG1GZ0FEa1NBRHVzZVlmVW5HN1FXVnEyajViZ3JnQlNSRlRXckdpOVdoNFRXdUhMTEtGSHpveHBRQTN6QmNwMVFSSkI0R0lsN0JrQkVuazZ2YzVEZzA?oc=5"
+    },
+    {
+      "time": "10/6 17:20",
+      "category": "社会",
+      "title": "トリプル台風発生中　関東は7日まで高波警戒　今後の進路と影響は?(気象予報士 藤川　徹 2026年10月06日)",
+      "source": "tenki.jp",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kOFVUUWlsYTk2UGlLUmV5amYxNEVZMUFuV0Q4dTdVb1J5cGJUVW41UGJMd3BPbzVxS000bU5oTnlvaEhOenk5UFBDa09NcENFUlY3WnI4Zk8xNlcxbWs4dHU3ZWtVc0NYaHJoS9IBckFVX3lxTE92M3F4VE81VG56R1BFaE90Ti1PREVlTTMzRUFHZGV4TXozME91bVNxMVo3TTVJeWhRQ21KcGFNdlB3VlJaQ3NwT3ptdERSNWZMa0FkMm9CSmt6RlhxMGYzZVl1VTV4Wk8wSUFTMmlMVTRjQQ?oc=5"
+    },
+    {
+      "time": "10/6 14:32",
+      "category": "科学",
+      "title": "高カロリー食で脳神経に異常 認知機能低下の仕組み解明 東京科学大など（時事通信）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zcjM4azFiMWd4V3VvSGVsY1VjUm1yMkd2QmZVeE1ES0xWWEluMzU4dUc5dTVDV0NnXzZrLVM0bkR6QXNIMXFOT19VOGlHM24xSTluRGVES0Eza0hMRWE1WXAxZ28yQ0FtV3FtNDhmNEZjNWoyeWUyZVgxZmc3Nm8?oc=5"
     }
   ]
 }
