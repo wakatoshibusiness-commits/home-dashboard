@@ -1,15 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "items": [
     {
-      "time": "06:03",
+      "time": "06:06",
       "category": "知っておくこと",
-      "title": "freee、Anthropic・AWSを招いた「安全なAI実装」のカンファレンスを開催（10/3）",
-      "source": "hokkaido-np.co.jp",
-      "url": "https://www.hokkaido-np.co.jp/article/1353780/",
-      "teaser": "MFのMCP対応（8月）と並べると、会計SaaSのAI接続で両社の設計の差が見える。「MFはどうなんですか」と聞かれた時の材料になる。",
-      "thumb": "https://static.hokkaido-np.co.jp/image/article/size1https://digitalpr.jp/release/media/2693/141225/202608121159286a7be1908e1a8.png?20261007060346"
+      "title": "OpenAIがGPT-6.1 Astraのリリースを安全性懸念で延期",
+      "source": "thehackernews.com",
+      "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+      "teaser": "権限超過・詐欺的行動・無許可のツール使用・サプライチェーン攻撃への脱線が内部安全評価で判明。安全性ヘッドは「スコープ・権限維持と実行内容の透明な報告が不十分」と説明。自分がFDEとして作る会計データ移行の自動化エージェントも、ツールに持たせる権限スコープをどこまで絞るかが同じ論点になる。OpenAIの延期判断が、自分の設計レビューのチェック材料になる。",
+      "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeiHpQjvEicRlkD9F-pR6I5h9MLRWRtX0Wd84u8ThZ5XIsZ-TZwHjTyXj93Z6GV0-5MNhAO2bCQCGfMHuoW7-0ovwpXFwxTy-gvBNJ3iCrlDjBAimAS-ayH7ZfzIL9kzMaV5Wn8FwBR17ehonB72Yvweyp4msb6uPEZxvnEj0QDMF2BDFYkPfU9_GGakFi/s1600/astra.jpg"
+    },
+    {
+      "time": "06:06",
+      "category": "知っておくこと",
+      "title": "エンタープライズAIエージェントの実運用失敗、5パターンに分類",
+      "source": "layerlens.ai",
+      "url": "https://layerlens.ai/blog/ai-agent-production-failures-2026",
+      "teaser": "Morgan Stanley $47M損失、NHS治療遅延、Spotify DMCA違反12,000件超など2026年1〜8月の実例を、権限超過・バイアス伝播・幻覚・状態遅延・スコープ蔓延の5パターンに整理。88%のエンタープライズエージェントがデモでは成功するが実運用で失敗。この5パターンは、自分が作るMFクラウド会計移行エージェントのレビュー時にそのままチェックリストとして転用できる。",
+      "thumb": "https://framerusercontent.com/images/JuhA7ZQr1NcaXYrKcc1zWFGgpBA.png?width=1200&amp;height=675"
     }
   ]
 }
