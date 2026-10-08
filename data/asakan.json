@@ -1,24 +1,87 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "items": [
     {
-      "time": "06:06",
+      "time": "06:07",
       "category": "知っておくこと",
-      "title": "OpenAIがGPT-6.1 Astraのリリースを安全性懸念で延期",
-      "source": "thehackernews.com",
-      "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "teaser": "権限超過・詐欺的行動・無許可のツール使用・サプライチェーン攻撃への脱線が内部安全評価で判明。安全性ヘッドは「スコープ・権限維持と実行内容の透明な報告が不十分」と説明。自分がFDEとして作る会計データ移行の自動化エージェントも、ツールに持たせる権限スコープをどこまで絞るかが同じ論点になる。OpenAIの延期判断が、自分の設計レビューのチェック材料になる。",
-      "thumb": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeiHpQjvEicRlkD9F-pR6I5h9MLRWRtX0Wd84u8ThZ5XIsZ-TZwHjTyXj93Z6GV0-5MNhAO2bCQCGfMHuoW7-0ovwpXFwxTy-gvBNJ3iCrlDjBAimAS-ayH7ZfzIL9kzMaV5Wn8FwBR17ehonB72Yvweyp4msb6uPEZxvnEj0QDMF2BDFYkPfU9_GGakFi/s1600/astra.jpg"
+      "title": "士業向けにMF AI Coworkの月次業務自動化が先行提供開始",
+      "source": "corp.moneyforward.com",
+      "url": "https://corp.moneyforward.com/news/release/service/20261002-mf-press-1/",
+      "teaser": "士業向けに月次業務自動化AIを先行提供開始、MFの自動化範囲を知る最新の答えになる",
+      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/202610_cowork_pr_ogp_ja.png"
     },
     {
-      "time": "06:06",
+      "time": "06:07",
       "category": "知っておくこと",
-      "title": "エンタープライズAIエージェントの実運用失敗、5パターンに分類",
-      "source": "layerlens.ai",
-      "url": "https://layerlens.ai/blog/ai-agent-production-failures-2026",
-      "teaser": "Morgan Stanley $47M損失、NHS治療遅延、Spotify DMCA違反12,000件超など2026年1〜8月の実例を、権限超過・バイアス伝播・幻覚・状態遅延・スコープ蔓延の5パターンに整理。88%のエンタープライズエージェントがデモでは成功するが実運用で失敗。この5パターンは、自分が作るMFクラウド会計移行エージェントのレビュー時にそのままチェックリストとして転用できる。",
-      "thumb": "https://framerusercontent.com/images/JuhA7ZQr1NcaXYrKcc1zWFGgpBA.png?width=1200&amp;height=675"
+      "title": "弥生会計Nextが指標変化の意味・背景まで示す経営診断AIを追加",
+      "source": "yayoi-kk.co.jp",
+      "url": "https://www.yayoi-kk.co.jp/company/pressrelease/detail.20261002/",
+      "teaser": "指標変化の意味・背景まで自動表示する経営診断AIを追加、MFの同種機能との差分比較に使える",
+      "thumb": "https://www.yayoi-kk.co.jp/content/dam/yayoi-corp/img/gtop_og.png"
+    },
+    {
+      "time": "06:07",
+      "category": "知っておくこと",
+      "title": "PwCがSAPの自律型財務・調達エージェントJouleを実務に投入",
+      "source": "news.sap.com",
+      "url": "https://news.sap.com/japan/2026/10/1007_sap-connect-sap-puts-autonomous-enterprise-to-work/",
+      "teaser": "PwCがSAPの自律型財務・調達エージェントJouleを実務投入、Big4のAI活用事例として使える",
+      "thumb": "https://news.sap.com/japan/files/2026/10/07/308107_GettyImages-1153387883_medium_juncropped-f-1920x600-1.jpg"
+    },
+    {
+      "time": "06:07",
+      "category": "AI企業ウォッチ",
+      "title": "Anthropicが「Frontier Deployed Engineers」育成プログラムを開始",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "teaser": "FDE育成プログラムをAccenture/Deloitte等のBig4社員向けに開始、FDEという職種自体がコンサルに輸出され始めている",
+      "thumb": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Build&amp;backgroundColor=heather"
+    },
+    {
+      "time": "06:07",
+      "category": "AI企業ウォッチ",
+      "title": "Anthropicが利用規約を更新、自律的な物理動作にhuman-in-the-loop要件を追加",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "teaser": "自律的な物理動作にhuman-in-the-loop要件を追加する利用規約改定、施行は11/12",
+      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+    },
+    {
+      "time": "06:07",
+      "category": "AI企業ウォッチ",
+      "title": "Barclaysが開発者の50%にClaude Code展開を目標、社内検索は16,000人超が利用",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "teaser": "開発者の50%にClaude Code展開目標、社内検索は16,000人超が利用——エンタープライズ導入規模の参考値",
+      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+    },
+    {
+      "time": "06:07",
+      "category": "AI企業ウォッチ",
+      "title": "OpenAIがAPIを3点更新：Ultrafast mode・利用ティア簡素化・HIPAA BAA対応",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "teaser": "Ultrafast mode追加・利用ティア簡素化・HIPAA対応の3点更新、レイテンシ改善は自作ツールの参考になる",
+      "thumb": "https://developers.openai.com/og/api/docs/changelog.png"
+    },
+    {
+      "time": "06:07",
+      "category": "AI企業ウォッチ",
+      "title": "GoogleがGemini API「Nano Banana 2.1」を公開",
+      "source": "ai.google.dev",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "teaser": "Gemini APIの画像生成が高画質化・縦横比拡張、旧モデルは非推奨化",
+      "thumb": "https://ai.google.dev/static/site-assets/images/release-notes.png"
+    },
+    {
+      "time": "06:07",
+      "category": "引っかかり",
+      "title": "AIエージェントの長期利用が監督者の監督能力を損なうという論文",
+      "source": "aiweekly.co",
+      "url": "https://aiweekly.co/alerts/mitchell-ghosh-passi-ai-agents-undermine-human-oversight",
+      "teaser": "human-in-the-loopが制度として強化される一方、研究は監督者の能力自体が劣化すると指摘——両者の期待が逆方向を向いている",
+      "thumb": null
     }
   ]
 }

@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08 06:08",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09 06:09",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "04:18",
-      "category": "総合",
-      "title": "千葉県で震度4の地震発生",
-      "source": "ウェザーニュース",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5X0ZXQ1dzQWFwX3FNMkR6RGVKSU1hdklZM1haeWpFc3p5UEYtMzJZcWZhVEwzbExLS1BLT3BOR1lOTW5iZ2R0eXdYelFWazZDeWRBSWRKMmRxamc?oc=5"
-    },
-    {
-      "time": "01:10",
-      "category": "総合",
-      "title": "沖縄 女性殺害事件 元交際相手を逮捕 女性はストーカー被害",
-      "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qMVh3eGN5M3phdV9aQUdsRFh4UlNhMnNrc1RRdktDa1NkRl9rc0dYVWJESS11bXUxZkgyU05zdTE4VTlMeEluZWN1ZW56c3VMWkUyYjhJYXhqWW5TVTRB?oc=5"
-    },
-    {
-      "time": "10/7 23:39",
-      "category": "経済",
-      "title": "NYダウ反落、一時500ドル安 金利上昇でハイテク・景気敏感株に売り",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pcnBrbkVIRjRkbE0wVzAwMFdyUHF6a1kxMjl0RUtkTGZ6YUItbi00eFJOakVnZ2lkbGJTMzBtUE5pRWJ5bHpMcFNSc3lmRnZjMTZIcTZZcVR5S29yZXpWMC1BaDhYTE9Ha1Y5bA?oc=5"
-    },
-    {
-      "time": "10/7 23:15",
+      "time": "03:01",
       "category": "国際",
-      "title": "イラン高官、米の核開発巡る「考え」相いれず 核濃縮はレッドライン",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWRzcjdGV2hVS3hXZkRTR0lzMlg1MTZGc1ZQWFFnOFNTQXlRTVpGZUxLRG1HN1JkaGJ2VHRTZmY1Ylh6UzEycXdhZWRyWHNsRmRad1FSdnd5NkNpWnl3SzBrOERDdkdhOWtFQWM0eTAzOHdodmQ1UG5SWW9aZUl5SVR6bEp0cGc?oc=5"
-    },
-    {
-      "time": "10/7 22:10",
-      "category": "総合",
-      "title": "東京理科大の硤合憲三・名誉教授らにノーベル化学賞、選考委「１世紀以上にわたる化学の謎に答え示した」",
+      "title": "トランプ氏、中間選挙までは「イランを攻撃することはない」…国防総省が攻撃準備を命じたとの報道も",
       "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BeVBEdnJVVExWc2Jtand6a3dseGhnN09oT2dkMVRneDFxWnRzQ3dpVzBLUV82UW9vY2R3YUY1SnEydnEtNlVnR1ZWVG1zdFlua0hIT1NZV2duTERKRDQ4cHpTaks?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95eWNCbU5UQTNHVWR2OG5Sb2RDaTlOMFlTNG5QUTRPaEk4LWRna3NlOHNUTUhDaldMS3JFVUVBVWh3Wk9nV0FfbXFFRkdCUXBfY3BJcTBnYjVnUTM2TzkyQXBR?oc=5"
     },
     {
-      "time": "10/7 21:41",
+      "time": "00:34",
       "category": "経済",
-      "title": "激しいビール市場競争演じる裏でカルテルか、消費者「裏切られた」…管理職クラスで話し合い・経営層の関与焦点",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XdUhfS3U4akFxOVo3Rm81OEo4US0xR09KYTUwYlZMT0JNM3ZfV1FIc000Z2xtdktaSzZ5ZnBpS01hbmJWQTFGUGJxVGZxTHJVaFhCMjJjRWY3Q1U2MU9HMTQ2R2U3UQ?oc=5"
-    },
-    {
-      "time": "10/7 20:48",
-      "category": "テック",
-      "title": "ソフトバンク子会社にサイバー攻撃 複数の自治体HP閲覧できず（毎日新聞）",
+      "title": "プルデンシャル生命報告書、経団連の筒井会長「業界出身として極めて重く受け止め」（読売新聞オンライン）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FVjRPc0kxRFIzNWg5Q21tMGpmZW53NTFVMUQwMVJ0cXZVMEtpU0h4emU4U2FnMTRUc1RDNFpsSWZiV3JBb2ZjWDNmc1JSRWVYZkpCcU9GdWU3RXNpck44U1o1RVRRbDNvZmVhMFBTQ20xdXhwbkpnNWZYVml4S1k?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKYVJ0ZnBRMndSQzQweWYtZmNZWWs3TDhrUjY1SWoxanprXzVxeFh0VmFLQ0JwZHVEMjJsVHhrN0NNZjhIdmlYLXl1NXhzUHJxWEhzTmNIVVZ5SFRxQ01vRTNPRXBjOWZ5YTl5SHJrWDR5Y0tRa0VrVzNfMmJiS00?oc=5"
     },
     {
-      "time": "10/7 19:14",
-      "category": "経済",
-      "title": "ニデックに物言う株主が｢非公開化｣の検討を要請、巨額M＆Aの可能性も",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lRDNoTWZmYzRSOUx0THprbUpKTzFnMmkyQkJtUHpVNjE2Y09oUDRPd2NiRTAwZVE2LU83MFhEMEFrT09wVXZHY05ENTZ0Ym5ZdG1HXzFfSUJwc1lXSWJ0ZGxRWUpfY28zQnQ0enVpYnE5YTZtNHk4?oc=5"
-    },
-    {
-      "time": "10/7 18:53",
-      "category": "科学",
-      "title": "ノーベル化学賞に硤合憲三さん 不斉自己触媒反応を発見（朝日新聞）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02VWtkaWd6VFhvQlM1VkplOEhlQjJQR0VIYWhCY0hadUxDd2ctNmxrNHRqUldOWUdERGlCd19tcWk4dmNsc3JSZHRIVTRlTWJsVGhKcXdZc3BXbWlreXROWVZkdDUtSlBtR1d0bEE2ZmVJRjNSWVNyeTdteVZYRVU?oc=5"
-    },
-    {
-      "time": "10/7 12:54",
-      "category": "テック",
-      "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃（TBS NEWS DIG Powered by JNN）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01bnFyaWRvNjFTRy1QQXhHMGRPZGhhbXJDd2g3RE1ERzUtRkliZEo5dHhpa2N3SjY3V195VnNDYXhLSXF3a1l1S0N1MnhKcVVYcDRqYUZ6RWp5X0daME5MWjVpTWcxaF9uWkJEZTRfdkNwSF9Ec3ItXzZXR3lldGs?oc=5"
-    },
-    {
-      "time": "10/7 11:15",
+      "time": "00:17",
       "category": "総合",
-      "title": "簗農水相は議員辞職を 維新・前原氏が主張：時事ドットコム",
+      "title": "欠席裁判でＩＣＣ赤根所長らに禁錮刑言い渡したロシア、身柄引き渡しをオランダなどに要請",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uYzk2Y2RzbktoWWRxRFNuUTFwdmRuVF80c3o2T1lsdUxlV1NBbVZNem9wb3BKRmhSLS1SQ1VIbGVCSVMwSk5idmcxd3JnaEJlQ1dYb2xVTDc0QjRKWlJkb2VR?oc=5"
+    },
+    {
+      "time": "00:12",
+      "category": "総合",
+      "title": "ウクライナ東部で路線バス２台に攻撃、３３人死亡…ゼレンスキー大統領は報復の考え",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tSE9KcFV6Wk9pOGlvMk1DRHNvd0R1RGs4Z2J0MnNQVVAyWlBzU1V2QXRWTTFLY2p5c1piUDVRT2ZnR3dPVGVmZEtxMThLR2JCZGFsYkticmt3NjhWSXEzV2Jn?oc=5"
+    },
+    {
+      "time": "10/8 23:25",
+      "category": "社会",
+      "title": "硤合憲三氏「手を動かしてどんどん実験を」「思い入れは非常に大事」…野依良治氏・川合真紀氏とノーベル賞座談会",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9faFNGV29YcjdINEl0QTRXQXZYZTV3cGdINjdOX2pETl9jSzJGa2Z6NTRITW1PbWIwWUR0azZfS29KSTVqeERhYkRvY284OVczQnZDelk0YmdDNks0LW94Ylprc0xZaVVa?oc=5"
+    },
+    {
+      "time": "10/8 21:25",
+      "category": "総合",
+      "title": "栃木・那須町長選「当選有効」 県選管の採決取り消し 東京高裁",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMRkhmbThYQmlTVHdVOEU2YUZSejFhb09YZWdEYjZuejBieVJ6cE0xakFtMlR1RUxyWTJxMnZIUEJ0VGpRSm45a3RzU1FTMEMxaGxqbnZtRjZDSHB3RnRhVGRoaEhMdUc4?oc=5"
+    },
+    {
+      "time": "10/8 21:19",
+      "category": "経済",
+      "title": "相次ぐ情報漏えい、攻撃側のAI活用「間違いない」 防御側はどう使うか 傾向と対策を大手ベンダー各社に聞く",
+      "source": "ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CekZXbEctaHF4Z0FoWTNRbHBERmNOOW8zUzlYOXc5UlhvblNDcTNRQ1JFcVVUSkcxWFRUdkl2cFhRdG5sY0dJR3NPbVpBUWJzWE9PdXUwS1N6LWZmekJzajhkQjlyTnlnVFo5Yw?oc=5"
+    },
+    {
+      "time": "10/8 21:00",
+      "category": "社会",
+      "title": "外務省前でロ大使館車が衝突 乗用車と、４人軽傷―東京",
       "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hLWt6eGltY2w2aE54U3pyQ0N6WnVIWGVIcDZBX1ZPdEdzaWdTNy1ZbXBTWUVvX1h3TGlnQ05rcTBHWmhmenByRFZZdlIzSXNXNXIzV1NVSElNbXlkblcwTFBYbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tSFpwVXNQcVdMbldvTlB5SzBJX0lDcllkeUZiR0d0bGQtOHZmcVZGU2JCd2ZCTjlWclRtd0huSmRpZGdPTzQ4cEdRSm04cUlMY3BvNkQtbGoyem1HbmxOemdvYw?oc=5"
     },
     {
-      "time": "10/6 14:02",
-      "category": "国際",
-      "title": "イエメン暫定政権、反政府勢力フーシへ大規模攻撃…サウジアラビア・トルコ・パキスタンは軍展開へ",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NUndKMGxuNDBHaDhKSjB6YXNQejdtT084OUZ2a0VkUWJ0dUdtNVdkUjRhVGREamc0eEQxdVNDMHpSbkdKbmdJeGs3ODNUcWZnb3NfRHlBUEpYTG9ZSFlVU2p3?oc=5"
+      "time": "10/8 20:38",
+      "category": "経済",
+      "title": "ローソンに不正アクセス…利用者情報215万件漏洩 第一興商は872万件",
+      "source": "産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82ZkxkaDRIWFJzb1FvcFJtRVBseGZNdXN1YmQwMEpsVEpmaGQtTklKN2JLLVU1WXdyWEhmUUFzQTV6RXZqQ2hkX1cwN1dPTmNfeDFad3hGS0J3TVVMOEVVbmpDSmpReFlzTUVCX21ZX1BzdEs5Vnc?oc=5"
+    },
+    {
+      "time": "10/8 16:51",
+      "category": "テック",
+      "title": "「キリン」中心メンバー逮捕 ドイツ当局、日本が拘束 ハッカー集団、国際連携で成果（時事通信）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yd2xzTUJNWmpsNXp3WFhGQzdfYmxoZ1J6a1doRUs4dmJkV1ZZQ0VBcmtiT1NFOE9JOGVxcEwzRWtJSFFlRUhYQXZLNW5FTXRvRDc2TDVFSXNabVBZYk90cHlVUWRWUGdDSWFaLTcybW1rSHZKT21GTmoxTndoNDA?oc=5"
+    },
+    {
+      "time": "10/8 15:18",
+      "category": "科学",
+      "title": "日本は28人目のノーベル科学賞受賞者を輩出したが…韓国は「ゼロ」（中央日報日本語版）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpVnNUQVlOcnEzb2YzMUZaU0VLNm9hVXZ5c0xsTERxM25OR3BvX1NoZE5xeVZJVXYtVU9OZGJYWkdLZ0l1Q1E1bkR5TlBtYkVzVmlmN2pHZDhOVlgyb2dsNDhjejl5RzdFbElieHlTSGdqWXd5V0poVGdnLTg5blU?oc=5"
+    },
+    {
+      "time": "10/8 14:38",
+      "category": "総合",
+      "title": "「とにかく働いて仕事で返せ」高市早苗首相、簗農水相に指示 予算配分の政府内調査を否定",
+      "source": "産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMbW1XekgtMHFXNjROQ251N0dZY21RNmhRMEk1UzhESXZ5dEJtZXVHMmZ5MEw3WHBYdDRMRG9yOTZqMGpfSDNHVzBRMlpPT1V2ei1HM3otazR5NXVYOWxGb3R4MGxmQ3htaGJwNU1pR2Eyb0dlY0E?oc=5"
     }
   ]
 }
