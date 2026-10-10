@@ -1,59 +1,23 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "items": [
     {
-      "time": "06:04",
+      "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "Anthropicが小型モデル「Claude Haiku 5.5」を発表",
+      "title": "Anthropicが「Genesis Mission」に3年で1.5億ドル拠出、NASA・NIH・NSFなど15機関にClaudeを提供",
       "source": "anthropic.com",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "teaser": "コンテキスト1M・出力128k・adaptive thinking対応。Opus/Sonnetのサブエージェント用途を想定、価格は入力$0.10/出力$0.50（100万トークン）。",
-      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg"
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "teaser": "政府・研究機関への大規模導入のモデルケース。エンタープライズ・政府向け大型導入実績の引用先として覚えておく価値がある。",
+      "thumb": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20DoubleHelix&amp;backgroundColor=heather"
     },
     {
-      "time": "06:04",
+      "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "Anthropicがサイバー検証プログラムを3段階に拡張",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "teaser": "Red Team/Specialized Accessは政府連携の審査制。「誰にClaudeのどこまでを渡すか」の線引きが制度化され始めている。",
-      "thumb": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&amp;backgroundColor=heather"
-    },
-    {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Anthropicが重要インフラ防御「Cyber Mission」を開始",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
-      "teaser": "無償のOSS Scannerは人レビューを経ずに脆弱性スキャンを自動送付する設計。AIに一次チェックを握らせる思想が見える。",
-      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d2af4f6715cbe9766a47430a24420cfca0a2c588-1200x630.jpg"
-    },
-    {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Claude Platformがプロンプトキャッシュ値下げとMulti-agentベータを追加",
-      "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "teaser": "Sonnet 5.5のキャッシュ読込価格が半額、Managed Agentsでマルチエージェント構成がbeta対応に。",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=3"
-    },
-    {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Google、Gemini APIのDeep Researchエージェントを10/23で提供終了",
+      "title": "Googleがgemini-3.5-flashを非推奨化、リクエストは自動でgemini-3.6-flashへ振替",
       "source": "ai.google.dev",
-      "url": "https://ai.google.dev/gemini-api/docs/changelog",
-      "teaser": "旧エージェントはパラメータ変更だけで新版に移行できる設計。APIの互換性維持の作り方の一例。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/release-notes.png"
-    },
-    {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Google、gemini-3.7-flashを非推奨化しgemini-3.8-flashへ自動振替",
-      "source": "ai.google.dev",
-      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-      "teaser": "リクエストは自動転送されるが、モデル名を明示していないAPI連携は挙動差に気づきにくくなる。",
+      "url": "https://ai.google.dev/gemini-api/docs/whats-new-gemini-3.5",
+      "teaser": "バージョン固定せずAPIを呼んでいる実装は、ある日挙動が静かに変わる。自作ツールのモデル指定を見直す機会。",
       "thumb": "https://ai.google.dev/static/site-assets/images/share-gemini-api-2026-07.png"
     }
   ]
