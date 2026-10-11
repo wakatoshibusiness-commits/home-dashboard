@@ -1,24 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "items": [
     {
       "time": "06:03",
-      "category": "AI企業ウォッチ",
-      "title": "Anthropicが「Genesis Mission」に3年で1.5億ドル拠出、NASA・NIH・NSFなど15機関にClaudeを提供",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-      "teaser": "政府・研究機関への大規模導入のモデルケース。エンタープライズ・政府向け大型導入実績の引用先として覚えておく価値がある。",
-      "thumb": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20DoubleHelix&amp;backgroundColor=heather"
+      "category": "知っておくこと",
+      "title": "MFクラウド会計「前期比較」画面に決算整理仕訳の検索条件を追加",
+      "source": "biz.moneyforward.com",
+      "url": "https://biz.moneyforward.com/support/account/news/new-feature/20261008.html",
+      "teaser": "決算整理仕訳だけを絞り込めるようになり、クライアントに『このズレは決算整理仕訳か』と聞かれた時に画面でその場で切り分けられる。",
+      "thumb": null
     },
     {
       "time": "06:03",
-      "category": "AI企業ウォッチ",
-      "title": "Googleがgemini-3.5-flashを非推奨化、リクエストは自動でgemini-3.6-flashへ振替",
-      "source": "ai.google.dev",
-      "url": "https://ai.google.dev/gemini-api/docs/whats-new-gemini-3.5",
-      "teaser": "バージョン固定せずAPIを呼んでいる実装は、ある日挙動が静かに変わる。自作ツールのモデル指定を見直す機会。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/share-gemini-api-2026-07.png"
+      "category": "引っかかり",
+      "title": "AI主導の人員削減は『AI変革』か従来型のコスト削減か（Forresterアナリストの慎重論）",
+      "source": "forbesjapan.com",
+      "url": "https://forbesjapan.com/articles/detail/96620",
+      "teaser": "Forresterは『AI主導の人員削減という説明は10回中9回はノー』と指摘。実態は従来型のコスト削減で、AI主導は投資家向けの看板ではないかという論争。",
+      "thumb": null
     }
   ]
 }
