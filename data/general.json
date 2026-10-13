@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13 06:04",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14 06:03",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "10/12 23:08",
+      "time": "05:01",
+      "category": "総合",
+      "title": "簗農相「辞任論」強まる、高市首相きょうにも「進退」判断へ…バス無料送迎問題「違法性あれば躊躇しない」",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEbUM2V0xJYUlwcjJVU19Ld3VZN2NZUnBZclVfUjZNN3BxWEx5OGJFNmt3UUxFSVRCRDNwejVncENMendqa0p5UzV6N0Faby1VZUg4ME9rSU5zcnFuNnVXS0JoYzNtUQ?oc=5"
+    },
+    {
+      "time": "00:48",
+      "category": "社会",
+      "title": "道新記者をサハリンで拘束 露報道",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11TEpVYzMweFl5UHRSYUZuZ0tENmJobGZvbHdSX1lPdHprXzdyY1JnV0xvbXFKRUk4MU5rZGRUa1VDR3lKaUxIaG9HV2lRSWoz?oc=5"
+    },
+    {
+      "time": "00:26",
+      "category": "総合",
+      "title": "ロシア当局、北海道新聞記者拘束 サハリンで「スパイ容疑」（共同通信）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XTmJadDlyVllJaTQtU1VFRDMzeW5ybmdOTGo5cVlacXh6VGNwR0JWLWNfUEhnWndMS3ZxSEhtWW5zdjA1X0FWSjNkcWxSM1A0ci1QZHdzMGhvSXF5S2hqZ0pmYXg5Y2FyaGFXOUhuY0ptR1NlSUI0bkZqUEVidjA?oc=5"
+    },
+    {
+      "time": "10/13 22:22",
       "category": "テック",
-      "title": "マイクロソフト 新型AI半導体発表",
+      "title": "7型ディスプレイ搭載「Apple HomeView」発表 Siri AIと顔識別で家族全員に「欲しい情報」を届ける（ITmedia Mobile）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PaG9YWDlTUGNXX2F1WllfZE9Ec2JsNXZTZ3lyUWlwZTV6UHVlRHFmbXBYVXRidTV0cFdKTnRMdGYwbXJSTUprOEtrRUgxM2Vl?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQXN5LWFPdnU1TUFyaE15UmhNYU5nR2tmWTIza2dKM0hBQjdOVGhlUW1RWTFpdFNCbHNQQ096U3U1aVNlSlNnaDIxWXdJamtwaDJVVkp1SmlRQVdiSGo1N2theG1pWEtuX0E1STJHLWxlSnZLd3JtNkpuRjMxdVE?oc=5"
     },
     {
-      "time": "10/12 23:03",
-      "category": "経済",
-      "title": "【ＮＹ為替オープニング】中東情勢深刻化で金利先高観、ドル続伸",
-      "source": "ザイFX！",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05eHZCVExmTm5nNF9jWWJhbHlQeGltR0xEOG01REsxZU1FazN4NjIxV2xhU3I2LTM3d1VUOUJCNVRfWWxiVWdyTllaNVFjdGkteFE?oc=5"
-    },
-    {
-      "time": "10/12 22:31",
-      "category": "総合",
-      "title": "ゼレンスキー氏、「エネルギー停戦に違反」とロシア批判…トランプ氏の「停戦合意」主張後もガス生産施設など攻撃",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzWjFfQWRFNjBvZjdHb01zU1IwZ0Y1R2FSMUY2LXdJQnBzd2N2MFVvRXRFeFNxaXVWNVRnbDdlRlBtcWFBMm01c2hFQjFmYWxNcXJDbVpuWTJ2ZlRWbXZJMEdn?oc=5"
-    },
-    {
-      "time": "10/12 22:00",
-      "category": "経済",
-      "title": "脱NVIDIAを急ぐMicrosoft、わずか9カ月で次世代AIチップ「Maia 300」",
-      "source": "PC Watch",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vMEZqQjdLVFRnZ0J4UlBRbmo1YjZ3VmJuRjRvQi1Fa2tLU05KWm5DQ3o5N0hKVE1sZzF3SmxNelFXUm1YdlZPTjNIMUx6VHFueFJyUGdmQWpYR1dFRTNEYmdRQQ?oc=5"
-    },
-    {
-      "time": "10/12 20:55",
-      "category": "経済",
-      "title": "NY株見通しー今週は本格化する決算発表や米9月CPIに注目(トレーダーズ・ウェブ)",
-      "source": "Yahoo!ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWEY1SmRpZWwyd0pLcFdFUU40X09PNzBkN1I0ZzA4YmV2VG9xM2Z0OGZxaVNjbEY5TmE2NVRoRkZwdk1ERTNQWlVFaEF2VDVMdThEVC1LU1MtNmsyMnFMMndNeTAyb04tbUdnS194UHpaNTd1TERHSFA3RVJGbTEtbmVpT3lNUHc?oc=5"
-    },
-    {
-      "time": "10/12 17:04",
-      "category": "社会",
-      "title": "「血まみれで動いていなかった」「つんのめった感じ」だんじり横転事故相次ぐ 2人死亡、16人けが 大阪（読売テレビ）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xUkVILTRIYlpPNlRzN0N3ZmUxMGNTaklqQ2VTZDhCTl9fQWgxSGUzU3pCeFNmc3FtZTBiWER0bVpfdXZNMXBKYzF2cnJpQ253bEdaSkFCUXd1N2hnZ2pKd0Y2NW1VYXJleHdqMkdJNDF0SDREVk1sSk01QTViS1U?oc=5"
-    },
-    {
-      "time": "10/12 17:00",
-      "category": "社会",
-      "title": "明日10月13日(火)の天気予報 西日本は天気下り坂 北・東日本は日差しの有効活用を",
-      "source": "ウェザーニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBHanlrUkZLWE5HQlVIXzAtbXU5RmhBeXlSZ3ZURnUtQW1aWnZjdUZNYVBfTlRwNlBBVVJMSDRMOGtCc1NwQVJWSENDT0ZYajdweEdEUw?oc=5"
-    },
-    {
-      "time": "10/12 15:29",
-      "category": "総合",
-      "title": "簗農水相は「自ら辞任を、しないなら首相が更迭を」 民改・階幹事長、道路予算削減言及で",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PaDA0V3hwOE4tRWx5REk2NF9QN2lsUDR0c211OVdaLXlnT0lLdnB4OEhtNlJJMTIzVzFMamhfUjJVaGJSNmNycGRzZWhkcEMybWptc1RfUU9pQjktYjdkem5BbU9QcjBLNkFVNmFFRFVGUHpsOEE?oc=5"
-    },
-    {
-      "time": "10/12 14:30",
-      "category": "科学",
-      "title": "中国人が「日本人のノーベル賞受賞」を祝福する“表”と“裏”の理由",
-      "source": "ダイヤモンド・オンライン",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44UVRwQ3BUZnF0UEZ5Y2t6Um44SmEzZVUxcjJhSDFvZzNnNDVuMEN2R3dkNjFQVHl3WlBYbU0zUlpISXRWdFNpaW1NWmpqbjJfek9FLW5R0gFPQVVfeXFMT2Fuc3hyNzFKeUYxMXUxOHJkY3E5WVk5aUFKaWVkenJFNU13aFhPNzQ4bHp0bzZCNTh5R1BXV3BiZ3JLVGhRVHBleUhhRGptUQ?oc=5"
-    },
-    {
-      "time": "10/12 13:18",
-      "category": "総合",
-      "title": "北朝鮮から発射された２発の弾道ミサイル、ＥＥＺ内に飛来せず被害なし…大使館ルートを通じ厳重抗議",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDaDhWSXgwV0JtMlVjYVQtTDNubGFkZFJGREZtdUc3bno3M2F2M0ljZE9FMGxIMERnWnZZUEc5NURieDNHZFV5MTNBMWVSVzRoMDJpVmx2QUlEaG4tX0RNT2lpZUtHdw?oc=5"
-    },
-    {
-      "time": "10/12 11:44",
-      "category": "総合",
-      "title": "サウジアラビアの安全保障、脆弱さ浮き彫り 国防「主軸」の米国、支援応じず",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DYjFfWGxnQ0kzaVd4RmdNUndiUDBZdjEwMDhzSjBMMlRKcy1CeTctRjJ6dktlb2hTYW1SY01vcXQyYllLM2xJYnNDR0R4MXR3alFWZ0pMY2FhWml1bzU0T0toZw?oc=5"
-    },
-    {
-      "time": "10/12 08:52",
+      "time": "10/13 21:20",
       "category": "国際",
-      "title": "新たな空港攻撃で１人死亡 イラン、沈静化へ「対話支援」―サウジ",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDb09TZ1ZUOXhIV0ZIVXN2RjJ0WlIySjRHV2xkZFhUWkt3a19ka3d3MENkd1lwUE01dllTcGR0bUtxTFZueUlZTTBUNlJpcG5yck4tMFd0WFZQYmh2NEM2VlNxSQ?oc=5"
+      "title": "サウジ首都の国際空港、フーシ攻撃で破壊され閉鎖…「経済と安全保障の安定」評判落とすため何度も攻撃か",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwdk5qWDZMb3RPT19qaGdPSDFockN6ZHZ0aGJhaU5BMHFnRFh5NV96aGtSY0ZRVUJZaFF4bW9sT0NtUjNzZGVsbnR0cFdQY0RSbHRlcU9tRVE3VkFpTjdRNVJ3?oc=5"
+    },
+    {
+      "time": "10/13 20:00",
+      "category": "総合",
+      "title": "トランプ氏、「エネルギー停戦」すり合わせせずに発表か…ゼレンスキー氏が露軍のエネルギー施設攻撃を非難",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nMXhCb2o4TDl2cTlFRFVybXdOdnZlMUdDUUMxZl9GcVU5eVljRUcycmZwWnUtbUFjNG1kS09pSVFJc01YQUlScmVEUldpUXlUOU5fY1hQUDNVOFVWSWdpR0t3?oc=5"
+    },
+    {
+      "time": "10/13 19:44",
+      "category": "総合",
+      "title": "東大の次期学長選出、教職員有志が選考理由説明求め要望書 賛同者500人超",
+      "source": "産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uUTV5blQtU1hhQWJSZjd5VkF6cGx4ejhZeGs5TW1CeFNNM1pZT1JqUkVHM3h4M0xuNEZIVEVJT2VjS1V3Wm5peHI3U29zNnQ4S2xKQnlnNTdVV1g1YURFREpaTlRRcGpEQUl4dnB6TlhXSURWTGc?oc=5"
+    },
+    {
+      "time": "10/13 18:57",
+      "category": "経済",
+      "title": "JR東海 ECサイトで最大1万5000件 顧客情報を漏えいの可能性",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pLUxGX1l5N2JndUZDTEJUN0E0dUFNLXcxOGR3TEdzX0pHQl94ZWJDWTdDYkpESWFLc3Etd0QtV1E4YndTbzl2d3VlT191b2RnRzZhRXppdVM2UWdKcjlj?oc=5"
+    },
+    {
+      "time": "10/13 17:23",
+      "category": "科学",
+      "title": "【日本ハム】横浜・織田との面談は１４日 大渕スカウト部長「将来メジャーに行くかもしれないけど欲しい」…都内でスカウト会議",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiSXBrcVZpTTR4OExrUnhKTVl3Yi1hOTNhbEVPa2N5UmI3RmhHZ3ZqZlE0TzRKUG12NlEySXpTVkJOU2ZwSmk5U3ZYUnFIUHd5SDFBSVV2N0NUMFZzeXM1N3RqV1NqU0QtSjcxMEhaelJDSWpod0lmVXBpWmpyNzQ?oc=5"
+    },
+    {
+      "time": "10/13 15:56",
+      "category": "経済",
+      "title": "九州新幹線の運転見合わせ、熊本―鹿児島中央駅間は終日…博多―熊本駅間は午後５時頃再開見込み",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lSU1jZHZyMk8wd051VmYtNzBEQXN5WlVSNVVSeUcwejN5T2VRNDh6RTByb0xrRC1yUkpEcGkzMGppeXNWbDFpLU5lLS0zdG1ZeGhDREhLOHRENDhzdnNZazdhUEI3Zw?oc=5"
+    },
+    {
+      "time": "10/13 11:36",
+      "category": "社会",
+      "title": "【台風情報】日本の南に台風のたまごが2つ 台風30号発生となれば13年ぶり 発生数は多いものの接近数は現時点で11個と平年並み",
+      "source": "FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVMHFUd2RWS1R1VVZrZjE0ZkEwdFppaGxoblNDeEk5LW96R0pZY1FKR3VIbG5uM1RkbkZfVDlra3FMVl82a21oTk02cW5zQQ?oc=5"
+    },
+    {
+      "time": "10/13 08:23",
+      "category": "テック",
+      "title": "深夜にロボットが16歳少女にわいせつ行為、SNSで生中継…ドイツに衝撃（中央日報日本語版）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53dGNGWU5PZEF5ZTFhOFdHSmRfUl9vY2t5d2tUSE5aSHBlWURrZGdmRXgyNXpPUFZIbVh5b0s0OEo3VUdfTklTRER2R21QYnJIMlZnUkIzWFJXbUlmOXo5WTllcEVaaW5LbW80X1MxT051aUNFVnJRUU1iOGU1cW8?oc=5"
     }
   ]
 }
