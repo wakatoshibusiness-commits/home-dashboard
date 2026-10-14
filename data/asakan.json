@@ -1,15 +1,78 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "items": [
     {
-      "time": "06:02",
+      "time": "06:04",
       "category": "知っておくこと",
-      "title": "SBI・Mesh Connect・マネーフォワード、デジタルアセット決済の合弁会社設立で基本合意",
-      "source": "corp.moneyforward.com",
-      "url": "https://corp.moneyforward.com/news/release/corp/20261007-mf-press-1/",
-      "teaser": "MFが会計の外側、デジタル資産決済にまで事業領域を広げる動きで、出資比率の低さからMF自身の主導ではなく連合参加という温度感が読める。",
-      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2025/06/OGP.png"
+      "title": "弥生27シリーズ（デスクトップ版）、10/16発売でインボイス経過措置見直しに対応",
+      "source": "voix.jp",
+      "url": "https://voix.jp/?p=113738",
+      "teaser": "移行元ソフトとして日々向き合う弥生に新版。クライアントに「弥生のままで大丈夫か」と聞かれた時、何が変わったか具体的に答えられる。",
+      "thumb": "https://voix.jp/wp-content/uploads/2026/08/15865-404-b7e4345d51b5b7a1b8e241ab29649a65-1280x670-1.jpg"
+    },
+    {
+      "time": "06:04",
+      "category": "知っておくこと",
+      "title": "ASBJが金融商品の減損基準を公表議決（第585回委員会）",
+      "source": "tkc.jp",
+      "url": "https://tkc.jp/consolidate/tkc_express/2026/10/202610_14295",
+      "teaser": "移行先のMFクラウド会計が新基準にどう対応しているか、残高移行時の整合性チェック項目が一つ増える。",
+      "thumb": "https://www.tkc.jp/media_library/images/facebook_tkc_thumbnail.jpg"
+    },
+    {
+      "time": "06:04",
+      "category": "知っておくこと",
+      "title": "EYがFY26決算を発表、AIサービス売上49%増・Copilotライセンス保有38万人超",
+      "source": "ey.com",
+      "url": "https://ey.com/en_gl/newsroom/2026/10/ey-global-revenue-increases-4-point-7-percent-to-us-dollars-57b-for-fiscal-year-2026",
+      "teaser": "Big4面接で「AI活用の実績は」と聞かれた時の数字の弾になる。EYはAI収益化が実数値で動き始めている。",
+      "thumb": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/generic/images/ey-logo-black.jpg"
+    },
+    {
+      "time": "06:04",
+      "category": "AI企業ウォッチ",
+      "title": "Anthropicがシンガポールに事務所開設、政府とMOU締結（APAC5拠点目）",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "teaser": "AIの安全性・セキュリティ・モデル評価で政府協業が広がる動き。",
+      "thumb": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=olive"
+    },
+    {
+      "time": "06:04",
+      "category": "AI企業ウォッチ",
+      "title": "Anthropicが2026年米中間選挙への対策を発表",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "teaser": "投票情報表示・不正検知分類器を導入、政治的中立性スコア99%と発表。",
+      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/609927c7af2a454cedad848e4b2adc980c1f5fe6-2000x1125.jpg"
+    },
+    {
+      "time": "06:04",
+      "category": "AI企業ウォッチ",
+      "title": "Gemini 4 Argonが一般提供開始",
+      "source": "ai.google.dev",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog#october-13-2026",
+      "teaser": "コーディング・エージェント・数学科学向けフロンティアモデルが10/2発表からGAへ。",
+      "thumb": "https://ai.google.dev/static/site-assets/images/release-notes.png"
+    },
+    {
+      "time": "06:04",
+      "category": "AI企業ウォッチ",
+      "title": "Claude Managed Agentsに「Dynamic workflows」追加（ベータ）",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "teaser": "エージェントが多段で他のエージェントを編成するワークフローをサーバー側で実行可能に。",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=3"
+    },
+    {
+      "time": "06:04",
+      "category": "AI企業ウォッチ",
+      "title": "Claude PlatformがOpenTelemetryエクスポートに対応（ベータ）",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "teaser": "Messages APIやエージェントセッションのトレースを自社の観測基盤へ出力できる。",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=3"
     }
   ]
 }
