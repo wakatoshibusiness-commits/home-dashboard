@@ -1,30 +1,22 @@
 {
   "edition": "夕刊",
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "items": [
     {
-      "time": "17:02",
-      "category": "プロセスマイニング",
-      "title": "ERPイベントログの正規形：KPI時系列抽出と特性分析のための統一表現",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.09903v1",
-      "teaser": "SAP S/4HANAの数百社分のERPデータを統一形式に正規化してKPIを再利用可能にする手法で、会計データ移行の実務と直結する"
+      "time": "17:01",
+      "category": "管理会計論（マネジメント・コントロール）",
+      "title": "監査人を監査する：コミットメント対プロフェッショナル・ジャッジメント",
+      "source": "RePEc",
+      "url": "https://d.repec.org/n?u=RePEc:arx:papers:2609.24020&r=&r=acc",
+      "teaser": "監査・検証体制の設計を感覚ではなく理論モデルで語る議論。BPRコンサルとしての統制設計、Big4転職後に関わる監査・アシュアランス業務の両方に接続する一本。"
     },
     {
-      "time": "17:02",
-      "category": "プロセスマイニング",
-      "title": "AI拡張BPMのための「AI意思決定チェックポイント」：フレームワークと教育実践",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.06207v1",
-      "teaser": "BPM教育がAIを付け足し技術として扱う現状への批判と、AIを一級の設計要素にするチェックポイント設計はToshi自身の実務設計思想の検証材料になる"
-    },
-    {
-      "time": "17:02",
-      "category": "プロセスマイニング",
-      "title": "プロセス憲法とプロセス・スチュワード：エージェント型組織のための次世代BPMに向けて",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.05942v1",
-      "teaser": "支援者がいなくなった後も顧客が自走できるかという仕事の思想が、組織的可読性(organizational legibility)という核心概念に正面から対応する"
+      "time": "17:01",
+      "category": "管理会計論（マネジメント・コントロール）",
+      "title": "ただ繋ぐだけでは足りない：組織資本とAI導入に関する初期的証拠",
+      "source": "RePEc",
+      "url": "https://d.repec.org/n?u=RePEc:eoe:escoed:escoe-dp-2026-13&r=&r=bec",
+      "teaser": "AI導入の成否を分けるのが「マネジメント能力、特に業績測定」だという、本業（会計データ移行の自動化）とBig4転職準備の両方に直結する実証研究。"
     }
   ]
 }
