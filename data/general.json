@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15 06:05",
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16 06:06",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "03:23",
+      "time": "04:00",
+      "category": "国際",
+      "title": "ゼレンスキー氏、トランプ氏に反旗 ロシアの製油所攻撃を再開",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WeHZUQlZqZW9jUXdJY0VlMHk4QXVJNDhSMnBIdy1tV2haWUNpUXo5QW1KNHJJcFd1ZkhPTmlpeC1wOXVaWVpSRE5Bc0QzSmRybnBkMGxfdHFZc0o2TWt0cC15R2ppZXNYOTdDLQ?oc=5"
+    },
+    {
+      "time": "00:05",
+      "category": "国際",
+      "title": "トランプ氏、米軍による銃殺刑の生配信中止 世論の批判受け",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZnhwdDNfR21SOWJYeThuVjg2eFAxTEZJYmFXanBvY2xCOU5BZGloNGx3RG1iQU9Oa3Q4OFlUZTg4MkpwWjAyZl9rYlBDOFk4cDR1cHJHU2gtUndZeHhXTEpZZUVncktnZlVlTg?oc=5"
+    },
+    {
+      "time": "10/15 23:44",
       "category": "経済",
-      "title": "米9月ＣＰＩ、前年比＋3.7％に加速 利上げ観測再浮上",
+      "title": "米国株式市場・午前＝ナスダック1カ月ぶり安値圏、ＡＩ株売り加速",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ1JDV1ZiZmZiMlYyY2UxM3EwTnNpbUs4SzJJNU82OGZZT3F2MmExdTN6aXZkMTE1QkNYSUt2Qzl0cldaNDFXQUZWNkdhZGNSQ3JxSEItbkZ5SFlaSThiQzRkLXQ1UGxPaTJRWkR0RUpXU0hDSXRCZTU1NUU5R3FQNV9sS24ydw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY2hoVWxkQWpuNUhIQXo5ZFRBRTdyY001TG5qdmtDR0pSMVVpd0E1SjgwYWF2Yks2SjVhV1BWZERJYlhRdGRzbHJ4eldqaHpGajJrdVA2ekhONmFCZ0pmN2lRRXdhLURUdDNWd2ljZVI3NE9WYWVxNXhMV2R0aDE4SmFyZ3hCUQ?oc=5"
     },
     {
-      "time": "01:45",
-      "category": "国際",
-      "title": "ウクライナ軍「スターリンクに通信制限」 無人機など軍事作戦に影響",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EdUYyOVRvcWZYcE8ySDV0NUQ3aGlDUlgwQlZBV3ZGOGp6Q09nMHpmT25HZWNISXkxVC1JN1R6anN0Z2JQVGh1Z29VNkdwbEtjN18tS1V3cWF4U21lNWhFcXdQUVdkYldjZ0l0dA?oc=5"
-    },
-    {
-      "time": "10/14 23:34",
-      "category": "経済",
-      "title": "NYダウは一進一退で始まる 好業績銘柄に買い、米CPI上振れは重荷",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CMGJfR0VNT0wtZWZhOXo4V3dEQjJZdTlTWEk4T3p2cXZ0azk1ckoyUk9VWUZKUlhha3BUTjVwZWxYOWNMRi1nSVJoUl9xMU9pUUs4blRhdDcwc0ItV3ZzVF9PcHE0b3ByX3FkRQ?oc=5"
-    },
-    {
-      "time": "10/14 23:33",
-      "category": "国際",
-      "title": "ホルムズ海峡で貨物船が沈没 イラン再攻撃を先週協議か（共同通信）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWWk5PV2lQU0x4eEs3X0RhNE1rVHlULXFUZHE4cTMtNG1mdmZzc2prbHB1NkxkZ2JZendiT1JUeTU5MXpjR0JkSXd4dVpLWFowTkdzNnFLV0cyQ2NCeS1rbGdhSjRjZ0JnSWZZMi1CWTNfOUpRZkIzbzhoMUpJbHc?oc=5"
-    },
-    {
-      "time": "10/14 23:23",
-      "category": "総合",
-      "title": "［深層ＮＥＷＳ］簗農相辞任、「麻生氏から自立して行った内閣改造裏目に」「高市カラー確立に時間」…渡辺喜美氏",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5X09SVFRNcVVHV2RlLTNXdmdQODE2b1NWWkZ4ZlAwLXRpOW4ydGQtNnlOUmNYZ3R5b1VOeWVCbVZ6eURxQ1BjQjNBeU1lRWJocDdsUXlWTnR5OTlYeWR6d3piQTl5UQ?oc=5"
-    },
-    {
-      "time": "10/14 22:59",
-      "category": "総合",
-      "title": "【速報】ホルムズ海峡で機雷接触の貨物船沈没と報道",
-      "source": "47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaa3NEajhwSzdSbXphb085WE1nM0Znakw3UW0tc3RWMjdwbFJXc0VCNTJaRVFPSXVkSHVPbVRGS1Y2Sy0teE9iT0ZLZw?oc=5"
-    },
-    {
-      "time": "10/14 22:27",
-      "category": "総合",
-      "title": "【台風情報】台風30号発生へ 熱帯低気圧の進路予想 24時間以内に台風に発達か 本州への影響はまだ定まらず 各国シミュレーションもさまざま（テレビ静岡NEWS）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NVFDbGhuREhZeTJjVW1ZY0tybHBxUjU2bk1HdWlzbzFMZmJYLTNqTGRHeldfV3Z6MHV5a1hOdlZ2a01NUktjSThTZEpzOFBrb2IxUng4bEozQnVrVXlxWVgwaFpLODVhaXBHbGo0eGVjV1F0Z05aR0dGb0ZZdzA?oc=5"
-    },
-    {
-      "time": "10/14 22:17",
+      "time": "10/15 23:27",
       "category": "テック",
-      "title": "防災メール停止など110自治体報告",
+      "title": "「うるう秒」を廃止→「うるう時」の導入決定 調整は数百年後か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ON05Zbm1xTjkxU2d6enJQcy1aa0lITGFYckdva1hWOVVnSVVfQWw2Y1R4aU9ablAxb2w2TWd4QmU3cjdVSThSMUEybXZFTEo5?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1BenowVXhkRHljT2E0VzZtUTVKcC1EQ0xrSkZxb0RiS200UnB6NG03NzJKR2E3cUVGLWgyTzViZGR5UUhVMncya1VPRWVSRmhr?oc=5"
     },
     {
-      "time": "10/14 21:17",
-      "category": "社会",
-      "title": "北海道新聞記者拘束、露側「北方領土などからウクライナへの動員人数調査」…駐日大使呼び抗議と面会要請",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44TWdmbWZ0UWJieWtMZ0h0Z0JQN3d2Mm8xWml0aE5qLVhHX0lNa29GbmphRGJ2X0dGbW1yUGN0MERQS1VRT0lpRTNLNDhIbEt5eUdGNkFhX1ZDbGFHSmRMa2Nn?oc=5"
-    },
-    {
-      "time": "10/14 18:53",
+      "time": "10/15 22:44",
       "category": "経済",
-      "title": "サイゼリヤ、メニュー８割強を値上げ ２９日に、コスト上昇で",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xNjA2R0V6WG9hSEljSFA4a2hfdFJQQmVBbHQzYXNEUkg1d0lPSlZ5UVAzZkNHNXg3NC1HMUV6cWJSUGRGeWVicF95NW9pM3NKYjNiVXNwV3ZwN3FONHFZb2ttdw?oc=5"
+      "title": "【市場反応】米9月PPIは加速し4年ぶり高水準、小売売上高は予想上回る、ドル売りは継続｜FX・為替ニュース",
+      "source": "ザイFX！",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01Q3ZQRUZ6eGp6RTUxclJ2YWhLaHEyVUhpUjhkdWZpT0tVRFh0RjVhQWRvR1N2SzNlMmRHb20yVUJzbEhIWkhJQWVvdnJPUk9FTFE?oc=5"
     },
     {
-      "time": "10/14 18:50",
+      "time": "10/15 21:45",
       "category": "総合",
-      "title": "簗和生農水相が辞表 内閣改造後わずか1カ月 高市政権発足後、不祥事での閣僚辞任は初",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DaGkwa2hvREhvMWdiTF9BZDdlSEM0SC04RnJ1a3l2S0RrbnRrTnlHdmFvRHBGT2hlYlA5MldpT202Qi1iTnRMcHJnV2laOG9DdExYX1dCeVhkUVRmSkViR0luNTRSeGt4cVZuY3BpdldnUnR4X3c?oc=5"
+      "title": "台風30号(チャンパー) 進路次第で日本に影響の可能性も 13年ぶりの30号",
+      "source": "ウェザーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11QUVmYjFsVUNXdkp0VUF5SGFBUEF4djd5emhzUkQ5MTJmcGFyLVJ6YWxtOEtXSzJabHA2MkdQenhtelI4bFFaVmxKemZjUmxLemZIdw?oc=5"
     },
     {
-      "time": "10/14 11:41",
-      "category": "科学",
-      "title": "ノーベル賞・硤合憲三氏の「天才すぎる幼少期」を同級生が明かす 「トンボを眺めて『なぜ、コイツは止まっているんじゃろ』」",
+      "time": "10/15 20:15",
+      "category": "総合",
+      "title": "茂木外相 サウジアラビア外相に日本人保護への協力要請",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NNFdpcUhFSS1ZQms5SjhzaVFRZ3hhaEFuUTBYNEhJdWd6cDVBNksweXlyR1RTcFUteXZIZGMtcUhfcXhLZE5kdmhheXN0WE95Q3NJWDhOLVBWaURxMW53?oc=5"
+    },
+    {
+      "time": "10/15 19:50",
+      "category": "テック",
+      "title": "ソースネクスト情報流出か 最大2251万件（共同通信）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94Ui10Qm1mRGxsWWVBSmxwRTdKLUFONTBjcS1wQXVzTUdPOEdqQXF0S1g3V2dSNmtMU1pUU0E5UVhxUExsdXlEQVJpdlR1QlpnRHQ1czJtSF9GN1RqQmh2Qkc4VVp0ejI0SENIc0dvcFk3S3hKWlJ0bEZUMjhWazg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYVDZBekJRM1FMaHV0djVQcHFoMUdyU2xJeEtQTWx5RGhBdVhYUHk2U213SkFERGQyUnBQckdHcThOT0o1X1ZvNlVCS1hhSnZMcU0wNDdpekVObTlEZ2IxS25Fa3NqWTh6cHRpVUF3aXRfWm9KYkU3N202a0liaTQ?oc=5"
+    },
+    {
+      "time": "10/15 18:51",
+      "category": "社会",
+      "title": "死亡男性母親、２．３億円賠償求め提訴 逮捕のユーチューバー「ＫＥＮＺＯ」らに―京都地裁",
+      "source": "時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtd3ZETE0ydjI4dWJHVzlNcnN5eGx0NmdnaGF1eFBlMk1zN1ZtYm5EMHMzeUpwajhRU2FFekFFSXhzSzVHZktTbmJRNWJTWVdnMWx4R1dRazI0YzJROElQb1BZOA?oc=5"
+    },
+    {
+      "time": "10/15 18:00",
+      "category": "総合",
+      "title": "検査をすり抜けた乳がん 梅宮アンナさんが気づいた「異変」",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DRkstdmROODVIN21fS3FZQTZNMVBtV0w5VUdJM1ZHUUlOZ0RQektfWE9RQUpHRkZ6NlZweExZb3RwWW9OWGhfNjRRN1ZCd0FfNHpEVER0Yllid2E1ZTBpUzZ1R09BcFpn?oc=5"
+    },
+    {
+      "time": "10/15 17:00",
+      "category": "経済",
+      "title": "日経平均大幅安、コアウィーブ社債急落で信用不安 「目先は慎重スタンス必要」「個別株の業績見極める局面」 市場関係者の見方",
+      "source": "トウシル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tVkpMSHFidmtkVzNsR013QmpheG5YbW1ya1pBaXM0YTEwMWxUY0ZvQk5CaTkwclB3VUR2Nk5hSVUzSm8tY0d4NW8yWEhKdGVrczBKajExeGxfUQ?oc=5"
+    },
+    {
+      "time": "10/15 16:28",
+      "category": "社会",
+      "title": "【台風情報】台風30号が13年ぶりに発生 日本の南の海上を西へ 本州に近づく可能性も 来週後半は雨雲の動きも注意",
+      "source": "FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aOG14eXVkeWNLMXU5QlFTZlA4WmZtb0kzelNjODU2YVZLSXE0azlBRHhCUE83TmVvV0pQTFozTkhrNGFLN25oWkgyWEMwdw?oc=5"
     }
   ]
 }

@@ -1,77 +1,41 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "items": [
     {
       "time": "06:04",
       "category": "知っておくこと",
-      "title": "弥生27シリーズ（デスクトップ版）、10/16発売でインボイス経過措置見直しに対応",
-      "source": "voix.jp",
-      "url": "https://voix.jp/?p=113738",
-      "teaser": "移行元ソフトとして日々向き合う弥生に新版。クライアントに「弥生のままで大丈夫か」と聞かれた時、何が変わったか具体的に答えられる。",
-      "thumb": "https://voix.jp/wp-content/uploads/2026/08/15865-404-b7e4345d51b5b7a1b8e241ab29649a65-1280x670-1.jpg"
-    },
-    {
-      "time": "06:04",
-      "category": "知っておくこと",
-      "title": "ASBJが金融商品の減損基準を公表議決（第585回委員会）",
-      "source": "tkc.jp",
-      "url": "https://tkc.jp/consolidate/tkc_express/2026/10/202610_14295",
-      "teaser": "移行先のMFクラウド会計が新基準にどう対応しているか、残高移行時の整合性チェック項目が一つ増える。",
-      "thumb": "https://www.tkc.jp/media_library/images/facebook_tkc_thumbnail.jpg"
-    },
-    {
-      "time": "06:04",
-      "category": "知っておくこと",
-      "title": "EYがFY26決算を発表、AIサービス売上49%増・Copilotライセンス保有38万人超",
-      "source": "ey.com",
-      "url": "https://ey.com/en_gl/newsroom/2026/10/ey-global-revenue-increases-4-point-7-percent-to-us-dollars-57b-for-fiscal-year-2026",
-      "teaser": "Big4面接で「AI活用の実績は」と聞かれた時の数字の弾になる。EYはAI収益化が実数値で動き始めている。",
-      "thumb": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-gl/generic/images/ey-logo-black.jpg"
+      "title": "MFクラウド会計：過年度の仕訳を検索可能に（現預金出納帳・総勘定元帳・補助元帳）",
+      "source": "biz.moneyforward.com",
+      "url": "https://biz.moneyforward.com/support/account/news/new-feature/20261014.html",
+      "teaser": "過年度仕訳の検索はできるようになったが、編集・削除・履歴参照はできず年度切替が必要という制約が残る。",
+      "thumb": null
     },
     {
       "time": "06:04",
       "category": "AI企業ウォッチ",
-      "title": "Anthropicがシンガポールに事務所開設、政府とMOU締結（APAC5拠点目）",
+      "title": "Anthropicが独立評価者METRに「従業員相当」のアクセスを付与",
       "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/singapore-office-opening",
-      "teaser": "AIの安全性・セキュリティ・モデル評価で政府協業が広がる動き。",
-      "thumb": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&amp;backgroundColor=olive"
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "teaser": "社内ハードウェア・オフィス・内部ツールまで開放し、修正要求は顧客データ等の限定カテゴリのみに制限——外部評価の実効性を高める踏み込み方。",
+      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg"
     },
     {
       "time": "06:04",
       "category": "AI企業ウォッチ",
-      "title": "Anthropicが2026年米中間選挙への対策を発表",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/2026-us-midterms",
-      "teaser": "投票情報表示・不正検知分類器を導入、政治的中立性スコア99%と発表。",
-      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/609927c7af2a454cedad848e4b2adc980c1f5fe6-2000x1125.jpg"
-    },
-    {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Gemini 4 Argonが一般提供開始",
-      "source": "ai.google.dev",
-      "url": "https://ai.google.dev/gemini-api/docs/changelog#october-13-2026",
-      "teaser": "コーディング・エージェント・数学科学向けフロンティアモデルが10/2発表からGAへ。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/release-notes.png"
-    },
-    {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Claude Managed Agentsに「Dynamic workflows」追加（ベータ）",
+      "title": "Claude PlatformでOpus 5.5のFast modeがリサーチプレビュー終了",
       "source": "platform.claude.com",
       "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "teaser": "エージェントが多段で他のエージェントを編成するワークフローをサーバー側で実行可能に。",
+      "teaser": "アクセス申請とベータヘッダが不要になり本番利用のハードルが下がった（Opus 5/4.8は引き続き申請制）。",
       "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=3"
     },
     {
       "time": "06:04",
       "category": "AI企業ウォッチ",
-      "title": "Claude PlatformがOpenTelemetryエクスポートに対応（ベータ）",
+      "title": "Compliance APIがユーザーごとの「Instructions for Claude」設定を取得可能に",
       "source": "platform.claude.com",
       "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "teaser": "Messages APIやエージェントセッションのトレースを自社の観測基盤へ出力できる。",
+      "teaser": "Enterprise組織がメンバー個別の指示設定をAPI経由で可視化できるようになった——運用監査ツールの引き出しになる。",
       "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=3"
     }
   ]
