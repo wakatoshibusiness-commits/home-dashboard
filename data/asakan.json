@@ -1,42 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "items": [
     {
-      "time": "06:04",
+      "time": "06:03",
       "category": "知っておくこと",
-      "title": "MFクラウド会計：過年度の仕訳を検索可能に（現預金出納帳・総勘定元帳・補助元帳）",
-      "source": "biz.moneyforward.com",
-      "url": "https://biz.moneyforward.com/support/account/news/new-feature/20261014.html",
-      "teaser": "過年度仕訳の検索はできるようになったが、編集・削除・履歴参照はできず年度切替が必要という制約が残る。",
-      "thumb": null
+      "title": "Workdayが会計・HR・ITを横断する自律実行型エージェント「Autopilot」を発表",
+      "source": "newsroom.workday.com",
+      "url": "https://newsroom.workday.com/2026-10-13-Workday-Launches-Autopilot-Agents-That-Get-Real-Work-Done-Across-HR,-Finance,-and-IT",
+      "teaser": "「客が握れるか」の境界線を考える材料になる。Workdayの会計エージェントは仕訳案を作るが判断は人に残す設計",
+      "thumb": "https://mmx.prnewswire.com/media/MS1321030/Workday-Logo-1.jpg?id=OA3014902&amp;p=facebook"
     },
     {
-      "time": "06:04",
+      "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "Anthropicが独立評価者METRに「従業員相当」のアクセスを付与",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "teaser": "社内ハードウェア・オフィス・内部ツールまで開放し、修正要求は顧客データ等の限定カテゴリのみに制限——外部評価の実効性を高める踏み込み方。",
-      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg"
-    },
-    {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Claude PlatformでOpus 5.5のFast modeがリサーチプレビュー終了",
-      "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "teaser": "アクセス申請とベータヘッダが不要になり本番利用のハードルが下がった（Opus 5/4.8は引き続き申請制）。",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=3"
-    },
-    {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Compliance APIがユーザーごとの「Instructions for Claude」設定を取得可能に",
-      "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "teaser": "Enterprise組織がメンバー個別の指示設定をAPI経由で可視化できるようになった——運用監査ツールの引き出しになる。",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=3"
+      "title": "Googleが業務全体を横断して計画・実行する統合エージェント「Gemini agent」を発表",
+      "source": "blog.google",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
+      "teaser": "Googleが業務全体を横断して計画・実行する統合エージェント「Gemini agent」を発表",
+      "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CloudGeminiAgent_hero.max-1440x810.png"
     }
   ]
 }
