@@ -1,24 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "items": [
     {
-      "time": "06:03",
-      "category": "知っておくこと",
-      "title": "Workdayが会計・HR・ITを横断する自律実行型エージェント「Autopilot」を発表",
-      "source": "newsroom.workday.com",
-      "url": "https://newsroom.workday.com/2026-10-13-Workday-Launches-Autopilot-Agents-That-Get-Real-Work-Done-Across-HR,-Finance,-and-IT",
-      "teaser": "「客が握れるか」の境界線を考える材料になる。Workdayの会計エージェントは仕訳案を作るが判断は人に残す設計",
-      "thumb": "https://mmx.prnewswire.com/media/MS1321030/Workday-Logo-1.jpg?id=OA3014902&amp;p=facebook"
+      "time": "06:02",
+      "category": "AI企業ウォッチ",
+      "title": "Anthropicが蒸留攻撃への防御策を強化",
+      "source": "pulse2.com",
+      "url": "https://pulse2.com/anthropic-says-new-defenses-cut-data-harvested-through-ai-distillation-attacks-by-90-to-99/",
+      "teaser": "他社によるClaude能力の無断コピー（蒸留攻撃）を検知する分類器を導入し、推論データの抽出量を90〜99%削減したと主張。",
+      "thumb": "https://cdn.pulse2.com/cdn/2025/09/Anthropic-Logo-feat.jpg"
     },
     {
-      "time": "06:03",
+      "time": "06:02",
       "category": "AI企業ウォッチ",
-      "title": "Googleが業務全体を横断して計画・実行する統合エージェント「Gemini agent」を発表",
-      "source": "blog.google",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/",
-      "teaser": "Googleが業務全体を横断して計画・実行する統合エージェント「Gemini agent」を発表",
-      "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CloudGeminiAgent_hero.max-1440x810.png"
+      "title": "OpenAIが大学研究室向け「Rosalind Academic Plan」を発表",
+      "source": "unite.ai",
+      "url": "https://www.unite.ai/openai-launches-rosalind-academic-plan-for-u-s-university-labs/",
+      "teaser": "米国の大学研究室にChatGPT Business Standardを最大30席・12か月無償提供。APIは対象外、信頼済みアクセスの審査制。",
+      "thumb": "https://www.unite.ai/wp-content/uploads/2026/10/openai-launches-rosalind-academic-plan-for-us-university-labs.jpg"
     }
   ]
 }
