@@ -1,24 +1,15 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "items": [
     {
       "time": "06:02",
       "category": "AI企業ウォッチ",
-      "title": "Anthropicが蒸留攻撃への防御策を強化",
-      "source": "pulse2.com",
-      "url": "https://pulse2.com/anthropic-says-new-defenses-cut-data-harvested-through-ai-distillation-attacks-by-90-to-99/",
-      "teaser": "他社によるClaude能力の無断コピー（蒸留攻撃）を検知する分類器を導入し、推論データの抽出量を90〜99%削減したと主張。",
-      "thumb": "https://cdn.pulse2.com/cdn/2025/09/Anthropic-Logo-feat.jpg"
-    },
-    {
-      "time": "06:02",
-      "category": "AI企業ウォッチ",
-      "title": "OpenAIが大学研究室向け「Rosalind Academic Plan」を発表",
-      "source": "unite.ai",
-      "url": "https://www.unite.ai/openai-launches-rosalind-academic-plan-for-u-s-university-labs/",
-      "teaser": "米国の大学研究室にChatGPT Business Standardを最大30席・12か月無償提供。APIは対象外、信頼済みアクセスの審査制。",
-      "thumb": "https://www.unite.ai/wp-content/uploads/2026/10/openai-launches-rosalind-academic-plan-for-us-university-labs.jpg"
+      "title": "Anthropicが完全子会社「Public Benefit Fund」への株式拠出を発表",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "teaser": "発行済株式の5%を拠出（株主承認が条件）、企業価値が50%上昇するごとに追加2%を取締役会裁量で拠出する設計。既存の従業員・共同創業者分と合わせ公益目的に約20%が充てられる計算。",
+      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg"
     }
   ]
 }

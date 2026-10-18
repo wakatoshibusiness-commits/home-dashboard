@@ -1,78 +1,85 @@
 {
   "edition": "総合",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18 06:03",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19 06:03",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "04:03",
+      "time": "05:00",
       "category": "総合",
-      "title": "エジプト大統領、対サウジ軍事支援を表明「あらゆる必要な措置をとる」…フーシによるミサイル攻撃からの防空任務か",
+      "title": "高市首相が掲げる「責任ある積極財政」を「評価する」５９％、「評価しない」２９％を大きく上回る…読売世論調査",
       "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Hd05QRVZBcW1scTRDWmFfZTdEV1RRVUtnWlRHWFQydHY4cFV2YXFWb1dEMmZORW9TQV9yME82bENELVJpaW1qQUFIYTRIMXVKYXdoMlBUdVRUeV8wSERjWGh3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95WC1sc044dDNiUHZaN25iaVFuUVI5YUlfNFZwdUYxX0E4Mmdkb0hWNnc0ZUI5QUZjLXEzSThrcXJkam1WNWpEYmlMd2I0ejd2ZnY0MWl6eEJaZWo1NW1UazhCa0JhNXpMWU1HcmNOS3p1b2V4VlE?oc=5"
     },
     {
-      "time": "00:45",
-      "category": "社会",
-      "title": "「西条まつり」山車の担ぎ手だった副市長、下敷きになり死亡",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tUmZYWW0xOFVVRkxpUjVkSlJkTUdnNGUxODZ6Y084NVJKXzdhZXRMUjQwMjhMX1NYOFBXMF9RSTU2TDJJUHJjb1JmaHk1R0pwYUR1WjF4ZllucndFWllKMWFYeVpOZw?oc=5"
-    },
-    {
-      "time": "10/17 23:19",
+      "time": "02:52",
       "category": "総合",
-      "title": "【速報】副市長が祭りで太鼓台の下敷きになり死亡",
-      "source": "47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pM3MxMGJtNnF5UzRGZU9xRFowdHItZGZRWFpyQjVyQjFpZk9CTzJtU0hmS3pWYlVRaS1TRWcyczJwbnVwUDBYcGN0OA?oc=5"
+      "title": "横浜市長に原沢敦美氏が初当選 前職・山中竹春氏ら６氏破る",
+      "source": "時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wTTJpX2tKOGdWSDdEblA2YnN0UmFaYm52Wnh1dFc1b3Y0SWVrcG15aVcyLVVpWjE2d241aUNjMGsxRnVDcGJBMUkwLTZ3M2xMVC1haUh5cnNjR2hkcFh6cVZfbw?oc=5"
     },
     {
-      "time": "10/17 22:50",
-      "category": "テック",
-      "title": "ITシステムの弱点、発見が急増 全世界、AI普及で2.4倍に",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HQ0RrN1oyS2VKdkh6MTdZWkF3VE05d292eFNYZTZFQngtUGpNWTMta3ZKV1pPYzlrR0xrbTlqQkc2M29QZ1RfOWhyamR0YllE?oc=5"
-    },
-    {
-      "time": "10/17 22:00",
-      "category": "社会",
-      "title": "【台風情報】非常に強い台風30号の進路予想 勢力保ったまま沖縄の南へ その後大陸方面に進むか九州方面に進むか定まらず 各国の気象機関の予測もさまざま",
-      "source": "FNNプライムオンライン",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YbDd0SzN1c0dxYV9KNlVHdVR0YWxSWjBGM2FldjR5TUc1bmZVekNaQWFRYUVqTFFrZGdwZXVaZVYtNHA3by1tWlF6QUJ4Zw?oc=5"
-    },
-    {
-      "time": "10/17 20:34",
-      "category": "国際",
-      "title": "ヘルソン州の人道危機、教皇がプーチン氏に「深刻な懸念」伝達…住民２０００人が深刻な食料不足",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zYkhYNlVlOWdlQWNRZ0d3aWhwaE5naDR4emYtcmZuU1F2R0tzUFp6M1ZtNEdzT1RfUEQwTks3eXNqVGVWM2RrRW9CNFE0dlVyeVZTcEw5NEdJTHBteElJc2dB?oc=5"
-    },
-    {
-      "time": "10/17 19:22",
-      "category": "総合",
-      "title": "どの州で司法試験に合格したか問われ、米大統領報道官「中国に移住したとき」…就任５日で退任へ（読売新聞オンライン）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1cy1iUjE4cHE0X19ZSE82RWlPN2tmQkMyMGZnU3pOSm9rNkxqTjBPYWNBRC1vemQyQks3YUVrbDg3ckFvS3AwdFFGRFpRTWJCUS1lOE9aTm9CWFZ5QTc2SWw4NzdIOEd0TFVldlJLdG9OZkhUaXRodWQ1UHVLRjQ?oc=5"
-    },
-    {
-      "time": "10/17 19:01",
+      "time": "02:00",
       "category": "経済",
-      "title": "新給付制度で平均3万円案を提示 27、28年度に2000万人が対象 「一つの参考」",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qSWUyT0FYRnFGS3RCWWRHN1Vmd1UycGE4WnV3SG5hLWdTRW9UdVMzalZrdDMzYV96WnJ5eVVZczdGZkNGUWplbUhaVTFzaVZsVWtxR002TTNldVF3bzZBSkhVSVNZRWJVYmVFbVNoVk5MdVpOcmc?oc=5"
+      "title": "日本株、抜け出せるか「魔の10月」 なお残る米コアウィーブショック",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rZG9qQ2FZLTNKenZYcmJ2Wi1kZnBSX1NfaERUMGRuVGFpQTBqajBnMFNRbHIzTklCTzF6c2hwY2VUTDV3ZzB6MnBLcTVmM0hKZGxFVzZ1OW40cEc0TUdDOEU2U0o4Y29KYkIyZg?oc=5"
     },
     {
-      "time": "10/17 19:01",
+      "time": "10/18 22:33",
       "category": "テック",
-      "title": "中国車 ノルウェー軍情報を記録",
+      "title": "一体何だった！？ ＶＩＶＡＮＴ チンギスのスマホ着信が最大の謎 裏に誰かいる！脱出へドンデン返しの伏線【ネタバレ】",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OamVCa0NvT0VxYlhNQVh2WDhDY1o0aEtfNFZfOE14aDFOTEN5SWtlYjhsME80VFV0SEhZQXVlX3c2aTJwX0pFRWxWWXNZdmdf?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WakgtRWdEcE94Q01YMjIxTXNRREdKdkxPMm4zc0hsdHFGNjBSZzJhaUFtRzhxVk0ybXVJck1zb29zNTZJMnI4T3JuYXlhRkR4dEp3NUxxX3NzZE43Z1ZkUzB1TzMzVUVsZ29MMHIyVzR6NHNWMEpVb3FXRXpQMTA?oc=5"
     },
     {
-      "time": "10/17 16:55",
-      "category": "総合",
-      "title": "靖国神社に真榊奉納した高市首相、遥拝したか首相周辺「答えを差し控える」",
+      "time": "10/18 20:50",
+      "category": "経済",
+      "title": "スバル、SDVを2020年代に投入 高度なソフトウエアを搭載 全車種を順次切り替え",
+      "source": "産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGZkpJODRaSWRFUU13cEpIdUt1UUpVVnJjU2NidVVvaDZsRWZ6X1FRdldBWHU0SWFSaVZ3MnJZclJPWmNoaEpyUkdEQjVfdkxQcElsQ054Z3JDVWpjU0FpNmtYX0ltU3hweUhZb24wUmlPMWdKMmc?oc=5"
+    },
+    {
+      "time": "10/18 20:30",
+      "category": "国際",
+      "title": "フランス各地でデモに乗じ破壊や略奪、歴史的建造物の市庁舎は放火で焼失…全国１５００の小売店が襲撃受ける",
       "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91aWQycVNNbFpuNm9GUER4MUFPZGVVRVZGU3J4LWxLSV9DRlJjemltYjVXcEIyT2puZTE3Z01QRjY1b0pSdzRUWHBqb3QybmhIRjFLakRDR1BDa1pqQjBjMl9DUi05QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PSXRWVTNaanFTcC1PWEdKWm5YODlPRFo0REdDOXdkdV9tZDVYWF84NFRmVDd3emtXMTlOdkYtclVjYUZfdjlMMHUyd0Iza3RLQ2phcGZteU9FRFg0N2d0Rjhn?oc=5"
+    },
+    {
+      "time": "10/18 19:52",
+      "category": "総合",
+      "title": "【台風情報】台風30号（チャンパー）の進路予想 22日午後3時には「非常に強い」勢力で沖縄の南に達する見込み 中心気圧935hPa、最大瞬間風速70m/sの予想（NBS長野放送）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQURqdzktR2l0enJqd1B6cmhqbkI2NkV6ZWdXNVBaWFVFWF9OWWxVNWlXS2tWQzVMM05OeEtldWFqdWVCUWFpc00wSzhKUm5TRlpsUGZHMkNSMEJ6T0FoU0tFdXRYSW10NzM5Z0J4dEZpR3ZXTDZCY0lXZEQ3TVU?oc=5"
+    },
+    {
+      "time": "10/18 17:00",
+      "category": "テック",
+      "title": "不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れていない人の方が珍しい」専門家が警鐘、対策は?（テレビ高知）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wLWRoN1BFZER2QkJJSFVZR2lLMEtMS3JCakZaWEx0X2lWTFdTM0hCWGc1YVBhZFpCUG55Q0UzZHpYa0J6YXpCbUFTQ2JST0JyXzJOb01QQUtQelNPX3ZIcmpJT1EzdTlJZklTNm52UkgtVTgwNHJ2c1RkWHd6bmM?oc=5"
+    },
+    {
+      "time": "10/18 09:56",
+      "category": "総合",
+      "title": "仏で55万人デモ、暴動や放火 物価高や教育巡り、市庁舎全焼",
+      "source": "47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBudW5RSTU2QnRhcnBxWmZ3XzJvSGF6UnYzNThvcWZRQmdUV0tuUmF3YXYtT0I1NlNTcmExYWdKRzlRU0EteG9IajEwNA?oc=5"
+    },
+    {
+      "time": "10/18 08:55",
+      "category": "国際",
+      "title": "エジプト大統領、サウジアラビア防衛意向「要請あればあらゆる措置」",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9STC1UUnRZQzA1ckRJR2h2cW1SWnFXTVhIVVhlT2FyRnRNbkFKdm5qWV9NbVZBQjNNWktzb0dHYkk1c0xkQzktVjBMbklFbWI0U0NaSWNETmhPQ196Y1FlcEdMSFdmVkZuRm4zSw?oc=5"
+    },
+    {
+      "time": "10/17 14:55",
+      "category": "経済",
+      "title": "AI成長懸念とインフレ再燃、2つのリスクに揺れたウォール街の1週間",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDV2k5RWFNZXJYMEhoQnlmczQ4dFdyYmNHc080NTU3VU9mZXVhQkVVNFFLTEl2aGloMTJxLW1WOUt1anFZdzJsZnJkY05vU2h1eFNWOVlOMEhjbXYwbEFPakdFajdWWGRFckJvdnV0ZTQ1YzhmTVJZ?oc=5"
     },
     {
       "time": "10/17 12:46",
@@ -80,13 +87,6 @@
       "title": "「緑色の恒星」を初めて発見、特殊な白色矮星のケース 英天文学チーム（CNN.co.jp）",
       "source": "Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NcWRuVk1fdGEtbTNxczFMd0FTTkFhTEhoMUpDRE5VbWtVa3l2NmhmOXplMk9KZnlGNnhleVpXSGFKU05UcE1UNFBhUWk2NzVUa3FxUUpFY1RaQjBNVHQtT1BYTUt4OVZPbW1mLXEwY3NydzhqSEUyd2Q1MW1sMUk?oc=5"
-    },
-    {
-      "time": "10/17 10:52",
-      "category": "国際",
-      "title": "【速報】トランプ大統領、対ロ制裁法実施せず",
-      "source": "47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DSURkMHJ3ZWxzSHF6N2J1a0lrNUM1Njk4MThlZmhpRmVhWkxKdEhHa01HcHFNU3R1SUZJVktPdHZ3Q2dEcEo3di1ybw?oc=5"
     }
   ]
 }
