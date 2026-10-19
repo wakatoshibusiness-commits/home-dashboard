@@ -1,15 +1,33 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "items": [
     {
-      "time": "06:02",
+      "time": "06:04",
+      "category": "知っておくこと",
+      "title": "改正企業会計基準第10号「金融商品に関する会計基準」等、ASBJが正式公表",
+      "source": "asb-j.jp",
+      "url": "https://www.asb-j.jp/jp/accounting_standards/y2026/2026-1016.html",
+      "teaser": "ECL（予想信用損失）モデル導入の改正が正式公表。貸倒引当金のロジックが変わり得るため移行設計の要チェック項目。",
+      "thumb": null
+    },
+    {
+      "time": "06:04",
       "category": "AI企業ウォッチ",
-      "title": "Anthropicが完全子会社「Public Benefit Fund」への株式拠出を発表",
+      "title": "Anthropicが「Public Benefit Fund」設立を発表",
       "source": "anthropic.com",
       "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "teaser": "発行済株式の5%を拠出（株主承認が条件）、企業価値が50%上昇するごとに追加2%を取締役会裁量で拠出する設計。既存の従業員・共同創業者分と合わせ公益目的に約20%が充てられる計算。",
+      "teaser": "株式5%＋企業価値50%上昇ごとに追加2%を非営利目的に拠出する新しい仕組み。",
       "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg"
+    },
+    {
+      "time": "06:04",
+      "category": "AI企業ウォッチ",
+      "title": "Claude Max/TeamプランへのAPIクレジット付与（リリースノート）",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "teaser": "Haiku 5.5提供やbrowser use/computer use SDK（ベータ）も同時掲載。",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=4"
     }
   ]
 }
