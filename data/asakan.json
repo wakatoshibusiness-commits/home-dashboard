@@ -1,33 +1,33 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "items": [
     {
-      "time": "06:04",
-      "category": "知っておくこと",
-      "title": "改正企業会計基準第10号「金融商品に関する会計基準」等、ASBJが正式公表",
-      "source": "asb-j.jp",
-      "url": "https://www.asb-j.jp/jp/accounting_standards/y2026/2026-1016.html",
-      "teaser": "ECL（予想信用損失）モデル導入の改正が正式公表。貸倒引当金のロジックが変わり得るため移行設計の要チェック項目。",
-      "thumb": null
-    },
-    {
-      "time": "06:04",
+      "time": "06:02",
       "category": "AI企業ウォッチ",
-      "title": "Anthropicが「Public Benefit Fund」設立を発表",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "teaser": "株式5%＋企業価値50%上昇ごとに追加2%を非営利目的に拠出する新しい仕組み。",
-      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg"
-    },
-    {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Claude Max/TeamプランへのAPIクレジット付与（リリースノート）",
+      "title": "Anthropicが Claude Platform で Inference hooks をEnterprise向けに正式化、Managed Agentsの定時配備がAWS版でも利用可能に",
       "source": "platform.claude.com",
       "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "teaser": "Haiku 5.5提供やbrowser use/computer use SDK（ベータ）も同時掲載。",
+      "teaser": "ベータだったInference hooksがEnterprise組織向けに正式機能化。自動化ツール開発でhookを使うなら今が解禁タイミング。",
       "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=4"
+    },
+    {
+      "time": "06:02",
+      "category": "AI企業ウォッチ",
+      "title": "OpenAIが Responses API のプロンプトキャッシュ保持を12時間に延長",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/guides/prompt-caching",
+      "teaser": "保持時間は伸びたが、キャッシュ書き込み自体は入力トークン単価の2.5倍で課金される点に注意。コスト設計に影響する変更。",
+      "thumb": "https://developers.openai.com/og/api/docs/guides/prompt-caching.png"
+    },
+    {
+      "time": "06:02",
+      "category": "AI企業ウォッチ",
+      "title": "OpenAIが音声モデル GPT-Live に Decisions機能を統合",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/guides/decisions-voice",
+      "teaser": "ユーザーの発話中やLive出力への反応中でもアプリ側が判断・動作できるようになる。音声エージェントの実装パターンの引き出しになる。",
+      "thumb": "https://developers.openai.com/og/api/docs/guides/decisions-voice.png"
     }
   ]
 }
