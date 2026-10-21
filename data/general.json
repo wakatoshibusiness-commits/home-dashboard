@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21 06:03",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22 06:04",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "03:41",
+      "time": "05:00",
+      "category": "経済",
+      "title": "中国語ＡＩの攻撃性能、脆弱性を見つけ情報抜き取りまで１５秒…セキュリティー会社がダミーサイトで実演",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kUVg3NUs2ckJIMnhnOTVFWGk1UGxjREtWOW5uXzh3SnhnNGI0M1lvQWZNaDNFNldORC1nRFlMSUZCMzlIVGkwc2pXRjhfWXZrVEFabkdCeklOMkRVX0JtU0U4MThjUQ?oc=5"
+    },
+    {
+      "time": "02:26",
+      "category": "テック",
+      "title": "『サイバーパンク2077』の「エッジランナーズ2」 アップデートで導入される新要素をチェックしよう",
+      "source": "www.cyberpunk.net",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15anlJZllDY1dabU1OVDkyRlF2aENaME9QS0hWenFKQnNUb3I5SEVpLUR5ejhjaVB1SVhWWGVDdkJ4bzRRREpnUkg1T0VOVTZ0?oc=5"
+    },
+    {
+      "time": "10/21 22:40",
+      "category": "経済",
+      "title": "高市首相「大至急のお願い」 プログラミング言語PHPの脆弱性で",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lVUQ0NmJpOWZBVFlJdV8wN3l5X0VRbnBsTGotLXdzWHl5bmNXVEplSm5DNVpUdnV6Y1NDaFRtM01CTERSYVF4cGhUZDhoa2J3QmdaMWVORjlacFZIdkJLNjYyOTRYTnhF?oc=5"
+    },
+    {
+      "time": "10/21 22:37",
+      "category": "社会",
+      "title": "【台風情報】大型で猛烈な台風30号の進路予想 22日午前9時には「猛烈」な勢力を維持したまま沖縄の南に達する見込み 中心気圧915hPa、最大瞬間風速75m/s予想（NBS長野放送）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ERGJ1UmxFRVRybGRmRE1ocUFQOFdtMTlkSzZHWGtCS3NVbVhNeVdxdEwtY1ZkU0hIWl92M2ZrVlUyejNLck56aDJjeEhpdVR6VmtpS2FnSjNlMzFDX0RTakZYajBRLTlHZW5TdzFyd0VQdXNqTDgteDFzTWtISE0?oc=5"
+    },
+    {
+      "time": "10/21 22:28",
+      "category": "総合",
+      "title": "秋田・子吉川が氾濫 ４５０世帯に緊急安全確保―特別警報発表・気象庁など",
+      "source": "時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qb3IzRlRNZjhucE1NR3VnM1VidnFtMHR4NVZfX3piR091U2pYWGNTUkYyS0NTclM4SWsyenRVY0k0N3FpNzl4YTBQTGdKVlN3cWNXYUZ1aEtrRnhqT2RDNGxQZw?oc=5"
+    },
+    {
+      "time": "10/21 22:22",
+      "category": "総合",
+      "title": "【台風情報】大型で猛烈な台風30号(チャンパー)の進路予想 22日午前9時には「猛烈」な勢力で沖縄の南に達する見込み 中心気圧915hPa、最大瞬間風速75m/s予想",
+      "source": "FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NR3Z1MWc0bnNwZmt0XzlzUm1fTEE0M01vMmZYenRUa05oNGdYdmcyaWpuUk5VVUppUDZCaVh4ZnhZMFRwVXF5ZzRoVTRpQQ?oc=5"
+    },
+    {
+      "time": "10/21 22:21",
+      "category": "テック",
+      "title": "プログラミング言語「PHP」に重大な欠陥発見…乗っ取りや個人情報漏えいの恐れ すでに予防的に一部停止 世界のWebサイト7割使用か 政府が迅速対応呼びかけ（TBS NEWS DIG Powered by JNN）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCMFZUeU1pUjBRSUk2RlJJR1pWdldIX2NxN01EMzhQb2x1MndKZkhDQXpuOV9ZNk9ld0VpS2lScnpXSGxLVFRXbWJQS1pqelI0ZGtZTnpwSkhCNEJMd25KbDFGZTdwWlV6VGcyOEVyZ3RiMlZKdEJIQ2NUYlNyNjQ?oc=5"
+    },
+    {
+      "time": "10/21 21:15",
       "category": "国際",
-      "title": "イラン大統領、パキスタン軍トップと会談 仲介や地域情勢協議",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXlHa2YxRTY5N2hDN0VZSWM4UVdyTklRb01faXlNdXk0M2hYbmJFbXdyeGVEaUppRVprblA5RlBJV0Y4UW5GdmtkR1dtdnBVNlFvOXIyeDI5YmdMWlcwVXFuZy1ld1BUWTJ4U3d1RXBHTGYxaWwtekNZM0hBWWxJa2I0akZpM2M?oc=5"
-    },
-    {
-      "time": "00:26",
-      "category": "経済",
-      "title": "岩井コスモ証券 不正アクセスで顧客が意図しない売買注文",
-      "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DbHN2WUVvZklWbURsTEo4aVVvSW4xWlFGQ1dfUU5sVVVBSlNJQk5Rcl9QeWRrZHpmb0NXNjJ4ZEczMEo0MTFpdk1yVnNOQVpVdU55MG9kTGViRVBKY1ZV?oc=5"
-    },
-    {
-      "time": "10/20 23:25",
-      "category": "社会",
-      "title": "新名神６人死亡事故で拘禁刑７年、遺族「ながらスマホも危険運転に」「納得できない」…法改正による厳罰化求める",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iVXBaODBHOUdna1VJTFpZa3Y0MGctMzIwSnBFVDgtUE5VakFXMW1vM0hWeUJGRnN0cHFvNDBJbzBVYzNDTlloa1ljVXk3VUFiRnVaYkdCV0ZxZXRzNFhDMmhkdzNnUQ?oc=5"
-    },
-    {
-      "time": "10/20 22:12",
-      "category": "社会",
-      "title": "【台風情報】大型で猛烈な台風30号の進路予想 各国気象機関のシミュレーション 週末以降日本列島に近づく可能性も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85Vkw2cVZfdnpMaHNhcERoTnBYa1I5YTJXREVFak51bFJ3Zm15ZTctd1Y0eUdWY2FPbzFDR2FQVGgweldET0dDWlp0ZTFGbl8zTExzcktEM0tZQnZ2T2ZVNjZsLXFUc3U1dDlkc0JxcjFyaHkta3g0TzlELTBqV0k?oc=5"
-    },
-    {
-      "time": "10/20 21:46",
-      "category": "総合",
-      "title": "猛烈な台風30号(チャンパー) 週後半に沖縄接近 その後は九州や本州に向かうおそれ",
-      "source": "ウェザーニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ETlZsX1RGZDI4OGpILUZVd3lFbXdadWdINnJkN0xoSUJjSTVTcHY3SjBMX2NsZGpsM3p5Zk1FWDdRVWdRU00tazZDMWt1RmEwVEZnaA?oc=5"
-    },
-    {
-      "time": "10/20 21:26",
-      "category": "総合",
-      "title": "トランプ氏が仏大規模デモは移民政策の失敗原因と主張、民主党を「マルクス主義者や移民の党」…接戦州で批判",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EV0d6UFp3MGtfdFpNS1hqazd4VnB2V2tubzVxaXpNdGRRa2dNa1FBc3BaRVNMNVNsUnlzMFNOUkpFc1RIR2l0MndXaFFnTzVnRmkwbkNhZmRaS3RDaUdNcUxB?oc=5"
-    },
-    {
-      "time": "10/20 18:53",
-      "category": "総合",
-      "title": "米副大統領、ネタニヤフ氏の再選を支持せず 全面支持のトランプ氏と距離",
-      "source": "CNN.co.jp",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FMDBqcFhLS0lQTy1NRURJNXR3eUVOblRoM3FlckRBQ3dfdmlLcnlaNVJWUlZ0QzI3aTNOM0Q5TkgyTEU5VmdKSHAwYllxY002?oc=5"
-    },
-    {
-      "time": "10/20 18:35",
-      "category": "経済",
-      "title": "日本企業への不正アクセス、中国のAIツール「ARTEX」使用を確認",
-      "source": "Impress Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RMHljaTM2RXRlbXIweFRHZFhtZmMwSGpHeVEyX0RCUmpTbjlJOWl2bGk0bDBrN2xWTXdQaV9vbEhONkp2MFU1WVhUdlBablFNeTI1dmZ2dTVPeklhXzc2QS1WUk8?oc=5"
-    },
-    {
-      "time": "10/20 18:33",
-      "category": "経済",
-      "title": "企業のサイバー攻撃対策、AI観測網導入で異常の早期検知 自民提言案",
+      "title": "プーチン氏、ロシア拘束の米国人を釈放 ウィットコフ米特使と会談",
       "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wVnROLTNSYUhuYmZlOWw2NDlsRFpTNWVicUF3UXl3MUNWRkFETGdBQkFJREZ6RTF2cm40OVZpTmt0YUZOV1dGVVBJY0FURGRXWXBFT2kwVHpxeHFRSnNCazNFZnhxeU83WTk2bQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmbWgtY3pBR2RHaDhWQ2d2VmlUVFNDams3WTBTLUxyOW00ejltOGhkNUNMdVZmUmI0aDdDbHlPS0lyd0w3ckV6bnhMU1hEOTNrRGtjd2cwSGpmTDg1Mm0wUVhCWGNjNFNmT01vMQ?oc=5"
     },
     {
-      "time": "10/20 13:22",
-      "category": "テック",
-      "title": "80社サイバー攻撃 中国語AI悪用か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDZ2YyY0ZZTE9XNDZackZmOWJWWjktRXZrX0JqVmpieWhmVUhuNi1VYU9XdEM0RTluanFvMGVPM21OTElnOWJBVExuRzdOZ0Qw?oc=5"
-    },
-    {
-      "time": "10/20 12:14",
+      "time": "10/21 21:10",
       "category": "総合",
-      "title": "ながらスマホ運転の元運転手に拘禁刑7年判決 法定刑上限 新名神6人死亡事故で津地裁",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82d0xjdnlNZTNSSXY1MkZNeWpjYWFvd1B3OHRjSXR4cVlqZUcwZk1nVnU4b2dPWlR2SmhLS2Rvd0J2b0p2TmYzNE41bEFLMXlabFFOczlFOGR6Y1JYUll4X2lqUWV2ZFcyWkowSFZyQ0JJZHlWZHc?oc=5"
+      "title": "総理就任１年の節目を迎えての会見",
+      "source": "首相官邸",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OUnRnaXJ6UVB3U1g1V1BnTk8yd2ZKdWI5LUtaLTNIeFAtb3FJZnhSZ0tjNzFWYzRWZFJBOTI3ZFAzOGVyMXNmSXhJZ194eWp5RmtVYUVSa3FEcnhGV045ZUU5SVlsakIzMHE1eTVoYw?oc=5"
     },
     {
-      "time": "10/20 08:35",
-      "category": "テック",
-      "title": "ドイツで人型ロボットが少女の尻触って腰振り…動画配信目当てか？法的責任は #エキスパートトピ（前田恒彦） - エキスパート",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXBpTkF0dGxiVXozMTlTdUJHTkkwMFJWYWY0RV90UDgyV1RPdlNGTnd6Y25LNFVENnpYdmlnOTgtRnIxR1ZzS2d6QjIyZ2hJdGtCcW41SUx1bDkzaEFTOUk0ZTJTT0lyVFJrbEN0d2FXU2RQZUhYcV85T0Z5ZXFpZGtrc08wd18z?oc=5"
+      "time": "10/21 21:00",
+      "category": "経済",
+      "title": "アップル製折りたたみスマホ「iPhone Duo」実機レビュー：圧倒的に広い画面の利便性と課題",
+      "source": "Business Insider Japan",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RdDA5U201YjRGRkRCM1ZNVFdubFNid18zc2xlQ1ZfTERLcGlkSk4tX3ZEZVVPOEZCSDR5Q0FQNmlCYlRHYmpTTTZweC0tVDNIaHZxQlE0SmdUdkctYWNZWFJwX0RWNG9DT05xZTBTMDV4Z2ZidjRr?oc=5"
+    },
+    {
+      "time": "10/21 20:20",
+      "category": "社会",
+      "title": "【速報中】秋田・子吉川で氾濫発生 由利本荘市の一部に警戒レベル5緊急安全確保",
+      "source": "テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9seXN0NTNLT0Q0R25fSENBRHlqN2ViU2RrNGUyQ2VzcUdjYWo1UVRSQ1E0RTZDN0xqMlhMSjZZM216WFRpS2pIeVBrSDBCWW85TDVfMHpZbWJVREw4eXZfb2tYbnQtZGZUdWhCVDdOZmthdw?oc=5"
+    },
+    {
+      "time": "10/21 20:19",
+      "category": "国際",
+      "title": "［深層ＮＥＷＳ］フランス大規模デモ、「政府の対応は難しい」…第一ライフ資産運用経済研究所の田中理氏",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWZTRtUkJ5WXZNTTludl9aSndRWDdpSkgxSWJEVEZQVGZVVXQtNjVsY2tUeFE2SU1MamRpMy1GNEd6QWhSNUMtN2djaXpuSzQzZ0l5cEp5VHFsdnM0UFlSZG5n?oc=5"
     }
   ]
 }

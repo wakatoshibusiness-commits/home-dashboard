@@ -1,33 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "items": [
     {
-      "time": "06:02",
+      "time": "06:04",
       "category": "AI企業ウォッチ",
-      "title": "Anthropicが Claude Platform で Inference hooks をEnterprise向けに正式化、Managed Agentsの定時配備がAWS版でも利用可能に",
+      "title": "Anthropicが Claude Platform に「ユーザープロファイル」API と組織Webhook（ベータ）を追加、新SDK（Python 2.0.0 / TypeScript 1.0.0）を公開",
       "source": "platform.claude.com",
       "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "teaser": "ベータだったInference hooksがEnterprise組織向けに正式機能化。自動化ツール開発でhookを使うなら今が解禁タイミング。",
+      "teaser": "エンドカスタマー単位の利用制限・enforcement管理がAPIで可能になり、FDEの自動化ツールでテナント別のガードレールを組みやすくなる。新SDKは破壊的変更ありでライセンスもMITからApache 2.0に変更。",
       "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=4"
     },
     {
-      "time": "06:02",
-      "category": "AI企業ウォッチ",
-      "title": "OpenAIが Responses API のプロンプトキャッシュ保持を12時間に延長",
-      "source": "developers.openai.com",
-      "url": "https://developers.openai.com/api/docs/guides/prompt-caching",
-      "teaser": "保持時間は伸びたが、キャッシュ書き込み自体は入力トークン単価の2.5倍で課金される点に注意。コスト設計に影響する変更。",
-      "thumb": "https://developers.openai.com/og/api/docs/guides/prompt-caching.png"
-    },
-    {
-      "time": "06:02",
-      "category": "AI企業ウォッチ",
-      "title": "OpenAIが音声モデル GPT-Live に Decisions機能を統合",
-      "source": "developers.openai.com",
-      "url": "https://developers.openai.com/api/docs/guides/decisions-voice",
-      "teaser": "ユーザーの発話中やLive出力への反応中でもアプリ側が判断・動作できるようになる。音声エージェントの実装パターンの引き出しになる。",
-      "thumb": "https://developers.openai.com/og/api/docs/guides/decisions-voice.png"
+      "time": "06:04",
+      "category": "引っかかり",
+      "title": "AIはまだ大量解雇を生んでいない。なぜか",
+      "source": "library.hbs.edu",
+      "url": "https://www.library.hbs.edu/working-knowledge/ai-hasnt-spurred-widespread-layoffs-yet-why-not",
+      "teaser": "全職種の業務の41%がAIで代替可能という分析があるのに失業率は4.1%とまだ低い。disruptionが間近か過大評価かで見方が割れている。",
+      "thumb": "https://cloudinary.hbs.edu/hbsit/image/fetch/q_auto/f_webp/https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2FXusH3kGmlb2V5TKDSYfZJ%2FElmendorf_AI_Labor.png"
     }
   ]
 }
