@@ -1,24 +1,42 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "items": [
     {
-      "time": "06:04",
-      "category": "AI企業ウォッチ",
-      "title": "Anthropicが Claude Platform に「ユーザープロファイル」API と組織Webhook（ベータ）を追加、新SDK（Python 2.0.0 / TypeScript 1.0.0）を公開",
-      "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "teaser": "エンドカスタマー単位の利用制限・enforcement管理がAPIで可能になり、FDEの自動化ツールでテナント別のガードレールを組みやすくなる。新SDKは破壊的変更ありでライセンスもMITからApache 2.0に変更。",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=4"
+      "time": "06:03",
+      "category": "知っておくこと",
+      "title": "マネーフォワード「企業のAI利用・支出管理に関する実態調査」",
+      "source": "corp.moneyforward.com",
+      "url": "https://corp.moneyforward.com/news/release/service/20261021-mf-press-1/",
+      "teaser": "AI利用コストも「客が握れてない」状態になっていないか、確認する材料になる",
+      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/AIcost_Main.png"
     },
     {
-      "time": "06:04",
-      "category": "引っかかり",
-      "title": "AIはまだ大量解雇を生んでいない。なぜか",
-      "source": "library.hbs.edu",
-      "url": "https://www.library.hbs.edu/working-knowledge/ai-hasnt-spurred-widespread-layoffs-yet-why-not",
-      "teaser": "全職種の業務の41%がAIで代替可能という分析があるのに失業率は4.1%とまだ低い。disruptionが間近か過大評価かで見方が割れている。",
-      "thumb": "https://cloudinary.hbs.edu/hbsit/image/fetch/q_auto/f_webp/https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2FXusH3kGmlb2V5TKDSYfZJ%2FElmendorf_AI_Labor.png"
+      "time": "06:03",
+      "category": "知っておくこと",
+      "title": "MFクラウド個別原価とクラウド勤怠Plusの連携開始",
+      "source": "corp.moneyforward.com",
+      "url": "https://corp.moneyforward.com/news/release/service/20261022-mf-press-1/",
+      "teaser": "CSV手作業をAPI連携で潰す設計パターンは、残高移行の自動化ツールにそのまま転用できる",
+      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/project-cost_attendanceplus_main.png"
+    },
+    {
+      "time": "06:03",
+      "category": "AI企業ウォッチ",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "teaser": "個社仕様から業界標準の仕様に押し上げる動き。2025年12月の公開以来、70以上のプラットフォームに統合済み",
+      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+    },
+    {
+      "time": "06:03",
+      "category": "AI企業ウォッチ",
+      "title": "Decisions API 一般提供（gpt-6-luna）",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "teaser": "プロンプトキャッシュ・画像ごとの質問指定・JSON入力に対応し、質問数上限を200→400に拡大",
+      "thumb": "https://developers.openai.com/og/api/docs/guides/decisions.png"
     }
   ]
 }

@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22 06:04",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23 06:04",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "05:00",
+      "time": "05:11",
       "category": "経済",
-      "title": "中国語ＡＩの攻撃性能、脆弱性を見つけ情報抜き取りまで１５秒…セキュリティー会社がダミーサイトで実演",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kUVg3NUs2ckJIMnhnOTVFWGk1UGxjREtWOW5uXzh3SnhnNGI0M1lvQWZNaDNFNldORC1nRFlMSUZCMzlIVGkwc2pXRjhfWXZrVEFabkdCeklOMkRVX0JtU0U4MThjUQ?oc=5"
+      "title": "米国株式市場＝急反落、ナスダックは6月以来の下落率 ＡＩ投資に懸念",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXZMbU5DRXVrcU9IS3hrQ1Q1R3dxenk4MnlEZTlScDFXWi0xeTJlNEcwdWlyYTdQejg1X0ljNGhZQXlQUm1fR0xwSHZNX2JqdlFCb3BfWXdjaXp6MnphNjFJb3E5U2pKeE5qNGZtZnRfTVFNenZQMEU0ZTJ3WHlBRmN0UUo3Zw?oc=5"
     },
     {
-      "time": "02:26",
+      "time": "01:30",
+      "category": "国際",
+      "title": "トランプ氏、イランが中間選挙前に原油高画策と主張 「偽攻撃などでっち上げ」（ロイター）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdWhkSDRDUHotYVZrUW5tVUhiMWpsZTBaXzJSZmpvQld3dG1zNk1WWXB2Mmx0SzhCU0ZiQWlyOWRmZFVNd1hWOXVIbXl0dFZHVDBUR1Fkc3NOSHZmSk84N1RLNEVuQzFEczU5TTZ6cy1oRDg4UnBibUU0WXVhbzA?oc=5"
+    },
+    {
+      "time": "10/22 23:54",
+      "category": "社会",
+      "title": "ゴルフで80万円負担 福岡県議証言",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CNDRFWFhLM2xsa1lITzhveGdYb2p1ZHU4LUwxZEVVNDFoazMySENCajJkWmtUc3lyQ29WQ0tTcVJDeHlvV3VVbGhYZnpNVzRa?oc=5"
+    },
+    {
+      "time": "10/22 23:45",
+      "category": "総合",
+      "title": "【台風情報】台風30号 23日は沖縄 そのあと西日本へ「警報級大雨おそれ」【3時間ごと雨風シミュレーション28日（水）まで／全国の週間予報】気象庁進路予想",
+      "source": "TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbTQ4ejd1VFVGRkRkYkI2R2haVWgxOXltTnE5dnBlOXRsT3JaZFhPSVF5ZTFmTTNKdWt2OWZIdjBLR3lrYzFYM0ZWUVpvMHhZanJHODducnRfQ1E2RTBN?oc=5"
+    },
+    {
+      "time": "10/22 23:28",
       "category": "テック",
-      "title": "『サイバーパンク2077』の「エッジランナーズ2」 アップデートで導入される新要素をチェックしよう",
-      "source": "www.cyberpunk.net",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15anlJZllDY1dabU1OVDkyRlF2aENaME9QS0hWenFKQnNUb3I5SEVpLUR5ejhjaVB1SVhWWGVDdkJ4bzRRREpnUkg1T0VOVTZ0?oc=5"
+      "title": "初の核最終処分場の操業決定 北欧",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5NWmJzWXowRFNlVzBUWUVOSlRpa0N3WmlyaGt3X0RmYVhQTFZZaHUtV0lYUjBJTDBNVHZZMlZwTEhCLWRsZGFidFNhLVBJak55?oc=5"
     },
     {
-      "time": "10/21 22:40",
+      "time": "10/22 23:27",
+      "category": "総合",
+      "title": "新教科書は紙中心の学びが基本、「ハイブリッド教科書」でデジタルは「補完」…文科省「大臣指針」素案公表",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFanNLYk05YXVPTFVFTTRCdWMyNzdTdGoxem5SRVdtRzhSR25JLVdleVZYZktoQ0JmNlYxMXlJUURjZUs1cE51LTZjY2J0RmVhT2xaVUtaQU8yWGNtM0VwX3Y4c3pRVUpwc2I3cndVcGw0SEU?oc=5"
+    },
+    {
+      "time": "10/22 23:22",
       "category": "経済",
-      "title": "高市首相「大至急のお願い」 プログラミング言語PHPの脆弱性で",
+      "title": "中国政府系集団がAI攻撃 米マイクロソフト確認",
+      "source": "47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGR0MxcW5fQzlPNVVSSkt5eG9FUkwzX3o5bnQzZlRzdXFCZ255ZnBFSVZVZ0tDSGVZNFFhQTREaXVuMGpZNzBfLUtTWQ?oc=5"
+    },
+    {
+      "time": "10/22 21:34",
+      "category": "国際",
+      "title": "ミャンマーの民主化運動指導者スー・チー氏、英国在住の次男と電話…２０２１年のクーデターで拘束後初",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQWnVIMUg2Q2cwbzl3YlhpX2pBcXN6WDhubjlEYlJxT2w4a2V1MEcxcWdIbXh3VmJIc2JPTjRweWNlUzRXOVF1b3ZDNlFnVjZUaW0yaFFLR05FMm5UN1dEZS13?oc=5"
+    },
+    {
+      "time": "10/22 21:01",
+      "category": "総合",
+      "title": "「右も左も混じっているので」 免許不正流用、捜査員が語る実態",
       "source": "毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lVUQ0NmJpOWZBVFlJdV8wN3l5X0VRbnBsTGotLXdzWHl5bmNXVEplSm5DNVpUdnV6Y1NDaFRtM01CTERSYVF4cGhUZDhoa2J3QmdaMWVORjlacFZIdkJLNjYyOTRYTnhF?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSYjllREFvZEduOW9mQVhoSmstUlNCd204cjFCalRCWVB3czByX21VREtCbEI1Z3dyaTBYcVc2THFZbVlvQ3FfN0RQZFBrQnItY1BMM0JGQ0NETTVweEhFMjFmNS1aTkpq?oc=5"
     },
     {
-      "time": "10/21 22:37",
+      "time": "10/22 20:33",
       "category": "社会",
-      "title": "【台風情報】大型で猛烈な台風30号の進路予想 22日午前9時には「猛烈」な勢力を維持したまま沖縄の南に達する見込み 中心気圧915hPa、最大瞬間風速75m/s予想（NBS長野放送）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ERGJ1UmxFRVRybGRmRE1ocUFQOFdtMTlkSzZHWGtCS3NVbVhNeVdxdEwtY1ZkU0hIWl92M2ZrVlUyejNLck56aDJjeEhpdVR6VmtpS2FnSjNlMzFDX0RTakZYajBRLTlHZW5TdzFyd0VQdXNqTDgteDFzTWtISE0?oc=5"
-    },
-    {
-      "time": "10/21 22:28",
-      "category": "総合",
-      "title": "秋田・子吉川が氾濫 ４５０世帯に緊急安全確保―特別警報発表・気象庁など",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qb3IzRlRNZjhucE1NR3VnM1VidnFtMHR4NVZfX3piR091U2pYWGNTUkYyS0NTclM4SWsyenRVY0k0N3FpNzl4YTBQTGdKVlN3cWNXYUZ1aEtrRnhqT2RDNGxQZw?oc=5"
-    },
-    {
-      "time": "10/21 22:22",
-      "category": "総合",
-      "title": "【台風情報】大型で猛烈な台風30号(チャンパー)の進路予想 22日午前9時には「猛烈」な勢力で沖縄の南に達する見込み 中心気圧915hPa、最大瞬間風速75m/s予想",
+      "title": "【台風情報】台風30号の進路予想と影響 23日～24日に先島諸島へ接近か 秋雨前線が活発化する見込み 24日は東海や関東、北陸などにも雨の範囲が広がる見込み",
       "source": "FNNプライムオンライン",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NR3Z1MWc0bnNwZmt0XzlzUm1fTEE0M01vMmZYenRUa05oNGdYdmcyaWpuUk5VVUppUDZCaVh4ZnhZMFRwVXF5ZzRoVTRpQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pNFpabWhENDZIeTZfWUJXRzhrc0ZXNU1mOE5RTzNTUnhKYXdPUzV2UEhFQTRFcFY5MTlLNjNIOEFqSzJKZG5LeFRhNmxldw?oc=5"
     },
     {
-      "time": "10/21 22:21",
-      "category": "テック",
-      "title": "プログラミング言語「PHP」に重大な欠陥発見…乗っ取りや個人情報漏えいの恐れ すでに予防的に一部停止 世界のWebサイト7割使用か 政府が迅速対応呼びかけ（TBS NEWS DIG Powered by JNN）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCMFZUeU1pUjBRSUk2RlJJR1pWdldIX2NxN01EMzhQb2x1MndKZkhDQXpuOV9ZNk9ld0VpS2lScnpXSGxLVFRXbWJQS1pqelI0ZGtZTnpwSkhCNEJMd25KbDFGZTdwWlV6VGcyOEVyZ3RiMlZKdEJIQ2NUYlNyNjQ?oc=5"
-    },
-    {
-      "time": "10/21 21:15",
-      "category": "国際",
-      "title": "プーチン氏、ロシア拘束の米国人を釈放 ウィットコフ米特使と会談",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmbWgtY3pBR2RHaDhWQ2d2VmlUVFNDams3WTBTLUxyOW00ejltOGhkNUNMdVZmUmI0aDdDbHlPS0lyd0w3ckV6bnhMU1hEOTNrRGtjd2cwSGpmTDg1Mm0wUVhCWGNjNFNmT01vMQ?oc=5"
-    },
-    {
-      "time": "10/21 21:10",
+      "time": "10/22 18:38",
       "category": "総合",
-      "title": "総理就任１年の節目を迎えての会見",
-      "source": "首相官邸",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OUnRnaXJ6UVB3U1g1V1BnTk8yd2ZKdWI5LUtaLTNIeFAtb3FJZnhSZ0tjNzFWYzRWZFJBOTI3ZFAzOGVyMXNmSXhJZ194eWp5RmtVYUVSa3FEcnhGV045ZUU5SVlsakIzMHE1eTVoYw?oc=5"
+      "title": "衆院選挙制度協議 自民“比例で31議席削減”折衷案提示",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fMFJNLXg5QkF6Z2RFcmVJYkpzbFpnc0hOUllHbmNNTjRKck1EM0lPMlQ2eXNVZXA5U0J0cFpLcEdFNTZFbmwwalRJd0dVUGg0NV9JVDZSOUZFdjJpbWpZ?oc=5"
     },
     {
-      "time": "10/21 21:00",
+      "time": "10/22 15:21",
       "category": "経済",
-      "title": "アップル製折りたたみスマホ「iPhone Duo」実機レビュー：圧倒的に広い画面の利便性と課題",
-      "source": "Business Insider Japan",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RdDA5U201YjRGRkRCM1ZNVFdubFNid18zc2xlQ1ZfTERLcGlkSk4tX3ZEZVVPOEZCSDR5Q0FQNmlCYlRHYmpTTTZweC0tVDNIaHZxQlE0SmdUdkctYWNZWFJwX0RWNG9DT05xZTBTMDV4Z2ZidjRr?oc=5"
-    },
-    {
-      "time": "10/21 20:20",
-      "category": "社会",
-      "title": "【速報中】秋田・子吉川で氾濫発生 由利本荘市の一部に警戒レベル5緊急安全確保",
-      "source": "テレ朝NEWS",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9seXN0NTNLT0Q0R25fSENBRHlqN2ViU2RrNGUyQ2VzcUdjYWo1UVRSQ1E0RTZDN0xqMlhMSjZZM216WFRpS2pIeVBrSDBCWW85TDVfMHpZbWJVREw4eXZfb2tYbnQtZGZUdWhCVDdOZmthdw?oc=5"
-    },
-    {
-      "time": "10/21 20:19",
-      "category": "国際",
-      "title": "［深層ＮＥＷＳ］フランス大規模デモ、「政府の対応は難しい」…第一ライフ資産運用経済研究所の田中理氏",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWZTRtUkJ5WXZNTTludl9aSndRWDdpSkgxSWJEVEZQVGZVVXQtNjVsY2tUeFE2SU1MamRpMy1GNEd6QWhSNUMtN2djaXpuSzQzZ0l5cEp5VHFsdnM0UFlSZG5n?oc=5"
+      "title": "PHP脆弱性、海外では“政府サイトごと停止”も オランダの電子認証やWikipedia関連サービスなどにも影響",
+      "source": "ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fVmVIUWNKUDl3Xzh2ckQzYTd0cVFObW9WUEowcU5sOVFjanl6dk9aQndCTzBtYTMwS3B1bjFfTkFJRUJjd3NIZEZTQUN4N041NkxJNEtySEFCYWxwOExhSTBMdGxpdGtleGc?oc=5"
     }
   ]
 }
