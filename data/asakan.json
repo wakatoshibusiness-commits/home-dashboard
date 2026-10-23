@@ -1,42 +1,33 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "items": [
     {
       "time": "06:03",
       "category": "知っておくこと",
-      "title": "マネーフォワード「企業のAI利用・支出管理に関する実態調査」",
+      "title": "マネーフォワードがSalesforce AgentExchange上で請求書発行→電帳法対応の控え保存までを一括化する製品を発表",
       "source": "corp.moneyforward.com",
-      "url": "https://corp.moneyforward.com/news/release/service/20261021-mf-press-1/",
-      "teaser": "AI利用コストも「客が握れてない」状態になっていないか、確認する材料になる",
-      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/AIcost_Main.png"
-    },
-    {
-      "time": "06:03",
-      "category": "知っておくこと",
-      "title": "MFクラウド個別原価とクラウド勤怠Plusの連携開始",
-      "source": "corp.moneyforward.com",
-      "url": "https://corp.moneyforward.com/news/release/service/20261022-mf-press-1/",
-      "teaser": "CSV手作業をAPI連携で潰す設計パターンは、残高移行の自動化ツールにそのまま転用できる",
-      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/project-cost_attendanceplus_main.png"
+      "url": "https://corp.moneyforward.com/news/release/service/20261022-mf-press-2/",
+      "teaser": "Salesforceのレポートデータから請求書PDFを生成して一括送付、電帳法対応の控え保存まで完結させる構成。送付状況もSalesforce上で確認できる。",
+      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/invoice_sf_main.png"
     },
     {
       "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "title": "Anthropicが生命科学分野のゲスト研究者を公募、採用者はClaudeとハーネスを8〜12週間無償利用できる",
       "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "teaser": "個社仕様から業界標準の仕様に押し上げる動き。2025年12月の公開以来、70以上のプラットフォームに統合済み",
-      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "teaser": "大学・非営利・政府研究機関のPIが対象。応募〜選考結果通知までは約4週間というスピード感のプログラム。",
+      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/633e51e2d75a5c14022fa48961b886553d41ce9d-1200x630.jpg"
     },
     {
       "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "Decisions API 一般提供（gpt-6-luna）",
-      "source": "developers.openai.com",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "teaser": "プロンプトキャッシュ・画像ごとの質問指定・JSON入力に対応し、質問数上限を200→400に拡大",
-      "thumb": "https://developers.openai.com/og/api/docs/guides/decisions.png"
+      "title": "天体物理学者Christopher StubbsがAnthropicのLong-Term Benefit Trustに受託者就任（Trust初の物理学者）",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "teaser": "Trustは企業統治上の長期的利益を監督する機関。技術系以外の専門家を加える布石とも読める人事。",
+      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
     }
   ]
 }
