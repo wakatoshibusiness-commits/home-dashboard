@@ -1,33 +1,33 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "items": [
     {
       "time": "06:03",
       "category": "知っておくこと",
-      "title": "マネーフォワードがSalesforce AgentExchange上で請求書発行→電帳法対応の控え保存までを一括化する製品を発表",
-      "source": "corp.moneyforward.com",
-      "url": "https://corp.moneyforward.com/news/release/service/20261022-mf-press-2/",
-      "teaser": "Salesforceのレポートデータから請求書PDFを生成して一括送付、電帳法対応の控え保存まで完結させる構成。送付状況もSalesforce上で確認できる。",
-      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/invoice_sf_main.png"
+      "title": "freee請求書シリーズ発表（請求書発行〜入金消込〜債権管理〜仕訳まで一体化）",
+      "source": "cloud.watch.impress.co.jp",
+      "url": "https://cloud.watch.impress.co.jp/docs/news/2144858.html",
+      "teaser": "エッカ石油や東京青果の経理に「freeeは請求書から入金消込まで一体でできるらしいが、MFは?」と聞かれたら差分を即答できる状態にしておきたい",
+      "thumb": "https://cloud.watch.impress.co.jp/img/clw/list/2144/858/freee.png"
+    },
+    {
+      "time": "06:03",
+      "category": "知っておくこと",
+      "title": "freee請求書、GMO掛け払い連携の新機能「おまかせ回収」を先行発表",
+      "source": "prtimes.jp",
+      "url": "https://prtimes.jp/main/html/rd/p/000002166.000006428.html",
+      "teaser": "freeeが与信審査〜回収まで自動化する方向に踏み込んだ。「客が握れるか」の逆を行く設計として対比材料になる",
+      "thumb": "https://prcdn.freetls.fastly.net/release_image/6428/2166/6428-2166-fed72096508e8e2afde3ca2f919faf31-960x540.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
     },
     {
       "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "Anthropicが生命科学分野のゲスト研究者を公募、採用者はClaudeとハーネスを8〜12週間無償利用できる",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-      "teaser": "大学・非営利・政府研究機関のPIが対象。応募〜選考結果通知までは約4週間というスピード感のプログラム。",
-      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/633e51e2d75a5c14022fa48961b886553d41ce9d-1200x630.jpg"
-    },
-    {
-      "time": "06:03",
-      "category": "AI企業ウォッチ",
-      "title": "天体物理学者Christopher StubbsがAnthropicのLong-Term Benefit Trustに受託者就任（Trust初の物理学者）",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "teaser": "Trustは企業統治上の長期的利益を監督する機関。技術系以外の専門家を加える布石とも読める人事。",
-      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+      "title": "Claude Platform APIバージョン2026-10-21公開（新SDK・ant CLIを同時公開）",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "teaser": "Anthropicが2026-10-21付でAPIバージョンを更新、新SDK・ant CLIを同時公開。SDKのライセンスをMITからApache 2.0に変更",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=4"
     }
   ]
 }
