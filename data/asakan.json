@@ -1,33 +1,42 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "items": [
     {
       "time": "06:03",
       "category": "知っておくこと",
-      "title": "freee請求書シリーズ発表（請求書発行〜入金消込〜債権管理〜仕訳まで一体化）",
-      "source": "cloud.watch.impress.co.jp",
-      "url": "https://cloud.watch.impress.co.jp/docs/news/2144858.html",
-      "teaser": "エッカ石油や東京青果の経理に「freeeは請求書から入金消込まで一体でできるらしいが、MFは?」と聞かれたら差分を即答できる状態にしておきたい",
-      "thumb": "https://cloud.watch.impress.co.jp/img/clw/list/2144/858/freee.png"
+      "title": "マネーフォワードホーム、MetaのパーソナルAIエージェント『Muse』の日本展開でローンチパートナーに決定",
+      "source": "corp.moneyforward.com",
+      "url": "https://corp.moneyforward.com/news/release/service/20261023-mf-press-1/",
+      "teaser": "クライアント先で「MFも結局AIエージェントやるんですか」と聞かれたら、この提携が答えになる",
+      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/Main.png"
     },
     {
       "time": "06:03",
       "category": "知っておくこと",
-      "title": "freee請求書、GMO掛け払い連携の新機能「おまかせ回収」を先行発表",
-      "source": "prtimes.jp",
-      "url": "https://prtimes.jp/main/html/rd/p/000002166.000006428.html",
-      "teaser": "freeeが与信審査〜回収まで自動化する方向に踏み込んだ。「客が握れるか」の逆を行く設計として対比材料になる",
-      "thumb": "https://prcdn.freetls.fastly.net/release_image/6428/2166/6428-2166-fed72096508e8e2afde3ca2f919faf31-960x540.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+      "title": "マネーフォワードエックス、南都銀行と共同開発の法人ポータル『Nanto Biz』の画面デザインと機能詳細を公開",
+      "source": "corp.moneyforward.com",
+      "url": "https://corp.moneyforward.com/news/release/service/20261021-mf-press-2/",
+      "teaser": "移行先であるMFグループが、銀行と組んで\"資金管理まで囲い込む\"法人ポータルを作っている",
+      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/BANKBiz_NantoBank_press1.png"
     },
     {
       "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "Claude Platform APIバージョン2026-10-21公開（新SDK・ant CLIを同時公開）",
+      "title": "Claude Tag API（ベータ）をClaude Enterprise組織向けに提供",
       "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "teaser": "Anthropicが2026-10-21付でAPIバージョンを更新、新SDK・ant CLIを同時公開。SDKのライセンスをMITからApache 2.0に変更",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=4"
+      "url": "https://platform.claude.com/docs/en/manage-claude/claude-tag-api",
+      "teaser": "Slackチャンネル等へのタグ設定をAPI経由で読み取り・変更できるようになった（14エンドポイント）",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/manage-claude/claude-tag-api?design-rev=4"
+    },
+    {
+      "time": "06:03",
+      "category": "AI企業ウォッチ",
+      "title": "Claude Models on Google Cloud（Anthropic managed）",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/claude-models-on-google-cloud/anthropic-managed",
+      "teaser": "AnthropicがGoogle Cloud経由のClaude API提供形態を公開。アクセス制御はGCP IAM、課金はMarketplace経由に統一",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/build-with-claude/claude-models-on-google-cloud/anthropic-managed?design-rev=4"
     }
   ]
 }
