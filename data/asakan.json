@@ -1,42 +1,51 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "items": [
     {
-      "time": "06:03",
+      "time": "06:04",
       "category": "知っておくこと",
-      "title": "マネーフォワードホーム、MetaのパーソナルAIエージェント『Muse』の日本展開でローンチパートナーに決定",
+      "title": "マネーフォワードME、MetaのパーソナルAIエージェント「Muse」と連携開始",
       "source": "corp.moneyforward.com",
-      "url": "https://corp.moneyforward.com/news/release/service/20261023-mf-press-1/",
-      "teaser": "クライアント先で「MFも結局AIエージェントやるんですか」と聞かれたら、この提携が答えになる",
-      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/Main.png"
+      "url": "https://corp.moneyforward.com/news/release/service/20261026-mf-press-2/",
+      "teaser": "読み取り専用でMetaのAIに資産分析を任せる設計——「客が握れるか」の実装例として参考になる",
+      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/Main-1.png"
     },
     {
-      "time": "06:03",
-      "category": "知っておくこと",
-      "title": "マネーフォワードエックス、南都銀行と共同開発の法人ポータル『Nanto Biz』の画面デザインと機能詳細を公開",
-      "source": "corp.moneyforward.com",
-      "url": "https://corp.moneyforward.com/news/release/service/20261021-mf-press-2/",
-      "teaser": "移行先であるMFグループが、銀行と組んで\"資金管理まで囲い込む\"法人ポータルを作っている",
-      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/BANKBiz_NantoBank_press1.png"
-    },
-    {
-      "time": "06:03",
+      "time": "06:04",
       "category": "AI企業ウォッチ",
-      "title": "Claude Tag API（ベータ）をClaude Enterprise組織向けに提供",
-      "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/manage-claude/claude-tag-api",
-      "teaser": "Slackチャンネル等へのタグ設定をAPI経由で読み取り・変更できるようになった（14エンドポイント）",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/manage-claude/claude-tag-api?design-rev=4"
+      "title": "Anthropicが、SECへ新規株式公開（IPO）のS-1登録届出書を提出",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "teaser": "IPO計画の表明から一歩進み、正式な届出書提出まで到達——上場準備が実務フェーズに入った",
+      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
     },
     {
-      "time": "06:03",
+      "time": "06:04",
       "category": "AI企業ウォッチ",
-      "title": "Claude Models on Google Cloud（Anthropic managed）",
-      "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/build-with-claude/claude-models-on-google-cloud/anthropic-managed",
-      "teaser": "AnthropicがGoogle Cloud経由のClaude API提供形態を公開。アクセス制御はGCP IAM、課金はMarketplace経由に統一",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/build-with-claude/claude-models-on-google-cloud/anthropic-managed?design-rev=4"
+      "title": "OpenAIがGPT-6.1 Terraを公開",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+      "teaser": "延期された上位モデルAstraとは別に、視覚推論とコンピュータ操作に強い高速・高効率モデルを先行投入",
+      "thumb": "https://developers.openai.com/og/api/docs/models/gpt-6.1-terra.png"
+    },
+    {
+      "time": "06:04",
+      "category": "AI企業ウォッチ",
+      "title": "GoogleがGemini APIの新規有料プロジェクトでリクエスト保存をデフォルト化",
+      "source": "ai.google.dev",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "teaser": "既存の自動化ツールが呼んでいるAPIのデータ取り扱い方針が変わる——オプトアウト設定を要確認",
+      "thumb": "https://ai.google.dev/static/site-assets/images/release-notes.png"
+    },
+    {
+      "time": "06:04",
+      "category": "引っかかり",
+      "title": "AI開発減速論、国際協調の検証問題——大和総研レポート",
+      "source": "dir.co.jp",
+      "url": "https://www.dir.co.jp/report/research/economics/japan/20261009_026120.html",
+      "teaser": "アモデイ氏の減速提案に6社が署名したが、他国の減速は検証できず協調には構造的な限界がある",
+      "thumb": "https://www.dir.co.jp/common2/img/logo-ogp-dir.png"
     }
   ]
 }
