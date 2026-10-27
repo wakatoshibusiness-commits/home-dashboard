@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27 06:05",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28 06:05",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "03:12",
-      "category": "経済",
-      "title": "米マイクロソフト、約6万人対象に希望退職を募集 コスト抑制へ",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wYlFpeWYzOXI2SjdLUEhQMFFpQ2g4cUdjUk41d25yRk9NdUE3TFBPVkZrclFaVU9nMEczajVGakhheGxWUTBnN1E4a2M2WWFEdE01WG5vcTlkU0VPcVhaWnNfWV9vaTJfalIzUGxqekRxc0ZVZXNkTjdNZmEwZw?oc=5"
-    },
-    {
-      "time": "10/26 23:46",
-      "category": "経済",
-      "title": "【速報】GMOに顧客情報公開とランサム攻撃の予告",
-      "source": "47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQUDZQU1BhakxuZVFFUlB2Y3lkTWxkRmF4b3g0ckdHcmRMMVpIajhXbTA1LVU5MnZ5OEFHeENXMWhaZTVvYTNRbHZOSQ?oc=5"
-    },
-    {
-      "time": "10/26 23:29",
-      "category": "経済",
-      "title": "NYダウ、反発で始まる アンソロピックの目論見書公表でAI株に買い",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1idTNrWVRxTjJxaHM3QnhrM1ItbXp0bVNvU2g4a2k5TzZad0RhX0JQUGlGYnRaSVZuc21feUdYM1o4bGUyWGUtVHljdWRyRXp0c0theVZsMlZuUGpZQkFCSGpzT2lzVVVVem9JZg?oc=5"
-    },
-    {
-      "time": "10/26 23:25",
-      "category": "総合",
-      "title": "北海道新聞記者と「領事面会」実施 健康状態に問題なし 外務省",
-      "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FT1ZQQTRiQUlucGNFdU5vX29lYUJ4LXRXZmpCdjNfZUM1WnhjTF9jX21RZV9odk1uNFltVnhBdWFRcHp1d3FscjRYa1RUb0tMRTRLaWVOWHd1TTZxb204?oc=5"
-    },
-    {
-      "time": "10/26 23:02",
-      "category": "社会",
-      "title": "ロシアで拘束された北海道新聞記者、日本大使館員が領事面会…健康状態に問題なし",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KSGM0TTg3SkR6dXJMdU9lRXNZYTFUd2J1X2RUWGFzZHF5bm0xaDlvSDBsM0tldklLZWtKRlQydlhzUHdvbGF5dkxqTXNfYTRvVU5DNFoxbEtDdGk1UnRhaVRieVVTdw?oc=5"
-    },
-    {
-      "time": "10/26 20:59",
+      "time": "04:54",
       "category": "国際",
-      "title": "米中間選挙投票まで1週間 民主、下院奪還に現実味 トランプ氏遊説行脚も支持率過去最低",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ReXRIT3lGRDBPNGxQOFNCWW9qdm9WZUJxYjVaOXdfRjIyeFRPZkNaNlJ0X1JPSUpLMTcxY21CTnFFbUdvOEVfWnVZVEYxcFplSDVEM1E5RURNUklPS3JHemRkVldlcjJXMDRxZlBQOUY1Q3g3T1E?oc=5"
-    },
-    {
-      "time": "10/26 20:29",
-      "category": "テック",
-      "title": "ユミルリンク 延べ5162万件漏えい",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNQ3BGeFdPM2lYbWNITm9Zb1d6NXJpN185MkJ5U1pzQWlmZUFya0taR0U2QzZxZU9iRUR1OFNOaVBBRms4Y2JQeUZSVGJtMnlq?oc=5"
-    },
-    {
-      "time": "10/26 19:20",
-      "category": "科学",
-      "title": "59歳だけど「生物学的年齢」は26歳...！彼女が毎日食べていたものは？閉経後の女性\"あるある\"の注意点も",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhWGNFZ08wRzZueFBKSmNDejZiZ2tOY3k1VU1WRG9lYXB5a21jbDlvbWRuXzFwU0V3RHZZMjJVYWFOZ3dpclR3MEJQcVZwMXhCcUE3RGlhZEZjOW01OVd1RW9ZU0gtV2RZdWhrRHM4dlQ0Y0VtbUw1RDdyOXZRZ0U?oc=5"
-    },
-    {
-      "time": "10/26 18:57",
-      "category": "総合",
-      "title": "サイバー攻撃元への能動的防御、高市早苗首相「戦略的に実行」",
+      "title": "大統領選で敗北のボルソナロ氏、米国へ出国 旅券提出命令に応じず",
       "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WRnZWUHNjSHVtbWowVGRHOTltRXNXVG1NUG13THFXTWpWbGNOdVNRY0M4d2R5dlRiSVNDVlI2SUpLbEx1MmxpVzgzYmN6QnN4dFoyMXVoakhkal9zQkE3YmpSaG5uWE1VemtpTA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44VTFaanVqaDhHS3dSZVFPMWlqeV9JQ2tkYkdtazZpUDJpWDlVUklzMUZHMTVGX0tRWHBmUXVRMjBTbENEZE5NTU1tRF9GbVNpLTNvdU9DeXkxWlFyUF9tNEk2VlpmQ0ZfcnpITw?oc=5"
     },
     {
-      "time": "10/26 18:24",
-      "category": "総合",
-      "title": "「はまり役」だった官房長官、小泉首相に「王道ではない」「覇道だ」と直言…福田康夫氏死去",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkcnpYamtDWXFaaUpIbG02Nl8wRXFsMl9pcXI3c2pYMlVlY0tmczk2c1JhQ3J3RkRlYm9RMG9rdTRDLVNjOFFXNW9WYWtoUk85MHlmaGo0S09EVlMyOWdUZDJRT0Fvdw?oc=5"
-    },
-    {
-      "time": "10/26 17:15",
-      "category": "テック",
-      "title": "ChatGPTとGeminiで4倍差、AI検索を過信してはいけない理由",
-      "source": "Forbes JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aUG55OGxTVndqaGI5UWE5WnFTUmhpdW1vODVPeG9Lb1JXUjQ0bkZOdi1aTlh5Y0p2VENkV21IMktGYzZQYnVoOE9qVExUYlZpRmZDMFJFRFJZUQ?oc=5"
-    },
-    {
-      "time": "10/26 16:28",
+      "time": "10/27 21:49",
       "category": "社会",
-      "title": "週間天気 28日は北海道は雪で気温急降下 30日は再び広く雨 31日は気温上昇(気象予報士 小野 聡子)",
-      "source": "tenki.jp",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ObjJES01UcU9rWFpaX2U1THZ4cE43bk9EVmlyelBKUWs3TDlfYVZGZHpiYllPeHUxOEN3bU0yb291alowZnMxT05NTU9DRTZmTGZ1TmljX0hSTVhwUmZjMW1HQ0lEdw?oc=5"
+      "title": "「大阪のための構想」か 富士山噴火を考慮、南海トラフ記載なし 副首都要件が閣議決定",
+      "source": "産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sYVN5a3BGR3ZHRmVjemlWYWY5WFVaMzdHUk5mZGJGN05GMnBIS2ZMWjJOcmY5OGZCWW9aVjdNWUdQZWl5NXZPUEQ3ZHFwTk1obGRGRTVmYzR6MUlXeUVJamlPa0xvSWd5cTB0WlhBRTZZLUF2bXc?oc=5"
+    },
+    {
+      "time": "10/27 20:15",
+      "category": "経済",
+      "title": "［ＧＭＯ不正アクセス問題］攻撃者の情報提供に懸賞金１億５千万円 被害者には300万円",
+      "source": "新潟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrbU9vTW0xc0VuN0dMek9qczBTeEF3TnZiWmsyejEzU2tUTmNuUzhTWnlBNm92aXpLOERzamVRNDdUZmxvMERyVW5SQ2hKd21TZjdCVVpEZjU2Y1NISHc?oc=5"
+    },
+    {
+      "time": "10/27 20:06",
+      "category": "社会",
+      "title": "＜2026年熊本地震＞イオンが支援金計9億円 熊本県と嘉島町に",
+      "source": "熊本日日新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fZ0FvMGJFNm5lMGNLQWtJVEticW42M1ZiNnJmMVFkSjlsd01hT190ZU1OWDlnVFhMYllyUVNRRG1Ta3NjeGVYeHpNTExaTjA?oc=5"
+    },
+    {
+      "time": "10/27 19:15",
+      "category": "経済",
+      "title": "ニデック 創業者の永守氏らに損害賠償求め提訴へ",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBROTJySHc3a0FNVDVaQ1hqNjktOXFMQkZvMjZIWEpuQ3IzZWNoQzFNSmVDRkhwbmxHYTU4dy10RHgyZjhmcXluNTJpZ1RjWU9LX0ZkWHlpWVBtM1drSWlj?oc=5"
+    },
+    {
+      "time": "10/27 19:08",
+      "category": "テック",
+      "title": "あなたのスマホ大丈夫？来月にサポート終了でLINEが使えなくなるかも（テレ朝NEWS）",
+      "source": "ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSUs0RkYzNFFSX0ZURXN2UkpBZ0hfNGFCbXBSRzVxV0lfQXBlTUo3azlqcFJrM0gyVi0td2cyR1pXQWdIVWJ3eV9hRGExNlo3c2JEWVFLQ1FSNzhLa1E2NDdkdWFwNUJSbmtNZC16RElNX2RhUGk5eGZnN3RMNXNQVkxWT3MzT1RpVkE?oc=5"
+    },
+    {
+      "time": "10/27 18:30",
+      "category": "総合",
+      "title": "「上げられるのは法人税だけ」防衛財源で浮上 経済界真っ向反発",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PaFEyak93S19iZGdzVmlZMEJqMm5ubW9hWmV6eDNxU2UyVHFyMVZnOUtOM29wZm9vTUtfeS1jSllpS0dPTGl1MW9JbDF5bXhyYTg5UHp1d1VRUUFUNEF0aW0tYnpGRWFi?oc=5"
+    },
+    {
+      "time": "10/27 17:48",
+      "category": "総合",
+      "title": "元検事正、一転して無罪主張 「抵抗や拒否はなかった」―部下への準強制性交罪・大阪地裁",
+      "source": "時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yejVwQUtzU044U2duSVdvRnBpUFVSQTBITTVnUUNLWFVBbnRkLUQxNDBZNVJ1QV9vdWlDOThHSURuX2Y1UkNLckxwTWFDeFpMWVBKVmduOFVOZmowUHFDTmZGaw?oc=5"
+    },
+    {
+      "time": "10/27 16:31",
+      "category": "経済",
+      "title": "今晩のＮＹ株の読み筋＝ＦＯＭＣを控え、方向感に乏しい展開か(ウエルスアドバイザー)",
+      "source": "Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1NRUXZIOTgzSGE5RkkzSERYSExrc3YtV0tGYnNhdi0tNEZVdXhEdDZ1dXptT2JuWkhNRmRVZlJWV19FVVJ3UUpLVktFb0J0eE11N1NGZndXWHk5NDVzbnlQajhiZlZodGJmendtTWFYUDJnTVQ2OHNRYkpXMDM4ajBGQk4wdXM?oc=5"
+    },
+    {
+      "time": "10/27 16:30",
+      "category": "科学",
+      "title": "「オリックスにやられた」「山里を1位で考えていたのは広島だけでは」…現役スカウトが明かす2026年ドラフトの“勝ち組”と“負け組”",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FM2U1c2pybVZCWjdDTVkzVE1yZXFxblJoUDNkTXpKQU0zcU83ekNvQnEwUjRrVTdROFRULUVINlF6WDJxbXBoNnVCQXFmTVRjdFpVbzZ3a3NBRVdFcEg2Rl9WZTNSVUpsWjcxTjFHUkN1Nkd2QmxnU1VjSjhDdUE?oc=5"
+    },
+    {
+      "time": "10/27 16:00",
+      "category": "総合",
+      "title": "イスラエル総選挙 ネタニヤフ氏に暗雲？続投か政権交代か…イラン戦争の行方",
+      "source": "テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yTEllTmdCYWdoVUpZWDRYNUhjYWJvc2FVVTBGTmJCYzlDR1VoSjU4ZjNjVjhsVmVTd0ozdWNacWlxNnA0Q3RtR2NWUG92c2R3c1Y1R2xVNEdXN1pjZ2NRUEVvcmhsWVl2UXd1b1dIalVVZlh3X1RhQ1Jn?oc=5"
+    },
+    {
+      "time": "10/27 14:01",
+      "category": "国際",
+      "title": "イスラエル総選挙の投票始まる 与野党接戦見込み、連立難航の可能性",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxWHdkRi1kRUtHTFZuTkxZclEtTEdpTHJydlA1b1RlODRFcVA2aGJTUE9RQTFwaENnNy04NDBkaEZSanFNbms2TDgtdmh5OGJUQklzWnUzdlBlVmRBZzZOSURBMnZLeGMxZUlEdg?oc=5"
     }
   ]
 }
