@@ -1,33 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "items": [
     {
-      "time": "06:04",
-      "category": "知っておくこと",
-      "title": "マネーフォワード、外部サービス「Studio」不正アクセスで問い合わせフォームの個人データ流出の可能性",
-      "source": "corp.moneyforward.com",
-      "url": "https://corp.moneyforward.com/news/info/20261026-mf-press-1/",
-      "teaser": "サービス本体ではなく委託先経由の情報漏えいという切り口は、クライアントに会計SaaSの委託先管理を聞かれた時の具体例になる。",
-      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2025/06/OGP.png"
-    },
-    {
-      "time": "06:04",
-      "category": "知っておくこと",
-      "title": "ASBJ、「継続企業に関する会計基準（案）」等の公開草案を公表",
-      "source": "asb-j.jp",
-      "url": "https://www.asb-j.jp/jp/project/exposure_draft/y2026/2026-1023.html",
-      "teaser": "公認会計士協会の実務指針を会計基準として格上げ・体系化する動きで、監査の継続企業注記の実務に影響する可能性があり、Big4面接で基準動向を聞かれた時の具体的な答えになる。",
-      "thumb": null
-    },
-    {
-      "time": "06:04",
+      "time": "06:02",
       "category": "AI企業ウォッチ",
-      "title": "OpenAIが、フロンティアモデルとCodexワークフローをGoogle Cloud Model Gardenで提供開始",
-      "source": "letsdatascience.com",
-      "url": "https://letsdatascience.com/news/openai-brings-frontier-models-and-codex-to-google-cloud-ed6ecc1e",
-      "teaser": "選考準備中のBig4各社がマルチクラウドでAIベンダーを使い分ける際の契約・請求の実例になる。",
-      "thumb": null
+      "title": "Anthropicが創薬6社と提携、自社の創薬プログラムも開始",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "teaser": "Claudeが抗体設計・薬剤最適化・規制文書起草までを支援し、Envedaではレビュー時間89%削減という実例が報告された。",
+      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg"
+    },
+    {
+      "time": "06:02",
+      "category": "AI企業ウォッチ",
+      "title": "GoogleがGemini API CLI（ベータ）を公開",
+      "source": "ai.google.dev",
+      "url": "https://ai.google.dev/gemini-api/docs/cli",
+      "teaser": "シェルから直接Geminiモデル・マネージドエージェントを呼べるステートレスCLIで、CI/自動化ツールのインターフェース選定の引き出しになる。",
+      "thumb": "https://ai.google.dev/static/site-assets/images/share-gemini-api-2026-07.png"
     }
   ]
 }

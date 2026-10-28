@@ -1,92 +1,85 @@
 {
   "edition": "総合",
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28 06:05",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29 06:02",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "04:54",
-      "category": "国際",
-      "title": "大統領選で敗北のボルソナロ氏、米国へ出国 旅券提出命令に応じず",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44VTFaanVqaDhHS3dSZVFPMWlqeV9JQ2tkYkdtazZpUDJpWDlVUklzMUZHMTVGX0tRWHBmUXVRMjBTbENEZE5NTU1tRF9GbVNpLTNvdU9DeXkxWlFyUF9tNEk2VlpmQ0ZfcnpITw?oc=5"
+      "time": "03:33",
+      "category": "経済",
+      "title": "ＦＲＢが政策金利据え置き、ウォーシュ議長「金融環境が引き締まっていると断定できない」…２人は利上げ求め反対",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yY1JpeGFuOEJXNW5KYmdYWDg2RUtUbnFuek5NOHFoVGNKbW42U0FUM3ZGVGo1dDZiMGdEUmFGdlJVWXM1QkFWTjdWV3FVTDk5cnpURmpMdlo4bUhVYV9JTS1IaUE?oc=5"
     },
     {
-      "time": "10/27 21:49",
-      "category": "社会",
-      "title": "「大阪のための構想」か 富士山噴火を考慮、南海トラフ記載なし 副首都要件が閣議決定",
+      "time": "00:19",
+      "category": "総合",
+      "title": "千葉県北東部でM5.5の地震 最大震度5弱 津波の心配なし",
+      "source": "ウェザーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ub2NtWUpkQmNzTVFIMGZxeDRnU1E1a1VmLV9OeE04YWxFWGhxRTU1THlxOVFPQUZwaGtmTXZkSllENXp1RnlJQ2JtNmFwS19wZURlQXAtWjh6Tjg?oc=5"
+    },
+    {
+      "time": "10/28 23:33",
+      "category": "経済",
+      "title": "NYダウ、小幅続伸で始まる FOMCと大型決算控え様子見",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CdDZzN2VoSzhSdFYzYjg4YVlybzhxbElvcVNuN2hJbVVoa3d1TEhHWWc1cW96Q0RpczRKendISGJWVkd6NGljdklBMWoya2xPZ2NGejQ1VVRuN3VfS0tzQTlJTUpWbzFma0Y5Ng?oc=5"
+    },
+    {
+      "time": "10/28 22:02",
+      "category": "総合",
+      "title": "スペインで列車事故、少なくとも64人死亡 負傷者80人以上 人為的ミスの可能性も",
       "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sYVN5a3BGR3ZHRmVjemlWYWY5WFVaMzdHUk5mZGJGN05GMnBIS2ZMWjJOcmY5OGZCWW9aVjdNWUdQZWl5NXZPUEQ3ZHFwTk1obGRGRTVmYzR6MUlXeUVJamlPa0xvSWd5cTB0WlhBRTZZLUF2bXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jc0VSRjVRMHFiZ096ajYyelE2ZWZfSkNWX1ZDNlV3eHVjcXlKQk9RbEhIeHlEQ0p2ZkJ3Z0RJUGw2SU1obndNOU0xc1o3S3NlV09zMV9ueXVWMS1ubFpDMXVLRmg5TmxpQVpJR3NGRUhvMlR2M1E?oc=5"
     },
     {
-      "time": "10/27 20:15",
-      "category": "経済",
-      "title": "［ＧＭＯ不正アクセス問題］攻撃者の情報提供に懸賞金１億５千万円 被害者には300万円",
-      "source": "新潟日報",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrbU9vTW0xc0VuN0dMek9qczBTeEF3TnZiWmsyejEzU2tUTmNuUzhTWnlBNm92aXpLOERzamVRNDdUZmxvMERyVW5SQ2hKd21TZjdCVVpEZjU2Y1NISHc?oc=5"
+      "time": "10/28 21:15",
+      "category": "総合",
+      "title": "イスラエル総選挙、与党・野党両陣営が５０議席前後で伯仲…ネタニヤフ首相率いるリクード第１党維持の勢い",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04YWZoU1A0SFFhTXJaSERabkZyb2l2cmNwd0FfOWxMLTZuRURNbmk5X2NtZGhjQ2ktRFd4Ykl0MTB0UDgyZUJSVUpsY0dROVUwSG5ZZEZHZUM2ajFxZk1wZWhB?oc=5"
     },
     {
-      "time": "10/27 20:06",
+      "time": "10/28 20:24",
       "category": "社会",
-      "title": "＜2026年熊本地震＞イオンが支援金計9億円 熊本県と嘉島町に",
-      "source": "熊本日日新聞社",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fZ0FvMGJFNm5lMGNLQWtJVEticW42M1ZiNnJmMVFkSjlsd01hT190ZU1OWDlnVFhMYllyUVNRRG1Ta3NjeGVYeHpNTExaTjA?oc=5"
-    },
-    {
-      "time": "10/27 19:15",
-      "category": "経済",
-      "title": "ニデック 創業者の永守氏らに損害賠償求め提訴へ",
-      "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBROTJySHc3a0FNVDVaQ1hqNjktOXFMQkZvMjZIWEpuQ3IzZWNoQzFNSmVDRkhwbmxHYTU4dy10RHgyZjhmcXluNTJpZ1RjWU9LX0ZkWHlpWVBtM1drSWlj?oc=5"
-    },
-    {
-      "time": "10/27 19:08",
-      "category": "テック",
-      "title": "あなたのスマホ大丈夫？来月にサポート終了でLINEが使えなくなるかも（テレ朝NEWS）",
-      "source": "ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSUs0RkYzNFFSX0ZURXN2UkpBZ0hfNGFCbXBSRzVxV0lfQXBlTUo3azlqcFJrM0gyVi0td2cyR1pXQWdIVWJ3eV9hRGExNlo3c2JEWVFLQ1FSNzhLa1E2NDdkdWFwNUJSbmtNZC16RElNX2RhUGk5eGZnN3RMNXNQVkxWT3MzT1RpVkE?oc=5"
-    },
-    {
-      "time": "10/27 18:30",
-      "category": "総合",
-      "title": "「上げられるのは法人税だけ」防衛財源で浮上 経済界真っ向反発",
-      "source": "毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PaFEyak93S19iZGdzVmlZMEJqMm5ubW9hWmV6eDNxU2UyVHFyMVZnOUtOM29wZm9vTUtfeS1jSllpS0dPTGl1MW9JbDF5bXhyYTg5UHp1d1VRUUFUNEF0aW0tYnpGRWFi?oc=5"
-    },
-    {
-      "time": "10/27 17:48",
-      "category": "総合",
-      "title": "元検事正、一転して無罪主張 「抵抗や拒否はなかった」―部下への準強制性交罪・大阪地裁",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yejVwQUtzU044U2duSVdvRnBpUFVSQTBITTVnUUNLWFVBbnRkLUQxNDBZNVJ1QV9vdWlDOThHSURuX2Y1UkNLckxwTWFDeFpMWVBKVmduOFVOZmowUHFDTmZGaw?oc=5"
-    },
-    {
-      "time": "10/27 16:31",
-      "category": "経済",
-      "title": "今晩のＮＹ株の読み筋＝ＦＯＭＣを控え、方向感に乏しい展開か(ウエルスアドバイザー)",
-      "source": "Yahoo!ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1NRUXZIOTgzSGE5RkkzSERYSExrc3YtV0tGYnNhdi0tNEZVdXhEdDZ1dXptT2JuWkhNRmRVZlJWV19FVVJ3UUpLVktFb0J0eE11N1NGZndXWHk5NDVzbnlQajhiZlZodGJmendtTWFYUDJnTVQ2OHNRYkpXMDM4ajBGQk4wdXM?oc=5"
-    },
-    {
-      "time": "10/27 16:30",
-      "category": "科学",
-      "title": "「オリックスにやられた」「山里を1位で考えていたのは広島だけでは」…現役スカウトが明かす2026年ドラフトの“勝ち組”と“負け組”",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FM2U1c2pybVZCWjdDTVkzVE1yZXFxblJoUDNkTXpKQU0zcU83ekNvQnEwUjRrVTdROFRULUVINlF6WDJxbXBoNnVCQXFmTVRjdFpVbzZ3a3NBRVdFcEg2Rl9WZTNSVUpsWjcxTjFHUkN1Nkd2QmxnU1VjSjhDdUE?oc=5"
-    },
-    {
-      "time": "10/27 16:00",
-      "category": "総合",
-      "title": "イスラエル総選挙 ネタニヤフ氏に暗雲？続投か政権交代か…イラン戦争の行方",
+      "title": "東京「木枯らし1号」9年ぶり記録 今季一番の寒気…初雪ラッシュ",
       "source": "テレ朝NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yTEllTmdCYWdoVUpZWDRYNUhjYWJvc2FVVTBGTmJCYzlDR1VoSjU4ZjNjVjhsVmVTd0ozdWNacWlxNnA0Q3RtR2NWUG92c2R3c1Y1R2xVNEdXN1pjZ2NRUEVvcmhsWVl2UXd1b1dIalVVZlh3X1RhQ1Jn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0SGRqdnJWTFpwVDZNNjBQbnVkRFRqdTZfMDBaaTRveFVxRDlYTmoxejJfQktxWUZDdmx1VHZaRUhuNWFvWERIazYzS0JIOTRhRmUtZ1Z2V2dCLW9Hcmgyejhnc1pYdDRWUXFMUWgzX2JHdw?oc=5"
     },
     {
-      "time": "10/27 14:01",
-      "category": "国際",
-      "title": "イスラエル総選挙の投票始まる 与野党接戦見込み、連立難航の可能性",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxWHdkRi1kRUtHTFZuTkxZclEtTEdpTHJydlA1b1RlODRFcVA2aGJTUE9RQTFwaENnNy04NDBkaEZSanFNbms2TDgtdmh5OGJUQklzWnUzdlBlVmRBZzZOSURBMnZLeGMxZUlEdg?oc=5"
+      "time": "10/28 18:06",
+      "category": "経済",
+      "title": "ニデック、訂正報告書の期限までに監査意見得られず | ロイター",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSms0R1o3WGEwY3EtQnNVVE5DTFJ1RzlCS29PLWxoVUlacThKeEpNemZyczNPbHpDZ2JwbXlEMmYxakljZ29uNlI3QXMwUFBRYjhGQjE0dGg1VjhVQ2VCelljY1cxR2RfT2FYMW52ZndXeUZsaHFNN0NIeklMZw?oc=5"
+    },
+    {
+      "time": "10/28 11:50",
+      "category": "テック",
+      "title": "東京アプリ事業は「違法」 利用できず、都を集団提訴（共同通信）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JNFlRZzkyWTUyTWlwMGNVN2l6ZkZPVS1uME91NVEtV1M2QnRhZXNYSTFTQm1fc29DeGFoTlRRakxjbDcwdUpScWsyQ0pyRkNtYUVEeUtWZzE5OEpfaDJMc19ET1R2QjVrQXhKQTBVMVV0R3JSZWQyTUU2dkNZSWM?oc=5"
+    },
+    {
+      "time": "10/28 11:09",
+      "category": "テック",
+      "title": "【速報】GMOに対するハッカー集団サイトが停止 米プロバイダーによる措置か 警視庁が不正アクセス禁止法違反などの疑いで捜査",
+      "source": "TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52b25qQjNhMUhDUUdlRUw5OVoyYXZNdEN6dDBtWDNUbExhbmNFbGZIc2tnZ25oTERzTjR6czV1SmJqR0dNeE85LXpnemJJckxCbzZfckpCZw?oc=5"
+    },
+    {
+      "time": "10/28 09:47",
+      "category": "総合",
+      "title": "国民民主、衆院比例31減案に賛成方針を決定 与野党協議で表明へ [国民民主党][高市早苗首相]",
+      "source": "朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12WkVqRWR4cXhtNDRQUDBLT0hTbFNDaGlzbDBWZDdKeUJ0RURFRFZwTTFkVmZZc25GRXFjdUdOTFNaQkp5cFBzSGQ3ZlNma1dvekRnQ1BBY3RjNzVocVJ4cnhZaWF0Zjg?oc=5"
+    },
+    {
+      "time": "10/27 17:30",
+      "category": "科学",
+      "title": "なぜ男性の半数は50歳までに「薄毛」になるのか、進化生物学が解き明かす真実",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53SXBBQ2xLNGsyejBJVkRSZW5URldfdzF3OXd0b184UTVZZVJ1MktsZVNBSEFjWnpaM1R4bHM0TjFZQnhFNXk2R3V5QjRxLTI0NktmRk5ETk56T1pTdEVHNWtFVEhTMDZJUnRPd3pISHZSS3loam9zaWRzdmtQaEE?oc=5"
     }
   ]
 }
