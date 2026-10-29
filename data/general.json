@@ -1,85 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29 06:02",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30 08:35",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "03:33",
-      "category": "経済",
-      "title": "ＦＲＢが政策金利据え置き、ウォーシュ議長「金融環境が引き締まっていると断定できない」…２人は利上げ求め反対",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yY1JpeGFuOEJXNW5KYmdYWDg2RUtUbnFuek5NOHFoVGNKbW42U0FUM3ZGVGo1dDZiMGdEUmFGdlJVWXM1QkFWTjdWV3FVTDk5cnpURmpMdlo4bUhVYV9JTS1IaUE?oc=5"
-    },
-    {
-      "time": "00:19",
-      "category": "総合",
-      "title": "千葉県北東部でM5.5の地震 最大震度5弱 津波の心配なし",
-      "source": "ウェザーニュース",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ub2NtWUpkQmNzTVFIMGZxeDRnU1E1a1VmLV9OeE04YWxFWGhxRTU1THlxOVFPQUZwaGtmTXZkSllENXp1RnlJQ2JtNmFwS19wZURlQXAtWjh6Tjg?oc=5"
-    },
-    {
-      "time": "10/28 23:33",
-      "category": "経済",
-      "title": "NYダウ、小幅続伸で始まる FOMCと大型決算控え様子見",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CdDZzN2VoSzhSdFYzYjg4YVlybzhxbElvcVNuN2hJbVVoa3d1TEhHWWc1cW96Q0RpczRKendISGJWVkd6NGljdklBMWoya2xPZ2NGejQ1VVRuN3VfS0tzQTlJTUpWbzFma0Y5Ng?oc=5"
-    },
-    {
-      "time": "10/28 22:02",
-      "category": "総合",
-      "title": "スペインで列車事故、少なくとも64人死亡 負傷者80人以上 人為的ミスの可能性も",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jc0VSRjVRMHFiZ096ajYyelE2ZWZfSkNWX1ZDNlV3eHVjcXlKQk9RbEhIeHlEQ0p2ZkJ3Z0RJUGw2SU1obndNOU0xc1o3S3NlV09zMV9ueXVWMS1ubFpDMXVLRmg5TmxpQVpJR3NGRUhvMlR2M1E?oc=5"
-    },
-    {
-      "time": "10/28 21:15",
-      "category": "総合",
-      "title": "イスラエル総選挙、与党・野党両陣営が５０議席前後で伯仲…ネタニヤフ首相率いるリクード第１党維持の勢い",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04YWZoU1A0SFFhTXJaSERabkZyb2l2cmNwd0FfOWxMLTZuRURNbmk5X2NtZGhjQ2ktRFd4Ykl0MTB0UDgyZUJSVUpsY0dROVUwSG5ZZEZHZUM2ajFxZk1wZWhB?oc=5"
-    },
-    {
-      "time": "10/28 20:24",
-      "category": "社会",
-      "title": "東京「木枯らし1号」9年ぶり記録 今季一番の寒気…初雪ラッシュ",
+      "time": "07:36",
+      "category": "国際",
+      "title": "中国共産党の重要会議が閉幕 来年の党大会を前に大量処分 習近平体制 引き締め図る",
       "source": "テレ朝NEWS",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0SGRqdnJWTFpwVDZNNjBQbnVkRFRqdTZfMDBaaTRveFVxRDlYTmoxejJfQktxWUZDdmx1VHZaRUhuNWFvWERIazYzS0JIOTRhRmUtZ1Z2V2dCLW9Hcmgyejhnc1pYdDRWUXFMUWgzX2JHdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMalhCRkxNQnpZLUx0NDktSzNSZ1ZFUjhqSE94M2VPOUFmYmJXeGktdVJjODNwelhUcGd3ZHNzclJXLWlHc29ldDNFb2MwZmUxX3o1QUNSeTJHdThoVExyQ1UxVXdqQnhPVUc0UjVuZnZsSzhTYzZ0VkNR?oc=5"
     },
     {
-      "time": "10/28 18:06",
+      "time": "06:46",
       "category": "経済",
-      "title": "ニデック、訂正報告書の期限までに監査意見得られず | ロイター",
+      "title": "ＮＹダウ終値、１３２ドル安の５万２３４２ドル…ＡＩ巨額投資への懸念でグーグル親会社１２％超下落",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WWDZpNUp4SUJ4dXk3VlBnOFBWU2FuWDVIaExBRG5nOUY3WjRod2dDTU5MMTMtMUl5aHhzRWp6MnduMnFhSUd4Q0xjeHBMcU1tNDdCdkJWN3c3NnozOWYyQUhyNEU?oc=5"
+    },
+    {
+      "time": "06:46",
+      "category": "経済",
+      "title": "米アマゾン売上高見通しが予想下回る、現金流出も加速で株価下落",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSms0R1o3WGEwY3EtQnNVVE5DTFJ1RzlCS29PLWxoVUlacThKeEpNemZyczNPbHpDZ2JwbXlEMmYxakljZ29uNlI3QXMwUFBRYjhGQjE0dGg1VjhVQ2VCelljY1cxR2RfT2FYMW52ZndXeUZsaHFNN0NIeklMZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aOEZJLTZWUmxWQmdIdzJiV0RFem03Z3JXR00zS0Z0bl83ck9nRmlYcUI4X2dITjF2UVlEQkFaalJLYmx1ZG1JRzZkVTdReEdJVE9wQnhwZ0REV2RRSzU2di1PRktGcmY1SmVJZ2g5LUYyRXozMmN2ZjZFeHBMdw?oc=5"
     },
     {
-      "time": "10/28 11:50",
-      "category": "テック",
-      "title": "東京アプリ事業は「違法」 利用できず、都を集団提訴（共同通信）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JNFlRZzkyWTUyTWlwMGNVN2l6ZkZPVS1uME91NVEtV1M2QnRhZXNYSTFTQm1fc29DeGFoTlRRakxjbDcwdUpScWsyQ0pyRkNtYUVEeUtWZzE5OEpfaDJMc19ET1R2QjVrQXhKQTBVMVV0R3JSZWQyTUU2dkNZSWM?oc=5"
-    },
-    {
-      "time": "10/28 11:09",
-      "category": "テック",
-      "title": "【速報】GMOに対するハッカー集団サイトが停止 米プロバイダーによる措置か 警視庁が不正アクセス禁止法違反などの疑いで捜査",
-      "source": "TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52b25qQjNhMUhDUUdlRUw5OVoyYXZNdEN6dDBtWDNUbExhbmNFbGZIc2tnZ25oTERzTjR6czV1SmJqR0dNeE85LXpnemJJckxCbzZfckpCZw?oc=5"
-    },
-    {
-      "time": "10/28 09:47",
+      "time": "05:50",
       "category": "総合",
-      "title": "国民民主、衆院比例31減案に賛成方針を決定 与野党協議で表明へ [国民民主党][高市早苗首相]",
-      "source": "朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12WkVqRWR4cXhtNDRQUDBLT0hTbFNDaGlzbDBWZDdKeUJ0RURFRFZwTTFkVmZZc25GRXFjdUdOTFNaQkp5cFBzSGQ3ZlNma1dvekRnQ1BBY3RjNzVocVJ4cnhZaWF0Zjg?oc=5"
+      "title": "ベネズエラに帰国した野党指導者マチャド氏、「２７年に大統領選」米提案を明らかに…「民主化は不可逆的」",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EOUJYM1dHZ3JQWmVOTTlreUVNYkQ3ZEZzcmNaOUdHdUU2d19ZVXpWamRQSWZfMERNaGp3WDF6MGhMUTNhbFg5bmdMZW9mWFRMMkNxdk5HTENkWHRMR1B2Sjdn?oc=5"
     },
     {
-      "time": "10/27 17:30",
-      "category": "科学",
-      "title": "なぜ男性の半数は50歳までに「薄毛」になるのか、進化生物学が解き明かす真実",
+      "time": "05:02",
+      "category": "社会",
+      "title": "別府ひき逃げ事件で新チラシ 八田容疑者の初公開写真も",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IU1ZjQklGYUZnUUNIeWFaYkR0ZnRJVm50SVBubDhTb0dPajdyd0JINno4LVlkblBvYlhheFpYUlZYWURwQ181RFRRelJMbjRQa3N3NnJiekVhNFJTZGdv?oc=5"
+    },
+    {
+      "time": "05:01",
+      "category": "社会",
+      "title": "＜主張＞日独首脳会談 GCAP遅れは許されぬ 社説",
+      "source": "産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96aWc0NHl3VDlrcEVDczRIY24wSHlMZmM5MkFmZXU4WEpocWM1X2hYRUhidEYtVHVVLUx1and3OEdaUFU5OWJQcnBkazQ1bW1MZVZEVGM0MWJ0dDd3d1JwSkRFYWFnX0ZpbzhIUmpPb2lKUzFGN0E?oc=5"
+    },
+    {
+      "time": "04:38",
+      "category": "総合",
+      "title": "愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6dDhWc3RLZWlkVmdSQ1JLVkRUNUNHTEtTS3E1WEd1Sm91eHJvcVQ0dHVpZlRMSmJnSFR4dTBxWVZCMU14VGx0VEtaZUQ4MGxNUVdQVVAzZURueHJQRWtR?oc=5"
+    },
+    {
+      "time": "04:37",
+      "category": "国際",
+      "title": "ロシア軍、 ウクライナ攻撃継続 ドニプロの鉄道駅で14人死亡 | ロイター",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmVrSFl5eklSNDVvQ0lZUlZRU2lPQjZTMTc5U016Y3JKbTBXbGpzaDZYdHZtaDVkX2o3S2ladnlyNU9LeXY0b3FGLTF3N1d3Qm1jV2t6MGhFbHJvOXFYZF9BUXY5RkJKdWl6bWVpX3FIYlVJdG9WSnZJWGZKNWx6SVNfcjJwQQ?oc=5"
+    },
+    {
+      "time": "01:32",
+      "category": "総合",
+      "title": "ネパールで発見された男性２遺体、行方不明の日本人２人と確認…在ネパール日本大使館",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aQ2JiSEgwZWE5Tlp4a01ZT0JLV0xWUjI3NnJDZTI4U0RqTGUyYkdSek5heXM2OWxSd0RIWGstVDAtQmdqVi1hQTFoVTVPM0FVeWlSNzNSaW9oMHVIbHM1VWdB?oc=5"
+    },
+    {
+      "time": "10/29 23:08",
+      "category": "経済",
+      "title": "〔米株式〕ダウ反落、165ドル安＝ナスダックも安い（29日午前）(時事通信)",
+      "source": "Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSWFVdk1ZZEFSWjhhQVlBa05oSkxObjBYWUpENDFBRk8tN1lKQXlUcDFqZThOdkFPVmVRdmhIX0dfMGdIbjRnaG1ncG14REQxbGd0S0VnRTJMUU9DbFFuakxwWGdxaHdULXlkM1h5aVZ5Wko2TkExOG9pS1NXekNmdkcwX3VQUEk?oc=5"
+    },
+    {
+      "time": "10/29 21:40",
+      "category": "テック",
+      "title": "エヌビディアCEOに中国工作員が接近、情報を流したか NYT（朝日新聞）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53SXBBQ2xLNGsyejBJVkRSZW5URldfdzF3OXd0b184UTVZZVJ1MktsZVNBSEFjWnpaM1R4bHM0TjFZQnhFNXk2R3V5QjRxLTI0NktmRk5ETk56T1pTdEVHNWtFVEhTMDZJUnRPd3pISHZSS3loam9zaWRzdmtQaEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0VC0yZWx6eTFVN2lPajJwT3daVWJUbVRxbWdiX19OVkVBS2xNdjBnaFFfbFBkZUtDdWphSWwydDBEWW81dHdpZFhLbGFpZHh3OHNsVlVKa0x0RW1XdU1MZnVSZnJvQlJBbktzZmt0ZU9JX2FOQ3lVV1A0NHExdlU?oc=5"
+    },
+    {
+      "time": "10/29 20:30",
+      "category": "総合",
+      "title": "無自覚なアウティングどう防ぐ？ 専門家が解説 李琴峰さん勝訴",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KMWFzbmxQVHYtaWVERHNiNTZPeE15RThwaG9DZUdoUzNDcnY5MkVuazVGdUZhWnNNazk5eVBiOHJIc2JRbjh4VGE1UkhuMHVmLUtTS2x3Y0dYZjJkMG9kc2pmOHdJanJP?oc=5"
     }
   ]
 }

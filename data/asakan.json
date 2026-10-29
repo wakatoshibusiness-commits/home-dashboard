@@ -1,24 +1,51 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "items": [
     {
-      "time": "06:02",
+      "time": "08:34",
       "category": "AI企業ウォッチ",
-      "title": "Anthropicが創薬6社と提携、自社の創薬プログラムも開始",
+      "title": "Anthropicが「AI for Science」を個人研究者から財団・研究機関へ拡大",
       "source": "anthropic.com",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "teaser": "Claudeが抗体設計・薬剤最適化・規制文書起草までを支援し、Envedaではレビュー時間89%削減という実例が報告された。",
-      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg"
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "teaser": "個人研究者向けだった無料Claudeクレジット提供を、Sloan・Simons・米NSF等の資金提供者とEMBL・Imperial College等の研究機関にも拡大。学術領域での利用を本格的に後押しする動き。",
+      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2c317246f4ac7eaf0667d90a76ac05a7a7b601fc-1200x630.jpg"
     },
     {
-      "time": "06:02",
+      "time": "08:34",
       "category": "AI企業ウォッチ",
-      "title": "GoogleがGemini API CLI（ベータ）を公開",
-      "source": "ai.google.dev",
-      "url": "https://ai.google.dev/gemini-api/docs/cli",
-      "teaser": "シェルから直接Geminiモデル・マネージドエージェントを呼べるステートレスCLIで、CI/自動化ツールのインターフェース選定の引き出しになる。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/share-gemini-api-2026-07.png"
+      "title": "Anthropicが米GSAとの提携を拡大、政府購入者向けに40%割引",
+      "source": "anthropic.com",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "teaser": "Claude Enterprise/for Government/APIを連邦・州・地方・部族政府向けに40%割引・最低購入額なしで提供。公共セクターへの食い込みを加速させる狙い。",
+      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/4e3bfa972a8ec391977288fa36de3da1ecd78232-1920x1080.webp"
+    },
+    {
+      "time": "08:34",
+      "category": "AI企業ウォッチ",
+      "title": "Claude Platform、Usage and Cost Analytics APIをベータ公開",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/manage-claude/usage-cost-analytics-api",
+      "teaser": "組織のトークン使用量・コストをAPI経由で取得できる新APIが登場。旧Usage and Cost APIはlegacy化され、移行ガイドが用意されている。",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/manage-claude/usage-cost-analytics-api?design-rev=4"
+    },
+    {
+      "time": "08:34",
+      "category": "AI企業ウォッチ",
+      "title": "Claude API、Messages/Token Counting APIの最大リクエストサイズを128MBへ拡大",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/api/overview#request-size-limits",
+      "teaser": "上限が32MBから128MBへ4倍に拡大。大容量ファイル添付や長文コンテキストの一括送信がしやすくなる。",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/api/overview?design-rev=4"
+    },
+    {
+      "time": "08:34",
+      "category": "AI企業ウォッチ",
+      "title": "OpenAIがChatGPT Pro/Business加入者向けにAPIクレジット（月最大500ドル）を開始",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/guides/chatgpt-api-credits",
+      "teaser": "対象加入者が自分のAPI組織を連携させると月最大500ドルのAPIクレジットを受け取れる。サブスクとAPI利用の垣根を薄める施策。",
+      "thumb": "https://developers.openai.com/og/api/docs/guides/chatgpt-api-credits.png"
     }
   ]
 }
