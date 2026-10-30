@@ -1,51 +1,42 @@
 {
   "edition": "朝刊",
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "items": [
     {
-      "time": "08:34",
-      "category": "AI企業ウォッチ",
-      "title": "Anthropicが「AI for Science」を個人研究者から財団・研究機関へ拡大",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "teaser": "個人研究者向けだった無料Claudeクレジット提供を、Sloan・Simons・米NSF等の資金提供者とEMBL・Imperial College等の研究機関にも拡大。学術領域での利用を本格的に後押しする動き。",
-      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2c317246f4ac7eaf0667d90a76ac05a7a7b601fc-1200x630.jpg"
+      "time": "06:03",
+      "category": "知っておくこと",
+      "title": "あずさ監査法人、AI活用型ローリング・フォーキャスト実装サービスを開始",
+      "source": "kpmg.com",
+      "url": "https://kpmg.com/jp/ja/media/press-releases/2026/10/rolling-forecast.html",
+      "teaser": "ファームが「予測の精度」ではなく「予測を作る仕組みそのもの」を売り物にし始めている。",
+      "thumb": "https://assets.kpmg.com/is/image/kpmgcloud/jp-pr-microphone-2"
     },
     {
-      "time": "08:34",
-      "category": "AI企業ウォッチ",
-      "title": "Anthropicが米GSAとの提携を拡大、政府購入者向けに40%割引",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "teaser": "Claude Enterprise/for Government/APIを連邦・州・地方・部族政府向けに40%割引・最低購入額なしで提供。公共セクターへの食い込みを加速させる狙い。",
-      "thumb": "https://www-cdn.anthropic.com/images/4zrzovbb/website/4e3bfa972a8ec391977288fa36de3da1ecd78232-1920x1080.webp"
+      "time": "06:03",
+      "category": "知っておくこと",
+      "title": "KPMGジャパン「CFOサーベイ2026/27」発表",
+      "source": "kpmg.com",
+      "url": "https://kpmg.com/jp/ja/media/press-releases/2026/10/cfo-survey-2026.html",
+      "teaser": "568社中90%がAI投資を拡大、業務効率向上は60%超も意思決定の質向上は20%止まり、71%が人材不足を課題に。",
+      "thumb": "https://assets.kpmg.com/is/image/kpmgcloud/jp-pr-microphone-2"
     },
     {
-      "time": "08:34",
+      "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "Claude Platform、Usage and Cost Analytics APIをベータ公開",
-      "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/manage-claude/usage-cost-analytics-api",
-      "teaser": "組織のトークン使用量・コストをAPI経由で取得できる新APIが登場。旧Usage and Cost APIはlegacy化され、移行ガイドが用意されている。",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/manage-claude/usage-cost-analytics-api?design-rev=4"
-    },
-    {
-      "time": "08:34",
-      "category": "AI企業ウォッチ",
-      "title": "Claude API、Messages/Token Counting APIの最大リクエストサイズを128MBへ拡大",
-      "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/api/overview#request-size-limits",
-      "teaser": "上限が32MBから128MBへ4倍に拡大。大容量ファイル添付や長文コンテキストの一括送信がしやすくなる。",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/api/overview?design-rev=4"
-    },
-    {
-      "time": "08:34",
-      "category": "AI企業ウォッチ",
-      "title": "OpenAIがChatGPT Pro/Business加入者向けにAPIクレジット（月最大500ドル）を開始",
+      "title": "OpenAIが生命科学研究向け専用モデル「gpt-6-rosalind」を提供開始",
       "source": "developers.openai.com",
-      "url": "https://developers.openai.com/api/docs/guides/chatgpt-api-credits",
-      "teaser": "対象加入者が自分のAPI組織を連携させると月最大500ドルのAPIクレジットを受け取れる。サブスクとAPI利用の垣根を薄める施策。",
-      "thumb": "https://developers.openai.com/og/api/docs/guides/chatgpt-api-credits.png"
+      "url": "https://developers.openai.com/api/docs/pricing#life-sciences-models",
+      "teaser": "承認制のtrusted-access経由限定、汎用モデルとは別料金体系の狭い用途特化モデル。",
+      "thumb": "https://developers.openai.com/og/api/docs/pricing.png"
+    },
+    {
+      "time": "06:03",
+      "category": "AI企業ウォッチ",
+      "title": "Google Gemini APIの「Computer Use」ツールが一般提供（GA）",
+      "source": "ai.google.dev",
+      "url": "https://ai.google.dev/gemini-api/docs/computer-use",
+      "teaser": "スクリーンショットベースでUI操作を生成するエージェント機能が本番解禁、サンドボックス実行推奨。",
+      "thumb": "https://ai.google.dev/static/site-assets/images/share-gemini-api-2026-07.png"
     }
   ]
 }
