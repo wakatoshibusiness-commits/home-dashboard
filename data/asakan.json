@@ -1,5 +1,42 @@
 {
   "edition": "朝刊",
-  "date": "2026-11-02",
-  "items": []
+  "date": "2026-11-03",
+  "items": [
+    {
+      "time": "11:00",
+      "category": "AI企業ウォッチ",
+      "title": "Anthropicが Claude Platform に「Message threads」機能をベータ公開",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/message-threads",
+      "teaser": "長いエージェントループで初回トークンまでの待ち時間を抑える狙いで、リクエストごとに全文脈ではなく新規メッセージだけを送る方式に対応した。",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/build-with-claude/message-threads?design-rev=4"
+    },
+    {
+      "time": "11:00",
+      "category": "AI企業ウォッチ",
+      "title": "Googleが Gemini 2.5 Pro / 2.5 Flash を非推奨化、12/1から新モデルへ自動振替",
+      "source": "aistudio.google.com",
+      "url": "https://aistudio.google.com/docs/deprecations",
+      "teaser": "明示的な移行作業なしに挙動が変わるため、該当モデルをAPIで直接指定している自動化ツールがあれば年内に点検しておいた方がいい。",
+      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
+    },
+    {
+      "time": "11:00",
+      "category": "AI企業ウォッチ",
+      "title": "AnthropicがClaude Opus 4.8のFast modeを11/30に削除予定、Opus 5.5への移行を案内",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/fast-mode#supported-models",
+      "teaser": "Fast modeを使っている実装がある場合、11月中にOpus 5.5への切り替えを確認しておく必要がある。",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/build-with-claude/fast-mode?design-rev=4"
+    },
+    {
+      "time": "11:00",
+      "category": "AI企業ウォッチ",
+      "title": "Anthropic・Google・Microsoft・OpenAIの4社が、AI学習オプトアウトの共通robots.txt信号に対応を表明",
+      "source": "thenextweb.com",
+      "url": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic",
+      "teaser": "IETF未承認の個人ドラフトが4社合意で実質デファクト標準になりつつある動き。提供時期はMicrosoftが2027年2月、Googleは2027年目標でまだ先の話。",
+      "thumb": "https://media.thenextweb.com/2026/10/developer-two-monitors-code-editor-mac-mini.jpg"
+    }
+  ]
 }

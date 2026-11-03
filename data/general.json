@@ -1,64 +1,85 @@
 {
   "edition": "総合",
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02 06:03",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03 11:00",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "01:12",
-      "category": "経済",
-      "title": "暗号資産９９００億円相当流出、北朝鮮ハッカー集団の犯行と断定…ＦＢＩ発表「資金洗浄の動き」",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KQkd3NDljRGZFZUhpXzdCLXZJdklQTkp2VWNlRC1QWFhIbzY2QmdrdkdvWHhORHEtSlV0YmlETkNyZDJXMHZfakh3NVIxUDFQNHlSMGxzdk9FTjdNWUhMWXJGNl8?oc=5"
-    },
-    {
-      "time": "11/1 23:48",
-      "category": "国際",
-      "title": "フランスで３週連続の抗議デモ、物価高対策など求め３２万人が参加…ドイツでは若者が教育環境の改善訴え",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CckFXaTRTUDJqd3hoU3I0d0pTUFRHNDVVTW9ham5LYXA2c0h2aU1oVWRTajlkbklfX2ZEemhZeWxqUGhHX1BIdUNwMTFSWGFqZ19Wd1pwSFhxeXdaeW5RNGdn?oc=5"
-    },
-    {
-      "time": "11/1 23:21",
-      "category": "社会",
-      "title": "フィリピンでJPドラゴンのナンバー2とみられる男拘束（FNNプライムオンライン（フジテレビ系））",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIWUxvSlJtb0I4UEhpbEYtZTVsSlR4aGJlbWxQMG1CUzN3ZXBHUzY0MU9rYWxQdDNOQUVBWlhtS1JjSXBKVkhBaGFrODJqR2x1RWY0eTJtVnVZRmp0Qlg0RHdGWlVySTZ0Qmo1OHdaSWpZSXN6cnVQdlpBdUZxb0E?oc=5"
-    },
-    {
-      "time": "11/1 23:15",
+      "time": "10:48",
       "category": "総合",
-      "title": "10月30日の記者会見について｜辺野古ボート転覆事故遺族メモ",
-      "source": "note",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxaU9RYmtiMEs1SzkzYThHTU5GYmdUN241S2xna3pOb2RiZFlFc2NCdFlrbTFMWkFfWDYwVTBLQWd3WEJ5S05JckdHbVluMm51NVJKaWVHQTY3QWM?oc=5"
-    },
-    {
-      "time": "11/1 23:11",
-      "category": "経済",
-      "title": "「ＯＰＥＣプラス」有志７か国、１２月からの生産目標を維持…据え置きは３か月連続",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54aTdPRDFBVzJwX3BobDlUOWZLc3lnMWxPbHRsRlBHdTVvLXhXektZMUxpSWRxNlZoVGVHUTA4OFNUcFhNTXFTOHUyQUttbldLNDNCSmVMdFJFeVZtMDhIRldqM1E?oc=5"
-    },
-    {
-      "time": "11/1 21:55",
-      "category": "総合",
-      "title": "人道状況が悪化したウクライナ南部州、物資搬入・住民退避に成功…局地停戦は終了へ",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtZUlma0s0WEhWekhRenZZMGUwXzJzVFI3UGlDVzE4clJxVUtKRm1hSHhHX0pMYS1ubnNIQ3VhbmlLVGVkRG4zOHRBUzFiMWVNZ01wLUFsbmhNTzZwLXlQTDFR?oc=5"
-    },
-    {
-      "time": "11/1 21:18",
-      "category": "テック",
-      "title": "GMO攻撃 北朝鮮系のハッカーか",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBub2xkQW5rdzktSHVEY25nWG5BR1JYZExjWk1GbU81NkhZM3ZKTHZHVXNRQ0o2bjBVMkFBcl9VUDJJcE9OcmwzLXAta3ZMTGpC?oc=5"
-    },
-    {
-      "time": "11/1 20:56",
-      "category": "経済",
-      "title": "GMO攻撃に北朝鮮ハッカー集団関与か 痕跡複数、政府に報告 調査攪乱の狙いも",
+      "title": "日本人2人目の死亡確認 スペイン高速列車事故、全員の身元確認も終了",
       "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qZno4bGZCTWI0dlNoUk5aYllpcmJhWDNDdTNJRXlGMnR3YmpRQXpzVzJCOEthYUtlaTFwYUF1dFN2TC1FSVc5bmR6Wlk4My0tMzFBT29KWnY1MHpUSTdvbXZiV1luUUh2S3JnQXBJbkp0Nmd5ZEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SMUZ6dHBDdE10V3hJanJPZHRId3VwbXNQSkNneURGYUFSQTNrc0VNeHNPRUJaMEQ5SXJEbENqRHJYYzkxM3hyVFJmWW90SGJfWjhJc3N5V01OdWEwaU5WWEdqV0RENWF4SVFpVWxLMmIzRGRQaVE?oc=5"
+    },
+    {
+      "time": "10:04",
+      "category": "経済",
+      "title": "北朝鮮、暗号資産盗難の関与否定 金与正氏、バイナンス巡り（共同通信）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wb1lEcmI0Q2pjVjFKVFZ5MG1aWHVmWE9JMlRWT3RqMUZySlYtLTBsdndTSWIyeHVEbGFvSWRRd19GX3pxd2FQOEpCck1sdEpwSzhUaUFndUNXM0NNZVFGaW5rQjBuQW9rM1BsczhtXzBielYyYURnQllTYkJQb2s?oc=5"
+    },
+    {
+      "time": "09:42",
+      "category": "国際",
+      "title": "ウクライナの学校にロシア軍が空爆、２６人死亡…ゼレンスキー氏「真の正義も望んでいないこと裏付けるもの」",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqTmNqVnZPNWwySkdHYnp1SklxRTBNcU9zR1NDYVFMRWl1Y0o0T29XSnpVb3I2Q1FjRlA1Y0FlZS1XSUlWMjBiT0hUSDVQZ2hRMEtYM1N6UXFTeVNzR1FwbVln?oc=5"
+    },
+    {
+      "time": "08:40",
+      "category": "経済",
+      "title": "アップル、利益率低下見込む サービス見通しも予想届かず株価下落",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YSVR4U3I2cGtBWVhtUHBOakx4aFJVTWdUMW1kX3NocHJvRFVUdndVa1A4WFk0cHMxZHpvMGtxb3hvVzgzdzNYQXozX1A3UVR2TGdfQm9OM3k1dHBaMDdqQVpzZmVMQk9zTVNVX0FJSmVUc2puRFhSVENnekF2UQ?oc=5"
+    },
+    {
+      "time": "07:08",
+      "category": "総合",
+      "title": "トランプ氏「口約束」連発 中間選挙前に焦り：時事ドットコム",
+      "source": "時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTclA5R0dQTklKVWxLWG5kUjhwX2hWZXBjQTdHZzRmVG5OLUNOSXFmVnNRMEhGTW13YnVoZ2c3ZWpxVTRsTHZBZVVXSGJlWUtoV19XZ1RpNEd2Wm5rVjlGZkVTTQ?oc=5"
+    },
+    {
+      "time": "06:57",
+      "category": "国際",
+      "title": "トランプ氏、中間選挙直後のイラン再攻撃は否定 バンス氏も交渉明言",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiVlJqQ3hSNURUSU5fdFNFQkVIUjVjM0cwOU5ZY2lWRGJfVGdjUUZQNkw5bFdldEl2VmxZWmYzanA5TVNKdE5CaDRNSjBvWTdhekhYUVlKZTFkRTljQ3kwMTlfTFVuQmFuX2l2Rw?oc=5"
+    },
+    {
+      "time": "05:35",
+      "category": "社会",
+      "title": "台風31号(インファ) 動き遅く小笠原に影響長引く 東日本は前線の活動活発化に注意",
+      "source": "ウェザーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xZ3Q0MVYzM2M1VERSS1JIYmNiRUVNUWZDQWpXQ2dySWJmVkFMRE93bGVoZU05R0s1Y2lvX04wT29NOWFHejBKUHJmOXlQZmZlRHBLSQ?oc=5"
+    },
+    {
+      "time": "05:00",
+      "category": "総合",
+      "title": "高市首相の憲法観に「深みがない」ワケ 40年前から知る小林節・慶応大名誉教授が示す「根本的な間違い」",
+      "source": "東京新聞",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HVmhKVTE2azJIeHgyU01OU28yYjZMODdxbnNFLU9jSzFtcDNOUV8wWWpjYUpHeVJWWUtOS3pxSFBscmVyanhLelE0N0R3a3IyVmIw?oc=5"
+    },
+    {
+      "time": "05:00",
+      "category": "総合",
+      "title": "「11月3日は明治の日」祝日改定の動き 歴史家が語る不気味さ",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tUDNtb1pSVWg5VlJoYnI4UWNPMXZrSlphUzBKc0Z2OEoxRXo4VHVCM3JSTHlJak9LblR1eTFnSldzSGNCRUt1VU5Yc21kbWZ4X1pfd0xLVW91QWsxTGUzS2NHUE5BTndG?oc=5"
+    },
+    {
+      "time": "11/2 22:26",
+      "category": "テック",
+      "title": "ノジマ 700万人分の個人情報流出",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VcTdvNVVPX3VQOUdKb21iRWxGaXlkYnFockF6U3A2U2ZfZlZRejZKTjloVGVEekZzUWRMQTdNNW0ySFk1Mnp2eEtPMGZfYkt5?oc=5"
+    },
+    {
+      "time": "11/2 19:52",
+      "category": "経済",
+      "title": "ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど クレカ情報はなし",
+      "source": "GAME Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzV3VmWlV1RDUyZENfNTFDcmFpdHNmNGJ4cGZCNndXcGtiN3RGMXYwem41RVNXUHFhUklxejcyMFJ6OXV5UERjT3ljLW9ZaWlSV1NJYWcwZnpHbVpwWl9KY0NoeHJ0UQ?oc=5"
     },
     {
       "time": "11/1 19:26",
@@ -66,27 +87,6 @@
       "title": "生命の起源巡る理論、彗星を契機とする定説が覆る可能性 新研究（CNN.co.jp）",
       "source": "Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54Zl9sTUdldVJUaTc0bkphRUpiWGhvaHNnbTd0NG9peThGSnIzbGxuY0FXNDV5SXhFZ3l3ZWJscm9yeXNYM21tYmxQbVdMZ2tEdzdFYkZwcEFkWnpkcjFrbldabnJGZXgwd1ktZHRaOXVaTzZ0UW1hQ3IyUVRJM1k?oc=5"
-    },
-    {
-      "time": "11/1 18:25",
-      "category": "社会",
-      "title": "細野大臣、国民などに「緊急要請」へ 防災庁あす発足 「日本の防災を新しくする、作り直す」",
-      "source": "FNNプライムオンライン",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WUFA0dEJwTUpXZmY2MVRZSUNsckZoeFN2Y1loRVB2Yk5vdFkyZnZ6V3ZiSnFkYmJfMHBTRk0tQ0Rxc2lGeHpVQWN4WDVXQQ?oc=5"
-    },
-    {
-      "time": "11/1 18:02",
-      "category": "国際",
-      "title": "ロシア・ウクライナ、停戦地域の支援継続で合意 避難希望750人超",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41ODlNUFdDU3FPTEx0MmJpQlpCekd5ZnM2QWl2WDF0ZE1hOHVXanhjR2w5S3M1WlVKYUNteS1SYzdPXzRRelpDTURnU3lPbmFlZWhJWmU3Y0FNVjBNdXBJMlQtZWxta1ExaEdUdA?oc=5"
-    },
-    {
-      "time": "11/1 18:00",
-      "category": "総合",
-      "title": "トランプ政権,米中間選挙2026：トランプ氏、民主党の「不正選挙」主張 力ずくで選挙を妨害？",
-      "source": "毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qdGd5ekdRbEVOcHpoVVM5cFpLQnBRWmlrSWVsZk5wQ09peXRBTE5Vc21ZRzFiTWIwTjNrNE85RldRWDBXa1otdjB0ZEwwWHJqMmlESTJhVW1mSHNOQVd6M0NYVXRTTEh5?oc=5"
     }
   ]
 }
