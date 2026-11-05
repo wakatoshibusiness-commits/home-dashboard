@@ -1,15 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "items": [
     {
-      "time": "08:09",
-      "category": "AI企業ウォッチ",
-      "title": "Anthropicが Claude Cowork 内でEDRセンサーを動かせる機能をベータ提供（Team/Enterprise、macOS・Windows）",
-      "source": "support.claude.com",
-      "url": "https://support.claude.com/en/articles/17828685-run-your-endpoint-detection-and-response-edr-sensor-in-claude-cowork-on-claude-desktop",
-      "teaser": "Coworkが仮想マシン内で実行するシェルコマンド・コードを、企業側のEDR（承認済みベンダー署名済みセンサーのみ）で監視できるようになった。Coworkの社内ガバナンス設計を聞かれた時の具体例になる。",
-      "thumb": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png"
+      "time": "06:03",
+      "category": "知っておくこと",
+      "title": "マネーフォワード クラウド固定資産、取得時の業務プロセスをシームレスに",
+      "source": "corp.moneyforward.com",
+      "url": "https://corp.moneyforward.com/news/release/service/20261104-mf-press-1/",
+      "teaser": "仮勘定から固定資産勘定への振替仕訳を自動反映、AI登録支援エージェントが科目・耐用年数・償却方法を提案。固定資産移行の要件定義でそのまま使える具体性。",
+      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/main_fixedasset.png"
+    },
+    {
+      "time": "06:03",
+      "category": "知っておくこと",
+      "title": "Snowflake、AIエージェントの本番運用を支える業務コンテキストとガバナンス機能を発表",
+      "source": "prtimes.jp",
+      "url": "https://prtimes.jp/main/html/rd/p/000000134.000116784.html",
+      "teaser": "アクセス制御・コスト管理・モデルルーティングを一元化するCortex AI Gateway等を発表。エージェントガバナンスが個社設計から基盤ベンダーの標準機能へ移る構造変化の実例。",
+      "thumb": "https://prcdn.freetls.fastly.net/release_image/116784/134/116784-134-d350a6658d1db1ca395a1e207a4e6c77-1757x751.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
     }
   ]
 }

@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-11-05",
-  "generated_at": "2026-11-05 08:10",
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06 06:13",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "05:49",
-      "category": "社会",
-      "title": "今日11月5日(木)の天気予報 全国の広い範囲で雨 父島は台風接近",
-      "source": "ウェザーニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84Z3J0U0s0VzVMal9sUzdVcDluYWZxaHdBRHhOOGlUNzlRMEZQSE43RXF6Rk82NC1TdHRRV2pYaHgwTnEzZnI1ZWFpQ3NYWGN0TUtGaA?oc=5"
-    },
-    {
-      "time": "05:00",
-      "category": "総合",
-      "title": "米国による制裁で資金繰り悪化のＩＣＣへ、日本からの分担金前倒し拠出で政府調整",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwYWtsSmdSWDdvRk5xTndLUjFCVDVueVZkTDVCTi1ZU3VJYXBuaDJVMTRhdjRMODlJcXVlRllIOS0yX0FlcEZwamUzWE5PNlJYZlhTNFltdTFGc2ZsM2c4d3g4NDZYUQ?oc=5"
-    },
-    {
-      "time": "01:44",
-      "category": "総合",
-      "title": "「書道」ユネスコ無形文化遺産に登録へ、評価機関が勧告…１２月にも正式決定",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GV2JPMnl0U1pSMFk2T1FtYklOWDZTeGhrVW9aZExydFFIOWYxRFlyTFNna3Bsa3I1SDF4eGJNNFRiQkYwaER2Z2dBTWRfSHh2Vm52THNCbFd5dDZiWlk2aDc2ZkE?oc=5"
-    },
-    {
-      "time": "00:50",
-      "category": "テック",
-      "title": "メーカー自身がバックドアを仕込み、犯罪集団に“販売” 乗っ取られたTV用端末130万台超、Googleが遮断 日本の警察庁も参加",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TU05LMU9wVVFKRC1UVklINElZU1hYcUdZR2ZKbjlUX0JjbDV4MXNOTG5SZUNmTFJYa1FCcFctSmtJbk1aVW55SjY3QnEyUW9wckRTZ3dJQXp1OTNyOXlFbGZ5SldtVER2TFNlUDlpamMzZHRyV2c5TnB1aDdoZVE?oc=5"
-    },
-    {
-      "time": "11/4 23:47",
-      "category": "経済",
-      "title": "【独自】リニア工事費再び増額へ　JR東海、11兆円から",
-      "source": "ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT25wLWxEUUxZYWJQYkpRQjVISkNTRkNxQmlONV93Zl9ZUG03eURoOEthUHc2Q0QwV19QbzR3TXdJaG5SUG9ZZkd3N0JRSTJvM0NJY0dSWGJFNGtiWjJLV0M4Tm5jRXNMMzMzMHAzN0lCcFlqVkJtUzNxSTdxM3lEcHJoMDlKMnd0U3lSMkJB0gGTAUFVX3lxTE9NTlpqRXUwUFQ5SFk2aUd1Y1hxOXV3NjNiQ3EzaWRzSG9XYVFnNE15MHRaWHgtXzJGWU1HRzdRYkRESWVBUHljQnFRdThtcmY5VW0tRXlkMHNWbDk5d3lrV3ZHYjBjNkVRa3RyMVVFWDJDQk1xWFNWLXdPRWRUM0thRG8tU1dJamV4M25PbU9FX0FtRQ?oc=5"
-    },
-    {
-      "time": "11/4 22:40",
-      "category": "総合",
-      "title": "トランプ氏への不満で投票者増？…４０％未満も多い米中間選挙の投票率、今回は「５０％程度」となる公算",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxQlMxRWx1a0p2dXgxUlZ4SGhkbG5oMVZmRnZacHRleGVEXzg0UnZ4SFlsVy01RXl3cEh2MDlRWTNReXpiaC1BLURLQkhnODUyTlo5SjRpTGFRUVBuM1JURUJn?oc=5"
-    },
-    {
-      "time": "11/4 19:40",
+      "time": "05:23",
       "category": "国際",
-      "title": "ロシアに打撃もウクライナは歓迎、和平問題に影響か 米中間選挙でのトランプ与党敗北",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczNPNXRWakNPYTZ3dk1nZWVFaGI3bDM2cDdFclNPUDJJcGJYZERTMVlHM1NZX3RIQTRXVE5kVnowZldPcHg3STZDRDJITDA0UXpTQzJlLXBVVnZYcXB1NEE3cmx1SU1PcncwdkFKQWxVQzczaGJZTE1jLTNfSU9tR0lIeFNvbzRjT2dzWg?oc=5"
+      "title": "ルビオ米国務長官が政権離脱を検討か ブルームバーグ報道",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wMmJlbkRkOWNpNmlacHY2UTZ6OGE3SU1fTG1zZXVOODh1bnVJLVBiQ2RWVVh4V3hHdUl5cGRoTldlTk1wNnJKcE9XbGlnY1lEQzBCc1BMWkEwcW83V1ZMZFB6M2JPZVYybWwwSQ?oc=5"
     },
     {
-      "time": "11/4 19:13",
-      "category": "科学",
-      "title": "日本の探査機 水星を来春初撮影へ",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RSlZhcmFycllESnFReXRHalRpcjRGbnc2UE1fODI3YlFjMmJwbmhyN25SZ1ZjOGZEOFRaVkpNUFM2M21sX0ctNEp2LTZVUVMt?oc=5"
+      "time": "04:50",
+      "category": "経済",
+      "title": "米ナスダック一時5%急落、ハイテク株総崩れ NYダウも1700ドル安",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mSEZQNXZLMGVpbGhMendmWVNab3FYTktraHJHQkFvajlWZnVJWWowSGJUNmdGbjhmSzQzdEVaem1WanNjRi1RUVVxYWN2bHlZR21Ec3E1QzF6NE1NTl82SEQ0clF3UDZ0Qk93RQ?oc=5"
     },
     {
-      "time": "11/4 19:02",
+      "time": "00:02",
       "category": "総合",
-      "title": "「息子がさらわれた」と110番通報した男性警察官が駆けつけた警察官から拳銃奪い自分の頭に発砲 男性警察官は意識不明 誘拐の事実なし 埼玉県警",
-      "source": "FNNプライムオンライン",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1UZzB6M29Wb3BWUVBjNkpyUGl2RkNHdmdPTFRQblB4NHB2WVhiWWlLSnctTXZGb1hnXzh6clZkbGZTWmZ2S09ZSmJObG83UQ?oc=5"
-    },
-    {
-      "time": "11/4 18:33",
-      "category": "経済",
-      "title": "無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか 不正アクセスで続報",
-      "source": "ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ka2NOZUw0dU5nSmZTekdRajU4R1FaSFFodUo1OHZPRi0wZG1RTWR1X1NzQVRIaTdibUVlcjFGMm5pVjcwaU1TbFliek5sdE9KWVg0US1PRDJJNDNVQ0NFM0VVY3ZwZTRjSUE?oc=5"
-    },
-    {
-      "time": "11/4 16:39",
-      "category": "テック",
-      "title": "無印良品の公式アプリ「MUJIアプリ」におけるお客さま情報流出の可能性について（第二報）",
-      "source": "株式会社良品計画",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TMHZnUnFOWFFRcU1GTFBlU2NKVEVMSEw1QjRBUU4xRzJkaDRkQ2gwRHRWQm9kSkZnYVY0OHFubE1DZElpQm0tN3lGWjRrbnEzVno1X3pjT2JMOGl1WHZLbmVlV2NKZ2M?oc=5"
-    },
-    {
-      "time": "11/4 15:52",
-      "category": "経済",
-      "title": "日経平均終値は８９３円安の６万２１８８円…アメリカ中間選挙で民主党優勢、ＡＩ・半導体関連に売り",
+      "title": "［深層ＮＥＷＳ］米中間選挙で与党大敗「米国を偉大にするどころか消費者を痛めつけるだけだった」…三牧聖子氏",
       "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zOGI2ZTFCWlBaN2NKOWk3TFdVQVFPb3JUc2F1VUVpaGVaaU5CdzF6QnFJekVlVU12MmlRYWxDR2ZkTTlQMTZHVWFyemd0QmktLUhHQTJ3WThpNVBHOWotU0o3Mmc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CdXRuUzhodGpaMDBhSWN1WWhuMzdKZ2VaMnM3MFloQzkzZ3ZNaVFMUmFsdDhoSGJrcjdFNlhWRGtHU1RKWWJIT3VIYU90Tlk5UUc0TDdFbUNXTm9pelBuSjZn?oc=5"
+    },
+    {
+      "time": "11/5 22:45",
+      "category": "経済",
+      "title": "ロシア、ＪＴ資産を管理下に 対日圧力強化の一環か",
+      "source": "時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53M3VJRGpSbWZyTGMwMnlKQ3BBUFNIcjJlUUppSlVRWW9DMjEyU3VWVHlTdVF0YmdKLUtwRm54WjhQd0FMNG9KXzVJckJwQ0JMd2hTNmo5MlZSVUdYQlNmSjdvdw?oc=5"
+    },
+    {
+      "time": "11/5 21:51",
+      "category": "経済",
+      "title": "アイリスオーヤマで情報漏えいの可能性、公式通販サイト会員などの個人情報が最大で７７０万人分",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBseS1HLWtvSVpBbmI4NkVoakVmZ0RYVDNSM3d0NVdOcDNNLU5iN3lodVI3clJDSU5nalpDZFFiRHp5T2QzOUM4SG5wRi0tcmlmamNNNDRxRTJSa0F6allGYlBYQWJWUQ?oc=5"
+    },
+    {
+      "time": "11/5 20:19",
+      "category": "社会",
+      "title": "横浜市の原沢敦美市長、脱水症状と疲労で公務キャンセル…市議会答弁中に呼吸荒くなり一般質問は打ち切りに",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QdV9yeWtSRm51Mm11NVE1QXlRVUwteHVwMlZvVXpKcXJvaXc2ZjI1bDZVNE9IcV96cnhnemZMSWF1bnNnYWkxbHBCR3A0YUtlSDRZbXRVNzB1WnFJZHpuY1pnSF9Pdw?oc=5"
+    },
+    {
+      "time": "11/5 19:53",
+      "category": "総合",
+      "title": "非核三原則見直さず 「堅持の方針今後も変わらず」の文言は調整",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44T0J1Sk03VmZyZ0d3SGE1Q1RxUW5KMmdUSWVpd0YzV1d0dV9kSWVGQXVVOEl4blgxUlN2ZEF5dVpOaWNEcHYxQU5qaFpuOXd5S0w5UmRrNU9rdU5PeGhKbFc0Q0xnNHRx?oc=5"
+    },
+    {
+      "time": "11/5 19:44",
+      "category": "テック",
+      "title": "【速報】ドコモ 不正アクセスで顧客情報 最大約30万件流出の可能性（TBS NEWS DIG Powered by JNN）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRjUzUHIyRHNYYWFaU3U2S2FGMnlXWFhjUWFfbW1VSDkxNXZxUWtXM2ZPUnRUTDFHNWZhalZTNjBoSG45M2x6YUt2VGxRVVdYQXd1SUxjcjc0bEs3c0JKRU82ZVRJemhlazFxN01aY2RMc0xhSS0wY2JaTGhCeFE?oc=5"
+    },
+    {
+      "time": "11/5 17:58",
+      "category": "社会",
+      "title": "週末から寒波襲来 強い冬型で北海道は猛吹雪や大雪のおそれ",
+      "source": "ウェザーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2SnhnWDRTc2twQld4X1lYRFFEZzVIRXppZjlpV1BGeFB4VGVkVVpWN0RRT0Y3emkzWndwNi1tcWJLSDRyMXcxVndCdm91S2FHQWRfcQ?oc=5"
+    },
+    {
+      "time": "11/5 17:35",
+      "category": "総合",
+      "title": "横浜市の原沢敦美市長過労か 議会一般質問を打ち切り、6日まで療養 10月就任",
+      "source": "産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hd3RlRW85WDU1Y1Jlb1NYeHBMZlpZRWlhTnBRek1Td3J6alRqYkRBRnNiOTNENEwteGcwd3lQNG9XUGVocTV0THVtYmFMMksxNVJjcXFpNGsySklXdEdyNHNDX3V6YWg3a2ZnOVVIeWVLUWktOVE?oc=5"
+    },
+    {
+      "time": "11/5 14:11",
+      "category": "テック",
+      "title": "フジ 全ドラマに生成AI導入へ",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQTWVGbzVoZnpXOVhLc3NYTV9GY1FwTVE2aWRqNlg2cC16YWJiaXpPNTlfd3dSTW1WbkREamFkVlVjSmVNQ2o3QVlDbHZfOHJv?oc=5"
+    },
+    {
+      "time": "11/5 08:59",
+      "category": "総合",
+      "title": "ヘグセス国防長官に交代説 トランプ氏は否定―米報道：時事ドットコム",
+      "source": "時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ocy1FUGhsYTEtS3pYNGhPclJRclNkVzJUS2lYeWVZY2tfdkliTWxqUUNjNlFGRUN4NGtoS0dsdk4yUElRX2pWT1g3c2lKclFpblZRZ3FmRExQR2VLb09KVEhkNA?oc=5"
     }
   ]
 }
