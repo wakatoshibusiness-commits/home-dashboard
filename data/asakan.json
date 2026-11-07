@@ -1,24 +1,42 @@
 {
   "edition": "朝刊",
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "items": [
     {
-      "time": "06:03",
-      "category": "知っておくこと",
-      "title": "マネーフォワード クラウド固定資産、取得時の業務プロセスをシームレスに",
-      "source": "corp.moneyforward.com",
-      "url": "https://corp.moneyforward.com/news/release/service/20261104-mf-press-1/",
-      "teaser": "仮勘定から固定資産勘定への振替仕訳を自動反映、AI登録支援エージェントが科目・耐用年数・償却方法を提案。固定資産移行の要件定義でそのまま使える具体性。",
-      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/10/main_fixedasset.png"
+      "time": "11:38",
+      "category": "AI企業ウォッチ",
+      "title": "Geminiの動画生成モデル gemini-omni-1.2-flash がGA",
+      "source": "aistudio.google.com",
+      "url": "https://aistudio.google.com/docs/changelog",
+      "teaser": "動画出力の単価が3割下がり、15秒動画・参照画像6枚の一貫性にも対応。1.1は12/3に自動振替されるので、モデル名を1.1で固定しているツールがあれば確認対象。",
+      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
     },
     {
-      "time": "06:03",
-      "category": "知っておくこと",
-      "title": "Snowflake、AIエージェントの本番運用を支える業務コンテキストとガバナンス機能を発表",
-      "source": "prtimes.jp",
-      "url": "https://prtimes.jp/main/html/rd/p/000000134.000116784.html",
-      "teaser": "アクセス制御・コスト管理・モデルルーティングを一元化するCortex AI Gateway等を発表。エージェントガバナンスが個社設計から基盤ベンダーの標準機能へ移る構造変化の実例。",
-      "thumb": "https://prcdn.freetls.fastly.net/release_image/116784/134/116784-134-d350a6658d1db1ca395a1e207a4e6c77-1757x751.png?format=jpeg&amp;auto=webp&amp;fit=bounds&amp;width=2400&amp;height=1260"
+      "time": "11:38",
+      "category": "AI企業ウォッチ",
+      "title": "Gemini APIがOffice/OpenDocumentファイルの入力対応を拡大",
+      "source": "aistudio.google.com",
+      "url": "https://aistudio.google.com/docs/changelog",
+      "teaser": "PPT・ODP・ODS・DOCを直接読み込めるようになり、ツールの関数応答でも返せるように。社内文書をそのままAPIに渡す自動化の設計がシンプルになる変更。",
+      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
+    },
+    {
+      "time": "11:38",
+      "category": "AI企業ウォッチ",
+      "title": "Gemini 3.8 Flash TTS系に音声リミックス機能",
+      "source": "aistudio.google.com",
+      "url": "https://aistudio.google.com/docs/changelog",
+      "teaser": "既存の保存音声を自然言語の指示だけで変更・再生成できるように。音声系の自動化を作るなら素材の作り直しコストが下がる。",
+      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
+    },
+    {
+      "time": "11:38",
+      "category": "AI企業ウォッチ",
+      "title": "gemini-embedding-2-preview が非推奨化",
+      "source": "aistudio.google.com",
+      "url": "https://aistudio.google.com/docs/changelog",
+      "teaser": "gemini-embedding-2へ自動振替、料金・スキーマ・埋め込み空間は不変とのこと。previewモデル名を直接指定しているコードがあれば念のため確認対象。",
+      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
     }
   ]
 }

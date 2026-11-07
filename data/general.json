@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06 06:13",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07 11:39",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "05:23",
-      "category": "国際",
-      "title": "ルビオ米国務長官が政権離脱を検討か ブルームバーグ報道",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wMmJlbkRkOWNpNmlacHY2UTZ6OGE3SU1fTG1zZXVOODh1bnVJLVBiQ2RWVVh4V3hHdUl5cGRoTldlTk1wNnJKcE9XbGlnY1lEQzBCc1BMWkEwcW83V1ZMZFB6M2JPZVYybWwwSQ?oc=5"
-    },
-    {
-      "time": "04:50",
-      "category": "経済",
-      "title": "米ナスダック一時5%急落、ハイテク株総崩れ NYダウも1700ドル安",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mSEZQNXZLMGVpbGhMendmWVNab3FYTktraHJHQkFvajlWZnVJWWowSGJUNmdGbjhmSzQzdEVaem1WanNjRi1RUVVxYWN2bHlZR21Ec3E1QzF6NE1NTl82SEQ0clF3UDZ0Qk93RQ?oc=5"
-    },
-    {
-      "time": "00:02",
+      "time": "10:44",
       "category": "総合",
-      "title": "［深層ＮＥＷＳ］米中間選挙で与党大敗「米国を偉大にするどころか消費者を痛めつけるだけだった」…三牧聖子氏",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CdXRuUzhodGpaMDBhSWN1WWhuMzdKZ2VaMnM3MFloQzkzZ3ZNaVFMUmFsdDhoSGJrcjdFNlhWRGtHU1RKWWJIT3VIYU90Tlk5UUc0TDdFbUNXTm9pelBuSjZn?oc=5"
-    },
-    {
-      "time": "11/5 22:45",
-      "category": "経済",
-      "title": "ロシア、ＪＴ資産を管理下に 対日圧力強化の一環か",
+      "title": "米大統領首席補佐官が退任 トランプ氏最側近、中間選挙大敗の引責か",
       "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53M3VJRGpSbWZyTGMwMnlKQ3BBUFNIcjJlUUppSlVRWW9DMjEyU3VWVHlTdVF0YmdKLUtwRm54WjhQd0FMNG9KXzVJckJwQ0JMd2hTNmo5MlZSVUdYQlNmSjdvdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4NjVNZFV3UHpXbVlxTzhZLXZ5ei00Y2daeDd1OEJvZTlHSWN2czdyeTctRjlsU1JmY2kxdVNuWEFha2k4SDNjcTBnRDFCaXVPUlBCUU83WVJzSkdDMW0xV1RTQQ?oc=5"
     },
     {
-      "time": "11/5 21:51",
-      "category": "経済",
-      "title": "アイリスオーヤマで情報漏えいの可能性、公式通販サイト会員などの個人情報が最大で７７０万人分",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBseS1HLWtvSVpBbmI4NkVoakVmZ0RYVDNSM3d0NVdOcDNNLU5iN3lodVI3clJDSU5nalpDZFFiRHp5T2QzOUM4SG5wRi0tcmlmamNNNDRxRTJSa0F6allGYlBYQWJWUQ?oc=5"
-    },
-    {
-      "time": "11/5 20:19",
-      "category": "社会",
-      "title": "横浜市の原沢敦美市長、脱水症状と疲労で公務キャンセル…市議会答弁中に呼吸荒くなり一般質問は打ち切りに",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QdV9yeWtSRm51Mm11NVE1QXlRVUwteHVwMlZvVXpKcXJvaXc2ZjI1bDZVNE9IcV96cnhnemZMSWF1bnNnYWkxbHBCR3A0YUtlSDRZbXRVNzB1WnFJZHpuY1pnSF9Pdw?oc=5"
-    },
-    {
-      "time": "11/5 19:53",
-      "category": "総合",
-      "title": "非核三原則見直さず 「堅持の方針今後も変わらず」の文言は調整",
-      "source": "毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44T0J1Sk03VmZyZ0d3SGE1Q1RxUW5KMmdUSWVpd0YzV1d0dV9kSWVGQXVVOEl4blgxUlN2ZEF5dVpOaWNEcHYxQU5qaFpuOXd5S0w5UmRrNU9rdU5PeGhKbFc0Q0xnNHRx?oc=5"
-    },
-    {
-      "time": "11/5 19:44",
+      "time": "08:49",
       "category": "テック",
-      "title": "【速報】ドコモ 不正アクセスで顧客情報 最大約30万件流出の可能性（TBS NEWS DIG Powered by JNN）",
+      "title": "米民主党、ＡＩ規制法案を多数提出へ 共和党路線から転換",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRjUzUHIyRHNYYWFaU3U2S2FGMnlXWFhjUWFfbW1VSDkxNXZxUWtXM2ZPUnRUTDFHNWZhalZTNjBoSG45M2x6YUt2VGxRVVdYQXd1SUxjcjc0bEs3c0JKRU82ZVRJemhlazFxN01aY2RMc0xhSS0wY2JaTGhCeFE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWZtVkJKNUl6b0pxeGROY0FRY1RHdWhLRWo3RE5NUnBVX3d2UWNMTlR1aGdiT1RNMldwbVh4Zm9LNnllRUQ2V2l0V0p1azk5?oc=5"
     },
     {
-      "time": "11/5 17:58",
+      "time": "07:55",
       "category": "社会",
-      "title": "週末から寒波襲来 強い冬型で北海道は猛吹雪や大雪のおそれ",
+      "title": "立冬の土曜は昨日より寒い 昼の気温は東京都心で5℃低い予想",
       "source": "ウェザーニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2SnhnWDRTc2twQld4X1lYRFFEZzVIRXppZjlpV1BGeFB4VGVkVVpWN0RRT0Y3emkzWndwNi1tcWJLSDRyMXcxVndCdm91S2FHQWRfcQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LamdIVngtN3A4cmExQlhkbERpMzNBUnRlQk1SenpCeUFnSFZXQWZJdEhuWlpCamc3am1tbFZoZFBoNnM4SWcxTmJXUklPbWV6d0VSdA?oc=5"
     },
     {
-      "time": "11/5 17:35",
-      "category": "総合",
-      "title": "横浜市の原沢敦美市長過労か 議会一般質問を打ち切り、6日まで療養 10月就任",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hd3RlRW85WDU1Y1Jlb1NYeHBMZlpZRWlhTnBRek1Td3J6alRqYkRBRnNiOTNENEwteGcwd3lQNG9XUGVocTV0THVtYmFMMksxNVJjcXFpNGsySklXdEdyNHNDX3V6YWg3a2ZnOVVIeWVLUWktOVE?oc=5"
+      "time": "06:53",
+      "category": "経済",
+      "title": "外務省幹部がロシア訪問 JT子会社への措置に抗議し撤回要求",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aDRfNVZXQTNhOENWbU5WLS1VQ1hjZUEwQXczZVRqX2lPeUNJLWpNRlUxbzM5RzNVT253dkMxb0FJMU9MU1BkSDJwTW96Zm5uZG5Ka1k1UGNILVc0Umdz?oc=5"
     },
     {
-      "time": "11/5 14:11",
-      "category": "テック",
-      "title": "フジ 全ドラマに生成AI導入へ",
+      "time": "06:51",
+      "category": "社会",
+      "title": "【台風情報】32年ぶり「台風32号」発生へ 来週前半に進路反転 小笠原近海に再接近 今後の進路予想・シミュレーション",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQTWVGbzVoZnpXOVhLc3NYTV9GY1FwTVE2aWRqNlg2cC16YWJiaXpPNTlfd3dSTW1WbkREamFkVlVjSmVNQ2o3QVlDbHZfOHJv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xQUhuWFVaUDN6S2FlZ0RZYWlYUHlaY0psZWc4TXRJU2V5U2t0cTBGS0hfM0ZOSUt0SUZRd0E2S2hiQXgteHRmaDlhcU1sQlk1eEVaOWFGci1wcGxLRF9ZTnRZcFpaX0JQMVB6UzdaZlNIbnBtN2hlZXRESHhObms?oc=5"
     },
     {
-      "time": "11/5 08:59",
+      "time": "06:32",
+      "category": "国際",
+      "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenpTS05aLVU3UkFlR1F1dTI4T3VOX1haVkJsM3EyTlFZQVBya0psdk9ZSDk2QlQwOThDMDhkdDJGd1J4a01qWll3aGJIOTV3TkZPODJMMXpsaVJQUlRtM2JseFJQNWhNcUF6ZVg3c3UteVgwdE0zeTNNbG9pY19ZeEpIOTNWZw?oc=5"
+    },
+    {
+      "time": "03:26",
+      "category": "国際",
+      "title": "米財務長官、中国副首相と電話協議 「首脳会談の合意は全面履行を」",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50TktVTy1zSzJmUXNHU2dUMXp4QVUzcjZDamxuTWJWWVlHOWotb2lieGVRNnBUZ21VSTlSbTJfUF93ejd1Y1NnWGN2MEN4N1FIaWZIU0pzeW9KQXg3ZVdXZUtRYjBjYjZWSDRHLQ?oc=5"
+    },
+    {
+      "time": "02:01",
       "category": "総合",
-      "title": "ヘグセス国防長官に交代説 トランプ氏は否定―米報道：時事ドットコム",
+      "title": "社説：台湾有事答弁から1年 首相が動かねば道開けぬ",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MX1Q4a3hnLVlRSXl2cmVIVjlmcERGR0FJeEhibDJhTUoyd01jekZqc0dMcWVpcUNsb3c1ZUllemszc1VUWldlZFdBVEp6RlRtZGRhMnZVSHFtcmwzLTdrTEprU3F0Nnlh?oc=5"
+    },
+    {
+      "time": "00:21",
+      "category": "総合",
+      "title": "［深層ＮＥＷＳ］共和党大敗がトランプ氏に与える影響「権限大きい軍事外交分野でレガシー見いだす」…長島昭久氏",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2YnJqcjVPQ3AtUWR6a2szTDgtbjRpbjJCVTc1ekRMWTZLV1VsZzJyMkxtY2FBdWhkYzRla0tVZUpneDFvd250ckZKdFpKNTRrV1dab1hOeWdHdExvSHRLaDB3?oc=5"
+    },
+    {
+      "time": "11/6 23:14",
+      "category": "経済",
+      "title": "【市場反応】米10月雇用統計はポジティブサプライズ、ドル高｜FX・為替ニュース",
+      "source": "ザイFX！",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3bG1heVoyZGVKUTctUmZvMEdFZDNiS1UyWFVQVWxlOFBSdVZKcE44dXo0Nk1yS1lSM3ZON2p2ajFyM2lSYVZ1cDBHVW1lU2o1MUE?oc=5"
+    },
+    {
+      "time": "11/6 20:47",
+      "category": "経済",
+      "title": "ＮＴＴドコモ、情報流出３０万件 不正アクセスで口座番号も",
       "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ocy1FUGhsYTEtS3pYNGhPclJRclNkVzJUS2lYeWVZY2tfdkliTWxqUUNjNlFGRUN4NGtoS0dsdk4yUElRX2pWT1g3c2lKclFpblZRZ3FmRExQR2VLb09KVEhkNA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZM203dWs4UndqWjQtM29kYmd0ODZLZmJYMmxLbmkwcUJnNFdNY29hamJDUGZ5aHNEU2tjMU5pSDN6Q0ZVb0NGVFJFNVBrQmpyX1E4Vkt3YjBMMlV2TVl6Z18tbw?oc=5"
+    },
+    {
+      "time": "11/6 20:35",
+      "category": "テック",
+      "title": "ドコモ 流出の対象者に見舞金検討",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zb0hDdlpFdUlTZkhpcURoOXB0WjY0OEY3b1J4X1Awc05OdURQNTgza1NJVk9HM2VkdTJSUTdTZldkVVdzQ1BqNWFzRXhIQ18x?oc=5"
     }
   ]
 }
