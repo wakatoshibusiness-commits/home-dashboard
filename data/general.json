@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07 11:39",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08 06:06",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "10:44",
+      "time": "05:37",
+      "category": "国際",
+      "title": "ポーランドで銃撃、5人死亡　南部クラクフ、容疑者拘束",
+      "source": "ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUdXdW9KVGowbTlpRUVJdzFMUXR2MFI4NlJwdFN0WUNndk9RVFpsQnF5SEQxMnJnc3k4RzNaNDl0bEl6cmdEb2lFakVEZXQ5NTNTOG5VSm9VMVlqTFpDTVpBZGY0cnM0bmU3M0U5eUpuTGFwQ0p2ZVpkazZkVVR6RlpXb0Rza0g5cUHSAY8BQVVfeXFMUDhJeDFTV1VieVU2TG5BMjlKSmtNSk9GVjNpdktKdTJQVlBhSGZFU3Q3ZXBsd0RLaW1WT2xrN0U0cVFYLVN5WThDVV9jUUllRXpZM1hPa2l3Q2hUUmh0RWxhUFBDRE9jUzNfdUF4MS1Md0s0c21aTVhpSzVIOEdyUDRQY01JaldWS2dwQVRScDA?oc=5"
+    },
+    {
+      "time": "03:18",
       "category": "総合",
-      "title": "米大統領首席補佐官が退任 トランプ氏最側近、中間選挙大敗の引責か",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4NjVNZFV3UHpXbVlxTzhZLXZ5ei00Y2daeDd1OEJvZTlHSWN2czdyeTctRjlsU1JmY2kxdVNuWEFha2k4SDNjcTBnRDFCaXVPUlBCUU83WVJzSkdDMW0xV1RTQQ?oc=5"
-    },
-    {
-      "time": "08:49",
-      "category": "テック",
-      "title": "米民主党、ＡＩ規制法案を多数提出へ 共和党路線から転換",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EZWZtVkJKNUl6b0pxeGROY0FRY1RHdWhLRWo3RE5NUnBVX3d2UWNMTlR1aGdiT1RNMldwbVh4Zm9LNnllRUQ2V2l0V0p1azk5?oc=5"
-    },
-    {
-      "time": "07:55",
-      "category": "社会",
-      "title": "立冬の土曜は昨日より寒い 昼の気温は東京都心で5℃低い予想",
-      "source": "ウェザーニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LamdIVngtN3A4cmExQlhkbERpMzNBUnRlQk1SenpCeUFnSFZXQWZJdEhuWlpCamc3am1tbFZoZFBoNnM4SWcxTmJXUklPbWV6d0VSdA?oc=5"
-    },
-    {
-      "time": "06:53",
-      "category": "経済",
-      "title": "外務省幹部がロシア訪問 JT子会社への措置に抗議し撤回要求",
+      "title": "【地震】寝台特急「サンライズ瀬戸・出雲」浜松市内で停車",
       "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aDRfNVZXQTNhOENWbU5WLS1VQ1hjZUEwQXczZVRqX2lPeUNJLWpNRlUxbzM5RzNVT253dkMxb0FJMU9MU1BkSDJwTW96Zm5uZG5Ka1k1UGNILVc0Umdz?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pRnQxWlY1UHVQRFBxUUI2LUJKMEZWY0RrOTNGbllFOEkxSXRVMEdvYlk1a0R4Wk84T2JYYTVMWUtROVRzWFkwNnhFRlNEXy1yMXE2RFJSMGZsRk5XOHhV?oc=5"
     },
     {
-      "time": "06:51",
-      "category": "社会",
-      "title": "【台風情報】32年ぶり「台風32号」発生へ 来週前半に進路反転 小笠原近海に再接近 今後の進路予想・シミュレーション",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xQUhuWFVaUDN6S2FlZ0RZYWlYUHlaY0psZWc4TXRJU2V5U2t0cTBGS0hfM0ZOSUt0SUZRd0E2S2hiQXgteHRmaDlhcU1sQlk1eEVaOWFGci1wcGxLRF9ZTnRZcFpaX0JQMVB6UzdaZlNIbnBtN2hlZXRESHhObms?oc=5"
-    },
-    {
-      "time": "06:32",
-      "category": "国際",
-      "title": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenpTS05aLVU3UkFlR1F1dTI4T3VOX1haVkJsM3EyTlFZQVBya0psdk9ZSDk2QlQwOThDMDhkdDJGd1J4a01qWll3aGJIOTV3TkZPODJMMXpsaVJQUlRtM2JseFJQNWhNcUF6ZVg3c3UteVgwdE0zeTNNbG9pY19ZeEpIOTNWZw?oc=5"
-    },
-    {
-      "time": "03:26",
-      "category": "国際",
-      "title": "米財務長官、中国副首相と電話協議 「首脳会談の合意は全面履行を」",
+      "time": "02:00",
+      "category": "経済",
+      "title": "技術職不足にあえぐ都道府県、中途採用2倍に 奨学金肩代わりで確保",
       "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50TktVTy1zSzJmUXNHU2dUMXp4QVUzcjZDamxuTWJWWVlHOWotb2lieGVRNnBUZ21VSTlSbTJfUF93ejd1Y1NnWGN2MEN4N1FIaWZIU0pzeW9KQXg3ZVdXZUtRYjBjYjZWSDRHLQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xOTNUdTZPMVo0N2dOVUtwTGdBSlJ2NlpGR2xELWxna1BnRVA1ZEtnOXBWOU9lR3hxTWhHT1N1NnQtb0lXRFFmRXEyUVlvYzRYQU5HMjFXdks0WXpraWtYc2trWklGRm9CckRCcA?oc=5"
     },
     {
-      "time": "02:01",
+      "time": "01:14",
+      "category": "社会",
+      "title": "静岡県西部でM5.7の地震 愛知県知多市で震度5強 津波の心配なし",
+      "source": "ウェザーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDSzQtTHNhZ0lYT3BVd2I0MEFkdXhkOWNwSnZCRnVjd01qRGQzTHZPNDNJZC1kYVpKdm5GMjdVeXRHNm1sWFZmdXZqMmpjUXZpOFg4eVNkWU53bHM?oc=5"
+    },
+    {
+      "time": "11/7 22:50",
+      "category": "社会",
+      "title": "関東・東北・中部で地震 Ｍ５．６ 東京、神奈川、埼玉、千葉、静岡などで揺れ 最大震度３ 震源は茨城県沖 地震が及んだ地域人口３３４８万人",
+      "source": "千葉日報オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5leEFZSy14QUVuREU3N2w5TXZqT0pBaUhNa0RoLWtRazN0OHFBeWMwVW55LVR0M0pzeUl5Mzl2OGFjNm1NbmZvUl84cG13N3lsVkJxYkZVQTE?oc=5"
+    },
+    {
+      "time": "11/7 21:53",
       "category": "総合",
-      "title": "社説：台湾有事答弁から1年 首相が動かねば道開けぬ",
-      "source": "毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MX1Q4a3hnLVlRSXl2cmVIVjlmcERGR0FJeEhibDJhTUoyd01jekZqc0dMcWVpcUNsb3c1ZUllemszc1VUWldlZFdBVEp6RlRtZGRhMnZVSHFtcmwzLTdrTEprU3F0Nnlh?oc=5"
-    },
-    {
-      "time": "00:21",
-      "category": "総合",
-      "title": "［深層ＮＥＷＳ］共和党大敗がトランプ氏に与える影響「権限大きい軍事外交分野でレガシー見いだす」…長島昭久氏",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2YnJqcjVPQ3AtUWR6a2szTDgtbjRpbjJCVTc1ekRMWTZLV1VsZzJyMkxtY2FBdWhkYzRla0tVZUpneDFvd250ckZKdFpKNTRrV1dab1hOeWdHdExvSHRLaDB3?oc=5"
-    },
-    {
-      "time": "11/6 23:14",
-      "category": "経済",
-      "title": "【市場反応】米10月雇用統計はポジティブサプライズ、ドル高｜FX・為替ニュース",
-      "source": "ザイFX！",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3bG1heVoyZGVKUTctUmZvMEdFZDNiS1UyWFVQVWxlOFBSdVZKcE44dXo0Nk1yS1lSM3ZON2p2ajFyM2lSYVZ1cDBHVW1lU2o1MUE?oc=5"
-    },
-    {
-      "time": "11/6 20:47",
-      "category": "経済",
-      "title": "ＮＴＴドコモ、情報流出３０万件 不正アクセスで口座番号も",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZM203dWs4UndqWjQtM29kYmd0ODZLZmJYMmxLbmkwcUJnNFdNY29hamJDUGZ5aHNEU2tjMU5pSDN6Q0ZVb0NGVFJFNVBrQmpyX1E4Vkt3YjBMMlV2TVl6Z18tbw?oc=5"
-    },
-    {
-      "time": "11/6 20:35",
-      "category": "テック",
-      "title": "ドコモ 流出の対象者に見舞金検討",
+      "title": "石破氏らの採決退席、自民・野田聖子氏「しょうがない」立民・蓮舫氏「勇気ある行動」絶賛（産経新聞）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zb0hDdlpFdUlTZkhpcURoOXB0WjY0OEY3b1J4X1Awc05OdURQNTgza1NJVk9HM2VkdTJSUTdTZldkVVdzQ1BqNWFzRXhIQ18x?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HNmhveFd0NTJmcXZSc096Ni1sU1NiLUVRdkFEeXVTNEZMcndONWVwUmtBdXUzU0F1LUxubmRqSjZ5S2lUdkI1azJUYU9ZM2FMYzJ3Zm4wY0JxckVQY0RXY2tHMHJoeVdEMW9lYi1fVUhTY29IVjVVYXB0RFBXQ3M?oc=5"
+    },
+    {
+      "time": "11/7 20:55",
+      "category": "総合",
+      "title": "中国で服役中のアステラス製薬社員、来月中旬に刑期満了し帰国する見通し",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95WEJtUnhINmlOcVFKS05na0dvUEJ4VlFDOFhVTDRQMmlhOWFjN25MYTNBRTl6MWlMbXgtdE42dzA1MmhCNWxjWDBGS3U2Q3NfemxLLWNaVHU4VTRrS0ZBcEhR?oc=5"
+    },
+    {
+      "time": "11/7 20:50",
+      "category": "経済",
+      "title": "ロシアのJT事業に追加の大統領令 事業統括や販売の経営権も移管か",
+      "source": "テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13REVqeVZ6Y3Z5NW1fWlVmVW1CdVNVSl9uak5XWWlud0J2SDBNbi1iclRudVJFcHhOT01YdVJ3MDNNUDR1Z25Ea01LV1pEekJUb3gyS0g5RHJjNTk0dmszcEpDNjRWOWRTVXpUVjV4M1d1SUx1b003bjVn?oc=5"
+    },
+    {
+      "time": "11/7 18:46",
+      "category": "テック",
+      "title": "やす子の子ども食堂、いたずら被害を報告 監視カメラ設置し「次からは警察に通報します」（スポニチアネックス）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lZGlVRkMxbXlnQUxiNW1qQ3lEWmJKNkM4ek5sZHhfMmZGLWJIZXhSTVhETFhXNlNPRjhhUnFHcElZX1RBakhWejhzTXRmUEdIV295dEY5c2ROeE5lRTZjaUhoSnJ1NUZFT082YzNVODgxNXgzeF9OTlVCc2lZZ0U?oc=5"
+    },
+    {
+      "time": "11/7 18:19",
+      "category": "国際",
+      "title": "トランプ政権中枢、対イラン戦闘終結へ外交的解決模索か…バンス副大統領が間接協議関与と報道",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41MkFrNkEwV3VnNzZENEpxSDZmZWdaN1BSMm1oZU1ibTZiWmpzODlEUjBwTXFVdk1hejFWaEVHY0swcUJFSlc4WU5kSVRPb0F1RlF6aGFhYTM2ZGZQSFFkbGVn?oc=5"
+    },
+    {
+      "time": "11/7 16:15",
+      "category": "テック",
+      "title": "小型カメラを手ぬぐいで隠し…》国民的アイドルの振り付け担当“ダンス界の神様”が児童ポルノで逮捕、犯行の全容と驚きの言い訳「小さい子だけ狙ったつもりない」（NEWSポストセブン",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rWV9kNWU4ZS1FbUU3M1BXMF9mUklvUmdMenBmY1E5RXlscFFCd1JzY0dQZnMzNU9fRUw4ck9FNU03VkR0ZTVhYUtFS0piTF9HZzZ1S0J6Z0l4b3EzR3pJN1FIdGtRV1NubWlNNnpybFNva0VlakNoWjg3QkFXaVE?oc=5"
+    },
+    {
+      "time": "11/7 14:32",
+      "category": "経済",
+      "title": "米国株式市場見通し：AI関連の一段の調整リスク後退も上値追いには慎重姿勢続く",
+      "source": "財経新聞",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GNnlpZE1fRGlVRzJTMjZmdFlOaGR2d0lwS2J0ZUs2ZTE4X201YkhEdUsweXJYWjViRjVmNjA3WnNmUFRNWnFFaGlTVDNkTk1uQ3BGMUhLc0ZJLUM2c1hEMVVfOA?oc=5"
     }
   ]
 }

@@ -1,42 +1,60 @@
 {
   "edition": "朝刊",
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "items": [
     {
-      "time": "11:38",
+      "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "Geminiの動画生成モデル gemini-omni-1.2-flash がGA",
-      "source": "aistudio.google.com",
-      "url": "https://aistudio.google.com/docs/changelog",
-      "teaser": "動画出力の単価が3割下がり、15秒動画・参照画像6枚の一貫性にも対応。1.1は12/3に自動振替されるので、モデル名を1.1で固定しているツールがあれば確認対象。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
+      "title": "AnthropicがClaude Mythos 5/Opus 4.7/Sonnet 4.6にテキスト透かしを追加",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/text-watermark",
+      "teaser": "Sonnet 4.6はtemperature/top_p/top_kを既定値から変えると透かしが付かない場合がある。生成物の出自判定に効く仕組みなので、自作の自動化ツールでAPIレスポンスを検証する際の前提として覚えておく価値がある。",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/build-with-claude/text-watermark?design-rev=4"
     },
     {
-      "time": "11:38",
+      "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "Gemini APIがOffice/OpenDocumentファイルの入力対応を拡大",
-      "source": "aistudio.google.com",
-      "url": "https://aistudio.google.com/docs/changelog",
-      "teaser": "PPT・ODP・ODS・DOCを直接読み込めるようになり、ツールの関数応答でも返せるように。社内文書をそのままAPIに渡す自動化の設計がシンプルになる変更。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
+      "title": "Claude ConsoleがIPアドレス単位のアクセス制限（ベータ）を追加",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/manage-claude/ip-allowlist",
+      "teaser": "1組織最大1,000件のIP/CIDR許可リストを設定可能。漏洩したAPIキーの悪用範囲を絞る仕組みで、クライアント先でAPIキーを扱う自動化基盤を組む際のセキュリティ要件の参考になる。",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/manage-claude/ip-allowlist?design-rev=4"
     },
     {
-      "time": "11:38",
+      "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "Gemini 3.8 Flash TTS系に音声リミックス機能",
-      "source": "aistudio.google.com",
-      "url": "https://aistudio.google.com/docs/changelog",
-      "teaser": "既存の保存音声を自然言語の指示だけで変更・再生成できるように。音声系の自動化を作るなら素材の作り直しコストが下がる。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
+      "title": "Claude EnterpriseがAdmin API経由の全デバイス強制サインアウト（ベータ）を追加",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/manage-claude/user-management#sign-a-member-out-everywhere",
+      "teaser": "退職者・端末紛失時に管理者側から即座に全デバイスのサインインを切れる。企業導入時のアクセス管理の弾として押さえておきたい。",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/manage-claude/user-management?design-rev=4"
     },
     {
-      "time": "11:38",
+      "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "gemini-embedding-2-preview が非推奨化",
-      "source": "aistudio.google.com",
-      "url": "https://aistudio.google.com/docs/changelog",
-      "teaser": "gemini-embedding-2へ自動振替、料金・スキーマ・埋め込み空間は不変とのこと。previewモデル名を直接指定しているコードがあれば念のため確認対象。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
+      "title": "OpenAIが脆弱性診断特化モデル「GPT-6-Cyber」を提供開始",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/models/gpt-6-cyber",
+      "teaser": "認可された検証環境での脆弱性発見・再現・修正検証を支援するモデルで、利用には事前にDaybreakのセットアップが必要。セキュリティ特化モデルの設計思想として参考になる。",
+      "thumb": "https://developers.openai.com/og/api/docs/models/gpt-6-cyber.png"
+    },
+    {
+      "time": "06:03",
+      "category": "AI企業ウォッチ",
+      "title": "OpenAIが新画像生成モデル「gpt-image-2.6-sunburst/flare」を提供開始",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/models/gpt-image-2.6-sunburst",
+      "teaser": "SVG生成・アニメGIF生成・マークアップ誘導編集に対応。画像生成を使う自動化の実装パターンの引き出しが広がる。",
+      "thumb": "https://developers.openai.com/og/api/docs/models/gpt-image-2.6-sunburst.png"
+    },
+    {
+      "time": "06:03",
+      "category": "AI企業ウォッチ",
+      "title": "OpenAIがGPT-LiveのSIP発信機能を全組織へ提供",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/guides/voice-sip?api=live#place-an-outbound-call",
+      "teaser": "SIPプロバイダー経由で実際の電話番号にGPT-Liveを接続できる。音声エージェントを電話線につなぐ実装の選択肢として覚えておく。",
+      "thumb": "https://developers.openai.com/og/api/docs/guides/voice-sip.png"
     }
   ]
 }
