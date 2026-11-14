@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13 06:00",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14 10:13",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "05:07",
-      "category": "経済",
-      "title": "エヌビディアＣＥＯ辞任、ＡＩ業界に影響も 暫定トップにクレスＣＦＯ",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTHNtRTljbXpkbmVMOTBrY3NPcm1NdUtneEdUeTk3dFg5c3ZvTDRvUHlSaElwMmwzcktDNW5xOWVZeWlkWHF2NnRrMUs5MjgxcGc3blBxYXlXb2k4YXhvTkNiT3ZwNXI2MlBDYTNIaXU4UjhFd2dkS0VYTzJCck1uOGxwMHRwUQ?oc=5"
-    },
-    {
-      "time": "00:31",
-      "category": "経済",
-      "title": "米国株式市場・序盤＝ＡＩ関連株急落、エヌビディアＣＥＯ辞任で資金供給懸念",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWw1eWJFN2UyaVJIQXhWaVUwZnIwRXVVS2VDOTdwZ3RDNkl3RW0xcXc0QWdVdXVMNnhCWk0yQVhWTUVFb2tFV3cwMVNNS3F5TTI2YnExcV9XbE5ZYlpYNDk3cDNVY282Q0JiQndYRmhNLW1iV2xvazJ4akVJM0VqLXBldUFkb0l5Znp6V1p0a1M?oc=5"
-    },
-    {
-      "time": "11/12 23:37",
+      "time": "09:49",
       "category": "総合",
-      "title": "［深層ＮＥＷＳ］消費税減税法案の採決前退席、石破茂氏「自分が信じてもいないことに賛成できない」",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yYnJ6Z0lIZnplU2NiSGlhUjlpMkFvN3RfY2F5Rlk3UURNWVNjU3N0MGZ4Qk96WHRoWDRWMS1OMVQwOGFUSlk0cXhlSjgzVWhrMVFHTWh1NEE0R2RZWGVSMS0ybXZ3UQ?oc=5"
-    },
-    {
-      "time": "11/12 23:32",
-      "category": "総合",
-      "title": "広島の３人死亡火災、住人の長男を逮捕…何らかの方法で火放ち自宅を全焼させた疑い",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yeEVNMnlmZ3hhNTFiM2pBR1JTZ3lrSEdkeFhVd3I3TU92UG1ieXdBcUpNT3k4cTRKRVNlbHV5dV9tajdOOEg4blVXaFo0N1RhdlBZcFhrM2ZlVDd4Sk94a0Nmd1dtQQ?oc=5"
-    },
-    {
-      "time": "11/12 23:13",
-      "category": "経済",
-      "title": "【市場反応】米先週分新規失業保険申請件数は増加、予想も上回る、ドルは底堅い｜FX・為替ニュース",
-      "source": "ザイFX！",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tQ3diTXlValA3Zm11ZVlxWDl1N3JoSFhIZWhLbmZoS2JpTkZEbGdCV0dEOFg0dEJleFptWjZOekNJR2xYdmgxeHVPcmt1UVU0c3c?oc=5"
-    },
-    {
-      "time": "11/12 23:05",
-      "category": "テック",
-      "title": "【速報】エヌビディア ジェンスン・フアンCEOが辞任 “中国女性スパイと不倫関係” 製品情報漏えいした疑い",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yMi1SUk9VNi00R1ZhVnRHam9ZQzg5bXZaTk9iUHAtSVNQRFVwSVhoTE1SRHQ0eXhTajE5VkdrZGdFR1Ytazg1STRHNmJscGpDTDlYRVN4endJR2VqbWR2RjBXRmstVzVCTGlYSkdxTG5GYTJ2NElTUU1kdWE2dEU?oc=5"
-    },
-    {
-      "time": "11/12 21:27",
-      "category": "テック",
-      "title": "〈目撃〉新種のホエザル、つり橋の自動撮影カメラにひょっこり 架けた人も知らなかった",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OeDhiNHROeWctMm5GLWZlZzdwWWVyUzU5T1hnTlNuMHJXOXUwa0tycDRWSEhYLUpGV09YRTV6U0pqVVYwd3hEejZmWDBrNUx6?oc=5"
-    },
-    {
-      "time": "11/12 21:12",
-      "category": "国際",
-      "title": "米特使がプーチン氏と会談 3カ国協議受け、ゼレンスキー氏とも面会へ",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OemJEd3YyYm1MZ1VUMjZFY2l6cVU4QXltcEk3WUNpeWJoTkpia2pxZWFHeDBLUEdhNzNPeG5oRmROV0VKaXA4ZHVlTF9BeXZFYkFTMUlzdk9ybF9EYzloN1R0b0tZRnlpb2ZjeQ?oc=5"
-    },
-    {
-      "time": "11/12 20:33",
-      "category": "国際",
-      "title": "スターシールドに障害、速度制限で迎撃に支障＝ゼレンスキー氏",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlNId19veVpOT2FieFlnRFBTeWZvN0JHXzVYSUVCYjdQLS1qLVVWd0hwcHZVT1M5QnBIeERES3U5d2RYZkszTkpLV3hJSEtnMlJIU1p0bnJQOWRoVUNjWVF5Rl9TNGFSZktBcHlPMllwaGdpMG1uS3Jtc2lHZzM1aWxTVENEQQ?oc=5"
-    },
-    {
-      "time": "11/12 19:00",
-      "category": "社会",
-      "title": "【社説】非核三原則の例外明記を検討 抜け道作りは許されない [高市政権の安保見直し][安全保障関連3文書]",
+      "title": "神奈川の2人死亡ひき逃げ事故、49歳の会社員の男を逮捕 容疑否認 [神奈川県]",
       "source": "朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yblJNS3h4dUJOWXFGOTZsUTl0UjUxQUFNMFFxQmhkZFRvTGhTdDBTbWVGbHlraEFZbnZseElqdDB1aWk3dkpSckZaNi12ZU9qRUJoZXVWUUJ3MExzTmdQdDM2d1Joajg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxT1RFdFBZQlcyUV8xSE1WbHN0NWdLYXpQMlh2ZFZHdFdVTEV0YVI2V3F1ZGk1WWFxTkhfemJmNkxMVGhmQlJCQXZaeDNrZWZXTDNXYzAwam1hZnVyV1FhMjVfQWVLem8?oc=5"
     },
     {
-      "time": "11/12 18:27",
-      "category": "総合",
-      "title": "明日13日は広く晴れて気温上昇 20℃超え続出 15日は広く雨(気象予報士 石榑 亜紀子 2026年11月12日)",
-      "source": "tenki.jp",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80a0liUWIzc2dxMjRLZ25scmxNRUdFczM4NlhMaHlGOEJ2UFBGbXRoZFd1SUM0TWhDN0VXRlJZQ2hIc0dzLU9yUmpHc1pDOGlDNkdGSlJCb1RSWVNFQU8xZkk3ck8yV0h3M3dGRVZB?oc=5"
+      "time": "09:21",
+      "category": "国際",
+      "title": "米中露首脳会談、１９日に中国で開催…トランプ氏が意欲示す核軍縮を主要議題とする方針",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWX29TOHlxOXdOVWdHcGVvSk9IdkZSZkRhN1YzQjFZYlk3eUVXVkFiR0J4YktHMVBGeXJHSTl1U2o1RlphNFAydldUMjY1VXhRdnVZUGNXNm41M3FnSkhBaXJn?oc=5"
     },
     {
-      "time": "11/12 09:48",
+      "time": "08:59",
       "category": "総合",
-      "title": "戦没者追悼式典で笑い声 ヘグセス米国防長官らマナー違反で衛兵から叱責受ける",
+      "title": "米中ロ3か国首脳会談19日開催 3者会談は初 ホワイトハウス発表",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWS1ZPUWx2VVBzUXFpMEhGMVBJVTUtbHlKcy0yT1JzcVJ1UHVkOWlCNl8zZlQ4S0RabFRDZW1fUkwtZ1NRRnJZSDdnX1JneDhpdUg5RHdsQkhPam81LUhR?oc=5"
+    },
+    {
+      "time": "08:55",
+      "category": "テック",
+      "title": "マイクロソフト 大規模障害を謝罪",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95Nk50N0pIZzlNVkRrai1Vd2g0TkQ5VzZqRFFYR28wRHdERjZZLTg4TWt1Rm1ZMmZ4Ny1XMGFUR2N2UUdwT3hBbkpzaWJuNThY?oc=5"
+    },
+    {
+      "time": "06:24",
+      "category": "経済",
+      "title": "NYダウ、小幅反発し50ドル高 消費関連株の一角に買い",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWTTFpVFFXM3EtS3hJZFhJUFhpMFRzR0RGeWR0Y0pVS0NWcl9kaG1lbWw2cjEzNG1EYmNfSEdMbnp6N2J1Vk5rcnNJakNxaC0wakhqaWhuNlRXZS1yQmFDVHBQeF8zOUNFWlJHQg?oc=5"
+    },
+    {
+      "time": "05:52",
+      "category": "国際",
+      "title": "バンス氏が出馬見送りを検討か 2028年大統領選、共和惨敗で（共同通信）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95Y1g1VFlRWEZ4T3VkYmFTV3RoaTFWbzB0OWcwQ2V6cmRNcWEzNC1LMHkzR0pyUEhOTlVDX2lsbWNiWDl2LXNqM2ZqcjB4Z2ZIY0ZPYmotdkZGa1I1NVZCZ3JWOHhFaGVjblJ2NWp1T3VmYkJaZzBQTGZrbjlYOHc?oc=5"
+    },
+    {
+      "time": "05:43",
+      "category": "経済",
+      "title": "マイクロソフト365障害、20時間経て広範に復旧 謝罪し報告書公表へ",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtejUzcVJudTFTbzBXQ29tSlhnUVQ4RXV1Q2pGNVdubzRLQWk3b0NRcTBqTkQ2OTRyVWNoM29COUpBb0did3Z0aFU0eUdHcm9yUHloTXEzYTZiSmxURmRNOXU3UnZmcjFpbkUzVQ?oc=5"
+    },
+    {
+      "time": "05:42",
+      "category": "社会",
+      "title": "週間天気予報 明日は広く本降りの雨 来週中頃は全国的に荒天注意",
+      "source": "ウェザーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kR0JiaWg4WmpZbWplbnB3LXlnZDB5eXZRR3duYmRfN0VCNE13UHNNMmZEMHRpeHVxWkp2VEYtUUQxc2RFMGZjTHBYTmJDelNEUTctaw?oc=5"
+    },
+    {
+      "time": "05:06",
+      "category": "経済",
+      "title": "エヌビディア先端半導体輸出 ラトニック商務長官の責任論浮上 | NHKニュース | アメリカ、半導体、中国",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vSW1CV01RYm14emRjekNwbFJZV1NSajZQN211RmtfSGRlRGVma2lTckpIdDNrQ05nUGhZRFBhSnpFYVpGTUt3QUpyUnhOSVdLdVRiNUt4bndTZlBqTjNZ?oc=5"
+    },
+    {
+      "time": "00:30",
+      "category": "総合",
+      "title": "トランプ氏「突然の方針転換」か、対イラン「合意不要」と投稿…合意目指す局面「とっくに過ぎ去った」とも",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IWVFOUFlTMHhVY3l1ZjN2TkpwRVBwaXNjX2hoSzVfSTZKNU1waHVKUExrY2Z6WW9OTkZmQnZBb2hBQi1ia2ZydF9CaFdXWGd6ak8yR2ltWXlBUWd3VTU4dHVB?oc=5"
+    },
+    {
+      "time": "11/13 18:36",
+      "category": "総合",
+      "title": "3歳娘に暴行死、殺人容疑で父親を逮捕 病院から「全身あざだらけ」と通報",
       "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KMEFtOFdaOW16dEl3NkFTZEZTS1Q3N1dKTzgzeU5XcEVsN3VnVnd5akJGTXFzc21Ga0VBWmMyTDF6ZXQ4MmEwb1ZtWnJqbTQwYXpfb3E1NjRjQ1BvYkxaWG53UW1wb3RKSjRycnBKc3oxRThoN1E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00eXBPaTJRakJCMTlCVU9XY1IwcC1SSnhNSjVHdm10T2lWSTZuV1QxSmJMa0JIeThmZmdEXzdXTnpRb1g2aEFMdnpGSGNOZ0hEeUlXODdzXzdoc3EwX09uR3RDWGQzRHQ4V19icE4yZWp4Y2FuQUE?oc=5"
+    },
+    {
+      "time": "11/13 17:36",
+      "category": "科学",
+      "title": "「日本の高校野球に進んだら、干されていた」ソフトバンクスカウトを驚愕させた育成10位指名の逆輸入・根鈴風大は何がスゴいのか「想像の100倍いい」（Number Web）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwa2JJMk50Nm5pbHNGaXNFVGxMVmg0d3l5WHdJWnhhUnNRT1Vyajd6bGNpVmdzT3ZyZEo3VHBIVEhZeVBXMGI3b2o0QWNSQlFnanYycnlNUHJIX01Db2Z5OXNKVmZrRWR3elktSVB0N1BnbDdLZkFSclYyd2IxRVU?oc=5"
     }
   ]
 }
