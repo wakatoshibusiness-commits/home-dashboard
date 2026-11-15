@@ -1,7 +1,7 @@
 {
   "edition": "総合",
   "date": "2026-11-16",
-  "generated_at": "2026-11-16 07:43",
+  "generated_at": "2026-11-16 08:36",
   "source": "Google ニュース RSS",
   "items": [
     {
@@ -10,6 +10,13 @@
       "title": "エストニア、ロシア国境閉鎖へ 防衛企業への破壊工作疑惑受け（ロイター）",
       "source": "Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81M1hHVHBVM1hjQ0VIa1NXZU1TSE1RVTlla1dSZzZtZzF1SDNXSVBxNXUtZ1puR3ZGNzAtS242WXpLS3pFNURwZWNrLVF5V2VqUEFIckJ3OEhGQzVSSEFKTTk2R3Rhb1Qxa2RFZVdxSkJjakw3c0plZTBPNUhvZ3c?oc=5"
+    },
+    {
+      "time": "06:38",
+      "category": "テック",
+      "title": "ジェンスン・フアン氏、エヌビディアＣＥＯ復帰を側近と協議＝ＦＴ（ロイター）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WMmtXT2hOMnRXaDEzbW1BOE1FUkVXQkFHMFVsMlVNMTF6ZE9XYmN3Vm9QeVY1bjJ2S3dXRzVGYWptX0ZOcEloVHlJaFM4aXJZbUI1YVg4R1N0Vnk3Yi05ek9oSGVhNVVnVmNmb185UW1uUi05Rm9UTzQ2RjRjZTg?oc=5"
     },
     {
       "time": "06:34",
@@ -26,6 +33,27 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3Wm9Gc2hDVXMtNkRRSkxMSXBpTTJRODgtc1dEMFNGSHpBRGZvaHZ3YjJWRHdBTThnYThCeGktZUZhcU0tX2NpZG1acXZCanVXRUh4RDFNRVg5T3N1WWhFeHNMb2l6dw?oc=5"
     },
     {
+      "time": "06:00",
+      "category": "総合",
+      "title": "週間天気予報 18日(水)は荒天警戒 その後は冬型強まる",
+      "source": "ウェザーニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LNzRfazVseHhmQkQ1azBmYWpHVUd3bXYwZ29WcHl0dWwybXJDdnk3cFYxamMxWGo2aUxITTZzM29pX1F6MVFfTHo3dU52QTl6R3Racw?oc=5"
+    },
+    {
+      "time": "06:00",
+      "category": "経済",
+      "title": "Microsoft 365障害はなぜ長引いたのか？　原因・タイムラインと「SLAクレジット」請求方法まとめ：Windowsフロントライン（1/3 ページ） - ITmedia PC USER",
+      "source": "ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIUGR1TmlETTJ6d1NlTFpYQlV5QjR1bG5mdHhsU1NyQ0paRjdCSDNVd1A2VlVseWxnZHJmRVZTWFg2TUE2M2V6U3RNejg5X0U2V0llR0VTRGdUeHNDNEtWdVVrU0ZRZUxPQUUya0JMSdIBaEFVX3lxTFBxSzU5X1dzd205RGowb1diaFdmSDUwV2ZLaU9teXNOWEg3c0JZTWhOZUdPVWlRWjZhVlo2UGVCS3NUOUFYa2htNmZvNzJyV0xrTWJiNjVaT0VaRklXVkV1M3ExN1NyLTNj?oc=5"
+    },
+    {
+      "time": "05:51",
+      "category": "国際",
+      "title": "イエメン 暫定政権側 バーブルマンデブ海峡から撤退報道も | NHKニュース | 中東、イエメン、サウジアラビア",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FNlA1NmZUN2VPcGZrTWRxNWJtNjJjUUlJb2pvNUs2ZUJPdzVLcVdvZkg3Nmd6T0o5YnFKNlQxbXcxMHJlX082T2h6eFNJbWZldW5Ec0tpdVgxX0Y2eHU4?oc=5"
+    },
+    {
       "time": "05:06",
       "category": "社会",
       "title": "大阪３歳児死亡、逮捕された母親「夫が娘を殴るのを数回見た」…児童相談所は接触せず（読売新聞オンライン）",
@@ -33,53 +61,25 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KV25ZNmQzb0hWc1c3THNPaHJwVlpmeF9XLWVxTzBfX0k5V3hRemFiV3NvQ28xckU2dGl5bGVqR1lqRFBaVElPQVQtU1hHMUdGYWJuWnJDTVl2X0xUaGk3TC03ekt1VUp3LVA4TGlfclRxZGNtbk94ejJZS09vbm8?oc=5"
     },
     {
-      "time": "01:32",
+      "time": "05:00",
       "category": "総合",
-      "title": "５０万人都市で約４７００票差 中野氏が田中氏との激戦制す 松山市長選挙の開票結果【愛媛】",
-      "source": "FNNプライムオンライン",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKWm56YjQ4TF9ld0pzclNlSkg4akthOHdBcnljSnhLa0xoa2E5TXlBdWd6MV85eHk1aEpEYU9jSXRaeTljT1dTcy1IS2J6QQ?oc=5"
+      "title": "大阪３歳児死亡、逮捕された母親「夫が娘を殴るのを数回見た」…児童相談所は接触せず",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01UWYtSFVidl9qWFFzMlBHSm9oTUN4RzhDZUNKTmdidTZpSTh4eWhtbjFmMjVwTUpMODd1QjhNb0ZwMUJSbHZqTXZ1Y0tWNjZnbHBYci16amF2UFViOG03ZFdmUFNSQQ?oc=5"
     },
     {
-      "time": "11/15 22:59",
-      "category": "経済",
-      "title": "エヌビディア前CEO不倫問題 女性アリス氏が勤務した企業「証拠に基づかない主張」",
-      "source": "テレ朝NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zWG44Q2s0VnVJLTJfOFJ0SEY3a2NUcE9pMTV3Qlowb3hMTDF6aEU3SXFyajZJOFZaSEFibTlXelBCLUxCY1pja2RRalFZdzVTWEZyQjF2emZOUWRIaXBXNk9DektvLWhEX2RIRklHbmNOX2V4ZzdOR0dn?oc=5"
+      "time": "01:15",
+      "category": "総合",
+      "title": "エストニア、12月からロ国境閉鎖へ（共同通信）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yNG5ldVZ1clBuM2dUa2MwU25Nc0lPczdnR3NmOXkySl81ajF1M3llY1RWSjl2LTNsZlFyUHJSVGhVOXlYTDZKX1RBTjF3RFBHSF9sZWNtNjQ1bFRqUXozWGxtM2w2VE9fU2N0aEZHako4Rm5CcV92QzVsckVlQ1E?oc=5"
     },
     {
-      "time": "11/15 20:33",
-      "category": "国際",
-      "title": "ミャンマーへの関与継続で合意 ＡＳＥＡＮ首脳、政治代表の復帰巡り協議―南シナ海「行動規範」年内妥結見送り",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYQWFBQTRrYWt1NFNjSUdXQ2hKRHhRZ0U1MGs4YmFMV25kbUxwajlvQXY1RkJfWFhaUkVUOUNhOFNqUDdZbC1rSHhTc2dEdldSS0NVZ0JPYXd4UXZGLV9tWndmWQ?oc=5"
-    },
-    {
-      "time": "11/15 20:24",
+      "time": "11/15 20:58",
       "category": "テック",
-      "title": "ドイツのプールで15人が体調不良 マイクロソフト障害で通知来ず、水中塩素濃度が上昇（FNNプライムオンライン（フジテレビ系））",
+      "title": "マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」（読売新聞オンライン）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiOWQ2a3JUek1JbnBaZ3lYMEs0RWEtQ28weVpkcC1fb096TGhVSFBXamk5OHowdGRueU1DYUdHeE5kRk1FbnRWbHRqLXJzbVg2Vm9Rd0w0OTVtSHJCN3NOeVAzYjJIYm0tUWFxZzNqa0NYSUc1YlhmYWgya2FmNms?oc=5"
-    },
-    {
-      "time": "11/15 17:15",
-      "category": "テック",
-      "title": "【エヌビディアCEO辞任】“中国の元スパイ”が語る「接近の手口」...ターゲット定め「友達になって心を...」『追跡取材 news LOG』",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80NktXTVhfWWNURnB1cm9kdHJNaXREVmZsYWlwQnN3MzJINkowbDhzc1lLeDhfcHhkSktQbXpiZnpXQ3hoeHQ0SUxjbFg2OHI4YVFJMzhmR2YxTUxwbmFvQkU5T0U5QWpUNkNvMC1WYjlWTmc2ME4zVlpYeGlNcWc?oc=5"
-    },
-    {
-      "time": "11/15 17:05",
-      "category": "総合",
-      "title": "消費減税「効果小さい」は63％ 財源、支援金説明「必要」85％（共同通信）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6WU9GNnhtamIxQ3R2djV0ekRMX0pIT2xoMzdXdWRKdDZBSGp2VWFJMUJJaDJvYnpNY2RtVnJBb0RvU0NYNlkyZHRCbFJNVFR1MW1YTVNfSEQ4Uy0wLWM3S3Bld094cXMzMTJORXpMc1FHemNteXRFNXozVEpneFk?oc=5"
-    },
-    {
-      "time": "11/15 16:30",
-      "category": "総合",
-      "title": "20日頃から西日本にも真冬並みの寒気が流れ込み雪の可能性 大阪や福岡も冬の寒さに(気象予報士 吉田 友海)",
-      "source": "tenki.jp",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aUE5vVHhGS0d6N3pvUktMQ1JBV0JhWXFtcU9wWTNWYXlwNDh2UkxiUzdQVjA1RnkyaGR3dnhjLS12Qm5ueWJCN0tSa0VZY0l3WGRyMmZYczZwRDJ1cUQtTGZjbno5YUctaXEw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvSG5WRHNlMlliZDBxbGo0dVVPSHJ4TUctTV9JOGlGcXV3SnByVllKNm5oVzVCSzdsd1JDZ21XRDg5eUZ0X3dzVjR5SWt6WVQ4NTM3WmVrM1JSNVRwc1JwUDVlVmdiV1NzbDFiSkdXeXFzSEVybWtmV1JSb1ZKQjA?oc=5"
     },
     {
       "time": "11/15 10:19",
