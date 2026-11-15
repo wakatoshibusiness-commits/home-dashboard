@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15 12:25",
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16 07:43",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "11:16",
-      "category": "総合",
-      "title": "衆院定数削減を共同提出した国民と維新に温度差…国民「１回限り」、維新は「１割削減」の旗を降ろさず",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FYXIwR3MyVDJpOERRSG9ZLVlGeDRqbWJvODNrdmdxcmVpT1Qwenc2TVdSaFNzRGhnZl91Vnd4d0lqT00zTTBXT2FaT2E1Y0otVWNaRk95VUprS1JLT016QTNEaGo5dw?oc=5"
-    },
-    {
-      "time": "09:46",
-      "category": "経済",
-      "title": "スペースXの大型宇宙船 地球周回後の発射台キャッチに初成功",
-      "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9selFfdVlzNXVOazk0dUdjaW84WmVlWG1ZXzFPWXQ1MWMtNmcyNEpienM2YktoZ3F5eThNdXROd1hhTGZqcXZuZWw0SFcxa2RDREUwdmJqaF9vRG1aZ09B?oc=5"
-    },
-    {
-      "time": "07:33",
-      "category": "総合",
-      "title": "「NATO加盟条件にドンバス放棄」米がウクライナに可否質問 ゼレンスキー氏公表",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQlM0YXIteXgyaGpnclNVdHRJY1dyNk9CQ1JRM3FqbTVJZXF2ZEN4UE0zTmdTSGxSMTJjSEs5MDYyRzZJdWg0TlFJMWk1QlBKNFgtU05NTk1pMTFuUzVQYlBwMDlQeHVXUXhGdm9QSFNISXV1enZBSjJvRi1ucjhSMWxKandZOWlvVXo4OA?oc=5"
-    },
-    {
-      "time": "07:15",
-      "category": "経済",
-      "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続",
-      "source": "ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aelRYMnVUeGlnQzQyb2JVSHRFaGd3LUtsVlQwd3hBd1JzWTlkQmpxdHBvSjl6WUU1RGpsZXpKYVBxbUhZM2J5UkZVR01vbVU3enl3NU1kX1JPYWxvaC03M1BzeVBFWlVRTkE?oc=5"
-    },
-    {
-      "time": "07:07",
-      "category": "総合",
-      "title": "民主、アラスカ知事選勝利 28年ぶり、全米30州掌握",
-      "source": "NEWSjp",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EamdPUEs2ekZxY0lPSWQ3SmVjLWpLM0k1eF9nWUhBNjFUSzA0MlVLejE2QzEzRVgxQmlMc1RNTldONlliajBncUYzdDd4UQ?oc=5"
-    },
-    {
-      "time": "06:01",
-      "category": "科学",
-      "title": "ドラフト候補の“素行不良”現役スカウトはどう見抜く？「視察後、帰ったふりをして…」試合中だけでは見えない「本当の素顔」の判断基準とは（Number Web）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LLWRtM3N3UVFEMEFla003cGFPUW9SMEt0N09jZjVaZk95QnJBVkF4TElIamJ5RURubzA5eTFYaVBLSjdSRDlWRWxhV1JWS3ZvSjlhX0lyd0ZLTHVGakFtUXJyejdGV0JWYTg0Y08xUUd5RENjalhIMlA0UWFpakk?oc=5"
-    },
-    {
-      "time": "05:08",
-      "category": "社会",
-      "title": "今日11月15日(日)の天気予報 低気圧や前線が通過し全国的に雨 激しく降る所も",
-      "source": "ウェザーニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlNGZMNVpONWV1bnVBVnppNUxJbHJnOEpzaVh1eG9tbnBaNDUtdDlCRjFxWVROQTNvYWZTMHI3ZzRNMkNTd0JILU8tTFl3SHVobzlScw?oc=5"
-    },
-    {
-      "time": "05:00",
-      "category": "総合",
-      "title": "中国への警戒を緩めない米国、「中国脅威論」いかに生まれたか",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PQTkxczk5azAyeTdtenlDRGVPcnpISlo0MzdXUmZabV9sZEpvd0pMQ0FzekgwMWVud1BWcVVvd3RQMXVxa3hqVmxrUzRYNldRbjRVbE1GNUlqdE4xMm9LMk1n?oc=5"
-    },
-    {
-      "time": "05:00",
-      "category": "社会",
-      "title": "３歳女児の遺体にあざ５０か所、逮捕の父「しつけで殴ったことある」…大阪・枚方虐待死",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jeV9ybnI4Y0ZBaE1xeEJoN1JNTXBXQnZVeXg3c0xCVWlxQ0o3TkJlUHJ0MkNGQWgyRGx0RzZkRGgxT1YzNXlhYUFyQlpMNjUwcnE5cDlwdnM1RFVrRms4X01UOHJvZw?oc=5"
-    },
-    {
-      "time": "02:01",
+      "time": "06:45",
       "category": "国際",
-      "title": "社説：米中露首脳が会談へ 「巨頭政治」に陥る危うさ",
-      "source": "毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BNUlRMjQtM205VFBGWWVjSlpIMG1rMENuQlFKeFBRaHpCQUNjeUpsZWNxbjgzalZOU0JuVlpER045WmQ4R09uZGZOSGZZS1Y2N21TR0x0Y29ZVDNFdXNGLVdrZUJRYWVy?oc=5"
+      "title": "エストニア、ロシア国境閉鎖へ 防衛企業への破壊工作疑惑受け（ロイター）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81M1hHVHBVM1hjQ0VIa1NXZU1TSE1RVTlla1dSZzZtZzF1SDNXSVBxNXUtZ1puR3ZGNzAtS242WXpLS3pFNURwZWNrLVF5V2VqUEFIckJ3OEhGQzVSSEFKTTk2R3Rhb1Qxa2RFZVdxSkJjakw3c0plZTBPNUhvZ3c?oc=5"
     },
     {
-      "time": "11/14 22:45",
-      "category": "テック",
-      "title": "AI悪用攻撃拠点か 世界で千台発見",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KbDJFN1lQc2ZMaEl0RHZ3Y2tiajB4cnhHcWJKQnIydDBFRnpRRG1nSlU0VE54MkZPdV9aUlRxYnRzYW82eW05S0hDbnNLT1Fi?oc=5"
+      "time": "06:34",
+      "category": "経済",
+      "title": "ジェンスン・フアン氏、エヌビディアＣＥＯ復帰を側近と協議＝ＦＴ",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TTmJzZFhuUk9rSXFtMGFPOUpIMDJ5NXFQVlo2WktGSmpwMFFjYkJsVHJPSEQxU3JvOXV2YURBajd6WHluUmk0MVA4VkJQTVNWRy1lcmN2dXhYanhLWHBnRnRzMzNCSTI4UlJKQUhveDcySW03T1BNcHRRNFBnX3M?oc=5"
     },
     {
-      "time": "11/14 21:00",
-      "category": "テック",
-      "title": "スマホ視聴ドラマでトラブル急増 解約できず、相談200件超（共同通信）",
+      "time": "06:30",
+      "category": "総合",
+      "title": "再選挙の福岡市長選挙、各陣営の受け止め様々「最多得票に感謝」「次こそてっぺん」「頑張りたいが…」",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3Wm9Gc2hDVXMtNkRRSkxMSXBpTTJRODgtc1dEMFNGSHpBRGZvaHZ3YjJWRHdBTThnYThCeGktZUZhcU0tX2NpZG1acXZCanVXRUh4RDFNRVg5T3N1WWhFeHNMb2l6dw?oc=5"
+    },
+    {
+      "time": "05:06",
+      "category": "社会",
+      "title": "大阪３歳児死亡、逮捕された母親「夫が娘を殴るのを数回見た」…児童相談所は接触せず（読売新聞オンライン）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rZFpjVlhWZUY1WDNlZ3dIWUJNRW5KZXFvRHhFanZKN2FzZWJrQVo3cllCRHFBMEtVZ01FSm1jUWlGUGF0b3RLb2lxUldxUGtRU1d0NGJNQnhYVks5aUJGVkVQUTIxM01UcWhvZWVKems3QTJYZVpRa01wVkpGYVk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KV25ZNmQzb0hWc1c3THNPaHJwVlpmeF9XLWVxTzBfX0k5V3hRemFiV3NvQ28xckU2dGl5bGVqR1lqRFBaVElPQVQtU1hHMUdGYWJuWnJDTVl2X0xUaGk3TC03ekt1VUp3LVA4TGlfclRxZGNtbk94ejJZS09vbm8?oc=5"
+    },
+    {
+      "time": "01:32",
+      "category": "総合",
+      "title": "５０万人都市で約４７００票差 中野氏が田中氏との激戦制す 松山市長選挙の開票結果【愛媛】",
+      "source": "FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKWm56YjQ4TF9ld0pzclNlSkg4akthOHdBcnljSnhLa0xoa2E5TXlBdWd6MV85eHk1aEpEYU9jSXRaeTljT1dTcy1IS2J6QQ?oc=5"
+    },
+    {
+      "time": "11/15 22:59",
+      "category": "経済",
+      "title": "エヌビディア前CEO不倫問題 女性アリス氏が勤務した企業「証拠に基づかない主張」",
+      "source": "テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zWG44Q2s0VnVJLTJfOFJ0SEY3a2NUcE9pMTV3Qlowb3hMTDF6aEU3SXFyajZJOFZaSEFibTlXelBCLUxCY1pja2RRalFZdzVTWEZyQjF2emZOUWRIaXBXNk9DektvLWhEX2RIRklHbmNOX2V4ZzdOR0dn?oc=5"
+    },
+    {
+      "time": "11/15 20:33",
+      "category": "国際",
+      "title": "ミャンマーへの関与継続で合意 ＡＳＥＡＮ首脳、政治代表の復帰巡り協議―南シナ海「行動規範」年内妥結見送り",
+      "source": "時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYQWFBQTRrYWt1NFNjSUdXQ2hKRHhRZ0U1MGs4YmFMV25kbUxwajlvQXY1RkJfWFhaUkVUOUNhOFNqUDdZbC1rSHhTc2dEdldSS0NVZ0JPYXd4UXZGLV9tWndmWQ?oc=5"
+    },
+    {
+      "time": "11/15 20:24",
+      "category": "テック",
+      "title": "ドイツのプールで15人が体調不良 マイクロソフト障害で通知来ず、水中塩素濃度が上昇（FNNプライムオンライン（フジテレビ系））",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiOWQ2a3JUek1JbnBaZ3lYMEs0RWEtQ28weVpkcC1fb096TGhVSFBXamk5OHowdGRueU1DYUdHeE5kRk1FbnRWbHRqLXJzbVg2Vm9Rd0w0OTVtSHJCN3NOeVAzYjJIYm0tUWFxZzNqa0NYSUc1YlhmYWgya2FmNms?oc=5"
+    },
+    {
+      "time": "11/15 17:15",
+      "category": "テック",
+      "title": "【エヌビディアCEO辞任】“中国の元スパイ”が語る「接近の手口」...ターゲット定め「友達になって心を...」『追跡取材 news LOG』",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80NktXTVhfWWNURnB1cm9kdHJNaXREVmZsYWlwQnN3MzJINkowbDhzc1lLeDhfcHhkSktQbXpiZnpXQ3hoeHQ0SUxjbFg2OHI4YVFJMzhmR2YxTUxwbmFvQkU5T0U5QWpUNkNvMC1WYjlWTmc2ME4zVlpYeGlNcWc?oc=5"
+    },
+    {
+      "time": "11/15 17:05",
+      "category": "総合",
+      "title": "消費減税「効果小さい」は63％ 財源、支援金説明「必要」85％（共同通信）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6WU9GNnhtamIxQ3R2djV0ekRMX0pIT2xoMzdXdWRKdDZBSGp2VWFJMUJJaDJvYnpNY2RtVnJBb0RvU0NYNlkyZHRCbFJNVFR1MW1YTVNfSEQ4Uy0wLWM3S3Bld094cXMzMTJORXpMc1FHemNteXRFNXozVEpneFk?oc=5"
+    },
+    {
+      "time": "11/15 16:30",
+      "category": "総合",
+      "title": "20日頃から西日本にも真冬並みの寒気が流れ込み雪の可能性 大阪や福岡も冬の寒さに(気象予報士 吉田 友海)",
+      "source": "tenki.jp",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aUE5vVHhGS0d6N3pvUktMQ1JBV0JhWXFtcU9wWTNWYXlwNDh2UkxiUzdQVjA1RnkyaGR3dnhjLS12Qm5ueWJCN0tSa0VZY0l3WGRyMmZYczZwRDJ1cUQtTGZjbno5YUctaXEw?oc=5"
+    },
+    {
+      "time": "11/15 10:19",
+      "category": "経済",
+      "title": "スペースＸの「スターシップ」、発射塔へのピンポイント着陸に成功 ロケット工学の新たな歴史刻む",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DMFhmSkVTVEw1YUdQb1ZqSTZPX1ZodnNUVGNwUUFEajNUejN4QktPS2FvSHBaYldidndWbWl0WHZCa2h2Y3REX3VRYVYzSzdUR1B5Uw?oc=5"
     }
   ]
 }
