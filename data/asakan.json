@@ -1,69 +1,51 @@
 {
   "edition": "朝刊",
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "items": [
     {
-      "time": "08:33",
+      "time": "07:55",
       "category": "知っておくこと",
-      "title": "弥生ZEXT AIエージェント、業務実行機能を追加",
-      "source": "yayoi-kk.co.jp",
-      "url": "https://www.yayoi-kk.co.jp/company/pressrelease/detail.20261111/",
-      "teaser": "タスク完了・担当付け替え等を自然言語実行、人の承認必須の設計。",
-      "thumb": "https://www.yayoi-kk.co.jp/content/dam/yayoi-corp/img/gtop_og.png"
+      "title": "マネーフォワード クラウド経営管理、2026年12月より提供開始",
+      "source": "corp.moneyforward.com",
+      "url": "https://corp.moneyforward.com/news/release/service/20261116-mf-press-1/",
+      "teaser": "エッカ石油やファンくるとの導入後フォローで「経営管理もMFでできるんですか」と聞かれた時の答えになる",
+      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/11/マネーフォワードクラウド経営管理提供開始.png"
     },
     {
-      "time": "08:33",
+      "time": "07:55",
       "category": "知っておくこと",
-      "title": "弥生会計Next、AI連携MCP機能を12月提供予定",
-      "source": "yayoi-kk.co.jp",
-      "url": "https://www.yayoi-kk.co.jp/kaikei/kaikei-next/goriyoguide/release-note/kaikei-next/detail.20261216/",
-      "teaser": "Claude/CursorからMCP経由で弥生会計Nextのデータに直接アクセス可能に。",
-      "thumb": "https://www.yayoi-kk.co.jp/content/dam/yayoi-corp/img/gtop_og.png"
+      "title": "マネーフォワードとkickflow、業務提携を開始",
+      "source": "corp.moneyforward.com",
+      "url": "https://corp.moneyforward.com/news/release/corp/20261116-mf-press-2/",
+      "teaser": "経費・債務支払の移行案件で、申請〜支払〜仕訳の連携強化が今後どう影響するか先に知っておける",
+      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/11/20261116_moneyforward_kickflow.png"
     },
     {
-      "time": "08:33",
+      "time": "07:55",
       "category": "AI企業ウォッチ",
-      "title": "Anthropicが Claude Fable 5.2 / Mythos 5.2を発表",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "teaser": "5.1比で出力最大30%高速化、Mythosは検証済み組織限定の提供形態。",
-      "thumb": "https://assets.claude.com/21b3240f9264f8e4c8ab1390e2702cf1401b2367.jpg"
+      "title": "Self-hosted Claude Managed Agents",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/managed-agents/self-hosted",
+      "teaser": "Managed Agentsを顧客自身のクラウド/オンプレミスで運用できる「セルフホスト型」を発表",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/managed-agents/self-hosted?design-rev=5"
     },
     {
-      "time": "08:33",
+      "time": "07:55",
       "category": "AI企業ウォッチ",
-      "title": "Googleが Gemini 4 Carbon を一般提供開始",
-      "source": "aistudio.google.com",
-      "url": "https://aistudio.google.com/docs/changelog",
-      "teaser": "11/30までの導入価格は期間限定。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
+      "title": "Claude生成テキストの透かし対象モデル拡大",
+      "source": "support.claude.com",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "teaser": "テキスト透かしの対象モデルをFable 5.2/Mythos 5.2/Opus 5.5等の新モデルと旧モデルまで拡大",
+      "thumb": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png"
     },
     {
-      "time": "08:33",
-      "category": "AI企業ウォッチ",
-      "title": "Googleが Gemini Decision 1 / Decisions API を公開",
-      "source": "aistudio.google.com",
-      "url": "https://aistudio.google.com/docs/changelog",
-      "teaser": "意思決定特化のAPIという新カテゴリ。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
-    },
-    {
-      "time": "08:33",
-      "category": "AI企業ウォッチ",
-      "title": "Googleが Gemini 4 Hydrogen を一般提供開始",
-      "source": "aistudio.google.com",
-      "url": "https://aistudio.google.com/docs/changelog",
-      "teaser": "無料枠で利用可、Antigravityエージェントのデフォルトモデルに採用。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
-    },
-    {
-      "time": "08:33",
+      "time": "07:55",
       "category": "引っかかり",
-      "title": "ERPの「不評」が浮き彫りにする、より深刻な運用上の課題",
-      "source": "forbesjapan.com",
-      "url": "https://forbesjapan.com/articles/detail/107196",
-      "teaser": "ERP失敗の原因を運用規律の欠如とする主張、ソフト側の責任論との対立構造。",
-      "thumb": null
+      "title": "AIエージェントが企業システムにアクセスするとき、誰が説明責任を負うのか",
+      "source": "theweek.in",
+      "url": "https://www.theweek.in/news/sci-tech/2026/10/31/guest-opinion-ai-agents-enterprise-accountability.amp.html",
+      "teaser": "ガバナンス能力をAI導入が上回っていると77%が回答。責任の所在をめぐり賛否が分かれる",
+      "thumb": "https://img.theweek.in/content/dam/week/en/archive/news/sci-tech/images/2026/10/31/enterprise-ai-representative-shutterstock.jpg"
     }
   ]
 }
