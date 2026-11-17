@@ -1,51 +1,51 @@
 {
   "edition": "朝刊",
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "items": [
     {
-      "time": "07:55",
+      "time": "07:36",
       "category": "知っておくこと",
-      "title": "マネーフォワード クラウド経営管理、2026年12月より提供開始",
-      "source": "corp.moneyforward.com",
-      "url": "https://corp.moneyforward.com/news/release/service/20261116-mf-press-1/",
-      "teaser": "エッカ石油やファンくるとの導入後フォローで「経営管理もMFでできるんですか」と聞かれた時の答えになる",
-      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/11/マネーフォワードクラウド経営管理提供開始.png"
+      "title": "freee請求書 債権管理のPublic APIを公開、freee-mcp経由で自然言語消込に対応",
+      "source": "digitalpr.jp",
+      "url": "https://digitalpr.jp/r/148256",
+      "teaser": "MFの消込機能との差分比較材料。freeeはエージェント操作まで踏み込んだ設計。",
+      "thumb": "https://digitalpr.jp/simg/2693/148256/715_400_202611121127016af523f57b934.png"
     },
     {
-      "time": "07:55",
+      "time": "07:36",
       "category": "知っておくこと",
-      "title": "マネーフォワードとkickflow、業務提携を開始",
-      "source": "corp.moneyforward.com",
-      "url": "https://corp.moneyforward.com/news/release/corp/20261116-mf-press-2/",
-      "teaser": "経費・債務支払の移行案件で、申請〜支払〜仕訳の連携強化が今後どう影響するか先に知っておける",
-      "thumb": "https://corp.moneyforward.com/wp-content/uploads/2026/11/20261116_moneyforward_kickflow.png"
+      "title": "弥生会計27 Ver.33.1.1、国税庁システム更改でAI-OCR新様式に対応",
+      "source": "support.yayoi-kk.co.jp",
+      "url": "https://support.yayoi-kk.co.jp/topic.html?page_id=3925",
+      "teaser": "移行元ソフトの出力様式変更。移行マッピングへの影響確認が必要。",
+      "thumb": null
     },
     {
-      "time": "07:55",
+      "time": "07:36",
       "category": "AI企業ウォッチ",
-      "title": "Self-hosted Claude Managed Agents",
+      "title": "OpenAI、GPT-6.2 AstraとGPT-6.2 Solを公開",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "teaser": "推論・コーディング向けとエージェント向けで新モデルを分離。ツール呼び出しはResponses API必須。",
+      "thumb": "https://developers.openai.com/og/api/docs/changelog.png"
+    },
+    {
+      "time": "07:36",
+      "category": "AI企業ウォッチ",
+      "title": "OpenAI、Responses APIのバックグラウンド実行に2時間/8時間の完了ウィンドウを追加",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "teaser": "トークン料金が30〜40%低減。長時間タスクのコスト最適化に使える。",
+      "thumb": "https://developers.openai.com/og/api/docs/changelog.png"
+    },
+    {
+      "time": "07:36",
+      "category": "AI企業ウォッチ",
+      "title": "Anthropic、Claude PlatformにLinked billing（ベータ）を追加",
       "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/managed-agents/self-hosted",
-      "teaser": "Managed Agentsを顧客自身のクラウド/オンプレミスで運用できる「セルフホスト型」を発表",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/managed-agents/self-hosted?design-rev=5"
-    },
-    {
-      "time": "07:55",
-      "category": "AI企業ウォッチ",
-      "title": "Claude生成テキストの透かし対象モデル拡大",
-      "source": "support.claude.com",
-      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "teaser": "テキスト透かしの対象モデルをFable 5.2/Mythos 5.2/Opus 5.5等の新モデルと旧モデルまで拡大",
-      "thumb": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png"
-    },
-    {
-      "time": "07:55",
-      "category": "引っかかり",
-      "title": "AIエージェントが企業システムにアクセスするとき、誰が説明責任を負うのか",
-      "source": "theweek.in",
-      "url": "https://www.theweek.in/news/sci-tech/2026/10/31/guest-opinion-ai-agents-enterprise-accountability.amp.html",
-      "teaser": "ガバナンス能力をAI導入が上回っていると77%が回答。責任の所在をめぐり賛否が分かれる",
-      "thumb": "https://img.theweek.in/content/dam/week/en/archive/news/sci-tech/images/2026/10/31/enterprise-ai-representative-shutterstock.jpg"
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "teaser": "顧客が自分のClaude組織経由でアプリ利用料を支払える仕組み。",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=5"
     }
   ]
 }

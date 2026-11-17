@@ -1,36 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17 07:56",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18 07:37",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "06:42",
+      "time": "05:00",
       "category": "総合",
-      "title": "中野駅近くで20代女性が刺され死亡…強盗殺人未遂の疑いで男を逮捕 「雑に扱われて腹が立った」と供述",
-      "source": "東京新聞",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MUnFQczZBZS1QcWNBTnVORjZKNHRHS25MUHJFQU5qaVc5dUVYbEY0ZEpGWldNaVlOb0dqUF9xU3luMzBCZjRPWElrb1NFUmMwc2w4?oc=5"
+      "title": "教諭「楽をしようと」生成した授業案、子どもは退屈…通知表の所見欄下書き指示「頼ってしまっている」",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FTGl4WGd4aERqN0FSbGd2Rmw1NHFFLTdpM1pmY2RWTWNycEtRSDMweHoteEcwUVVPQUhqOWtuRm9fMEg4Zk9JUjg3MEhQWThDcEpabGNvMEQxMVFXQ25IREpsNGc1QUw3aW02OTg0SGNqbEE?oc=5"
     },
     {
-      "time": "11/16 20:50",
-      "category": "総合",
-      "title": "「夫婦漫才」政府広報に批判…「女性蔑視そのもの」、野党は中止や撤回迫る 政界の断面",
-      "source": "カナロコ",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LNnFVdHlnaUlFanVPWTFQR2tSalNQY0NBVDNGVWVMRFQ3RnpadE01VHZ5S1oycDlaNVJUZE9UeVhtclNwQ3ppdW0yc21XRWs4Si1yYnFDWUZOQkQ1NENSY3JtRXBPNHByRW1NSA?oc=5"
+      "time": "02:11",
+      "category": "経済",
+      "title": "フアン氏の娘、メガスピード巡るエヌビディア対応を主導＝報道",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTVDSzhVS0ZnRTJNQ3hBcDRRaUJrelNTbEJQV0FCNGpTZ3JlWEd6cEhkUmJwZm0zZGpnUzFMdUdWenlGWi1nLVdmdy1xUXFwV2lra2E0ZGNGcWJTZHlyQnl4YUpYUmhJVnhtTjRkSTNDRVpvZF9KUUtpdzZhUDRzUUJwNWhlQzdIb0E?oc=5"
     },
     {
-      "time": "11/16 19:26",
-      "category": "総合",
-      "title": "給付イメージ、年収上限４５０万円 支援金３０００万人対象で―片山財務相",
-      "source": "時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCTFVCZ1BBTWNJRUFELUVkNl8wb3FLMF9RemZtV1gxU2dHNkVTRTVUWU02dWtwLXBHM0l0d2VUcUpPeG92VHMtbUlkRzdDbTdYZDM1UTdub1ZGVTRxTEtTYUVuYw?oc=5"
+      "time": "00:59",
+      "category": "国際",
+      "title": "クリミア半島とロシア本土結ぶクリミア大橋、ウクライナ軍の攻撃で一部崩落…軍参謀本部発表",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zQk9qT1I5TU9ZdXpZWXBNLXRnQ2hHVTNkVUZtV2RkeXNxVkJWRDVYNDBZdUY5SkRfZE01b2tsSGtmeGdWaVZQRGVTbkVjVGpVUVU5RG53N1gwRXQ5djJRWWFn?oc=5"
     },
     {
-      "time": "11/16 15:41",
+      "time": "11/17 23:54",
       "category": "総合",
-      "title": "3文書改定“財源必要あれば税調で議論” 自民 小野寺税調会長",
-      "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsakZsNkhZZFR3b0ZDSDBRaHNHU3Vfb2tpUEhyQ1hjT05CQUF2ZVdCNU9ZVEpEQjZ5bHhMWVIyZkxzU1ZPOWJHcWdIZjB1bGQyN01oUVRZY2lXWDZXY2ZN?oc=5"
+      "title": "【速報】NHK、飲酒は午後10時までと職員に通達",
+      "source": "47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pU3lfb2Q5d2NoaHRBenFOVnhWSGUwa3Y2aXExYTNHMTVOLWlpaG9xQ09URnphcFZHMk1wOTVoZ0xHYzQwbUFrMV9iVQ?oc=5"
+    },
+    {
+      "time": "11/17 21:24",
+      "category": "総合",
+      "title": "日米豪印首脳会談、輸出規制含む経済的威圧に「深刻な懸念」表明…名指し避けつつ中国をけん制",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qNEtRRW9wLUc0cXZ0Y2hVWW5MR2x3em83d2xiR1ZfX1dFT0l1US1PTXVBdGhtMnVkQ1FzZGJLSzdaVFBEbkVTUldCMUE0Wkszc1Z4bFIxZ1BWWFBpaVlvdlBYS0VVUQ?oc=5"
+    },
+    {
+      "time": "11/17 20:32",
+      "category": "テック",
+      "title": "眼鏡チェーン「JINS」で最大1829万件の情報流出 メールマガジン配信などの委託会社に不正アクセス 会員IDや生年月日など流出か パスワードやクレジットカード情報は含まれず（TBS NEWS DIG Powered by JNN）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50VHRrOEh6U0JSVTJzN3hhUl83S0tiaXFxbXJnckNleURTM2VWZUlXYm9KU3ZRc2l6N1paMTJ5VXNyMWZpTTBCbU5ocjREdVJ4OG5GMGI3YlJDa1hKR0NrWFhfcktaeUdjUFVvQ2Z1bk11VTg2ZGk2VTBRLXVTSU0?oc=5"
+    },
+    {
+      "time": "11/17 18:42",
+      "category": "総合",
+      "title": "「付き合えなかったら殺して死のうと」 東京・中野女性刺殺事件 逮捕の男が供述",
+      "source": "産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OUXp0eERQclNINlpON01hWWhvbnRrSlktYnBqSmRWWENwN2E2UVJ1RXVKWS1fQm12UUIxa01LX0loNDdvQzVHSzdlNGh6cjNGVG1BUS1SSlUxdVRxYnBSdV9LM2JPZjNPVEZlZVk4NUN2MnFUTkE?oc=5"
+    },
+    {
+      "time": "11/17 16:33",
+      "category": "経済",
+      "title": "今晩のＮＹ株の読み筋＝上値の重い展開か(ウエルスアドバイザー)",
+      "source": "Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFlJUDRnVnQxQXFPb3ZuN2o0aDRkNkhMQkNBa3ZXd1R1aFNRLU5MT3FiT0ZHU0NDblhuSmVQMDBLeGlCQTVzWk5OYk9XNkl4b3NDSHZSOGpXM2s0TVczdlhIQld0YThDWjFDWGMteEd3SjVfNHhnaXloU21nLTl1OWNqbE55Tzg?oc=5"
+    },
+    {
+      "time": "11/17 16:02",
+      "category": "経済",
+      "title": "ルクア大阪の日本最大・48以上のキャラクターフロア、24日開業 「サンリオ」「ちいかわ」は全国初業態",
+      "source": "WWDJAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzNEZyZ3hSSmh6Rno4M0IzejVnSW1Pc2lueUhIWnVEdWE0WVZMejVaTnppZUJYaTRYdUMxRHlKYTVUVVRpQUU2MENVeHBhdVJadXhR?oc=5"
+    },
+    {
+      "time": "11/17 10:30",
+      "category": "科学",
+      "title": "太陽系、従来説覆す早さで崩壊 最大で「10億年」単位で早まる可能性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pbEp6MnpjS01uVXVkWVFVYWdkMUF5MTZlTDJaVnpubmo0T1FiRzJ3LXdCdVB1YVFzTVVobjUtSjBvamdNY3pBZmRocm1sWHBIUExYc3NOTWpIcnEwNk4xbm5yZE5tSFFXbkt1NTl4eUZGbS1ZUzVmZ3l3S0FHZVk?oc=5"
+    },
+    {
+      "time": "11/17 09:05",
+      "category": "テック",
+      "title": "Microsoft 365大規模障害、Outlookだけ復旧が遅れた理由とは 同社説明（CNET Japan）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zMGZhZjhSLVhSaW1TdTFoRnB2OFNTWWFSbTVhWHpMS1FpVUhDRXVVSkNlWF9UR3hRWkNLeXBPSkZsT2N4Qzg0dFdJRWtYeksxYmFwR0oyZTBuc2NoNDBvekJucmhEZ1U3T0pqWlFPSVpyRGJNeE91eHc3U2lDZnM?oc=5"
+    },
+    {
+      "time": "11/16 17:03",
+      "category": "国際",
+      "title": "F1カタールGP会場から約111km･･･隣国バーレーンがイランの攻撃を迎撃、来季開幕戦バーレーンGP会場までわずか11km 中東3サーキットの位置関係は？（TopNews）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lWUh1dzNFcW5wVTlVV3N3OGNVLWdOR1ZMWjliaDAxTTEtd0NYcDJvdFBYYkstZ29PeUM0TExMWUlDaHczZ1F3SHVZcGF3cFhFeG1oei00YTFGdU1LdUlYT0FhWmp4YXdYUC05SHhBY1czaVhIUC1PVnF4TFhuOHc?oc=5"
     }
   ]
 }
