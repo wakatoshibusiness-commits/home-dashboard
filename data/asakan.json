@@ -1,51 +1,42 @@
 {
   "edition": "朝刊",
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "items": [
     {
-      "time": "07:36",
-      "category": "知っておくこと",
-      "title": "freee請求書 債権管理のPublic APIを公開、freee-mcp経由で自然言語消込に対応",
-      "source": "digitalpr.jp",
-      "url": "https://digitalpr.jp/r/148256",
-      "teaser": "MFの消込機能との差分比較材料。freeeはエージェント操作まで踏み込んだ設計。",
-      "thumb": "https://digitalpr.jp/simg/2693/148256/715_400_202611121127016af523f57b934.png"
+      "time": "07:57",
+      "category": "AI企業ウォッチ",
+      "title": "Googleが Gemini 4 Neon を一般提供開始",
+      "source": "aistudio.google.com",
+      "url": "https://aistudio.google.com/docs/whats-new-gemini-4-neon",
+      "teaser": "思考レベルがlow/medium/high/xhighの4段階選択式になった。コンテキストウィンドウは入出力・思考共通で約105万トークン。FDEの自動化ツールでコスト/精度のチューニング幅が広がる。",
+      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
     },
     {
-      "time": "07:36",
-      "category": "知っておくこと",
-      "title": "弥生会計27 Ver.33.1.1、国税庁システム更改でAI-OCR新様式に対応",
-      "source": "support.yayoi-kk.co.jp",
-      "url": "https://support.yayoi-kk.co.jp/topic.html?page_id=3925",
-      "teaser": "移行元ソフトの出力様式変更。移行マッピングへの影響確認が必要。",
+      "time": "07:57",
+      "category": "AI企業ウォッチ",
+      "title": "Googleが音声文字起こしモデル Gemini 3.5 Transcribe / Transcribe Live を提供開始",
+      "source": "aistudio.google.com",
+      "url": "https://aistudio.google.com/docs/transcribe",
+      "teaser": "85言語以上の自動判別・話者分離（最大8名）・音声編集指示に対応するsmartモードまで備え、議事録や商談録の自動化に使える幅が広い。",
+      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
+    },
+    {
+      "time": "07:57",
+      "category": "AI企業ウォッチ",
+      "title": "OpenAIが承認組織向けCSAM画像分類器を無償提供開始",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/guides/csam-classifier",
+      "teaser": "静止画からCSAMの可能性を検知し人によるレビューを優先順位付けする用途。信頼・安全領域での無償API提供が広がっている動き。",
+      "thumb": "https://developers.openai.com/og/api/docs/guides/csam-classifier.png"
+    },
+    {
+      "time": "07:57",
+      "category": "引っかかり",
+      "title": "AI導入への「違和感を進言」する社員は、組織の敵か守り手か",
+      "source": "forbesjapan.com",
+      "url": "https://forbesjapan.com/articles/detail/107479",
+      "teaser": "AI導入抵抗を「組織的サボタージュ」と断じる見方と、プライバシー・セキュリティ懸念に基づく社員の指摘を有益な警告と捉える見方が併存している。",
       "thumb": null
-    },
-    {
-      "time": "07:36",
-      "category": "AI企業ウォッチ",
-      "title": "OpenAI、GPT-6.2 AstraとGPT-6.2 Solを公開",
-      "source": "developers.openai.com",
-      "url": "https://developers.openai.com/api/docs/changelog",
-      "teaser": "推論・コーディング向けとエージェント向けで新モデルを分離。ツール呼び出しはResponses API必須。",
-      "thumb": "https://developers.openai.com/og/api/docs/changelog.png"
-    },
-    {
-      "time": "07:36",
-      "category": "AI企業ウォッチ",
-      "title": "OpenAI、Responses APIのバックグラウンド実行に2時間/8時間の完了ウィンドウを追加",
-      "source": "developers.openai.com",
-      "url": "https://developers.openai.com/api/docs/changelog",
-      "teaser": "トークン料金が30〜40%低減。長時間タスクのコスト最適化に使える。",
-      "thumb": "https://developers.openai.com/og/api/docs/changelog.png"
-    },
-    {
-      "time": "07:36",
-      "category": "AI企業ウォッチ",
-      "title": "Anthropic、Claude PlatformにLinked billing（ベータ）を追加",
-      "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "teaser": "顧客が自分のClaude組織経由でアプリ利用料を支払える仕組み。",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=5"
     }
   ]
 }
