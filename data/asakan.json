@@ -1,42 +1,33 @@
 {
   "edition": "朝刊",
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "items": [
     {
-      "time": "07:57",
+      "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "Googleが Gemini 4 Neon を一般提供開始",
-      "source": "aistudio.google.com",
-      "url": "https://aistudio.google.com/docs/whats-new-gemini-4-neon",
-      "teaser": "思考レベルがlow/medium/high/xhighの4段階選択式になった。コンテキストウィンドウは入出力・思考共通で約105万トークン。FDEの自動化ツールでコスト/精度のチューニング幅が広がる。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
+      "title": "Anthropicが「Claude Meetings」をベータ公開",
+      "source": "claude.com",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "teaser": "会議にClaudeが同席し、質問応答・議事録・アクションアイテム作成を自動で行う機能。Team/Enterpriseでデフォルト有効（管理者が無効化可）、対応ツールは現時点でGoogle Meetのみ。",
+      "thumb": "https://claude.com/resources/articles/claude-meetings/opengraph-image/og"
     },
     {
-      "time": "07:57",
+      "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "Googleが音声文字起こしモデル Gemini 3.5 Transcribe / Transcribe Live を提供開始",
-      "source": "aistudio.google.com",
-      "url": "https://aistudio.google.com/docs/transcribe",
-      "teaser": "85言語以上の自動判別・話者分離（最大8名）・音声編集指示に対応するsmartモードまで備え、議事録や商談録の自動化に使える幅が広い。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
+      "title": "Claude PlatformがCompliance APIに「Security posture」データを追加、組織IP allowlistも公開",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "teaser": "Enterprise組織のセキュリティ姿勢をAPI経由で取得できるようになり、組織単位のアクセス制御機能も拡充。ガバナンス機能の整備が進んでいる。",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=5"
     },
     {
-      "time": "07:57",
+      "time": "06:03",
       "category": "AI企業ウォッチ",
-      "title": "OpenAIが承認組織向けCSAM画像分類器を無償提供開始",
-      "source": "developers.openai.com",
-      "url": "https://developers.openai.com/api/docs/guides/csam-classifier",
-      "teaser": "静止画からCSAMの可能性を検知し人によるレビューを優先順位付けする用途。信頼・安全領域での無償API提供が広がっている動き。",
-      "thumb": "https://developers.openai.com/og/api/docs/guides/csam-classifier.png"
-    },
-    {
-      "time": "07:57",
-      "category": "引っかかり",
-      "title": "AI導入への「違和感を進言」する社員は、組織の敵か守り手か",
-      "source": "forbesjapan.com",
-      "url": "https://forbesjapan.com/articles/detail/107479",
-      "teaser": "AI導入抵抗を「組織的サボタージュ」と断じる見方と、プライバシー・セキュリティ懸念に基づく社員の指摘を有益な警告と捉える見方が併存している。",
-      "thumb": null
+      "title": "Claude Fable 5.2/Mythos 5.2でAPI互換性の注意事項が追加",
+      "source": "platform.claude.com",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "teaser": "thinkingブロックの扱いやcomputer useツールのバージョン要件が変わり、既存のAPI連携コードが400エラーを起こす可能性がある仕様変更。Claude APIを呼ぶ自作ツールがあれば要確認。",
+      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=5"
     }
   ]
 }

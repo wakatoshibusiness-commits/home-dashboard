@@ -1,92 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19 08:00",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20 06:04",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "07:08",
-      "category": "国際",
-      "title": "プーチン氏、米中首脳との会談前日に「対ロ制裁の失敗」を宣言（中央日報日本語版）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wTEt4bmhzMVBsQkQ5NFRLQUZtaDNpQnpva2FUQWJOSWpqdl9fcVU0T3JmSm1GNm10ckVqakZKcGFOMThtWHEzVThFVjdLVHBhV2pGQ2VkYlZ4S0VYREp6ZGI0cGExaWZxMjVVVGJSLUtJNDFRMXRWVFdzSlY5VVU?oc=5"
-    },
-    {
-      "time": "05:43",
+      "time": "00:16",
       "category": "経済",
-      "title": "アンソロピック、IPO価格を1株最大85ドルで検討－関係者",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTYXEwVXV0MzVCd3p5bGJxQy1ZX2dSVkx6NHhTVHBiODZreV96YWpiendXbDNtUkF1ZU04TXpubVkzNVdVVFVoN3llMlItZGNFWF9kdlJwemJFQkdPdHVWaWp4MU9lSWxrTjZZZTVrRVphWFh2NlZF?oc=5"
-    },
-    {
-      "time": "05:18",
-      "category": "国際",
-      "title": "黒人初の米下院議長が誕生へ 2027年1月、民主党ジェフリーズ氏",
+      "title": "アンソロピックがナスダック上場 AI開発で初、気配値は110ドル前後",
       "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBZEQ2RW1VbHlzbVFLb2VYd19TNHExc2RFSEo0bzl4WjA0aEFhdzR5OUJHa2dWMWJpVm16Nkt1SXVsVDV2YmtKbDhBUTRjLU4yVFZJTUMzQ0lqbmkwYXdfQ1ZuT1NLQ29JcUFKQw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qX0xNOXRqUTg3dzRoQ3VoeWhkR1ozTU92OWIwRmZ4RFZJV3BBQ0lnR3NycC1PdGtVbnR3NE9WTEdzQnJwRVNkOWtXcUthb21WT2c4WDFaT2Y3QnZ4UVM4TDhoaTZVRlRMMkVWTA?oc=5"
     },
     {
-      "time": "02:26",
-      "category": "総合",
-      "title": "熊本県で最大震度5弱の強い地震 熊本県・球磨村、あさぎり町、水俣市、芦北町、津奈木町",
-      "source": "TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvWEJESmRadXV4Z05nTHRNWGc2QV91a3ZGUHdDUmVXLUlnbTBmWDdvdnFkbVhDaWlUeVJWc1hOcHIwUnJHUUhuMHlNZE9UWkF2RE1LQVp4SQ?oc=5"
-    },
-    {
-      "time": "00:53",
-      "category": "経済",
-      "title": "世界的サーバーソフトに脆弱性 「エンジンエックス」攻撃の恐れ（共同通信）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aWlNNMDZXdEJKMlVoLThxa1ViMnNhcnpmcnhrdlJwRmJhMGRUNV9vczFWZ2pRSW1PdDBRYjZCblk3UDZpVFcwcWNBTElfTzJ5ZGdWeEo2Q0lpUFkyQm9KZ2RObzBMcG5rQTFURmgwNHk1V0I2X0w1ZG1QZzRQY2c?oc=5"
-    },
-    {
-      "time": "00:38",
-      "category": "経済",
-      "title": "ボージョレ・ヌーボー解禁、フランスの記録的熱波でブドウ収穫１か月前倒し…愛好家「濃厚な味でおいしい」",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfSkhhMUpTb2FSUGQwd2QtVk93SXpJN3N1VUVWbjhBX01vSnZyZWpDYUF0Z1hwLWwzbHhra0w4WldTUmVMbUlSVGdDVkNsc0QzSklLUV9qbjRLTUN4NlhrVnhWX1o?oc=5"
-    },
-    {
-      "time": "11/18 23:57",
-      "category": "社会",
-      "title": "［深層ＮＥＷＳ］高市首相を迎えた習近平国家主席、「あえて特別な扱いはしない」…宮本雄二・元駐中国大使",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nT3gtbUdNRll1WDlkVE5FenRRYlluakhvTDROWjh6S0M2NVlvR2Z1aVdGTlc4ZWpPR2FVdGxkaEVtZE01ODdzNTRnd3pGa0tVdjJKQUExM1Vma1UtazRmQU13?oc=5"
-    },
-    {
-      "time": "11/18 22:41",
-      "category": "総合",
-      "title": "高市早苗首相、初訪中も冷遇 習近平氏と握手し声かけも返答なし、首脳会談は困難か",
-      "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVDI1Q1NlZlhlYWhlTWtJdmZGbXc3R185d3dnVlJ2T1dPTzEzcUlCbHlRVXFHQndYbFlkQjJEZE5pVmZ1T0ZTZXpjbmxBS2ltaDhDRC1SSzlUaDlHTjNOc29XQXRnOEJnY1c4R1hjTzc4X1NaV2lPNjUtNFg3TEg5dExtbzI2cTQtVHQ3Sg?oc=5"
-    },
-    {
-      "time": "11/18 21:57",
-      "category": "総合",
-      "title": "APEC首脳宣言 AI活用などで調整",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PT1FoYS1WN2toRW54Z3F4c0otcHMzWUlfSm1fODU5QnVxczI3MlFJVzZoWTItZGRObDFBTWdldWZmcFhQLW9KRFlDbktDU0JS?oc=5"
-    },
-    {
-      "time": "11/18 21:51",
-      "category": "総合",
-      "title": "史上初の米中露首脳会談へ、中露は第２次大戦の戦勝国強調し日本けん制…米国が同調すれば国際秩序に影響不可避",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JV2wzUkdGUFNaXzJCanlicTl2TU1oY3dmVmNrTFlOallPTlBMSHdxemMyaHRnaGtKZDBuSjhTbEVrZElyNUJ6cXIxTUJpZVBZWnBjVHp4eFVLZThJYzZxMlJ3?oc=5"
-    },
-    {
-      "time": "11/18 19:24",
+      "time": "11/19 23:50",
       "category": "テック",
-      "title": "家庭用機器が“勝手に”サイバー攻撃 中国企業が「不正ソフト」入り機器を出荷 Wi-Fiルーター“乗っ取り”でカード・口座情報「覗き見」も（TBS NEWS DIG Powered by JNN）",
+      "title": "アンソロピック 米ナスダック上場",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTVC1RZFYzb0lXZVkxaS0tdm01d0pTM2VLU3R2QmRZOHF5RmV6cG1aZ3VBRFNPYktBOVBabXVaemJwNjY0Y2ZUVVM1LTNNSlliVm5tTTIwWXh2czF4NWllZExXT0dLWkpDcFRlTU9JNnVBb3VGR01tVmxfMHhqaXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ObGMxMjRUQ1ltemtzMWZsYm0wd3BEbHVRaURFMVJVX0k3SGZZZlBVQ0dmZHhMWUpZbnV1b3VRREQ4aGtDLUg3ZXpHOEtkdy1x?oc=5"
     },
     {
-      "time": "11/18 16:23",
-      "category": "科学",
-      "title": "ボイジャー1号、「1光日」に 49年で、地球から259億キロ（共同通信）",
+      "time": "11/19 23:36",
+      "category": "国際",
+      "title": "プーチン氏、欧州特使にモスクワ訪問提案 ウクライナ協議での立場明確化求める（ロイター）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CUVNTUVF6OWwwTE44azFRQ2lUQkNXQ2ZtMmVENUpaenNQVV93R3FTV2w3SndEUkduT0pfY1E5bVZzUVI5eHBJdXQtcG5yMTM4VGlTbFliMUwzR2t5R1Zlb1M5Q1RjZTZNdTlnb3AwZWVpcDJ2X2c1dV9xQ0twaXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83MmRHdmhSalptSUxzZy1MWlJ6YkRQMkh4dU9vSER5WDQwbEhRQ1JKcVFkX2d6VENXR0hXdkloS0U0VWR5aWo2aVlUdWV3UFo3REVQd2V1Vy1ORHFlWjliYXVpdVAtWjNCSTRXNEtMX3VBYUREckRGZ24ySjRsMDQ?oc=5"
+    },
+    {
+      "time": "11/19 22:39",
+      "category": "社会",
+      "title": "高市首相、トランプ氏との電話会談で米中露首脳会談などの説明受ける…「率直に意見交換を行った」",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IVkZNYnJCUjlBbjQxWGJBX0pZQVN0MlU5RHFoMF9lckpUUmNkQ2ZPYXIwc0Z2TzQ2N2hVcUJYYW10ZGtuLThWWW1iRjZYOUtvWjUwMmJ3dkhaZzRTaktybDg3THVTZw?oc=5"
+    },
+    {
+      "time": "11/19 22:07",
+      "category": "総合",
+      "title": "｢適切な儀礼上の手配している｣ 中国 高市総理｢冷遇｣に反論",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XV2daTUJITkJDdFgtYlZoTm9VQ3RELWw1WE1ZV294ZlBETGZkQzdyMDcyNTNHUWNoQk9UNXBGTHZXcUpTWUNVVWxfcnBkS1J4?oc=5"
+    },
+    {
+      "time": "11/19 21:57",
+      "category": "総合",
+      "title": "日本政府、米中露首脳会談で国際環境への影響注視…高市首相「日本の利益が損なわれることはない」",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VkxJWkxGdTJkRmxBLVpSbVoxMkVfcjdHcGtTX2hsM0VVSWloVXVhUnNld0FUSndqMEY0TzdUZmtXbXhCNXlURW9WVkFFNzJaSWotUEM1SDNLd28wbGNPcndXNlotQQ?oc=5"
+    },
+    {
+      "time": "11/19 21:53",
+      "category": "経済",
+      "title": "楽天証券、金融庁から報告徴求命令受領と発表…不正アクセスによる１５７２万口座分の個人情報漏えいで",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43Zks1a01CSExSMVR1cE9QbVhSNERaX3VOMTBsZHplNzhnUzhad184bVR3VHlIVUtla05ncy1YVmJ3VTBJVU5DVllPWmwxODdBMlpFMzhZUWRHM3RQRXE0dkphOFA?oc=5"
+    },
+    {
+      "time": "11/19 20:46",
+      "category": "総合",
+      "title": "ICJ「ロヒンギャ迫害はジェノサイド」 ガザ巡る訴訟に影響か",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PMXBvbG54dkEtTWFnODJPYjlfYmRJeWJBeTdBb0RQS0pXNHE1MFlBaHNpUENfOGFwVUVqdTYtSU5rUVFYTVdtOHpib09NdWI4MW5tU0ZjbUZFLW5FanpIOHQ0MDJXYXpB?oc=5"
+    },
+    {
+      "time": "11/19 19:30",
+      "category": "総合",
+      "title": "愛子さま、リー・シェンロン上級大臣と笑顔で友好親善「心からの感謝を」 天皇ご一家にちなんだランの花束のプレゼントも",
+      "source": "FNNプライムオンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hRVJIUG9sUEs5N3JscENWSERWQ21Hck96RnBrWDJ2Q21QcXhBamFzODU3WmxOc1lVRVQ3aVFOOWxnN3RvMGpCbC15bDlDQQ?oc=5"
+    },
+    {
+      "time": "11/19 18:38",
+      "category": "経済",
+      "title": "PHPに新たなぜい弱性 修正プログラム公開 サービス一時停止も | NHKニュース | ＡＩ・ネット・ＩＴ、企業・経営",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XWEtnR0ZOc2I2aVBsNmN6amxfNHhMUFVmUktLR3g2TEFwYjU5X3F3Wmw0V2xKaXg1M0ZWZjJlWGVrWl9lSHlhLW9UN1liOU5pTHVXOGlDQndCM3pHWDM4?oc=5"
+    },
+    {
+      "time": "11/19 17:25",
+      "category": "社会",
+      "title": "20日夜から積雪？ 石川県内の平地で 気象台が注意喚起｜社会｜デジタル版オリジナル",
+      "source": "北國新聞",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZNnZpS3VxQ18xYlZLLXMydEw5WDYtU2hBOXdRU1ZwemhUYUM4QURta0hBZEw3TTRhOC1kLTlKWkRfWjlEMDVSV0xCQVd4R1Q2NENYUVRLVQ?oc=5"
+    },
+    {
+      "time": "11/19 11:45",
+      "category": "テック",
+      "title": "エヌビディア・フアンCEOの辞任を招いた不倫相手は中国の職業スパイではなく国家安全部に取り込まれた「白手袋」か 米欧で相次ぐ「赤いハニートラップ」の手口とは（マネーポストWEB）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OYTBYTWNoUHlVVGVPamh5NWRvWlVFbUwtcHhmUDBySlBLT2xRbmdhWWt4MC02SkRpM3lNX0h0QTJMTTUtWExtVmpaZTc1VlNFUVNNWE1GSWo5N01xOVgxUDlCb0JpZFBzS3cyQkpjaHhvYkVBWkRqUVhRbjBhUEE?oc=5"
     }
   ]
 }
