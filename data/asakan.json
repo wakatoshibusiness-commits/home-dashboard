@@ -1,15 +1,15 @@
 {
   "edition": "朝刊",
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "items": [
     {
-      "time": "10:52",
-      "category": "知っておくこと",
-      "title": "会計Plusのマスタ移行で毎回触る「仕訳辞書」画面が11/19にリニューアル",
-      "source": "biz.moneyforward.com",
-      "url": "https://biz.moneyforward.com/support/ac-plus/news/new-feature/20261117.html",
-      "teaser": "並び替え・検索機能追加で大量マスタ移行時の確認作業が楽になりそう。",
-      "thumb": null
+      "time": "06:03",
+      "category": "AI企業ウォッチ",
+      "title": "Anthropicが、Claude Desktopのリリースチャネル選択・モバイル新デザイン段階提供・Team/Enterprise向けComputer useベータを一括公開",
+      "source": "support.claude.com",
+      "url": "https://support.claude.com/en/articles/12138966-release-notes",
+      "teaser": "Stable/Latestの切り分けは自動化ツールの検証環境を明示的に分けられる話で、Computer useのTeam/Enterprise解放はFDE業務での適用範囲が広がる可能性がある。",
+      "thumb": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png"
     }
   ]
 }

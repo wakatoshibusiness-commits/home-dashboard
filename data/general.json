@@ -1,85 +1,92 @@
 {
   "edition": "総合",
-  "date": "2026-11-21",
-  "generated_at": "2026-11-21 10:53",
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22 06:05",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "10:20",
-      "category": "総合",
-      "title": "大型物流倉庫で火事 三郷JCT付近",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lMjRIc0tFOHNXYjMyLUJVNTg0ZVJtMm9qaHVGLWxfMk9pc01FSVNvcFlNUlM5Tl8zVy1FTlRwZmZhUEp5Y1VmZ1dXRXB5bmxG?oc=5"
-    },
-    {
-      "time": "09:00",
+      "time": "02:06",
       "category": "国際",
-      "title": "ロシアの首都を震撼させた“ドローン”の凄まじい破壊力…「ロシア=ウクライナ戦争」の数年でなぜここまで進化したのか",
+      "title": "FBIの犯罪情報データベースに不正アクセスか トランプ大統領「良くないことだ」（TBS NEWS DIG Powered by JNN）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TcVBDMnJ4aG5zTEpva1hzbWMyd05KNmxMdlEtdmhOanM5Vy1FelhLeFRhUjBzbWgzZ3Noa29vVGFwU2hLVERiaTR1LXBXaFFyMGtwdW45eExaU0lIX0QxU1BTUlJsQnpMQk5sa0dnLUdVUVhkM2dWMTZnNlFQNEU?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ST2pyMzAtakpIMG5LdUcwNmI2bEx3amZzQ24yZDUwS21ZNjlQSmsxVFJWRTJ6SUlTZ0hkeDE4Tk41LXQ2YmpkRDJ0ZFlweWt4SFdES3poX0pycXM5alNUX2Q2VnU2OEtZWmpwRjdjbEVWZ1pDMW1DTlBNN0R4eEE?oc=5"
     },
     {
-      "time": "08:55",
+      "time": "00:10",
       "category": "総合",
-      "title": "兵庫3歳児暴行死 頭部に致命傷か",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfazc0QXVmdEM0ZlVaZzdxTVpWa0FSb2YxV0wzNmFIRlFUaWFoM280RE1zRW93eklJeVZ6TGtQTmc3X29IVmNuQ25JSHo5OEFX?oc=5"
-    },
-    {
-      "time": "08:08",
-      "category": "経済",
-      "title": "アングル：ＡＩブームの恩恵届かぬ韓国個人投資家、株乱高下で消費も冷え込む",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUG9zYnJTbXYxZ1FST3U2ME90VkhJQVlacmdUNzVoblFMSHBHVDVqQTFXWi1td204dzhEcnZTMFJMWnhETHF2NnBvX29xcW5sWWMya0kxcENEY0FnVVBELXNnUHRnazJzOERXRGtJS1ZVVWFSX01DTnNDWi14T1p6OGFzbFRIUQ?oc=5"
-    },
-    {
-      "time": "07:39",
-      "category": "総合",
-      "title": "高市首相、APECで台湾代表と会談せず 昨年はXに投稿、中国反発",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12djBjMU80bnM2LS1NMFhqUHZwVW54cE5RUFM4cl9OQ05abWw5dVJxdXBtQi1rVGcyanhOblZUMDVBejdOYXlvMnJYUGxrWWhW?oc=5"
-    },
-    {
-      "time": "07:14",
-      "category": "テック",
-      "title": "１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表（読売新聞オンライン）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KYmU4OXlyMkhXTWwtTmhpckZuN3FsdjBkcmJBb3puREJjM2xsZE1MZlZhWXY3dW9xZ3E2TlNWV1diWFZWRy1BckZRZm83R0oyR1dLWEdlNDJCdEZzTXJJd21xS0hrSTdhbUFIa2p3bVpSSzdyWlAyVGRkczQtQVk?oc=5"
-    },
-    {
-      "time": "06:58",
-      "category": "経済",
-      "title": "ＮＹダウ、９４９ドル安の４万８１４７ドル…エヌビディアは１４％安で１年半ぶりの安値",
+      "title": "保護されなかった英怜奈ちゃん、園の関係者「できたことはなかったか自問している」と無念語る",
       "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wUmd5OXBpREQzMFY0T1M1QW1YaHVIalBCdXNfVHRmVVg2TkZqcnZyS2dHMGVJMEZ2QlZ5ZmcybVBQQ3JGUDZsUUpvbGdXVmFrY1hjLWtoek1FdUZoYVd3V0FvUXQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tOVFwWmVmU3lLcWsxOFpvcE1KR2NoU24waFkydlFsOFdtNlZCYXlJcmR5SXluNDNrM00xcjdTYlM4anA5dFRwajVYbFVBVFdTT2U1bWloYjVoTl90U01RU2E2WmNoQQ?oc=5"
     },
     {
-      "time": "05:42",
+      "time": "11/21 23:07",
       "category": "経済",
-      "title": "NVIDIA、株価14%急落 米SECが会計処理を調査とロイター報道",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yaHNVeGpla3FzNVNST2pvV291VGtDcTdNQVBlYU92ZWYyVl9mT0d1OFQ4cHlWZmdrNVRNRFdDanhfWlpmeU9nWG15WlZ3NmxOaUtIOHBvdnA1Z041dXQ4M05DUC0zV1BiNUREMA?oc=5"
-    },
-    {
-      "time": "11/20 21:41",
-      "category": "テック",
-      "title": "【速報】ポーランドに巡航ミサイルやドローン着弾 「ロシアから発射」被害なし（テレビ朝日系（ANN））",
+      "title": "株高支えてきたＡＩ相場「変調」、市場意識…ハイテク銘柄の売り相次ぎＮＹ株７か月ぶり安値（読売新聞オンライン）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iMGpnZUNzMmlFQ0hLeWM0QURmc0Q1ZVhiZVhDcGlzOXlUaVhEdXRkLWZ1QTJGZ3o1Ri1EdlBnajhaTTRBanlCQW9KUC1xUjFRY2F1dlR6bmdEblpiVm01U0lNX3ZTR2lObmUzUV9NRHdsWFNNeDA3bVUtQWR3ZDA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XMWh6QllGWXh1WWNsTlRCSnhHRDNGLTdTeFoyU3N4SXh0OU1ldW9oX25XX1J4TEN5anJzTEhDbkJNdXc5SG9lR2R6ajN1UHZuQkpjR3N3WGFXSk0tbmRSbVV2UUNNNk9nNVFRT2NBM2Fua1duUmgtMS00R3I4eVE?oc=5"
     },
     {
-      "time": "11/20 19:00",
-      "category": "国際",
-      "title": "茂木外相「中国はアジアの覇権国ではない」 米中ロ首脳会談で",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FbFFxaE9tdTNlQVZhQkpwN2NNWEdXa05JVHNFaG1jUFE1NXIyYWZvWHlaaEZNNEEwMWlxRTRxSE1aLXFNajczTzRvSGt4dGlzYm9TLXhiamZmLXJkclRPUjdicXNjb3RNa1UyRg?oc=5"
+      "time": "11/21 22:23",
+      "category": "社会",
+      "title": "「もっとできたことなかったか」大阪・3歳暴行死で園関係者が自問",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5azJ2X3NxU0M5eTB5cmpxOGtiTHEyVmZoem03UjUyN0I0a3FJTEZnNVFSeFozR2VRM2U5YzZBc2xHSGhEOGQ3Qmd0bHNXM2dR?oc=5"
     },
     {
-      "time": "11/20 15:50",
+      "time": "11/21 21:36",
       "category": "総合",
-      "title": "【速報】愛子さまシンガポールで屋台が集まる名所「ホーカーセンター」視察 “ホッケンミー”や“チキンライス”の屋台料理をご覧 ラオパサ・ホーカーセンター（2026年11月19日掲載）｜日テレNEWS NNN",
-      "source": "日テレNEWS NNN",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uRGx1MFFSSTR4MVVwd1dEQ2c0QWYtY1N3UFF0ZEtVeVJiaEVOMml0aVpiM21MMk8wMkE1d0VUanBhMjFsdlkzZ1Jka1g2dl83UXl5TjNBMTNQRVFUMUkxc0JlaGk1UUdidGRDd3dLZ0RLdHF4X3RiNjJRc1g?oc=5"
+      "title": "世界の核９割保有する米中露で「責任」議論、トランプ氏「日本などは少し取り残された」",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WVER6bzJkbDVCV0xNYXNINjhPU01Bd1dyMDcwcmJ5T0dfOWJNYUhhYkNwRzVCeHJmRmRMNnZjcnliZUtVODBkTG80alhpTURwdGFwbVVRMy1WM09WWXF3ZlF3?oc=5"
+    },
+    {
+      "time": "11/21 21:19",
+      "category": "総合",
+      "title": "統一選で自民系推薦せず 公明方針",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNMW1Ha0pwMVhiT05wV3JRTk1JWGxMOGZrdXhaVUtURGhSSGM2cHVtYThmN2Z6aDQzSWphYjVzdDYtWkxTdDN2eUdncGdUcVBk?oc=5"
+    },
+    {
+      "time": "11/21 20:00",
+      "category": "総合",
+      "title": "関文科相のパーティー問題、自民内にも厳しい声 簗前農水相に続き辞任なら高市政権に打撃",
+      "source": "産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kcnRBeUk2Mkw1cllFUC1PbzFZajU2aXZrbko3emFXSnpBZmhRNUJOeGxRTzREYXdxcFhjWjNqNVlqV1RJUDZ0VDdRY1d2NE0wNEJuTm1oTV9jSTBrRlllZzNYVFExQ1NtdjB3OHNrdWR3QW05cmc?oc=5"
+    },
+    {
+      "time": "11/21 19:06",
+      "category": "経済",
+      "title": "六花亭、クレジットカード情報流出で不正利用1件確認 見舞金を準備",
+      "source": "北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAteFR0am1NQldIYk9zTjZKelhaOW9RV3ppVDhQR3p4RFNSWjFYTFBxbUVzWDNuNWpnamZXeF9aZk1JdHVIeDhHX2xGYmF2QnIwa3VXWHloV3U4UQ?oc=5"
+    },
+    {
+      "time": "11/21 18:21",
+      "category": "社会",
+      "title": "愛子さまの感想全文 シンガポールから帰国、宮内庁を通して公表",
+      "source": "朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90QkJCTEs1eU12UTc2eEVCSnktNjg2QWRIaEpuRW5BWEUxNkduVzQtS3JJOEVwakYxRmhyMFNhdmItR1ptenJYcTBHWWZieElzN2hScUtpc2pyYjFaX292R2kyX09wX2c?oc=5"
+    },
+    {
+      "time": "11/21 07:51",
+      "category": "テック",
+      "title": "「リーマン予想」生成AIが証明か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5"
+    },
+    {
+      "time": "11/21 07:30",
+      "category": "経済",
+      "title": "アンソロピック株、取引開始1時間で11％安──史上最大約15兆円のIPO直後",
+      "source": "Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54bU9lc2t2cHh0S25Ddm96YkstbjNJNFJSVmduOWhHUWwzN0NEZEVtMHlKd0o1Q0VWa1ZmejZlNHJnZGh3UmdTWGdmQUxSM2tGcDM1bUNpdUtldw?oc=5"
+    },
+    {
+      "time": "11/21 06:36",
+      "category": "テック",
+      "title": "再送米国株式市場＝ナスダック5％安、ＡＩ懸念で Ｓ＆Ｐ・ダウ調整局面（ロイター）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aSHFEQThfTlRuM3BCTnRSQ1pQN05jM3N1cEJoWFdQSFpkQ2t3RmEyT1N2SXRtRzEyYkdsbkd5VEFiZ1ZHN0gwOUltem5WN3FMZDQtTTlZcXBWd01BejRocUdTTGhyT0UyTk9IWmxnY0JMV25VR2poR3FZVUFtclk?oc=5"
     }
   ]
 }
