@@ -1,33 +1,15 @@
 {
   "edition": "朝刊",
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "items": [
     {
-      "time": "06:03",
-      "category": "AI企業ウォッチ",
-      "title": "Anthropicが「Claude Meetings」をベータ公開",
-      "source": "claude.com",
-      "url": "https://claude.com/resources/articles/claude-meetings",
-      "teaser": "会議にClaudeが同席し、質問応答・議事録・アクションアイテム作成を自動で行う機能。Team/Enterpriseでデフォルト有効（管理者が無効化可）、対応ツールは現時点でGoogle Meetのみ。",
-      "thumb": "https://claude.com/resources/articles/claude-meetings/opengraph-image/og"
-    },
-    {
-      "time": "06:03",
-      "category": "AI企業ウォッチ",
-      "title": "Claude PlatformがCompliance APIに「Security posture」データを追加、組織IP allowlistも公開",
-      "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "teaser": "Enterprise組織のセキュリティ姿勢をAPI経由で取得できるようになり、組織単位のアクセス制御機能も拡充。ガバナンス機能の整備が進んでいる。",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=5"
-    },
-    {
-      "time": "06:03",
-      "category": "AI企業ウォッチ",
-      "title": "Claude Fable 5.2/Mythos 5.2でAPI互換性の注意事項が追加",
-      "source": "platform.claude.com",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview",
-      "teaser": "thinkingブロックの扱いやcomputer useツールのバージョン要件が変わり、既存のAPI連携コードが400エラーを起こす可能性がある仕様変更。Claude APIを呼ぶ自作ツールがあれば要確認。",
-      "thumb": "https://platform.claude.com/web-api/og/docs/en/release-notes/overview?design-rev=5"
+      "time": "10:52",
+      "category": "知っておくこと",
+      "title": "会計Plusのマスタ移行で毎回触る「仕訳辞書」画面が11/19にリニューアル",
+      "source": "biz.moneyforward.com",
+      "url": "https://biz.moneyforward.com/support/ac-plus/news/new-feature/20261117.html",
+      "teaser": "並び替え・検索機能追加で大量マスタ移行時の確認作業が楽になりそう。",
+      "thumb": null
     }
   ]
 }

@@ -1,92 +1,85 @@
 {
   "edition": "総合",
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20 06:04",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21 10:53",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "00:16",
-      "category": "経済",
-      "title": "アンソロピックがナスダック上場 AI開発で初、気配値は110ドル前後",
-      "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qX0xNOXRqUTg3dzRoQ3VoeWhkR1ozTU92OWIwRmZ4RFZJV3BBQ0lnR3NycC1PdGtVbnR3NE9WTEdzQnJwRVNkOWtXcUthb21WT2c4WDFaT2Y3QnZ4UVM4TDhoaTZVRlRMMkVWTA?oc=5"
-    },
-    {
-      "time": "11/19 23:50",
-      "category": "テック",
-      "title": "アンソロピック 米ナスダック上場",
+      "time": "10:20",
+      "category": "総合",
+      "title": "大型物流倉庫で火事 三郷JCT付近",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ObGMxMjRUQ1ltemtzMWZsYm0wd3BEbHVRaURFMVJVX0k3SGZZZlBVQ0dmZHhMWUpZbnV1b3VRREQ4aGtDLUg3ZXpHOEtkdy1x?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lMjRIc0tFOHNXYjMyLUJVNTg0ZVJtMm9qaHVGLWxfMk9pc01FSVNvcFlNUlM5Tl8zVy1FTlRwZmZhUEp5Y1VmZ1dXRXB5bmxG?oc=5"
     },
     {
-      "time": "11/19 23:36",
+      "time": "09:00",
       "category": "国際",
-      "title": "プーチン氏、欧州特使にモスクワ訪問提案 ウクライナ協議での立場明確化求める（ロイター）",
+      "title": "ロシアの首都を震撼させた“ドローン”の凄まじい破壊力…「ロシア=ウクライナ戦争」の数年でなぜここまで進化したのか",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83MmRHdmhSalptSUxzZy1MWlJ6YkRQMkh4dU9vSER5WDQwbEhRQ1JKcVFkX2d6VENXR0hXdkloS0U0VWR5aWo2aVlUdWV3UFo3REVQd2V1Vy1ORHFlWjliYXVpdVAtWjNCSTRXNEtMX3VBYUREckRGZ24ySjRsMDQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TcVBDMnJ4aG5zTEpva1hzbWMyd05KNmxMdlEtdmhOanM5Vy1FelhLeFRhUjBzbWgzZ3Noa29vVGFwU2hLVERiaTR1LXBXaFFyMGtwdW45eExaU0lIX0QxU1BTUlJsQnpMQk5sa0dnLUdVUVhkM2dWMTZnNlFQNEU?oc=5"
     },
     {
-      "time": "11/19 22:39",
-      "category": "社会",
-      "title": "高市首相、トランプ氏との電話会談で米中露首脳会談などの説明受ける…「率直に意見交換を行った」",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IVkZNYnJCUjlBbjQxWGJBX0pZQVN0MlU5RHFoMF9lckpUUmNkQ2ZPYXIwc0Z2TzQ2N2hVcUJYYW10ZGtuLThWWW1iRjZYOUtvWjUwMmJ3dkhaZzRTaktybDg3THVTZw?oc=5"
-    },
-    {
-      "time": "11/19 22:07",
+      "time": "08:55",
       "category": "総合",
-      "title": "｢適切な儀礼上の手配している｣ 中国 高市総理｢冷遇｣に反論",
+      "title": "兵庫3歳児暴行死 頭部に致命傷か",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XV2daTUJITkJDdFgtYlZoTm9VQ3RELWw1WE1ZV294ZlBETGZkQzdyMDcyNTNHUWNoQk9UNXBGTHZXcUpTWUNVVWxfcnBkS1J4?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfazc0QXVmdEM0ZlVaZzdxTVpWa0FSb2YxV0wzNmFIRlFUaWFoM280RE1zRW93eklJeVZ6TGtQTmc3X29IVmNuQ25JSHo5OEFX?oc=5"
     },
     {
-      "time": "11/19 21:57",
-      "category": "総合",
-      "title": "日本政府、米中露首脳会談で国際環境への影響注視…高市首相「日本の利益が損なわれることはない」",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VkxJWkxGdTJkRmxBLVpSbVoxMkVfcjdHcGtTX2hsM0VVSWloVXVhUnNld0FUSndqMEY0TzdUZmtXbXhCNXlURW9WVkFFNzJaSWotUEM1SDNLd28wbGNPcndXNlotQQ?oc=5"
-    },
-    {
-      "time": "11/19 21:53",
+      "time": "08:08",
       "category": "経済",
-      "title": "楽天証券、金融庁から報告徴求命令受領と発表…不正アクセスによる１５７２万口座分の個人情報漏えいで",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43Zks1a01CSExSMVR1cE9QbVhSNERaX3VOMTBsZHplNzhnUzhad184bVR3VHlIVUtla05ncy1YVmJ3VTBJVU5DVllPWmwxODdBMlpFMzhZUWRHM3RQRXE0dkphOFA?oc=5"
+      "title": "アングル：ＡＩブームの恩恵届かぬ韓国個人投資家、株乱高下で消費も冷え込む",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUG9zYnJTbXYxZ1FST3U2ME90VkhJQVlacmdUNzVoblFMSHBHVDVqQTFXWi1td204dzhEcnZTMFJMWnhETHF2NnBvX29xcW5sWWMya0kxcENEY0FnVVBELXNnUHRnazJzOERXRGtJS1ZVVWFSX01DTnNDWi14T1p6OGFzbFRIUQ?oc=5"
     },
     {
-      "time": "11/19 20:46",
+      "time": "07:39",
       "category": "総合",
-      "title": "ICJ「ロヒンギャ迫害はジェノサイド」 ガザ巡る訴訟に影響か",
-      "source": "毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PMXBvbG54dkEtTWFnODJPYjlfYmRJeWJBeTdBb0RQS0pXNHE1MFlBaHNpUENfOGFwVUVqdTYtSU5rUVFYTVdtOHpib09NdWI4MW5tU0ZjbUZFLW5FanpIOHQ0MDJXYXpB?oc=5"
+      "title": "高市首相、APECで台湾代表と会談せず 昨年はXに投稿、中国反発",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12djBjMU80bnM2LS1NMFhqUHZwVW54cE5RUFM4cl9OQ05abWw5dVJxdXBtQi1rVGcyanhOblZUMDVBejdOYXlvMnJYUGxrWWhW?oc=5"
     },
     {
-      "time": "11/19 19:30",
-      "category": "総合",
-      "title": "愛子さま、リー・シェンロン上級大臣と笑顔で友好親善「心からの感謝を」 天皇ご一家にちなんだランの花束のプレゼントも",
-      "source": "FNNプライムオンライン",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hRVJIUG9sUEs5N3JscENWSERWQ21Hck96RnBrWDJ2Q21QcXhBamFzODU3WmxOc1lVRVQ3aVFOOWxnN3RvMGpCbC15bDlDQQ?oc=5"
-    },
-    {
-      "time": "11/19 18:38",
-      "category": "経済",
-      "title": "PHPに新たなぜい弱性 修正プログラム公開 サービス一時停止も | NHKニュース | ＡＩ・ネット・ＩＴ、企業・経営",
-      "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XWEtnR0ZOc2I2aVBsNmN6amxfNHhMUFVmUktLR3g2TEFwYjU5X3F3Wmw0V2xKaXg1M0ZWZjJlWGVrWl9lSHlhLW9UN1liOU5pTHVXOGlDQndCM3pHWDM4?oc=5"
-    },
-    {
-      "time": "11/19 17:25",
-      "category": "社会",
-      "title": "20日夜から積雪？ 石川県内の平地で 気象台が注意喚起｜社会｜デジタル版オリジナル",
-      "source": "北國新聞",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZNnZpS3VxQ18xYlZLLXMydEw5WDYtU2hBOXdRU1ZwemhUYUM4QURta0hBZEw3TTRhOC1kLTlKWkRfWjlEMDVSV0xCQVd4R1Q2NENYUVRLVQ?oc=5"
-    },
-    {
-      "time": "11/19 11:45",
+      "time": "07:14",
       "category": "テック",
-      "title": "エヌビディア・フアンCEOの辞任を招いた不倫相手は中国の職業スパイではなく国家安全部に取り込まれた「白手袋」か 米欧で相次ぐ「赤いハニートラップ」の手口とは（マネーポストWEB）",
+      "title": "１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表（読売新聞オンライン）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OYTBYTWNoUHlVVGVPamh5NWRvWlVFbUwtcHhmUDBySlBLT2xRbmdhWWt4MC02SkRpM3lNX0h0QTJMTTUtWExtVmpaZTc1VlNFUVNNWE1GSWo5N01xOVgxUDlCb0JpZFBzS3cyQkpjaHhvYkVBWkRqUVhRbjBhUEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KYmU4OXlyMkhXTWwtTmhpckZuN3FsdjBkcmJBb3puREJjM2xsZE1MZlZhWXY3dW9xZ3E2TlNWV1diWFZWRy1BckZRZm83R0oyR1dLWEdlNDJCdEZzTXJJd21xS0hrSTdhbUFIa2p3bVpSSzdyWlAyVGRkczQtQVk?oc=5"
+    },
+    {
+      "time": "06:58",
+      "category": "経済",
+      "title": "ＮＹダウ、９４９ドル安の４万８１４７ドル…エヌビディアは１４％安で１年半ぶりの安値",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wUmd5OXBpREQzMFY0T1M1QW1YaHVIalBCdXNfVHRmVVg2TkZqcnZyS2dHMGVJMEZ2QlZ5ZmcybVBQQ3JGUDZsUUpvbGdXVmFrY1hjLWtoek1FdUZoYVd3V0FvUXQ?oc=5"
+    },
+    {
+      "time": "05:42",
+      "category": "経済",
+      "title": "NVIDIA、株価14%急落 米SECが会計処理を調査とロイター報道",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yaHNVeGpla3FzNVNST2pvV291VGtDcTdNQVBlYU92ZWYyVl9mT0d1OFQ4cHlWZmdrNVRNRFdDanhfWlpmeU9nWG15WlZ3NmxOaUtIOHBvdnA1Z041dXQ4M05DUC0zV1BiNUREMA?oc=5"
+    },
+    {
+      "time": "11/20 21:41",
+      "category": "テック",
+      "title": "【速報】ポーランドに巡航ミサイルやドローン着弾 「ロシアから発射」被害なし（テレビ朝日系（ANN））",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iMGpnZUNzMmlFQ0hLeWM0QURmc0Q1ZVhiZVhDcGlzOXlUaVhEdXRkLWZ1QTJGZ3o1Ri1EdlBnajhaTTRBanlCQW9KUC1xUjFRY2F1dlR6bmdEblpiVm01U0lNX3ZTR2lObmUzUV9NRHdsWFNNeDA3bVUtQWR3ZDA?oc=5"
+    },
+    {
+      "time": "11/20 19:00",
+      "category": "国際",
+      "title": "茂木外相「中国はアジアの覇権国ではない」 米中ロ首脳会談で",
+      "source": "日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FbFFxaE9tdTNlQVZhQkpwN2NNWEdXa05JVHNFaG1jUFE1NXIyYWZvWHlaaEZNNEEwMWlxRTRxSE1aLXFNajczTzRvSGt4dGlzYm9TLXhiamZmLXJkclRPUjdicXNjb3RNa1UyRg?oc=5"
+    },
+    {
+      "time": "11/20 15:50",
+      "category": "総合",
+      "title": "【速報】愛子さまシンガポールで屋台が集まる名所「ホーカーセンター」視察 “ホッケンミー”や“チキンライス”の屋台料理をご覧 ラオパサ・ホーカーセンター（2026年11月19日掲載）｜日テレNEWS NNN",
+      "source": "日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uRGx1MFFSSTR4MVVwd1dEQ2c0QWYtY1N3UFF0ZEtVeVJiaEVOMml0aVpiM21MMk8wMkE1d0VUanBhMjFsdlkzZ1Jka1g2dl83UXl5TjNBMTNQRVFUMUkxc0JlaGk1UUdidGRDd3dLZ0RLdHF4X3RiNjJRc1g?oc=5"
     }
   ]
 }
