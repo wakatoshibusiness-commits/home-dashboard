@@ -1,51 +1,15 @@
 {
   "edition": "朝刊",
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "items": [
     {
-      "time": "06:03",
+      "time": "06:02",
       "category": "知っておくこと",
-      "title": "KPMGジャパンがAIコスト適正化「AI FinOps」支援サービスを開始",
-      "source": "kpmg.com",
-      "url": "https://kpmg.com/jp/ja/media/press-releases/2026/11/ai-finops-support.html",
-      "teaser": "トークン代だけでなく統制・人材育成まで含めてAIコストを可視化する動き。Big4がAI投資のガバナンス・コスト管理を商品化し始めた一例として、面接で「AI導入の次の課題」を聞かれた時の具体例になる。",
-      "thumb": "https://assets.kpmg.com/is/image/kpmgcloud/jp-ai-finops-support"
-    },
-    {
-      "time": "06:03",
-      "category": "AI企業ウォッチ",
-      "title": "AnthropicがIPOの価格決定と上場完了を発表（調達額約1,195億ドル）",
-      "source": "anthropic.com",
-      "url": "https://www.anthropic.com/news/ipo-close",
-      "teaser": "11/19にNasdaq「ANT」で取引開始。資金力の実像が固まったことで、Claude関連製品への投資余力を測る材料になる。",
-      "thumb": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg"
-    },
-    {
-      "time": "06:03",
-      "category": "AI企業ウォッチ",
-      "title": "Googleが「Genie 4」をGA、Tool retrieval（Preview）も公開",
-      "source": "aistudio.google.com",
-      "url": "https://aistudio.google.com/docs/changelog#11-19-2026",
-      "teaser": "必要な時だけツールスキーマを読み込むdefer_loading/tool_search方式は、自作の自動化ツールでツール数が増えてきた時のトークン節約パターンとして使える。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
-    },
-    {
-      "time": "06:03",
-      "category": "AI企業ウォッチ",
-      "title": "Googleが「Gemini 3.5 Transcribe」に音声指示での編集機能を追加",
-      "source": "aistudio.google.com",
-      "url": "https://aistudio.google.com/docs/changelog#11-17-2026",
-      "teaser": "口述メモを声で直接修正できる仕組みは、ヒアリング記録を自動整形するフローのヒントになる。",
-      "thumb": "https://ai.google.dev/static/site-assets/images/share-ais-513315318.png"
-    },
-    {
-      "time": "06:03",
-      "category": "AI企業ウォッチ",
-      "title": "OpenAIが全二重音声モデル「GPT-Live-1.1」とStandbyモードを公開",
-      "source": "developers.openai.com",
-      "url": "https://developers.openai.com/api/docs/models/gpt-live-1.1",
-      "teaser": "無音時は推論を止めるStandby設計は、常時接続型ツールのコスト圧縮に転用できる発想。",
-      "thumb": "https://developers.openai.com/og/api/docs/models/gpt-live-1.1.png"
+      "title": "freee会計、三井住友カードの新法人カード「Trunkビジネス」とAPI連携を開始",
+      "source": "digitalpr.jp",
+      "url": "https://digitalpr.jp/r/148515",
+      "teaser": "エッカ石油やファンくるの経費精算導入で「新しいカードも自動連携できますか」と聞かれた時の実例になる。MFクラウド経費の対応カード網との比較材料にもなる。",
+      "thumb": "https://digitalpr.jp/simg/2693/148515/715_400_202611161156486afa70f0ca95d.png"
     }
   ]
 }
