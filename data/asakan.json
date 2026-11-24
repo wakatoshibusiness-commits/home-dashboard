@@ -1,15 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "items": [
     {
-      "time": "06:02",
-      "category": "知っておくこと",
-      "title": "freee会計、三井住友カードの新法人カード「Trunkビジネス」とAPI連携を開始",
-      "source": "digitalpr.jp",
-      "url": "https://digitalpr.jp/r/148515",
-      "teaser": "エッカ石油やファンくるの経費精算導入で「新しいカードも自動連携できますか」と聞かれた時の実例になる。MFクラウド経費の対応カード網との比較材料にもなる。",
-      "thumb": "https://digitalpr.jp/simg/2693/148515/715_400_202611161156486afa70f0ca95d.png"
+      "time": "08:01",
+      "category": "AI企業ウォッチ",
+      "title": "OpenAIが chat-latest スナップショットを更新、ChatGPTの最新モデル（GPT-6.2系）を指すよう変更",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "teaser": "本番環境ではchat-latest固定ではなくGPT-6.2系のスナップショット指定を推奨する内容。エージェント実装でモデル指定をfloatingにしている箇所があれば影響範囲の確認対象になる。",
+      "thumb": "https://developers.openai.com/og/api/docs/changelog.png"
+    },
+    {
+      "time": "08:01",
+      "category": "AI企業ウォッチ",
+      "title": "OpenAIがResponses APIに医療特化モデル構成「gpt-6.2-astra-healthcare」を公開",
+      "source": "developers.openai.com",
+      "url": "https://developers.openai.com/api/docs/changelog",
+      "teaser": "Web検索使用時は医療ソース専用インデックスを検索する仕様で、業種特化モデルの切り出しが進んでいることを示す一例。",
+      "thumb": "https://developers.openai.com/og/api/docs/changelog.png"
     }
   ]
 }
