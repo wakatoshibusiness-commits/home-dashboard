@@ -1,5 +1,24 @@
 {
   "edition": "朝刊",
-  "date": "2026-11-27",
-  "items": []
+  "date": "2026-11-28",
+  "items": [
+    {
+      "time": "08:14",
+      "category": "知っておくこと",
+      "title": "ASBJ、GX推進法に基づく排出量取引制度の会計処理・開示の公開草案を公表",
+      "source": "asb-j.jp",
+      "url": "https://www.asb-j.jp/jp/project/exposure_draft/y2026/2026-1120.html",
+      "teaser": "ASBJがGX排出量取引制度の会計処理・開示の公開草案を公表。Big4面接で「最近の基準改正」を聞かれた時の弾になる。",
+      "thumb": null
+    },
+    {
+      "time": "08:14",
+      "category": "引っかかり",
+      "title": "AIが雇用を奪っているか、証拠はまだ不明",
+      "source": "udn.com",
+      "url": "https://udn.com/vote2026/story/6904/9877745",
+      "teaser": "AIが雇用を奪っているかどうか、証拠はまだ見えていない——経済学者の間で賛否が割れている論点。",
+      "thumb": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/t3/2026/11/13/35516513.jpg&M=1&s=Y&x=0&y=0&sw=1280&sh=853&exp=3600"
+    }
+  ]
 }

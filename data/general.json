@@ -1,71 +1,85 @@
 {
   "edition": "総合",
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27 07:51",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28 08:15",
   "source": "Google ニュース RSS",
   "items": [
     {
-      "time": "06:07",
+      "time": "06:16",
       "category": "経済",
-      "title": "ECB総裁にデコス氏 EU首脳が合意",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKX0gtT01VaUNmS0U4YS1XN1l6d2JLdThVaTJodlRacXZiTm4xNng4TnhQM2RZZ01WaG1OSmYwQW1icHBRa1otRDI3bGMtQy01?oc=5"
-    },
-    {
-      "time": "04:40",
-      "category": "国際",
-      "title": "トランプ大統領 プーチン大統領に欧州全域での軍事攻撃の停止を要請 中国での首脳会談で ウクライナ和平の早期実現のため",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0bHNiOEc0Y1djYVprWWhTYW9aTDZZVjZ5OXIxQ1pGNTFvSDVSUU1SdGwtdDJsQTRfcm01NE5ZcDRvM0FZQ1VldWJjdW9pa1EtVE5XXzdXamFFaXVhTHZWckFpQjhnSVpqSW5pUUtkdlhiLWM1eWFEdmtwRm9xRzQ?oc=5"
-    },
-    {
-      "time": "04:16",
-      "category": "社会",
-      "title": "沖縄県本島北部に線状降水帯発生",
-      "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxVEw5UTRUaVJ5NHlNTmFxcXZya2NGSWpyRzVDUVE0LTlaY3RzZWQ5VUZfZUstR2x4cWdSVGpycWVoX19mWkhDdHFINGRNSmtDVXo2WkRxVTdya0d1QlNB?oc=5"
-    },
-    {
-      "time": "02:00",
-      "category": "経済",
-      "title": "アクティビスト、日本の大企業に照準 26年の投資は600件超え最多",
+      "title": "米テック株、11月は4年ぶり下落率 AI不安拡散で暗号資産や銅急落",
       "source": "日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKelhEeGlzeHZCbS1yZFlkOFhmbXNqU0JsNXBpNUJVNUZQQml4N2s0MTVkYUFoZ0JlMGhxZmRlNjNKTVZ3T1UxMmg0MFdGUExlcUg1bVhpWkF1TXliVkpDOU5DMUVyaHFKUVFxdA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UeGRVN3dBakdUSmxQSFlvbFJHeVhzcmhTeG5MWmRwc2R6TmtmajQwUnNPME16WWoycUN3eGtDdnl6ZnpveXBNdXNaRlQ4UVFNUFlwekNFSU9yS2RmTWZOZG9hcHdzc3JhRkNtTQ?oc=5"
     },
     {
-      "time": "01:19",
-      "category": "社会",
-      "title": "【福岡市男性刺殺事件】被害男性の顔や首に多数の傷…強い殺意で突然襲われたか 関与疑いの男、確保時「抵抗する様子なかった」【news23】（TBS NEWS DIG Powered by JNN）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95N1daYmlRenJfSldTeUdKM0E1d0JpWXVWVE9OQTM0V3lKR3gteDgySnk2VkRGNkE1Y19EZzJmZ040ZF9PckFvOHAwQml6eFhyUTBNanNPTVlrRVY5T2xSMGFKeVVnUUc0b3NhZ2UtamN6SkpPTlZOZmE1WHVsdUU?oc=5"
-    },
-    {
-      "time": "11/26 23:57",
-      "category": "総合",
-      "title": "［深層ＮＥＷＳ］問責決議案が提出された関文科相、参政・神谷代表「ずるいし恥ずかしくないのか」",
-      "source": "読売新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NMExMVG9YVnFQY1RrdUhUeXNKZjFKSi1ZVzJpTlBQZkszQldNMnp4ZGNtdVlCSWt0N0JTM2pFdFoyVklCbTNnYVphSmI1NFViOG9DTTJOemRWRnJWY2RhLTY2VC1SQQ?oc=5"
-    },
-    {
-      "time": "11/26 23:32",
+      "time": "01:45",
       "category": "経済",
-      "title": "文科省に不正アクセス、16万件情報漏えいか（共同通信）",
+      "title": "AI関連株が乱高下 史上最大の上場も株価低迷（FNNプライムオンライン（フジテレビ系））",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xalhENVhGMjNreTFab3ZnbFF1STMzaUhqZk01VTVmX2VoN19wYVJYdmttbTU5QjdveGhNM2JUZU5ySTkwOHNoelU1UzR3alYyZGVIUHNtekx0Y0htRldza3ZEOXFjVWVIRTh4ZlRLbGVhN2UxYm5KNE1rdzY0OU0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwOTRjMDBkTk5ZU1FKM255T1pmX0R3eVlrTWNNQ3pUcFdnWU9WNklsSkJaNlFPMi1VWDZGVnBWZG41YWYyUkwwMDBuQUpFTlZ6SGg2aDExb0paa215NmtxVW1GS0UwcU1mZnZVaUhSNExPdWpvU0dXT0RvRGdraHM?oc=5"
     },
     {
-      "time": "11/26 23:22",
+      "time": "11/27 23:01",
       "category": "総合",
-      "title": "北朝鮮が露軍事支援停止か ウ発表",
+      "title": "【独自】宮城県七ヶ宿町の山中で2人の遺体見つかる 先月末から行方不明となっている高校1年の女子生徒か 33歳男を未成年者誘拐の疑いで逮捕（TBS NEWS DIG Powered by JNN）",
       "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnNk5ka1RQX2I3R2FYUlppWTI0MkQ1YjgzT0s2b1Bpd29HUnNVWUt4RDhHaG9rN1hOQkM0aWlnNHR1QUZlQ0lxc3E0NjFzU3pJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oU2I4WC1lNmtYcGVybklGYnY0WVB5Z2dhdDBhYzJQQ0ZUUUZFSjk0ZkFWWGVuRUJ1X3U1RU41Y2RPS3czeFdNQlkxRGNHMXdmcTdncy1BWWNiek5XZm1wd3VZRUh1dXRJNWNhRnN4aGhFRjVRLWhrY0dmYWVtSFU?oc=5"
     },
     {
-      "time": "11/26 21:26",
+      "time": "11/27 21:35",
       "category": "総合",
-      "title": "＜櫻井よし子氏緊急寄稿＞ 防衛費増へ高市首相は道筋を照らせ 安倍元首相は防衛国債提唱",
+      "title": "関文科相に自民議員から「猛省を促したい」、問責案反対の百田氏も「国会後に即刻辞めてもらいたい」",
+      "source": "読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sY3VOVjRhYURBYVdrYXl2ZHNFNnpIdmV2VHRTMXFYWVY0SXhTOG96eHpCRWV3MmNrc0w5cEVQb1JWWWttT01LVTE1ZEIyTVB6QTBQX0lqTTFaR1V4V3otS2JFSmlEQQ?oc=5"
+    },
+    {
+      "time": "11/27 20:14",
+      "category": "国際",
+      "title": "1票を投じるために続々ふるさとへ 台湾統一地方選28日投開票（毎日新聞）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ta2ZMSlhybkVqT01ZbmFEYXZ1WTU0LUlod0UyUnRzWDV4Ql8yYVRSbG8zQjJWcUhkY0Y1WnFLM0dJX0ZsbFJHZkNkVWFHU2lJMXdndm5QZHBuV183TjJDTkUwRTAwMkwzZ09fem5XWHp0cmEzT211SzZ6aHNXd0U?oc=5"
+    },
+    {
+      "time": "11/27 20:12",
+      "category": "総合",
+      "title": "福岡刺殺 直前に被害男性と接触か",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14eVptQm5lQm5Ra241dXNkZjdBLTBRclZGN1RwbkFwbVFkWW9rUFFkOUNPcDNRbmlTZXJmbjJGOG03X1NRWko0YjNUTjNndHp3?oc=5"
+    },
+    {
+      "time": "11/27 19:30",
+      "category": "総合",
+      "title": "マンジャロ無許可販売疑いの女逮捕 「冷蔵保管が基本」もレターパックで発送…健康被害も",
       "source": "産経ニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRMXA5X2dwZmNhWFRrWHhFd2dLRHhHZ2JKWjVSSXNxekdiTWw5WGdvMzMyOXhEVHNUVzA2YWZrOHlLcnZtNjRKWER4OHE3dUZrUjN3NUZzU3ZzRHNwQmZsOUQ2UEI5UDEzbEdmb3VqWFRnMmxKZEE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrTm5hMl9XNDQ4dzBpSFFsQnRibThZYmFHUl9TbW42dWxkc0FXdzUxTjVLYWlCdDktM1VHckFFVVI4elc3ZFZnRnZUamlua2NBdzFUQktIM2VZcl9qMVVTYjlLTjZhMjJRd3V1ZExoVDNjY2Nac1E?oc=5"
+    },
+    {
+      "time": "11/27 18:12",
+      "category": "テック",
+      "title": "マイナアプリ 旧Ver.に脆弱性",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wZ2dJMF9YZ3VORFBBb1J0NVBzU2tSc2JMSXBsZ3ZxUWQ2ZmEtUENheExaNjRDcndQWWpYU0tuTlpXT21PdVJsRnRJSFhZZ3pw?oc=5"
+    },
+    {
+      "time": "11/27 17:47",
+      "category": "経済",
+      "title": "来週の株式相場に向けて＝日本株は「大底」を打ったのか、次はＦＯＭＣ巡る動向注視",
+      "source": "株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yX3FqU0ljZnRUX3pjenNyNlhKd2Q1c2FRNHp0d2lic0Z1dGJyQ1JyTkRCUDdGa3NaRVNDMkVHdVpPTFBVUXU1M29zMzRWa1dyZmdWeUlVNXVUMHVPOElSLQ?oc=5"
+    },
+    {
+      "time": "11/27 09:28",
+      "category": "テック",
+      "title": "エヌビディア「コンピューティング資源を中国に1％でも貸し出せば、半導体は供給しない」（中央日報日本語版）",
+      "source": "Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdElER1pwa09KZVFvUFhUWXFhSWp1YWozTk8zaVd6dGJaT3hRUTRQU0V2Mm1rWUlvdUtuNF9DRi12OTU2MHZvbG1jd1FjSUhzTXNfa2tvNTBYcDF2R0dlRGtOX0UtZXFLNkRzY1p0OUdyYzhDcU9pYzB3MUNMWGc?oc=5"
+    },
+    {
+      "time": "11/27 08:23",
+      "category": "国際",
+      "title": "トランプ氏、プーチン氏に欧州への「軍事侵略」停止を要請 ミサイル落下で高まる警戒感",
+      "source": "産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONG11RWJ2OU5JS0lLN1kyMlYtT0J5UzdfVmxKWmtQZndBX0lkRlpoNFpGUmEwanJUbkpIU3AtMnltWVBEem5uTng0U0IyR0FSVVJqWmRzWThDYUROSkhmMUt4aWZiR0hxLTFhZHJZRXFSNVhjZl9VOTV3RUEteVdmRmNiRkE1WHB2RHlHdQ?oc=5"
     },
     {
       "time": "11/26 18:00",
@@ -73,20 +87,6 @@
       "title": "海王星の彼方、太陽系に「第9の惑星」か 近畿大学などが地球級の天体PX2を予測",
       "source": "Forbes JAPAN",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XR21EUVZOS0RhcnhLMnFDMzFhNUpMXy1nTEtDQTQ1U0FBZXhkTjNuUkg1R29wWV92NS1ZYjY1ZzNfUFdwNVNCczdtUURDM1NETzdnQ3dodXltUQ?oc=5"
-    },
-    {
-      "time": "11/26 17:34",
-      "category": "テック",
-      "title": "初調査の「性的いじめ」8000件超 AI悪用のディープフェイク背景、全国の学校で（産経新聞）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyZ041MDl6T2RRWVhYZ09VOTlib3FxWDUwTHhSaWwweEJXenRMemRLNHl4MDlMZkdhN2lMZGxsdER5RkJHeUU5OXlCUHM3TG1xbW9EOHpSV3Y2Y3NOZzFsVHRQc2NLX0JROFV1SDFVcDN0NW10SmFGNXY2YkJFeDA?oc=5"
-    },
-    {
-      "time": "11/26 17:00",
-      "category": "テック",
-      "title": "「AIに仕事を丸投げ」「日中はエステやプールに…」2.5時間労働で年収2000万円、タイで悠々自適な生活…25歳女性経営者の“生成AIとの付き合い方”（文春オンライン）",
-      "source": "Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56djFDMlpNR25lMFE5RHZsbnB4ck8ySjA5Q1FHeC13dXZnNExQQkpBZ0tCanJvQVdfWlNyb0JlZlhBbXB0MTdPQjdzdGFydUpDdjVXYmJYNjRmb0d0Mk5sRGMxS3NGUGRjNHNVczF0eXRuMVlnRXhxd19tQmVwdVU?oc=5"
     }
   ]
 }
